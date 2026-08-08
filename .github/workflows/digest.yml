@@ -1,0 +1,75 @@
+name: Build digest
+
+on:
+  schedule:
+    # GitHub cron is always UTC and has no timezone setting, so the job
+    # fires at BOTH 01:00 and 02:00 UTC on Mondays and Thursdays.
+    # One of those is 02:00 in London; the other is not. The script checks
+    # the real UK clock on startup and the wrong one exits immediately
+    # without doing any work. This keeps 02:00 UK time correct through
+    # both GMT and British Summer Time, with no manual edits ever.
+    - cron: "0 1 * * 1,4"
+    - cron: "0 2 * * 1,4"
+  workflow_dispatch:
+    inputs:
+      force:
+        description: "Build now, ignoring the 2am check"
+        type: boolean
+        default: true
+
+permissions:
+  contents: write
+
+concurrency:
+  group: digest
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+
+    steps:
+      - name: Get the code
+        uses: actions/checkout@v4
+
+      - name: Check the script is there
+        run: |
+          if [ -f "uk_media_digest.py" ]; then
+            echo "Found uk_media_digest.py. Good to go."
+          else
+            echo "uk_media_digest.py NOT FOUND."
+            echo ""
+            echo "Files in this repository:"
+            ls -la
+            echo ""
+            echo "Fix: upload uk_media_digest.py to the top level of the repo."
+            exit 1
+          fi
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install libraries
+        run: pip install -r requirements.txt
+
+      - name: Build the digest
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          FORCE_RUN: ${{ inputs.force && 'true' || '' }}
+        run: python uk_media_digest.py
+
+      - name: Publish the new edition
+        run: |
+          if [ -z "$(git status --porcelain)" ]; then
+            echo "Nothing changed, so nothing to publish."
+            exit 0
+          fi
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -m "Digest for $(date -u +%Y-%m-%d)"
+          git push
