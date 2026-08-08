@@ -1,0 +1,287 @@
+{
+  "schema": 1,
+  "iso": "2026-08-08",
+  "headline": "Paramount and Warner Bros Discovery merger dominates UK and North American media",
+  "date_line": "Saturday 08 August 2026 · covering Thu 06 Aug to Fri 07 Aug",
+  "footer_note": "Built from 18 cited articles across 13 outlets. Written by gemini-3.1-flash-lite, gemini-3.5-flash.",
+  "model": "gemini-3.1-flash-lite, gemini-3.5-flash",
+  "backfilled": false,
+  "generated_at": "2026-08-08T16:23:53+01:00",
+  "digest": {
+    "headline": "Paramount and Warner Bros Discovery merger dominates UK and North American media",
+    "lead": "The UK government has cleared the Paramount and Warner Bros Discovery merger following guarantees for Channel 5. Meanwhile, a US federal court has scheduled a 2027 trial for lawsuits seeking to block the same proposed deal as the FCC repeals national television station ownership caps.",
+    "glance": [
+      {
+        "text": "Eighteen media organisations have urged the government to reject plans for BBC podcast advertising, warning of risks to the sector.",
+        "section": "regulation",
+        "refs": [
+          1,
+          2
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "ITV reported solid first-half results, maintaining its full-year guidance despite a twenty million pound hit from new food advertising regulations.",
+        "section": "results",
+        "refs": [
+          3
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "The BBC has hired twenty-six-year-old entrepreneur Brandon Relph to help the broadcaster reach younger audiences.",
+        "section": "people",
+        "refs": [
+          4
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "The BBC has secured the UK broadcast rights to stream the ATHLOS London all-women's professional track and field event live in September.",
+        "section": "audience",
+        "refs": [
+          5
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "Nielsen has agreed to acquire digital measurement firm DoubleVerify and take it private in a deal valued at 2.15 billion dollars.",
+        "section": "deals",
+        "refs": [
+          6,
+          7
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "A federal court has scheduled a 2027 trial for lawsuits seeking to block the proposed merger between Paramount Skydance and Warner Bros. Discovery.",
+        "section": "regulation",
+        "refs": [
+          8
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "OpenAI is reportedly developing an artificial intelligence smart speaker priced between 300 and 400 dollars that features moving parts.",
+        "section": "tech",
+        "refs": [
+          9,
+          10
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "Bell Media posted a revenue boost in the second quarter, driven by its streaming service Crave and the FIFA World Cup.",
+        "section": "results",
+        "refs": [
+          11,
+          12
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "A federal judge ruled that Nexstar officials cannot serve on the board of Tegna while an order to separate them remains.",
+        "section": "regulation",
+        "refs": [
+          13
+        ],
+        "region": "americas"
+      }
+    ],
+    "sections": [
+      {
+        "id": "deals",
+        "paragraphs": [
+          "The UK Competition and Markets Authority has cleared Paramount Skydance's proposed acquisition of Warner Bros Discovery [15]. Culture secretary Lisa Nandy confirmed she will not intervene in the eighty-five billion pound deal [16].",
+          "The decision follows guarantees secured by the government regarding the future of Channel 5 [16]."
+        ],
+        "region": "uk"
+      },
+      {
+        "id": "regulation",
+        "paragraphs": [
+          "A coalition of eighteen media businesses has written to the Culture Secretary to oppose plans for BBC podcast advertising [11, 35]. The group, which includes broadcasters, audio producers, and news publishers, warned the proposals pose serious risks to the wider audio industry [2]."
+        ],
+        "region": "uk"
+      },
+      {
+        "id": "results",
+        "paragraphs": [
+          "ITV has reported solid first-half financial results in its first update since announcing its deal with Sky [3]. The broadcaster maintained its full-year guidance, aided by an advertising boost from the FIFA Men's World Cup [3].",
+          "However, new regulations on less healthy foods reduced its revenue by twenty million pounds [3]."
+        ],
+        "region": "uk"
+      },
+      {
+        "id": "audience",
+        "paragraphs": [
+          "The BBC has partnered with ATHLOS to become the official UK broadcast partner for the league's first international event in London [5]. The public broadcaster will stream the all-women's professional track and field event live from StoneX Stadium [5].",
+          "To combat declining youth engagement, the BBC has hired twenty-six-year-old entrepreneur Brandon Relph for its strategy team [4]. Relph will help the broadcaster compete with content creators on platforms like YouTube and TikTok [4]."
+        ],
+        "region": "uk"
+      },
+      {
+        "id": "regulation",
+        "paragraphs": [
+          "The Federal Communications Commission voted two to one to repeal the rule limiting broadcasters from owning stations reaching over 39 percent of US households [17]. The agency will now assess future deals individually using a public interest standard rather than a fixed percentage cap [18]. Critics worry this shift could negatively impact smaller, local television markets [18].",
+          "Meanwhile, a federal judge has ruled that Nexstar executives are barred from joining the board of Tegna [13]. The ruling maintains an existing order to keep the two broadcasting companies separate [13]. Separately, the UK government has approved Paramount's proposed takeover of Warner Bros. Discovery [31, 52]. However, David Ellison believes disputes over CNN are delaying the merger, with US court dates now set for 2027 [8]."
+        ],
+        "region": "americas"
+      }
+    ],
+    "people_moves": [
+      {
+        "text": "Lou Black, promoted to global senior VP, brand and commercial partnerships at Studio 55",
+        "refs": [
+          14
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "Brandon Relph, joined the strategy team at the BBC",
+        "refs": [
+          4
+        ],
+        "region": "uk"
+      }
+    ],
+    "coming_up": [
+      {
+        "date": "18 Sep 2026",
+        "text": "The BBC streams the ATHLOS London track and field event live from StoneX Stadium.",
+        "refs": [
+          5
+        ],
+        "region": "uk"
+      }
+    ]
+  },
+  "articles": [
+    {
+      "ref": 1,
+      "title": "Media groups oppose BBC podcast ad proposals",
+      "link": "https://radiotoday.co.uk/2026/08/media-groups-oppose-bbc-podcast-ad-proposals/",
+      "outlet": "RadioToday",
+      "region": "uk"
+    },
+    {
+      "ref": 2,
+      "title": "Government urged to block BBC podcast advertising plans",
+      "link": "https://uk.themedialeader.com/media-industry-urges-government-to-block-bbc-podcast-advertising-plans/?utm_source=rss&utm_medium=rss&utm_campaign=media-industry-urges-government-to-block-bbc-podcast-advertising-plans",
+      "outlet": "The Media Leader",
+      "region": "uk"
+    },
+    {
+      "ref": 3,
+      "title": "ITV reports ‘solid’ H1 in first results since Sky deal announcement",
+      "link": "https://uk.themedialeader.com/itv-reports-solid-h1-in-first-results-since-sky-deal/?utm_source=rss&utm_medium=rss&utm_campaign=itv-reports-solid-h1-in-first-results-since-sky-deal",
+      "outlet": "The Media Leader",
+      "region": "uk"
+    },
+    {
+      "ref": 4,
+      "title": "BBC hires 26-year-old entrepreneur to help reach younger audiences",
+      "link": "https://www.theguardian.com/media/2026/aug/06/bbc-hires-26-year-old-gen-z-entrepreneur-brandon-relph-younger-audiences",
+      "outlet": "Guardian Media",
+      "region": "uk"
+    },
+    {
+      "ref": 5,
+      "title": "BBC named ATHLOS broadcast partner",
+      "link": "https://www.advanced-television.com/2026/08/07/bbc-named-athlos-broadcast-partner/",
+      "outlet": "Advanced Television",
+      "region": "uk"
+    },
+    {
+      "ref": 6,
+      "title": "Nielsen to take DoubleVerify private for $2.15 billion as public ad tech stocks stumble on mixed Q2 earnings",
+      "link": "https://digiday.com/marketing/nielsen-to-take-doubleverify-private-for-2-15-billion-as-public-ad-tech-stocks-stumble-on-mixed-q2-earnings/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+      "outlet": "Digiday",
+      "region": "americas"
+    },
+    {
+      "ref": 7,
+      "title": "Nielsen Announces Acquisition Of DoubleVerify For $2.15B To Enhance Digitial Measurement Resources",
+      "link": "https://tvnewscheck.com/business/article/nielsen-announces-acquisition-of-doubleverify-for-2-15b-to-enhance-digitial-measurement-resources/",
+      "outlet": "TVNewsCheck",
+      "region": "americas"
+    },
+    {
+      "ref": 8,
+      "title": "Ticker: David Ellison Believes CNN Plays a Role in Paramount-WBD Merger Delay",
+      "link": "https://www.adweek.com/tvnewser/ticker-david-ellison-believes-cnn-plays-a-role-in-paramount-wbd-merger-delay/",
+      "outlet": "Adweek",
+      "region": "americas"
+    },
+    {
+      "ref": 9,
+      "title": "OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400",
+      "link": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/",
+      "outlet": "TechCrunch",
+      "region": "americas"
+    },
+    {
+      "ref": 10,
+      "title": "OpenAI’s expensive smart speaker will use moving parts to seem “more alive”",
+      "link": "https://arstechnica.com/gadgets/2026/08/openais-expensive-smart-speaker-will-use-moving-parts-to-seem-more-alive/",
+      "outlet": "Ars Technica",
+      "region": "americas"
+    },
+    {
+      "ref": 11,
+      "title": "Crave, FIFA World Cup drive Bell Media revenue boost in Q2",
+      "link": "https://playbackonline.ca/2026/08/06/crave-fifa-world-cup-drive-bell-media-revenue-boost-in-q2/",
+      "outlet": "Playback",
+      "region": "americas"
+    },
+    {
+      "ref": 12,
+      "title": "Crave, FIFA World Cup drive Bell Media revenue",
+      "link": "https://mediaincanada.com/2026/08/06/crave-fifa-world-cup-drive-bell-media-revenue/",
+      "outlet": "Media in Canada",
+      "region": "americas"
+    },
+    {
+      "ref": 13,
+      "title": "Judge Ruling: Nexstar Officials Can’t Serve On Tegna’s Board",
+      "link": "https://tvnewscheck.com/business/article/judge-ruling-nexstar-officials-cant-serve-on-tegnas-board/",
+      "outlet": "TVNewsCheck",
+      "region": "americas"
+    },
+    {
+      "ref": 14,
+      "title": "Lou Black promoted as ITV Studios-owned Studio 55 makes senior hires",
+      "link": "https://www.c21media.net/news/lou-black-promoted-as-itv-studios-owned-studio-55-makes-senior-hires/",
+      "outlet": "C21Media",
+      "region": "uk"
+    },
+    {
+      "ref": 15,
+      "title": "CMA clears Paramount-WBD deal",
+      "link": "https://www.broadbandtvnews.com/2026/08/06/cma-clears-paramount-wbd-deal/",
+      "outlet": "Broadband TV News",
+      "region": "uk"
+    },
+    {
+      "ref": 16,
+      "title": "Paramount concessions lead UK to approve takeover of Warner Bros",
+      "link": "https://www.theguardian.com/business/2026/aug/06/paramount-warner-bros-uk-approve-takeover-lisa-nandy",
+      "outlet": "Guardian Media",
+      "region": "uk"
+    },
+    {
+      "ref": 17,
+      "title": "FCC Removes Limit On Broadcast Media Ownership",
+      "link": "https://tvnewscheck.com/regulation/article/fcc-removes-limit-on-broadcast-media-ownership/",
+      "outlet": "TVNewsCheck",
+      "region": "americas"
+    },
+    {
+      "ref": 18,
+      "title": "Local Liability: Will FCC Decision Cost Local, Smaller TV Markets?",
+      "link": "https://tvnewscheck.com/uncategorized/article/local-liability-will-fcc-decision-cost-local-smaller-tv-markets/",
+      "outlet": "TVNewsCheck",
+      "region": "americas"
+    }
+  ]
+}
