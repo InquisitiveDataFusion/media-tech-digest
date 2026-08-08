@@ -102,10 +102,10 @@ FEEDS = [
     ("Podnews", "https://podnews.net/rss", "global"),                            # OK
 
     # Replacements for feeds that returned 403 or were empty.
-    ("Press Gazette", "https://pressgazette.co.uk/rss", "uk"),                   # NEW
-    ("Digital TV Europe", "https://www.digitaltveurope.com/rss", "uk"),          # NEW
-    ("Broadcast Now", "https://www.broadcastnow.co.uk/XmlServers/navsectionRSS.aspx?navsectioncode=1000", "uk"),  # NEW
-    ("Deadline UK", "https://deadline.com/vcategory/international/feed/", "uk"), # NEW
+    #("Press Gazette", "https://pressgazette.co.uk/rss", "uk"),                   # NEW
+    #("Digital TV Europe", "https://www.digitaltveurope.com/rss", "uk"),          # NEW
+    #("Broadcast Now", "https://www.broadcastnow.co.uk/XmlServers/navsectionRSS.aspx?navsectioncode=1000", "uk"),  # NEW
+    #("Deadline UK", "https://deadline.com/vcategory/international/feed/", "uk"), # NEW
 
     # ---------- UK and global technology ----------
     ("The Verge", "https://www.theverge.com/rss/index.xml", "global"),           # NEW
