@@ -1,0 +1,92 @@
+{
+  "schema": 1,
+  "iso": "2026-08-03",
+  "headline": "Telus cuts dividend and halts acquisitions under new management",
+  "date_line": "Monday 03 August 2026 · covering Thu 30 Jul to Sun 02 Aug",
+  "footer_note": "Backfilled from feed archives, so it may be less complete than a live run. Built from 3 cited articles (Americas 3). Written by gemini-3.5-flash.",
+  "model": "gemini-3.5-flash",
+  "backfilled": true,
+  "generated_at": "2026-08-08T16:25:56+01:00",
+  "digest": {
+    "headline": "Telus cuts dividend and halts acquisitions under new management",
+    "lead": "Canadian telecommunications operator Telus is cutting its dividend and pausing acquisitions to manage its debt. The company is resetting its strategy under new management.",
+    "glance": [
+      {
+        "text": "Canadian telecom firm Telus is pausing acquisitions and cutting its dividend to reduce its debt levels.",
+        "section": "results",
+        "refs": [
+          1
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "Industry expert Tom Webster has identified the best real estate to own for growing a podcast.",
+        "section": "radio",
+        "refs": [
+          2
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "Audio streaming giant Spotify owns four of the top twenty highest-paid podcasters.",
+        "section": "radio",
+        "refs": [
+          3
+        ],
+        "region": "americas"
+      }
+    ],
+    "sections": [
+      {
+        "id": "results",
+        "paragraphs": [
+          "Canadian telecom company Telus is resetting its dividend and pausing acquisitions. The firm is taking these steps under new management to get its debt level in check.",
+          "The corporation will issue a new quarterly dividend starting in October. This refocus represents a major shift in the company's financial strategy."
+        ],
+        "region": "americas"
+      },
+      {
+        "id": "radio",
+        "paragraphs": [
+          "Spotify now owns four of the top twenty highest-paid podcasters in the industry. This concentration highlights the platform's dominant position in the audio market.",
+          "Meanwhile, researcher Tom Webster has detailed the most valuable real estate for creators looking to grow their podcasts. Securing this space remains critical for audience expansion."
+        ],
+        "region": "americas"
+      }
+    ],
+    "people_moves": [],
+    "coming_up": [
+      {
+        "date": "01 Oct 2026",
+        "text": "Telus will start issuing its reset quarterly dividend",
+        "refs": [
+          1
+        ],
+        "region": "americas"
+      }
+    ]
+  },
+  "articles": [
+    {
+      "ref": 1,
+      "title": "Telus cuts dividend, pauses acquisitions in refocus",
+      "link": "https://cartt.ca/telus-cuts-dividend-pauses-acquisitions-in-refocus/",
+      "outlet": "Cartt.ca",
+      "region": "americas"
+    },
+    {
+      "ref": 2,
+      "title": "Want to grow your podcast? Get one of these",
+      "link": "https://podnews.net/update/podcast-newsletters",
+      "outlet": "Podnews",
+      "region": "americas"
+    },
+    {
+      "ref": 3,
+      "title": "The highest-paid podcasters",
+      "link": "https://podnews.net/update/highest-paid-podcasters",
+      "outlet": "Podnews",
+      "region": "americas"
+    }
+  ]
+}

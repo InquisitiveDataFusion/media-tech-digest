@@ -1,0 +1,128 @@
+{
+  "schema": 1,
+  "iso": "2026-08-06",
+  "headline": "Commercial radio reaches record audience as Spotify tests US ad skipping",
+  "date_line": "Thursday 06 August 2026 · covering Mon 03 Aug to Wed 05 Aug",
+  "footer_note": "Backfilled from feed archives, so it may be less complete than a live run. Built from 6 cited articles (UK 2, Americas 4). Written by gemini-3.1-flash-lite, gemini-3.5-flash.",
+  "model": "gemini-3.1-flash-lite, gemini-3.5-flash",
+  "backfilled": true,
+  "generated_at": "2026-08-08T16:26:52+01:00",
+  "digest": {
+    "headline": "Commercial radio reaches record audience as Spotify tests US ad skipping",
+    "lead": "Commercial radio has opened a record audience lead over the BBC in the United Kingdom. Meanwhile, Spotify is testing a controversial ad skipping tool in the United States as Sony prepares to monetise PlayStation games.",
+    "glance": [
+      {
+        "text": "Commercial radio weekly audiences have surpassed 40 million listeners, opening a record lead over the BBC.",
+        "section": "radio",
+        "refs": [
+          1
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "Apple has launched a new legal challenge against a UK Home Office order demanding access to private user data.",
+        "section": "regulation",
+        "refs": [
+          2
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "Spotify is testing an ad-skipping tool in the United States that bypasses ads even for premium members.",
+        "section": "tech",
+        "refs": [
+          3
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "Sony Interactive Entertainment is building a global sales team to monetise its PlayStation platform through advertising.",
+        "section": "tech",
+        "refs": [
+          4
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "The CRTC has launched a call for comments on whether Selkirk, Manitoba, can support an additional commercial FM radio station.",
+        "section": "radio",
+        "refs": [
+          5
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "Rogers has expanded its 5G wireless network to Matane-sur-Mer, a business hub in Quebec.",
+        "section": "tech",
+        "refs": [
+          6
+        ],
+        "region": "americas"
+      }
+    ],
+    "sections": [
+      {
+        "id": "tech",
+        "paragraphs": [
+          "Spotify is testing a new tool in the United States that allows users to skip podcast advertisements. This tool even skips ads for premium members.",
+          "Sony Interactive Entertainment is expanding its advertising ambitions. The company is assembling a global sales team to monetise PlayStation through ads.",
+          "Rogers has expanded its 5G wireless network to Matane-sur-Mer in Quebec. The cable giant built a new tower to serve this business hub."
+        ],
+        "region": "americas"
+      },
+      {
+        "id": "radio",
+        "paragraphs": [
+          "The CRTC is assessing radio capacity in Manitoba. The regulator wants to know if Selkirk and surrounding areas can support another commercial FM station. It issued a call for comments on Monday after receiving an application."
+        ],
+        "region": "americas"
+      }
+    ],
+    "people_moves": [],
+    "coming_up": []
+  },
+  "articles": [
+    {
+      "ref": 1,
+      "title": "Commercial radio passes 40m as BBC falls to 30.9m",
+      "link": "https://radiotoday.co.uk/2026/08/commercial-radio-passes-40m-as-bbc-falls-to-30-9m/",
+      "outlet": "RadioToday",
+      "region": "uk"
+    },
+    {
+      "ref": 2,
+      "title": "Apple issues new challenge against UK order for access to private user data",
+      "link": "https://www.bbc.co.uk/news/articles/cvg0kk3ek2vo?at_medium=RSS&at_campaign=rss",
+      "outlet": "BBC Technology",
+      "region": "uk"
+    },
+    {
+      "ref": 3,
+      "title": "EXCLUSIVE: Spotify threatens podcasting with ad-skipping tool",
+      "link": "https://podnews.net/update/spotify-skip-ahead",
+      "outlet": "Podnews",
+      "region": "americas"
+    },
+    {
+      "ref": 4,
+      "title": "Sony is scaling up its Playstation advertising ambitions",
+      "link": "https://digiday.com/media-buying/sony-is-scaling-up-its-playstation-advertising-ambitions/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+      "outlet": "Digiday",
+      "region": "americas"
+    },
+    {
+      "ref": 5,
+      "title": "CRTC asks about capacity for FM station in Selkirk, Manitoba",
+      "link": "https://cartt.ca/crtc-asks-about-capacity-for-fm-station-in-selkirk-manitoba/",
+      "outlet": "Cartt.ca",
+      "region": "americas"
+    },
+    {
+      "ref": 6,
+      "title": "Rogers brings wireless to part of Matane, Quebec",
+      "link": "https://cartt.ca/rogers-brings-wireless-to-part-of-matane-quebec/",
+      "outlet": "Cartt.ca",
+      "region": "americas"
+    }
+  ]
+}

@@ -1,0 +1,560 @@
+<!DOCTYPE html>
+<html lang="en-GB" data-mode="standard" data-theme="light">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Telus cuts dividend and halts acquisitions under new management &mdash; Media &amp; Tech Digest</title>
+<meta name="description" content="An independent, AI-summarised digest of UK media and broadcast industry news.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@600;700;800&family=Big+Shoulders:wght@600;700;800&family=Public+Sans:wght@400;500;600;700&family=IBM+Plex+Mono:wght@500;600&family=Atkinson+Hyperlegible:wght@400;700&display=swap" rel="stylesheet">
+<style>
+
+
+  /* ============================================================
+     TOKENS
+     Cool grey-green paper rather than warm cream. One warm accent
+     (the tally light), one deep teal for structure and tags.
+     ============================================================ */
+  :root {
+    --paper:      #ECEFE8;
+    --card:       #F7F8F3;
+    --ink:        #12181D;
+    --ink-soft:   #4B5560;
+    --rule:       #D7DCD2;
+    --signal:     #C4581F;
+    --signal-bg:  #F6E3D3;
+    --wire:       #1F6B63;
+    --wire-bg:    #DCEAE7;
+    --slate:      #5B6472;
+    --slate-bg:   #E4E6E1;
+    --overlay:    rgba(18, 24, 29, 0.45);
+
+    --font-display: 'Big Shoulders', 'Arial Narrow', sans-serif;
+    --font-body:    'Public Sans', -apple-system, sans-serif;
+    --font-mono:    'IBM Plex Mono', monospace;
+
+    --size-body: 16.5px;
+    --leading-body: 1.6;
+    --tracking-body: 0em;
+    --spacing-word: normal;
+  }
+
+  html[data-theme="dark"] {
+    --paper:     #10151A;
+    --card:      #171D23;
+    --ink:       #E9EDE7;
+    --ink-soft:  #A7B0A9;
+    --rule:      #2A3239;
+    --signal:    #E8925A;
+    --signal-bg: #3A2418;
+    --wire:      #5FB3A8;
+    --wire-bg:   #16302C;
+    --slate:     #9BA5AD;
+    --slate-bg:  #232A30;
+    --overlay:   rgba(0, 0, 0, 0.6);
+  }
+
+  /* Easy read: swaps the body face for Atkinson Hyperlegible, which was
+     designed for low-vision and dyslexic readers, and opens up line
+     height, letter spacing and word spacing. Layout and colour are
+     untouched, only the type changes. */
+  html[data-mode="easy"] {
+    --font-body: 'Atkinson Hyperlegible', -apple-system, sans-serif;
+    --size-body: 18.5px;
+    --leading-body: 1.85;
+    --tracking-body: 0.013em;
+    --spacing-word: 0.09em;
+  }
+
+  * { box-sizing: border-box; }
+  html, body { margin: 0; padding: 0; }
+  body {
+    background: var(--paper);
+    color: var(--ink);
+    font-family: var(--font-body);
+    font-size: var(--size-body);
+    line-height: var(--leading-body);
+    letter-spacing: var(--tracking-body);
+    word-spacing: var(--spacing-word);
+    -webkit-font-smoothing: antialiased;
+  }
+  a { color: inherit; }
+  :focus-visible { outline: 2px solid var(--signal); outline-offset: 2px; border-radius: 4px; }
+
+  /* ---------------- masthead ---------------- */
+  .masthead {
+    position: sticky; top: 0; z-index: 40;
+    display: flex; align-items: center; gap: 14px;
+    padding: 12px 22px;
+    background: var(--card);
+    border-bottom: 1px solid var(--rule);
+  }
+  .tally {
+    width: 11px; height: 11px; border-radius: 50%;
+    background: var(--signal);
+    box-shadow: 0 0 0 3px var(--signal-bg);
+    flex-shrink: 0;
+  }
+  @media (prefers-reduced-motion: no-preference) {
+    .tally.live { animation: pulse 2.4s ease-in-out infinite; }
+  }
+  @keyframes pulse {
+    0%, 100% { box-shadow: 0 0 0 3px var(--signal-bg); }
+    50%      { box-shadow: 0 0 0 6px var(--signal-bg); }
+  }
+  .mast-title { display: flex; flex-direction: column; min-width: 0; }
+  .mast-name {
+    font-family: var(--font-display);
+    font-weight: 800; font-size: 24px; line-height: 1.05;
+    text-transform: uppercase; letter-spacing: 0.012em;
+  }
+  .mast-sub {
+    font-size: 12px; color: var(--ink-soft); margin-top: 3px; line-height: 1.45;
+  }
+  .mast-spacer { flex: 1; }
+  .sub-short { display: none; }
+  @media (max-width: 560px) {
+    .sub-long { display: none; }
+    .sub-short { display: inline; }
+  }
+
+  .controls { display: flex; align-items: center; gap: 9px; flex-shrink: 0; }
+  .pill { display: flex; border: 1px solid var(--rule); border-radius: 999px; overflow: hidden; }
+  .pill button {
+    font-family: var(--font-body); font-weight: 700; font-size: 14px;
+    border: 0; background: var(--paper); color: var(--ink-soft);
+    padding: 0 13px; height: 36px; cursor: pointer; line-height: 1;
+  }
+  .pill button.active { background: var(--wire); color: var(--card); }
+  .icon-btn {
+    border: 1px solid var(--rule); background: var(--paper); color: var(--ink-soft);
+    border-radius: 999px; width: 36px; height: 36px; cursor: pointer;
+    display: flex; align-items: center; justify-content: center; padding: 0;
+  }
+  .icon-btn svg { width: 17px; height: 17px; }
+  html[data-theme="light"] .icon-moon { display: none; }
+  html[data-theme="dark"]  .icon-sun  { display: none; }
+
+  .burger {
+    display: none;
+    border: 1px solid var(--rule); background: var(--paper); color: var(--ink);
+    border-radius: 10px; width: 38px; height: 38px; cursor: pointer;
+    align-items: center; justify-content: center; padding: 0; flex-shrink: 0;
+  }
+  .burger svg { width: 19px; height: 19px; }
+
+  /* ---------------- layout ---------------- */
+  .layout { display: flex; max-width: 1180px; margin: 0 auto; }
+  .sidebar {
+    width: 232px; flex-shrink: 0;
+    padding: 26px 18px 40px 22px;
+    border-right: 1px solid var(--rule);
+  }
+  .sidebar-eyebrow {
+    font-family: var(--font-mono); font-size: 11px; font-weight: 600;
+    letter-spacing: 0.1em; text-transform: uppercase; color: var(--ink-soft);
+    margin-bottom: 16px;
+  }
+  .drawer-close { display: none; }
+  .month-label {
+    font-family: var(--font-mono); font-size: 11px; color: var(--ink-soft);
+    letter-spacing: 0.06em; text-transform: uppercase;
+    margin: 22px 0 8px 0;
+  }
+  .month-label.first { margin-top: 0; }
+  .epg-item { display: block; text-decoration: none; padding: 9px 10px; border-radius: 8px; margin-bottom: 3px; }
+  .epg-item:hover { background: var(--paper); }
+  .epg-item.current { background: var(--signal-bg); }
+  .epg-date {
+    font-family: var(--font-mono); font-size: 12px; font-weight: 600;
+    color: var(--ink); display: flex; align-items: center; gap: 7px;
+  }
+  .epg-date::before {
+    content: ""; width: 6px; height: 6px; border-radius: 50%;
+    background: var(--rule); flex-shrink: 0;
+  }
+  .epg-item.current .epg-date::before { background: var(--signal); }
+  .epg-teaser { font-size: 12.5px; color: var(--ink-soft); margin-top: 3px; line-height: 1.4; padding-left: 13px; }
+
+  .scrim {
+    display: none; position: fixed; inset: 0; background: var(--overlay); z-index: 45;
+  }
+  .scrim.open { display: block; }
+
+  main { flex: 1; min-width: 0; padding: 30px 40px 60px 40px; }
+
+  .edition-head { margin-bottom: 26px; }
+  .status-row {
+    display: flex; align-items: center; gap: 8px; margin-bottom: 10px;
+    font-family: var(--font-mono); font-size: 12px; letter-spacing: 0.04em;
+    text-transform: uppercase; color: var(--signal); font-weight: 600;
+  }
+  h1.headline {
+    font-family: var(--font-display); font-weight: 800;
+    font-size: 38px; line-height: 1.08; letter-spacing: 0.002em;
+    margin: 0 0 10px 0; text-transform: uppercase;
+  }
+  .date-line { color: var(--ink-soft); font-size: 14px; }
+  .lead { font-size: 1.18em; line-height: 1.6; font-weight: 600; margin: 20px 0 0 0; }
+
+  hr.rule { border: 0; border-top: 1px solid var(--rule); margin: 30px 0; }
+
+  section.block { margin-bottom: 34px; }
+  .block-title {
+    font-family: var(--font-display); font-weight: 700; font-size: 20px;
+    text-transform: uppercase; letter-spacing: 0.01em;
+    display: flex; align-items: center; gap: 10px; margin-bottom: 16px;
+  }
+  .block-title::before { content: ""; width: 16px; height: 3px; background: var(--wire); display: inline-block; }
+
+  /* A bulletin running order is genuinely sequential, so numbering
+     here carries real information rather than decorating the list. */
+  .rundown-item { display: flex; gap: 14px; margin-bottom: 16px; align-items: baseline; }
+  .rundown-num { font-family: var(--font-mono); font-size: 13px; color: var(--ink-soft); flex-shrink: 0; width: 22px; }
+
+  .tag {
+    display: inline-block; font-family: var(--font-mono); font-size: 10.5px;
+    font-weight: 600; letter-spacing: 0.05em; text-transform: uppercase;
+    padding: 3px 8px; border-radius: 5px; margin-right: 8px; vertical-align: 1px;
+  }
+  .tag.wire   { color: var(--wire);   background: var(--wire-bg); }
+  .tag.signal { color: var(--signal); background: var(--signal-bg); }
+  .tag.slate  { color: var(--slate);  background: var(--slate-bg); }
+
+  p { margin: 0 0 16px 0; }
+  p:last-child { margin-bottom: 0; }
+
+  .people-list { list-style: none; padding: 0; margin: 0; }
+  .people-list li { padding: 10px 0; border-top: 1px solid var(--rule); }
+  .people-list li.first { border-top: 0; }
+
+  .coming-up-list { list-style: none; padding: 0; margin: 0; }
+  .coming-up-list li { display: flex; gap: 12px; padding: 8px 0; align-items: baseline; }
+  .coming-up-date {
+    font-family: var(--font-mono); font-size: 12.5px; color: var(--wire);
+    font-weight: 600; flex-shrink: 0; width: 92px;
+  }
+
+  .sources { font-size: 13.5px; color: var(--ink-soft); }
+  .sources ol { padding-left: 20px; margin: 0; }
+  .sources li { margin-bottom: 10px; word-break: break-word; }
+  .sources a { text-decoration: underline; text-underline-offset: 3px; }
+  .source-outlet { font-family: var(--font-mono); font-size: 11.5px; color: var(--ink-soft); }
+
+  .sample-note {
+    background: var(--slate-bg); color: var(--ink-soft);
+    font-family: var(--font-mono); font-size: 11.5px;
+    padding: 10px 14px; border-radius: 8px; margin-bottom: 26px; letter-spacing: 0.02em;
+  }
+
+  footer {
+    border-top: 1px solid var(--rule);
+    background: var(--card);
+    color: var(--ink-soft);
+    font-size: 12.5px;
+    line-height: 1.7;
+    margin-top: 28px;
+  }
+  .footer-inner {
+    max-width: 1180px; margin: 0 auto;
+    padding: 26px 40px 44px 40px;
+    display: flex; gap: 48px; align-items: flex-start;
+  }
+  .footer-col { flex: 1 1 0; min-width: 0; }
+  .footer-col strong { color: var(--ink); font-weight: 600; }
+
+  /* ---------------- narrow screens ---------------- */
+  @media (max-width: 860px) {
+    .burger { display: flex; }
+    .mast-name { font-size: 15.5px; line-height: 1.03; }
+    .mast-sub { font-size: 11px; margin-top: 2px; }
+    .masthead { padding: 9px 14px; gap: 10px; }
+    .controls { gap: 7px; }
+    .pill button { padding: 0 11px; height: 34px; font-size: 13.5px; }
+    .icon-btn { width: 34px; height: 34px; }
+    .icon-btn svg { width: 16px; height: 16px; }
+    .burger { width: 36px; height: 36px; }
+
+    .sidebar {
+      position: fixed; top: 0; left: 0; bottom: 0; z-index: 50;
+      width: 280px; max-width: 84vw;
+      background: var(--card);
+      border-right: 1px solid var(--rule);
+      overflow-y: auto;
+      transform: translateX(-100%);
+      padding: 20px 18px 40px 20px;
+    }
+    .sidebar.open { transform: translateX(0); }
+    @media (prefers-reduced-motion: no-preference) {
+      .sidebar { transition: transform 0.24s ease; }
+    }
+    .drawer-close {
+      display: flex; align-items: center; justify-content: center;
+      position: absolute; top: 14px; right: 14px;
+      width: 34px; height: 34px; border-radius: 999px;
+      border: 1px solid var(--rule); background: var(--paper);
+      color: var(--ink-soft); cursor: pointer; padding: 0; font-size: 17px;
+    }
+    main { padding: 24px 20px 50px 20px; }
+    h1.headline { font-size: 27px; }
+    .footer-inner {
+      flex-direction: column; gap: 14px;
+      padding: 22px 20px 40px 20px;
+    }
+  }
+  /* Narrowest phones: shave the title and controls a little further so the
+     masthead stays compact rather than growing to three stacked lines. */
+  @media (max-width: 380px) {
+    .mast-name { font-size: 14px; }
+    .mast-sub { font-size: 10.5px; }
+    .masthead { padding: 8px 12px; gap: 8px; }
+    .pill button { padding: 0 9px; font-size: 13px; }
+  }
+
+
+  /* Citations rendered as a group after a statement */
+  .cites a {
+    color: var(--ink-soft); text-decoration: none; font-weight: 600;
+    font-size: 0.85em;
+  }
+  .cites a:hover { text-decoration: underline; }
+  /* Sidebar is populated from manifest.json at load time */
+  .sidebar-status { font-size: 12.5px; color: var(--ink-soft); padding: 4px 10px; }
+  .sources li a { color: var(--ink); }
+  .coming-up-list li span:last-child { flex: 1; }
+
+  /* Regional grouping, used when both UK and Americas have content */
+  .region-head {
+    font-family: var(--font-display); font-weight: 800;
+    font-size: 13px; letter-spacing: 0.16em; text-transform: uppercase;
+    color: var(--card); background: var(--wire);
+    padding: 9px 26px; margin: 34px 0 4px 0;
+  }
+  .region-head:first-of-type { margin-top: 20px; }
+  .tag.region {
+    color: var(--ink-soft); background: transparent;
+    border: 1px solid var(--rule); margin-right: 6px;
+  }
+  @media (max-width: 860px) {
+    .region-head { padding: 9px 20px; }
+  }
+
+</style>
+</head>
+<body data-root="../" data-current="2026-08-03">
+
+<div class="masthead">
+  <button class="burger" aria-label="Previous editions" aria-expanded="false" aria-controls="editions" onclick="toggleNav()">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round">
+      <path d="M3 6h18M3 12h18M3 18h18"/>
+    </svg>
+  </button>
+
+  <span class="tally " aria-hidden="true"></span>
+
+  <div class="mast-title">
+    <span class="mast-name">Media &amp; Tech Digest</span>
+    <span class="mast-sub"><span class="sub-long">UK and Americas · Summarised with AI</span><span class="sub-short">Summarised with AI</span></span>
+  </div>
+
+  <div class="mast-spacer"></div>
+
+  <div class="controls">
+    <div class="pill" role="group" aria-label="Reading mode">
+      <button id="modeStandard" class="active" onclick="setMode('standard')"
+              title="Standard reading" aria-label="Standard reading">A&#8722;</button>
+      <button id="modeEasy" onclick="setMode('easy')"
+              title="Easy read: larger text, more spacing, dyslexia-friendly typeface"
+              aria-label="Easy read: larger text, more spacing, dyslexia-friendly typeface">A&#43;</button>
+    </div>
+    <button class="icon-btn" onclick="toggleTheme()" aria-label="Switch between light and dark">
+      <svg class="icon-sun" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round">
+        <circle cx="12" cy="12" r="4"/>
+        <path d="M12 2.5v2M12 19.5v2M4.6 4.6l1.4 1.4M18 18l1.4 1.4M2.5 12h2M19.5 12h2M4.6 19.4L6 18M18 6l1.4-1.4"/>
+      </svg>
+      <svg class="icon-moon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M21 12.8A9 9 0 1 1 11.2 3a7 7 0 0 0 9.8 9.8z"/>
+      </svg>
+    </button>
+  </div>
+</div>
+
+<div class="scrim" id="scrim" onclick="closeNav()"></div>
+
+<div class="layout">
+
+  <aside class="sidebar" id="editions">
+    <button class="drawer-close" onclick="closeNav()" aria-label="Close previous editions">&#10005;</button>
+    <div class="sidebar-eyebrow">Previous editions</div>
+    <div id="editionList">
+      <div class="sidebar-status">Loading&hellip;</div>
+    </div>
+  </aside>
+
+  <main>
+    <div class="edition-head">
+      <div class="status-row"><span aria-hidden="true">&#9679;</span> Archived edition</div>
+      <h1 class="headline">Telus cuts dividend and halts acquisitions under new management</h1>
+      <div class="date-line">Monday 03 August 2026 · covering Thu 30 Jul to Sun 02 Aug</div>
+      <p class="lead">Canadian telecommunications operator Telus is cutting its dividend and pausing acquisitions to manage its debt. The company is resetting its strategy under new management.</p>
+    </div>
+
+    <hr class="rule">
+
+    <section class="block">
+      <div class="block-title">At a glance</div>
+      
+        <div class="rundown-item">
+          <span class="rundown-num">01</span>
+          <div><span class="tag region">Americas</span><span class="tag signal">Results</span>Canadian telecom firm Telus is pausing acquisitions and cutting its dividend to reduce its debt levels. <span class="cites"><a href="#ref1">[1]</a></span></div>
+        </div>
+        <div class="rundown-item">
+          <span class="rundown-num">02</span>
+          <div><span class="tag region">Americas</span><span class="tag slate">Radio</span>Industry expert Tom Webster has identified the best real estate to own for growing a podcast. <span class="cites"><a href="#ref2">[2]</a></span></div>
+        </div>
+        <div class="rundown-item">
+          <span class="rundown-num">03</span>
+          <div><span class="tag region">Americas</span><span class="tag slate">Radio</span>Audio streaming giant Spotify owns four of the top twenty highest-paid podcasters. <span class="cites"><a href="#ref3">[3]</a></span></div>
+        </div>
+    </section>
+
+    <section class="block">
+      <div class="block-title">Results &amp; money</div>
+      <p>Canadian telecom company Telus is resetting its dividend and pausing acquisitions. The firm is taking these steps under new management to get its debt level in check.</p><p>The corporation will issue a new quarterly dividend starting in October. This refocus represents a major shift in the company&#x27;s financial strategy.</p>
+    </section>
+    <section class="block">
+      <div class="block-title">Radio &amp; audio</div>
+      <p>Spotify now owns four of the top twenty highest-paid podcasters in the industry. This concentration highlights the platform&#x27;s dominant position in the audio market.</p><p>Meanwhile, researcher Tom Webster has detailed the most valuable real estate for creators looking to grow their podcasts. Securing this space remains critical for audience expansion.</p>
+    </section>
+    <section class="block">
+      <div class="block-title">Coming up</div>
+      <ul class="coming-up-list"><li><span class="coming-up-date">01 Oct 2026</span><span>Telus will start issuing its reset quarterly dividend <span class="cites"><a href="#ref1">[1]</a></span></span></li></ul>
+    </section>
+    <hr class="rule">
+
+    <section class="block sources">
+      <div class="block-title">Sources</div>
+      <ol><li id="ref1"><a href="https://cartt.ca/telus-cuts-dividend-pauses-acquisitions-in-refocus/" rel="noopener">Telus cuts dividend, pauses acquisitions in refocus</a><br><span class="source-outlet">Cartt.ca &middot; Americas</span></li><li id="ref2"><a href="https://podnews.net/update/podcast-newsletters" rel="noopener">Want to grow your podcast? Get one of these</a><br><span class="source-outlet">Podnews &middot; Americas</span></li><li id="ref3"><a href="https://podnews.net/update/highest-paid-podcasters" rel="noopener">The highest-paid podcasters</a><br><span class="source-outlet">Podnews &middot; Americas</span></li></ol>
+    </section>
+  </main>
+</div>
+
+<footer>
+  <div class="footer-inner">
+    <div class="footer-col">
+      <strong>An independent personal project.</strong> Not affiliated with, endorsed by,
+      or representing any employer. Built and maintained in a personal capacity.
+      <br><br>Backfilled from feed archives, so it may be less complete than a live run. Built from 3 cited articles (Americas 3). Written by gemini-3.5-flash.
+    </div>
+    <div class="footer-col">
+      <strong>Every summary here is generated by AI</strong> from the linked sources, and
+      may contain errors or omissions. Follow the links for the full stories, and check
+      other reputable outlets before relying on anything you read here.
+    </div>
+  </div>
+</footer>
+
+<script>
+  var root = document.body.getAttribute('data-root') || '';
+  var currentIso = document.body.getAttribute('data-current') || '';
+
+  /* ---- reading preferences, remembered between visits ---- */
+  function setMode(mode, remember) {
+    document.documentElement.setAttribute('data-mode', mode);
+    document.getElementById('modeStandard').classList.toggle('active', mode === 'standard');
+    document.getElementById('modeEasy').classList.toggle('active', mode === 'easy');
+    if (remember !== false) {
+      try { localStorage.setItem('digest-mode', mode); } catch (e) {}
+    }
+  }
+  function applyTheme(theme, remember) {
+    document.documentElement.setAttribute('data-theme', theme);
+    if (remember !== false) {
+      try { localStorage.setItem('digest-theme', theme); } catch (e) {}
+    }
+  }
+  function toggleTheme() {
+    var now = document.documentElement.getAttribute('data-theme');
+    applyTheme(now === 'dark' ? 'light' : 'dark');
+  }
+  (function restore() {
+    var mode = null, theme = null;
+    try {
+      mode = localStorage.getItem('digest-mode');
+      theme = localStorage.getItem('digest-theme');
+    } catch (e) {}
+    if (mode) setMode(mode, false);
+    if (theme) {
+      applyTheme(theme, false);
+    } else if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) {
+      applyTheme('dark', false);
+    }
+  })();
+
+  /* ---- mobile drawer ---- */
+  function openNav() {
+    document.getElementById('editions').classList.add('open');
+    document.getElementById('scrim').classList.add('open');
+    document.querySelector('.burger').setAttribute('aria-expanded', 'true');
+  }
+  function closeNav() {
+    document.getElementById('editions').classList.remove('open');
+    document.getElementById('scrim').classList.remove('open');
+    document.querySelector('.burger').setAttribute('aria-expanded', 'false');
+  }
+  function toggleNav() {
+    document.getElementById('editions').classList.contains('open') ? closeNav() : openNav();
+  }
+  document.addEventListener('keydown', function (e) {
+    if (e.key === 'Escape') closeNav();
+  });
+
+  /* ---- sidebar, built from manifest.json ---- */
+  function escapeHtml(s) {
+    return String(s == null ? '' : s)
+      .replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;')
+      .replace(/"/g, '&quot;');
+  }
+
+  fetch(root + 'manifest.json', { cache: 'no-cache' })
+    .then(function (r) {
+      if (!r.ok) throw new Error('manifest ' + r.status);
+      return r.json();
+    })
+    .then(function (editions) {
+      var target = document.getElementById('editionList');
+      if (!editions.length) {
+        target.innerHTML = '<div class="sidebar-status">No editions yet.</div>';
+        return;
+      }
+      var html = '';
+      var lastMonth = null;
+      var first = true;
+      editions.forEach(function (ed) {
+        if (ed.month !== lastMonth) {
+          html += '<div class="month-label' + (first ? ' first' : '') + '">'
+                + escapeHtml(ed.month) + '</div>';
+          lastMonth = ed.month;
+          first = false;
+        }
+        var isCurrent = ed.iso === currentIso;
+        html += '<a class="epg-item' + (isCurrent ? ' current' : '') + '" href="'
+              + escapeHtml(root + ed.path) + '">'
+              + '<div class="epg-date">' + escapeHtml(ed.label) + '</div>'
+              + '<div class="epg-teaser">' + escapeHtml(ed.teaser || ed.headline) + '</div>'
+              + '</a>';
+      });
+      target.innerHTML = html;
+      target.querySelectorAll('.epg-item').forEach(function (a) {
+        a.addEventListener('click', closeNav);
+      });
+    })
+    .catch(function (err) {
+      document.getElementById('editionList').innerHTML =
+        '<div class="sidebar-status">Couldn\'t load previous editions.</div>';
+      console.error(err);
+    });
+</script>
+
+</body>
+</html>
