@@ -1,0 +1,54 @@
+name: Backfill past editions
+
+# A one-off helper. Run it by hand from the Actions tab to create editions
+# for dates that have already gone by, so the archive is not empty when
+# people first visit.
+#
+# It can only use articles still present in the RSS feeds, so it works well
+# for the last few days and poorly for anything older.
+
+on:
+  workflow_dispatch:
+    inputs:
+      dates:
+        description: "Dates to build, space separated, e.g. 2026-08-03 2026-08-06"
+        required: true
+        default: "2026-08-03 2026-08-06"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: digest
+  cancel-in-progress: false
+
+jobs:
+  backfill:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - name: Build the backfilled editions
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: python backfill.py ${{ inputs.dates }}
+
+      - name: Publish them
+        run: |
+          if [ -z "$(git status --porcelain)" ]; then
+            echo "Nothing was created, so there is nothing to publish."
+            exit 0
+          fi
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -m "Backfill editions"
+          git push
