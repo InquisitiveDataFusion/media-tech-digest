@@ -1,0 +1,238 @@
+{
+  "schema": 1,
+  "iso": "2026-08-10",
+  "headline": "Nielsen to acquire DoubleVerify in two billion dollar deal",
+  "date_line": "Monday 10 August 2026 · covering Thu 06 Aug to Sun 09 Aug",
+  "footer_note": "Built from 16 cited articles across 11 outlets. Written by gemini-3.1-flash-lite, gemini-3.5-flash.",
+  "model": "gemini-3.1-flash-lite, gemini-3.5-flash",
+  "backfilled": false,
+  "generated_at": "2026-08-10T09:59:02+01:00",
+  "digest": {
+    "headline": "Nielsen to acquire DoubleVerify in two billion dollar deal",
+    "lead": "Nielsen has agreed to acquire DoubleVerify for over two billion dollars to bolster its digital measurement capabilities. Meanwhile, the United Kingdom government has cleared Paramount to acquire Warner Bros Discovery following guarantees regarding Channel 5.",
+    "glance": [
+      {
+        "text": "A coalition of eighteen media organisations has urged the government to block plans for BBC podcast advertising.",
+        "section": "regulation",
+        "refs": [
+          1,
+          2
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "ITV reported solid first-half results, maintaining its full-year guidance despite a twenty million pound hit from less healthy food regulations.",
+        "section": "results",
+        "refs": [
+          3
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "The BBC has hired twenty-six-year-old entrepreneur Brandon Relph to help the broadcaster reach younger audiences.",
+        "section": "people",
+        "refs": [
+          4
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "Nielsen has agreed to acquire media verification specialist DoubleVerify in an all-cash deal valued at over two billion dollars.",
+        "section": "deals",
+        "refs": [
+          5,
+          6
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "Nielsen will take DoubleVerify private in a deal valued at approximately 2.15 billion dollars.",
+        "section": "deals",
+        "refs": [
+          7,
+          8
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "Bell Media posted a revenue boost in the second quarter, driven by its streaming service Crave and the FIFA World Cup.",
+        "section": "results",
+        "refs": [
+          9,
+          10
+        ],
+        "region": "americas"
+      }
+    ],
+    "sections": [
+      {
+        "id": "deals",
+        "paragraphs": [
+          "The UK Competition and Markets Authority cleared Paramount Skydance's proposed acquisition of Warner Bros Discovery [13]. Culture Secretary Lisa Nandy confirmed she will not intervene in the eighty-five billion pound deal [14]. The decision follows guarantees secured to protect Channel 5 [14].",
+          "In global ad tech, measurement business Nielsen reached a definitive agreement to acquire DoubleVerify [1, 25]. The all-cash transaction has an enterprise value of approximately two point one five billion dollars [1, 25]."
+        ],
+        "region": "uk"
+      },
+      {
+        "id": "regulation",
+        "paragraphs": [
+          "A coalition of eighteen media organisations has written to the Culture Secretary to oppose BBC podcast advertising proposals [10, 30]. The group, which includes broadcasters and audio producers, warned of risks to the wider audio sector [10, 30]. They urged the government to reject the plans [10, 30]."
+        ],
+        "region": "uk"
+      },
+      {
+        "id": "results",
+        "paragraphs": [
+          "ITV reported solid first-half results, maintaining its full-year guidance [3]. Advertising received a boost from the FIFA Men's World Cup [3]. However, new regulations on less healthy foods reduced revenue by twenty million pounds [3]."
+        ],
+        "region": "uk"
+      },
+      {
+        "id": "audience",
+        "paragraphs": [
+          "The BBC has hired twenty-six-year-old entrepreneur Brandon Relph to join its strategy team [4]. Relph will help the broadcaster compete with content creators on YouTube and TikTok to reach younger audiences [4].",
+          "Additionally, the BBC announced a YouTube and iPlayer spin-off show for its upcoming series Clickbait Clinic [15]. Meanwhile, Sky and Now will bring Canadian sports romance series Heated Rivalry back to the UK next spring [16]."
+        ],
+        "region": "uk"
+      }
+    ],
+    "people_moves": [
+      {
+        "text": "Lou Black, promoted to global senior VP of brand and commercial partnerships, Studio 55",
+        "refs": [
+          11
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "Seiriol Dawes-Hughes, appointed as sports commissioner, S4C",
+        "refs": [
+          12
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "Brandon Relph, joined the strategy team, BBC",
+        "refs": [
+          4
+        ],
+        "region": "uk"
+      }
+    ],
+    "coming_up": []
+  },
+  "articles": [
+    {
+      "ref": 1,
+      "title": "Media groups oppose BBC podcast ad proposals",
+      "link": "https://radiotoday.co.uk/2026/08/media-groups-oppose-bbc-podcast-ad-proposals/",
+      "outlet": "RadioToday",
+      "region": "uk"
+    },
+    {
+      "ref": 2,
+      "title": "Government urged to block BBC podcast advertising plans",
+      "link": "https://uk.themedialeader.com/media-industry-urges-government-to-block-bbc-podcast-advertising-plans/?utm_source=rss&utm_medium=rss&utm_campaign=media-industry-urges-government-to-block-bbc-podcast-advertising-plans",
+      "outlet": "The Media Leader",
+      "region": "uk"
+    },
+    {
+      "ref": 3,
+      "title": "ITV reports ‘solid’ H1 in first results since Sky deal announcement",
+      "link": "https://uk.themedialeader.com/itv-reports-solid-h1-in-first-results-since-sky-deal/?utm_source=rss&utm_medium=rss&utm_campaign=itv-reports-solid-h1-in-first-results-since-sky-deal",
+      "outlet": "The Media Leader",
+      "region": "uk"
+    },
+    {
+      "ref": 4,
+      "title": "BBC hires 26-year-old entrepreneur to help reach younger audiences",
+      "link": "https://www.theguardian.com/media/2026/aug/06/bbc-hires-26-year-old-gen-z-entrepreneur-brandon-relph-younger-audiences",
+      "outlet": "Guardian Media",
+      "region": "uk"
+    },
+    {
+      "ref": 5,
+      "title": "Week in Review: Nielsen Buys DoubleVerify for $2.15 Billion, Disney Agrees IP Deal with TikTok, and CTV Stars in Mixed Ad Tech Earnings",
+      "link": "https://videoweek.com/2026/08/07/week-in-review-nielsen-buys-doubleverify-for-2-15-billion-disney-agrees-ip-deal-with-tiktok-and-ctv-stars-in-mixed-ad-tech-earnings/",
+      "outlet": "VideoWeek",
+      "region": "uk"
+    },
+    {
+      "ref": 6,
+      "title": "Nielsen acquires DoubleVerify for $2.15bn",
+      "link": "https://www.advanced-television.com/2026/08/07/nielsen-acquires-doubleverify-for-2-15bn/",
+      "outlet": "Advanced Television",
+      "region": "uk"
+    },
+    {
+      "ref": 7,
+      "title": "Nielsen to take DoubleVerify private for $2.15 billion as public ad tech stocks stumble on mixed Q2 earnings",
+      "link": "https://digiday.com/marketing/nielsen-to-take-doubleverify-private-for-2-15-billion-as-public-ad-tech-stocks-stumble-on-mixed-q2-earnings/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+      "outlet": "Digiday",
+      "region": "americas"
+    },
+    {
+      "ref": 8,
+      "title": "Nielsen Announces Acquisition Of DoubleVerify For $2.15B To Enhance Digitial Measurement Resources",
+      "link": "https://tvnewscheck.com/business/article/nielsen-announces-acquisition-of-doubleverify-for-2-15b-to-enhance-digitial-measurement-resources/",
+      "outlet": "TVNewsCheck",
+      "region": "americas"
+    },
+    {
+      "ref": 9,
+      "title": "Crave, FIFA World Cup drive Bell Media revenue boost in Q2",
+      "link": "https://playbackonline.ca/2026/08/06/crave-fifa-world-cup-drive-bell-media-revenue-boost-in-q2/",
+      "outlet": "Playback",
+      "region": "americas"
+    },
+    {
+      "ref": 10,
+      "title": "Crave, FIFA World Cup drive Bell Media revenue",
+      "link": "https://mediaincanada.com/2026/08/06/crave-fifa-world-cup-drive-bell-media-revenue/",
+      "outlet": "Media in Canada",
+      "region": "americas"
+    },
+    {
+      "ref": 11,
+      "title": "Lou Black promoted as ITV Studios-owned Studio 55 makes senior hires",
+      "link": "https://www.c21media.net/news/lou-black-promoted-as-itv-studios-owned-studio-55-makes-senior-hires/",
+      "outlet": "C21Media",
+      "region": "uk"
+    },
+    {
+      "ref": 12,
+      "title": "S4C appoints Rondo exec as sports commissioner",
+      "link": "https://www.c21media.net/news/s4c-appoints-rondo-exec-as-sports-commissioner/",
+      "outlet": "C21Media",
+      "region": "uk"
+    },
+    {
+      "ref": 13,
+      "title": "CMA clears Paramount-WBD deal",
+      "link": "https://www.broadbandtvnews.com/2026/08/06/cma-clears-paramount-wbd-deal/",
+      "outlet": "Broadband TV News",
+      "region": "uk"
+    },
+    {
+      "ref": 14,
+      "title": "Paramount concessions lead UK to approve takeover of Warner Bros",
+      "link": "https://www.theguardian.com/business/2026/aug/06/paramount-warner-bros-uk-approve-takeover-lisa-nandy",
+      "outlet": "Guardian Media",
+      "region": "uk"
+    },
+    {
+      "ref": 15,
+      "title": "Forthcoming BBC series Clickbait Clinic gets YouTube spin-off",
+      "link": "https://www.c21media.net/news/forthcoming-bbc-series-clickbait-clinic-gets-youtube-spin-off/",
+      "outlet": "C21Media",
+      "region": "uk"
+    },
+    {
+      "ref": 16,
+      "title": "Heated Rivalry to return to Sky in the UK and Ireland next spring",
+      "link": "https://www.c21media.net/news/heated-rivalry-to-return-to-sky-in-the-uk-and-ireland-next-spring/",
+      "outlet": "C21Media",
+      "region": "uk"
+    }
+  ]
+}
