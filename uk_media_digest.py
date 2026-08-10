@@ -7,8 +7,9 @@ Builds a UK media and broadcast news digest as a static HTML page, ready to
 be served by GitHub Pages.
 
 What it does, in order:
-  1. Checks it is really 02:00 UK time (the workflow fires twice to cover
-     GMT and BST, so one of the two triggers exits here doing nothing).
+  1. Checks today is a scheduled day and that today's edition has not
+     already been built. The workflow fires twice to cover GMT and BST, so
+     whichever trigger arrives second exits here doing nothing.
   2. Works out the window to cover, back to the previous scheduled run.
   3. Fetches the RSS feeds and scores each article for UK media relevance.
   4. Sends the survivors to Gemini, which returns structured JSON.
@@ -18,7 +19,7 @@ What it does, in order:
 
 Environment variables:
   Required : GEMINI_API_KEY
-  Optional : FORCE_RUN ("true" skips the 02:00 clock check, for manual runs)
+  Optional : FORCE_RUN ("true" builds even if today is already published)
              OUTPUT_DIR (defaults to the repo root)
 """
 
@@ -102,10 +103,10 @@ FEEDS = [
     ("Podnews", "https://podnews.net/rss", "global"),                            # OK
 
     # Replacements for feeds that returned 403 or were empty.
-    #("Press Gazette", "https://pressgazette.co.uk/rss", "uk"),                   # NEW
-    #("Digital TV Europe", "https://www.digitaltveurope.com/rss", "uk"),          # NEW
-    #("Broadcast Now", "https://www.broadcastnow.co.uk/XmlServers/navsectionRSS.aspx?navsectioncode=1000", "uk"),  # NEW
-    #("Deadline UK", "https://deadline.com/vcategory/international/feed/", "uk"), # NEW
+    ("Press Gazette", "https://pressgazette.co.uk/rss", "uk"),                   # NEW
+    ("Digital TV Europe", "https://www.digitaltveurope.com/rss", "uk"),          # NEW
+    ("Broadcast Now", "https://www.broadcastnow.co.uk/XmlServers/navsectionRSS.aspx?navsectioncode=1000", "uk"),  # NEW
+    ("Deadline UK", "https://deadline.com/vcategory/international/feed/", "uk"), # NEW
 
     # ---------- UK and global technology ----------
     ("The Verge", "https://www.theverge.com/rss/index.xml", "global"),           # NEW
@@ -281,23 +282,52 @@ def previous_scheduled_run(now_uk):
     raise RuntimeError("Could not find a previous scheduled run.")
 
 
+def already_published(iso, output_dir=None):
+    """Has an edition for this date already been published?"""
+    output_dir = output_dir or OUTPUT_DIR
+    manifest = load_manifest(os.path.join(output_dir, "manifest.json"))
+    return any(entry.get("iso") == iso for entry in manifest)
+
+
 def check_clock():
     """
-    The workflow fires at both 01:00 and 02:00 UTC so that one of them is
-    02:00 in London whether or not BST is in effect. Whichever trigger is
-    wrong exits here immediately, having done nothing.
+    Decide whether this run should build an edition.
+
+    The workflow fires twice, an hour apart, so that one of them lands on
+    02:00 in London whether or not British Summer Time is in effect.
+
+    An earlier version of this checked that the hour was exactly 02:00 and
+    exited otherwise. That turned out to be too fragile: GitHub's scheduler
+    is explicitly best effort and can run a job hours late, and when it
+    delayed both triggers past 02:00 the result was two green ticks and no
+    digest at all.
+
+    So the test is now "has today's edition already been built?" rather than
+    "is it exactly 2am?". Whichever trigger arrives first does the work, the
+    second sees the edition already exists and stops, and a badly delayed
+    run still produces a digest instead of silently skipping the day.
     """
     now_uk = datetime.now(UK)
+
     if FORCE_RUN:
-        log(f"FORCE_RUN set, skipping the clock check. UK time is {now_uk:%H:%M %Z}.")
+        log(f"FORCE_RUN set, building regardless. UK time is {now_uk:%H:%M %Z}.")
         return now_uk
-    if now_uk.hour != SCHEDULED_HOUR:
-        log(f"UK time is {now_uk:%H:%M %Z}, not {SCHEDULED_HOUR:02d}:00. "
-            f"This is the duplicate trigger, exiting quietly.")
-        sys.exit(0)
+
     if now_uk.weekday() not in SCHEDULED_DAYS:
         log(f"Today is {now_uk:%A}, not a scheduled day. Exiting quietly.")
         sys.exit(0)
+
+    iso = f"{now_uk:%Y-%m-%d}"
+    if already_published(iso):
+        log(f"An edition for {iso} has already been published. This is the "
+            f"second trigger, exiting quietly. UK time is {now_uk:%H:%M %Z}.")
+        sys.exit(0)
+
+    if now_uk.hour != SCHEDULED_HOUR:
+        log(f"Note: UK time is {now_uk:%H:%M %Z}, not the intended "
+            f"{SCHEDULED_HOUR:02d}:00. GitHub ran this late, which is normal. "
+            f"Building anyway so the day is not missed.")
+
     return now_uk
 
 
