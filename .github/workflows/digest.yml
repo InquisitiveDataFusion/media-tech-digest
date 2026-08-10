@@ -3,13 +3,19 @@ name: Build digest
 on:
   schedule:
     # GitHub cron is always UTC and has no timezone setting, so the job
-    # fires at BOTH 01:00 and 02:00 UTC on Mondays and Thursdays.
-    # One of those is 02:00 in London; the other is not. The script checks
-    # the real UK clock on startup and the wrong one exits immediately
-    # without doing any work. This keeps 02:00 UK time correct through
-    # both GMT and British Summer Time, with no manual edits ever.
-    - cron: "0 1 * * 1,4"
-    - cron: "0 2 * * 1,4"
+    # fires TWICE, an hour apart, on Mondays and Thursdays. One of those is
+    # 02:00 in London; the other is not. This keeps 2am UK correct through
+    # both GMT and British Summer Time with no manual edits ever.
+    #
+    # The script decides which one does the work by checking whether an
+    # edition already exists for today, not by looking at the clock. That
+    # matters because GitHub's scheduler is best effort and can run jobs
+    # well over an hour late.
+    #
+    # The odd minute is deliberate. Scheduled jobs on the hour compete with
+    # everyone else's and get delayed most often.
+    - cron: "17 1 * * 1,4"
+    - cron: "17 2 * * 1,4"
   workflow_dispatch:
     inputs:
       force:
@@ -72,4 +78,7 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add -A
           git commit -m "Digest for $(date -u +%Y-%m-%d)"
+          # Both triggers can overlap if GitHub delays one of them. Rebasing
+          # first means the second push tops up rather than being rejected.
+          git pull --rebase origin "${GITHUB_REF_NAME}"
           git push
