@@ -16,6 +16,13 @@ PAGE_TEMPLATE = r"""<!DOCTYPE html>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>%%TITLE%% &mdash; %%SITE_TITLE%%</title>
 <meta name="description" content="An independent, AI-summarised digest of UK media and broadcast industry news.">
+<link rel="icon" href="%%ROOT%%icon.svg" type="image/svg+xml">
+<link rel="icon" href="%%ROOT%%favicon-32.png" sizes="32x32" type="image/png">
+<link rel="apple-touch-icon" href="%%ROOT%%apple-touch-icon.png">
+<link rel="manifest" href="%%ROOT%%site.webmanifest">
+<meta name="apple-mobile-web-app-title" content="%%SITE_SHORT_NAME%%">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="theme-color" content="#12181D">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@600;700;800&family=Big+Shoulders:wght@600;700;800&family=Public+Sans:wght@400;500;600;700&family=IBM+Plex+Mono:wght@500;600&family=Atkinson+Hyperlegible:wght@400;700&display=swap" rel="stylesheet">
 <style>
@@ -124,6 +131,10 @@ PAGE_TEMPLATE = r"""<!DOCTYPE html>
   }
   .mast-spacer { flex: 1; }
   .sub-short { display: none; }
+  /* The masthead doubles as a link back to the latest edition, which is
+     the usual convention, and costs no space in an already tight bar. */
+  a.mast-title { text-decoration: none; color: inherit; }
+  a.mast-title:hover .mast-name { color: var(--wire); }
   @media (max-width: 560px) {
     .sub-long { display: none; }
     .sub-short { display: inline; }
@@ -363,14 +374,15 @@ PAGE_TEMPLATE = r"""<!DOCTYPE html>
 
   <span class="tally %%TALLY_CLASS%%" aria-hidden="true"></span>
 
-  <div class="mast-title">
+  <a class="mast-title" href="%%HOME_HREF%%">
     <span class="mast-name">%%SITE_TITLE%%</span>
     <span class="mast-sub"><span class="sub-long">%%SITE_SUBTITLE%%</span><span class="sub-short">%%SITE_SUBTITLE_SHORT%%</span></span>
-  </div>
+  </a>
 
   <div class="mast-spacer"></div>
 
   <div class="controls">
+    %%HOME_BUTTON%%
     <div class="pill" role="group" aria-label="Reading mode">
       <button id="modeStandard" class="active" onclick="setMode('standard')"
               title="Standard reading" aria-label="Standard reading">A&#8722;</button>
@@ -456,6 +468,10 @@ PAGE_TEMPLATE = r"""<!DOCTYPE html>
   }
   function applyTheme(theme, remember) {
     document.documentElement.setAttribute('data-theme', theme);
+    // Keep the phone's browser chrome in step with the chosen theme,
+    // otherwise a dark page sits under a light status bar.
+    var meta = document.querySelector('meta[name="theme-color"]');
+    if (meta) meta.setAttribute('content', theme === 'dark' ? '#10151A' : '#F7F8F3');
     if (remember !== false) {
       try { localStorage.setItem('digest-theme', theme); } catch (e) {}
     }

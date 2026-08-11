@@ -59,6 +59,9 @@ SITE_TITLE = "Media & Tech Digest"
 SITE_SUBTITLE = "UK and Americas · Summarised with AI"
 # Used instead on narrow phone screens, where the full one would wrap.
 SITE_SUBTITLE_SHORT = "Summarised with AI"
+# Shown under the icon when someone adds the page to an iOS home screen.
+# Keep it very short, iOS truncates at roughly twelve characters.
+SITE_SHORT_NAME = "Digest"
 
 GEMINI_BASE = "https://generativelanguage.googleapis.com/v1beta/models"
 TEXT_MODELS = [
@@ -999,6 +1002,16 @@ def inline_refs(text):
     return re.sub(r"\[(\d+)\]", swap, esc(text))
 
 
+HOME_BUTTON_HTML = (
+    '<a class="icon-btn" href="{href}" title="Latest edition" '
+    'aria-label="Go to the latest edition">'
+    '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" '
+    'stroke-width="2" stroke-linecap="round" stroke-linejoin="round">'
+    '<path d="M3 10.5 12 3l9 7.5"/><path d="M5.5 9.5V20h13V9.5"/>'
+    '<path d="M9.75 20v-5.5h4.5V20"/></svg></a>'
+)
+
+
 def render_edition(digest, articles, meta):
     glance_rows = []
     for index, item in enumerate(digest.get("glance", []), start=1):
@@ -1091,9 +1104,19 @@ def render_edition(digest, articles, meta):
         for a in articles
     )
 
+    # "./" on the landing page, "../" inside editions/. Both resolve to the
+    # site root, which is what the masthead links to.
+    home_href = meta["root"] or "./"
+    # No point offering a home button on the page that is already home.
+    home_button = ("" if meta.get("is_current")
+                   else HOME_BUTTON_HTML.format(href=home_href))
+
     values = {
         "TITLE": esc(meta["headline"]),
         "SITE_TITLE": esc(SITE_TITLE),
+        "SITE_SHORT_NAME": esc(SITE_SHORT_NAME),
+        "HOME_HREF": home_href,
+        "HOME_BUTTON": home_button,
         "SITE_SUBTITLE": esc(SITE_SUBTITLE),
         "SITE_SUBTITLE_SHORT": esc(SITE_SUBTITLE_SHORT),
         "ROOT": meta["root"],
@@ -1177,9 +1200,10 @@ def save_payload(payload, output_dir=None):
     return path
 
 
-def render_payload(payload, root, status_label, tally_class):
+def render_payload(payload, root, status_label, tally_class, is_current=False):
     return render_edition(payload["digest"], payload["articles"], {
         "root": root,
+        "is_current": is_current,
         "iso": payload["iso"],
         "headline": payload["headline"],
         "date_line": payload["date_line"],
@@ -1197,12 +1221,14 @@ def write_edition_html(payload, output_dir=None, is_current=False):
 
     edition_path = os.path.join(editions_dir, f"{payload['iso']}.html")
     with open(edition_path, "w", encoding="utf-8") as handle:
-        handle.write(render_payload(payload, "../", "Archived edition", ""))
+        handle.write(render_payload(payload, "../", "Archived edition", "",
+                                    is_current=False))
 
     if is_current:
         index_path = os.path.join(output_dir, "index.html")
         with open(index_path, "w", encoding="utf-8") as handle:
-            handle.write(render_payload(payload, "", "Current edition", "live"))
+            handle.write(render_payload(payload, "", "Current edition", "live",
+                                        is_current=True))
 
     return edition_path
 
