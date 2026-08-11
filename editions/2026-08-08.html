@@ -5,6 +5,13 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Paramount and Warner Bros Discovery merger dominates UK and North American media &mdash; Media &amp; Tech Digest</title>
 <meta name="description" content="An independent, AI-summarised digest of UK media and broadcast industry news.">
+<link rel="icon" href="../icon.svg" type="image/svg+xml">
+<link rel="icon" href="../favicon-32.png" sizes="32x32" type="image/png">
+<link rel="apple-touch-icon" href="../apple-touch-icon.png">
+<link rel="manifest" href="../site.webmanifest">
+<meta name="apple-mobile-web-app-title" content="Digest">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="theme-color" content="#12181D">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@600;700;800&family=Big+Shoulders:wght@600;700;800&family=Public+Sans:wght@400;500;600;700&family=IBM+Plex+Mono:wght@500;600&family=Atkinson+Hyperlegible:wght@400;700&display=swap" rel="stylesheet">
 <style>
@@ -113,6 +120,10 @@
   }
   .mast-spacer { flex: 1; }
   .sub-short { display: none; }
+  /* The masthead doubles as a link back to the latest edition, which is
+     the usual convention, and costs no space in an already tight bar. */
+  a.mast-title { text-decoration: none; color: inherit; }
+  a.mast-title:hover .mast-name { color: var(--wire); }
   @media (max-width: 560px) {
     .sub-long { display: none; }
     .sub-short { display: inline; }
@@ -352,14 +363,15 @@
 
   <span class="tally " aria-hidden="true"></span>
 
-  <div class="mast-title">
+  <a class="mast-title" href="../">
     <span class="mast-name">Media &amp; Tech Digest</span>
     <span class="mast-sub"><span class="sub-long">UK and Americas · Summarised with AI</span><span class="sub-short">Summarised with AI</span></span>
-  </div>
+  </a>
 
   <div class="mast-spacer"></div>
 
   <div class="controls">
+    <a class="icon-btn" href="../" title="Latest edition" aria-label="Go to the latest edition"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 10.5 12 3l9 7.5"/><path d="M5.5 9.5V20h13V9.5"/><path d="M9.75 20v-5.5h4.5V20"/></svg></a>
     <div class="pill" role="group" aria-label="Reading mode">
       <button id="modeStandard" class="active" onclick="setMode('standard')"
               title="Standard reading" aria-label="Standard reading">A&#8722;</button>
@@ -511,6 +523,10 @@
   }
   function applyTheme(theme, remember) {
     document.documentElement.setAttribute('data-theme', theme);
+    // Keep the phone's browser chrome in step with the chosen theme,
+    // otherwise a dark page sits under a light status bar.
+    var meta = document.querySelector('meta[name="theme-color"]');
+    if (meta) meta.setAttribute('content', theme === 'dark' ? '#10151A' : '#F7F8F3');
     if (remember !== false) {
       try { localStorage.setItem('digest-theme', theme); } catch (e) {}
     }
