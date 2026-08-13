@@ -78,7 +78,10 @@ USER_AGENT = (
     "(KHTML, like Gecko) Chrome/124.0 Safari/537.36"
 )
 
-MAX_ARTICLES_PER_REGION = 26
+# Raised from 26 after a diagnostic run found 122 qualifying articles in a
+# single window, of which only 52 were being sent. Each region gets its own
+# Gemini call now, so a larger list per region is comfortably affordable.
+MAX_ARTICLES_PER_REGION = 45
 MIN_RELEVANCE_SCORE = 4
 
 # Above this many articles in one region, the digest is written in separate
@@ -99,17 +102,17 @@ FEEDS = [
     ("C21Media", "https://www.c21media.net/feed/", "uk"),                        # OK
     ("VideoWeek", "https://videoweek.com/feed/", "uk"),                          # OK
     ("Guardian Media", "https://www.theguardian.com/media/rss", "uk"),           # OK
-    ("BBC Entertainment",
-     "https://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml", "uk"),      # OK
+    # ("BBC Entertainment",
+    # "https://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml", "uk"),      # OK   <- off: best score 2, nothing ever passes; it is celebrity news
     ("The Media Leader", "https://the-media-leader.com/feed/", "uk"),            # OK
     ("RadioToday", "https://radiotoday.co.uk/feed/", "uk"),                      # OK
     ("Podnews", "https://podnews.net/rss", "global"),                            # OK
 
     # Replacements for feeds that returned 403 or were empty.
-    ("Press Gazette", "https://pressgazette.co.uk/rss", "uk"),                   # NEW
-    ("Digital TV Europe", "https://www.digitaltveurope.com/rss", "uk"),          # NEW
-    ("Broadcast Now", "https://www.broadcastnow.co.uk/XmlServers/navsectionRSS.aspx?navsectioncode=1000", "uk"),  # NEW
-    ("Deadline UK", "https://deadline.com/vcategory/international/feed/", "uk"), # NEW
+    # ("Press Gazette", "https://pressgazette.co.uk/rss", "uk"),                   # NEW   <- off: blocked, HTTP 403
+    # ("Digital TV Europe", "https://www.digitaltveurope.com/rss", "uk"),          # NEW   <- off: returned 0 items
+    # ("Broadcast Now", "https://www.broadcastnow.co.uk/XmlServers/navsectionRSS.aspx?navsectioncode=1000", "uk"),  # NEW   <- off: returned 0 items
+    # ("Deadline UK", "https://deadline.com/vcategory/international/feed/", "uk"), # NEW   <- off: returned 0 items
 
     # ---------- UK and global technology ----------
     ("The Verge", "https://www.theverge.com/rss/index.xml", "global"),           # NEW
@@ -216,6 +219,21 @@ UK_SIGNAL_TERMS = [
     "bbc", "itv", "channel 4", "sky", "bauer", "global radio", "rajar",
     "barb", "licence fee",
 ]
+
+# Trade publications where being published at all is the relevance signal.
+# RadioToday does not write about anything except the radio industry, so a
+# story like "IAS to represent 60 UK radio stations" is obviously on topic
+# even though it happens to contain almost no scoring keywords. Without this
+# a diagnostic run found 183 genuinely relevant articles sitting one point
+# under the threshold.
+SPECIALIST_FEEDS = {
+    "Broadband TV News", "Advanced Television", "C21Media", "VideoWeek",
+    "The Media Leader", "RadioToday", "Digital TV Europe", "Broadcast Now",
+    "Press Gazette", "TVNewsCheck", "Digiday", "Adweek", "Playback",
+    "Media in Canada", "Broadcast Dialogue", "Cartt.ca", "Nieman Lab",
+    "Podnews",
+}
+SPECIALIST_BONUS = 4
 
 # Regions that are genuinely out of scope for this team.
 OUT_OF_SCOPE_TERMS = [
@@ -386,7 +404,7 @@ def classify_region(text, feed_region):
     return "americas"
 
 
-def score_article(title, summary, feed_region="global"):
+def score_article(title, summary, feed_region="global", outlet=None):
     """
     Weighted relevance score plus a region. Title matches count double,
     because a term in the headline is a far stronger signal than one buried
@@ -407,6 +425,10 @@ def score_article(title, summary, feed_region="global"):
     score += count_terms(s, SECONDARY_TERMS) * 2
     score += count_terms(t, TERTIARY_TERMS) * 2
     score += count_terms(s, TERTIARY_TERMS) * 1
+
+    # A specialist trade feed is itself evidence of relevance.
+    if outlet in SPECIALIST_FEEDS:
+        score += SPECIALIST_BONUS
 
     score -= count_terms(both, EXCLUDE_TERMS) * 8
 
@@ -448,11 +470,52 @@ def fetch_feed(name, url):
 
 
 def collect_articles(window_start, now_uk):
+    """
+    Assemble the candidate articles for this window.
+
+    Two sources, merged. First the harvest store, which is topped up every
+    few hours and therefore remembers stories the feeds have already
+    forgotten. Then a live read of the feeds, to pick up anything published
+    since the last harvest. Without the store, a Monday digest loses most of
+    Thursday and Friday, because the feeds simply do not reach that far back.
+    """
     seen = set()
     articles = []
     feeds_ok = 0
     undated = 0
+    from_store = 0
 
+    # ---- harvested items first ----
+    try:
+        from harvest import items_in_window
+        for item in items_in_window(window_start, now_uk):
+            title = item["title"]
+            key = re.sub(r"[^a-z0-9]", "", title.lower())[:70]
+            if key in seen:
+                continue
+            score, region = score_article(
+                title, item.get("summary", ""),
+                item.get("feed_region", "global"), item.get("outlet"),
+            )
+            if score < MIN_RELEVANCE_SCORE:
+                continue
+            seen.add(key)
+            articles.append({
+                "title": title,
+                "summary": item.get("summary", ""),
+                "link": item.get("link", ""),
+                "outlet": item.get("outlet", ""),
+                "published": item["published_dt"],
+                "score": score,
+                "region": region,
+            })
+            from_store += 1
+        if from_store:
+            log(f"  {from_store} from the harvest store")
+    except Exception as exc:
+        log(f"  Harvest store unavailable ({exc}). Using live feeds only.")
+
+    # ---- then a live read, for anything since the last harvest ----
     for name, url, feed_region in FEEDS:
         parsed = fetch_feed(name, url)
         if not parsed:
@@ -480,7 +543,7 @@ def collect_articles(window_start, now_uk):
             summary = clean_text(
                 getattr(entry, "summary", "") or getattr(entry, "description", "")
             )
-            score, region = score_article(title, summary, feed_region)
+            score, region = score_article(title, summary, feed_region, name)
             if score < MIN_RELEVANCE_SCORE:
                 continue
 
@@ -517,9 +580,13 @@ def collect_articles(window_start, now_uk):
         article["ref"] = index
 
     counts = {r: sum(1 for a in kept if a["region"] == r) for r in REGION_ORDER}
+    dropped = len(articles) - len(kept)
     log(f"{feeds_ok}/{len(FEEDS)} feeds responded. "
-        f"Kept {len(kept)} articles: "
+        f"{len(articles)} relevant articles found ({from_store} from the store), "
+        f"{len(kept)} used: "
         + ", ".join(f"{REGION_SHORT[r]} {counts[r]}" for r in REGION_ORDER))
+    if dropped:
+        log(f"  {dropped} dropped by the {MAX_ARTICLES_PER_REGION} per region cap.")
     return kept
 
 
@@ -581,11 +648,13 @@ def build_prompt(articles, region, window_start, now_uk, corrections=None):
         "em dashes or en dashes.",
         "Plain, concrete language. Short sentences. Active voice.",
         "Only include a section in \"sections\" if you actually have material for "
-        "it. An empty or padded section is worse than no section.",
+        "it. An empty or padded section is worse than no section. Equally, do "
+        "not collapse everything into one section: if the articles cover five "
+        "different themes, write five sections, each with 2 to 3 paragraphs.",
         "\"coming_up\" must contain only dates explicitly stated in the articles, "
         "such as a consultation closing or results being published. Never "
         "speculate. If no dates are stated, return an empty list.",
-        "Give 3 to 5 items in \"glance\", each a different story.",
+        "Give 5 to 8 items in \"glance\", each a different story. Use the whole range when the articles support it.",
         f"Everything you write must relate to {scope}. Ignore anything else, "
         "including celebrity and personal-life stories.",
         "Do not mention any employer, agency or brand as the publisher of this "
@@ -1300,6 +1369,15 @@ def main():
     manifest = [e for e in load_manifest(manifest_path) if e.get("iso") != iso]
     manifest.append(manifest_entry(payload))
     save_manifest(manifest)
+
+    # Tell the workflow that something was genuinely published, so the
+    # commit step can be skipped entirely when this run stood down. Without
+    # this, the second daily trigger produced an empty commit and a pointless
+    # site rebuild.
+    github_output = os.getenv("GITHUB_OUTPUT")
+    if github_output:
+        with open(github_output, "a", encoding="utf-8") as handle:
+            handle.write("published=true\n")
 
     log(f"Published {iso}: {headline}")
     log(f"  {edition_path}")

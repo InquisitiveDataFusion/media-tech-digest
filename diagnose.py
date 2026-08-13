@@ -69,7 +69,7 @@ def gather(window_start, now, days_override=None):
             summary = clean_text(
                 getattr(entry, "summary", "") or getattr(entry, "description", "")
             )
-            score, region = score_article(title, summary, feed_region)
+            score, region = score_article(title, summary, feed_region, name)
             if row["best"] is None or score > row["best"]:
                 row["best"] = score
 
@@ -113,6 +113,34 @@ def main():
           f"({window_days:.1f} days)\n")
 
     rows, articles, near_misses = gather(window_start, now, days_override)
+
+    # ---------- 0. Harvest store ----------
+    print("=" * 78)
+    print("0. HARVEST STORE")
+    print("=" * 78)
+    try:
+        from harvest import load_store, items_in_window, RETAIN_DAYS
+        store = load_store()
+        in_window = items_in_window(window_start, now)
+        if not store["items"]:
+            print("  Empty. Either harvesting has not run yet, or it is not set up.")
+            print("  Until it has run a few times the digest can only see whatever")
+            print("  happens to be in the feeds at that moment.")
+        else:
+            print(f"  Last harvested : {store.get('updated') or 'unknown'}")
+            print(f"  Items held     : {len(store['items'])} "
+                  f"(retained for {RETAIN_DAYS} days)")
+            print(f"  Inside window  : {len(in_window)}")
+            outlets = {}
+            for item in in_window:
+                outlets[item.get("outlet", "?")] = outlets.get(item.get("outlet", "?"), 0) + 1
+            if outlets:
+                top = sorted(outlets.items(), key=lambda x: -x[1])[:6]
+                print("  Biggest contributors in window: "
+                      + ", ".join(f"{n} {c}" for n, c in top))
+    except Exception as exc:
+        print(f"  Could not read the store: {exc}")
+    print()
 
     # ---------- 1. Feed depth ----------
     print("=" * 78)
