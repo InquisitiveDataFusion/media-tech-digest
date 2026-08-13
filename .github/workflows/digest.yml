@@ -19,9 +19,25 @@ on:
   workflow_dispatch:
     inputs:
       force:
-        description: "Build now, ignoring the 2am check"
+        description: "Build now, even if today already has an edition"
         type: boolean
         default: true
+      generous:
+        description: "Showcase mode: ask for a longer digest, more sections"
+        type: boolean
+        default: false
+      window_days:
+        description: "Cover the last N days instead of since the last run (blank = normal)"
+        required: false
+        default: ""
+      min_score:
+        description: "Relevance bar, lower lets more through (blank = 4)"
+        required: false
+        default: ""
+      max_per_region:
+        description: "Articles per region sent to Gemini (blank = 45)"
+        required: false
+        default: ""
 
 permissions:
   contents: write
@@ -67,6 +83,10 @@ jobs:
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           FORCE_RUN: ${{ inputs.force && 'true' || '' }}
+          GENEROUS: ${{ inputs.generous && 'true' || '' }}
+          WINDOW_DAYS: ${{ inputs.window_days }}
+          MIN_SCORE: ${{ inputs.min_score }}
+          MAX_PER_REGION: ${{ inputs.max_per_region }}
         run: python uk_media_digest.py
 
       - name: Publish the new edition
