@@ -63,12 +63,14 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: Build the digest
+        id: build
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           FORCE_RUN: ${{ inputs.force && 'true' || '' }}
         run: python uk_media_digest.py
 
       - name: Publish the new edition
+        if: steps.build.outputs.published == 'true'
         run: |
           if [ -z "$(git status --porcelain)" ]; then
             echo "Nothing changed, so nothing to publish."
