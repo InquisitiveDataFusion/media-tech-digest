@@ -1,18 +1,18 @@
 {
   "schema": 1,
   "iso": "2026-08-13",
-  "headline": "Paramount threatens California exit as Disney+ challenges Netflix in streaming battle",
+  "headline": "Paramount Threatens California Exit Amidst Global Media Industry Shifts",
   "date_line": "Thursday 13 August 2026 · covering Mon 10 Aug to Wed 12 Aug",
-  "footer_note": "Built from 7 cited articles across 6 outlets. Written by gemini-3.1-flash-lite, gemini-3.5-flash.",
+  "footer_note": "Built from 39 cited articles across 15 outlets. Written by gemini-3.1-flash-lite, gemini-3.5-flash.",
   "model": "gemini-3.1-flash-lite, gemini-3.5-flash",
   "backfilled": false,
-  "generated_at": "2026-08-13T16:10:00+01:00",
+  "generated_at": "2026-08-13T16:33:36+01:00",
   "digest": {
-    "headline": "Paramount threatens California exit as Disney+ challenges Netflix in streaming battle",
-    "lead": "Paramount Skydance chief David Ellison has threatened to move the studio out of California amid legal battles. Meanwhile, Disney+ has secured a major sponsorship deal with Gary Neville's sports platform to challenge Netflix in the United Kingdom.",
+    "headline": "Paramount Threatens California Exit Amidst Global Media Industry Shifts",
+    "lead": "Paramount is considering relocating operations from California and New York due to escalating legal battles. Meanwhile, the United Kingdom media landscape faces regulatory scrutiny as Disney+ secures a major podcast partnership to challenge Netflix.",
     "glance": [
       {
-        "text": "Disney+ has signed a one-year deal with Gary Neville's sports platform, The Overlap, to sponsor its football shows.",
+        "text": "Disney+ has signed a one-year sponsorship deal with Gary Neville's football podcast platform, The Overlap.",
         "section": "deals",
         "refs": [
           1,
@@ -22,34 +22,338 @@
         "region": "uk"
       },
       {
-        "text": "Sky will bring back Saturday Night Live UK for six more episodes with its original 11 cast members.",
+        "text": "Virgin Media O2 has added the Tennis Channel to its streaming line-up at no extra cost.",
         "section": "deals",
         "refs": [
-          4
+          4,
+          5
         ],
         "region": "uk"
       },
       {
-        "text": "Paramount is considering moving CBS News out of New York City amid ongoing legal battles with state attorneys general.",
+        "text": "Sky is bringing back Saturday Night Live UK for six more episodes with its full original cast.",
+        "section": "deals",
+        "refs": [
+          6
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "Ofcom is investigating GB News after receiving 12,000 complaints about a guest's comments linking pride parades to paedophilia.",
         "section": "regulation",
         "refs": [
-          5
+          7
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "Nation Radio London committed an Ofcom breach by airing a prohibited political advertisement.",
+        "section": "regulation",
+        "refs": [
+          8
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "The UK fixed broadband market has entered its flattest quarter on record, adding only 1,000 connections.",
+        "section": "audience",
+        "refs": [
+          9
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "Lyca Radio will expand its Midlands network by launching full DAB coverage in Birmingham this September.",
+        "section": "radio",
+        "refs": [
+          10
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "Grampian Hospital Radio has received the King's Award for Voluntary Service to recognise decades of volunteer dedication.",
+        "section": "radio",
+        "refs": [
+          11
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "Warner Bros Discovery Access has commissioned three UK production companies to create culinary content.",
+        "section": "deals",
+        "refs": [
+          12
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "Samsung TV Plus has added nine new dedicated channels in the UK through an expanded partnership with All3Media International.",
+        "section": "deals",
+        "refs": [
+          13
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "Paramount CEO David Ellison has threatened to move the studio out of California over an antitrust lawsuit.",
+        "section": "deals",
+        "refs": [
+          14,
+          15
         ],
         "region": "americas"
       },
       {
-        "text": "The CRTC is considering introducing indefinite television broadcast licences, which would remove expiry dates for major Canadian broadcasters.",
+        "text": "Paramount is considering moving CBS News out of New York City as legal battles with state attorneys general escalate.",
+        "section": "deals",
+        "refs": [
+          16
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "The CRTC is considering removing expiry dates to issue indefinite television broadcast licences to major broadcasters.",
         "section": "regulation",
         "refs": [
-          6,
-          7
+          17,
+          18
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "Low-power television advocates have petitioned the FCC to allow voluntary 5G broadcasts.",
+        "section": "regulation",
+        "refs": [
+          19
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "Apple is negotiating deals to pay publishers for content to improve its Siri voice assistant.",
+        "section": "tech",
+        "refs": [
+          20
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "Spotify will label AI-generated artists and avoid promoting them on its platform.",
+        "section": "tech",
+        "refs": [
+          21
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "Cineplex achieved record second-quarter revenue and its highest box office attendance since 2019.",
+        "section": "results",
+        "refs": [
+          22,
+          23
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "Netflix has extended its licensing deal for Seinfeld for another five years.",
+        "section": "audience",
+        "refs": [
+          24
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "The Calgary Flames have signed a five-year radio partnership with Corus's QR 770 AM.",
+        "section": "radio",
+        "refs": [
+          25
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "Newsmax is preparing a lawsuit against the FCC over a broadcast ownership vote.",
+        "section": "regulation",
+        "refs": [
+          26
         ],
         "region": "americas"
       }
     ],
-    "sections": [],
-    "people_moves": [],
-    "coming_up": []
+    "sections": [
+      {
+        "id": "deals",
+        "paragraphs": [
+          "Disney+ has agreed a one-year sponsorship and content deal with Gary Neville's sports platform, The Overlap. The streaming service will become the headline sponsor for Stick to Football and a new format called Stick to United. This move is seen as a direct response to Netflix's partnership with Goalhanger.",
+          "Warner Bros Discovery Access has commissioned UK production companies Project Must Entertainment, 7Fifty, and Double FTV. These producers will create culinary programming for the Food Network brand and the Discovery+ streaming platform.",
+          "Samsung TV Plus has expanded its partnership with distributor All3Media International. The deal adds nine new dedicated FAST channels to the platform's line-up in the UK, France, and Spain. Meanwhile, Virgin Media O2 has added the Tennis Channel to its streaming line-up for Virgin TV customers."
+        ],
+        "region": "uk"
+      },
+      {
+        "id": "regulation",
+        "paragraphs": [
+          "Media regulator Ofcom is investigating GB News following 12,000 complaints about a guest's remarks. The guest appeared to link pride parades with bestiality and paedophilia. The incident has set a potential record for complaints against the broadcaster.",
+          "Ofcom has also found Nation Radio London in breach of broadcasting rules. The station aired a prohibited political advertisement. The broadcast occurred despite the script receiving prior clearance from Radiocentre.",
+          "UK brands are adapting their media strategies to align with new regulations on HFSS in-store promotions. The restrictions on high fat, sugar, and salt products have doubled interest in omnichannel advertising. Brands are developing targeted campaigns to navigate the rules across different channels."
+        ],
+        "region": "uk"
+      },
+      {
+        "id": "audience",
+        "paragraphs": [
+          "The UK fixed broadband market has entered a flat phase, according to data from Point Topic. Total retail and wholesale connections reached 29.37 million at the end of the second quarter of 2026. This represents an increase of just 1,000 connections quarter-on-quarter.",
+          "Journalist Ray Snoddy has highlighted issues with how The Times reported its own radio station's listener figures. The investigation suggests there was under-reporting of RAJAR data. This has raised questions about transparency in media reporting.",
+          "The Alliance of Media Research Analysts has expanded its annual awards by adding six new categories. These additions address the underrepresentation of regional and independent agencies. They also recognise the growing role of adtech in media research and honour the late judge Denise Turner."
+        ],
+        "region": "uk"
+      },
+      {
+        "id": "radio",
+        "paragraphs": [
+          "Lyca Radio is set to expand its Midlands network by launching full DAB coverage in Birmingham. The transition will take place on 1 September. This move will allow the station to reach a wider audience in the region.",
+          "Grampian Hospital Radio has been honoured with the King's Award for Voluntary Service. The award recognises decades of dedication by the station's volunteers. The team has provided entertainment and comfort to patients for many years.",
+          "UK video-first podcast company Jampot has partnered with Sony to upgrade its production capabilities. Jampot has deployed a range of Sony cameras and solutions to support its growing slate of visual podcasts. This setup aims to deliver cinematic quality for digital listeners."
+        ],
+        "region": "uk"
+      },
+      {
+        "id": "deals",
+        "paragraphs": [
+          "Paramount Skydance CEO David Ellison is facing an antitrust lawsuit over his proposed purchase of Warner Bros. Discovery [14]. Ellison has threatened to move Paramount out of California if the suit is not settled [3, 17]. The Writers Guild of America has criticised the threat, stating it justifies blocking the merger [32].",
+          "Paramount executives confirm that leaving California is under consideration [17, 18]. The company is also considering moving CBS News out of New York City as legal battles with state attorneys general intensify [16].",
+          "Before the lawsuit to block the Warner deal was filed, Paramount discussed creating an oversight committee [35]. This board would ensure the independence of CNN under the merged entity [35]."
+        ],
+        "region": "americas"
+      },
+      {
+        "id": "regulation",
+        "paragraphs": [
+          "The Canadian Radio-television and Telecommunications Commission is considering a major policy shift [10, 11]. The regulator may remove licence expiry dates and issue indefinite television broadcast licences [10, 11]. This proposal would affect major media companies including Bell Media, Rogers, and Corus [10, 11].",
+          "The CRTC has also administratively renewed several broadcasting licences to August 2027 [34]. These one-year extensions apply to broadcasters such as Bell Media, Rogers, Blue Ant, and Corus [18].",
+          "In the United States, low-power television advocates have petitioned the Federal Communications Commission [19]. They are seeking permission for voluntary 5G broadcasts, noting there is no ATSC 3.0 mandate for LPTV [19]. Meanwhile, Newsmax is preparing a lawsuit against the FCC over a recent broadcast television ownership vote [26]."
+        ],
+        "region": "americas"
+      },
+      {
+        "id": "tech",
+        "paragraphs": [
+          "Tech giants are stepping up their artificial intelligence and hardware offerings. Apple is in talks to pay publishers to use their content to improve its Siri voice assistant [20]. Meanwhile, Spotify has announced it will label AI-generated artists and avoid promoting them on its platform [21].",
+          "Google has launched its new Pixel 11 smartphone lineup alongside the Pixel Tag, a finder tag using emerging Bluetooth technology [15, 34]. Amazon is offering gift card promotions for preorders of the new devices [36].",
+          "In the AI sector, Anthropic is in talks to acquire Israeli startup Decart for 6 billion dollars [37]. The transaction would mark the largest acquisition in Anthropic's history [37]."
+        ],
+        "region": "americas"
+      },
+      {
+        "id": "results",
+        "paragraphs": [
+          "Canadian cinema chain Cineplex has reported record revenue for the second quarter of the year [22]. The company experienced a 9.3 per cent increase in theatre attendance [22].",
+          "This attendance surge led to significant jumps in box office and food services revenue [22]. The company achieved its highest second-quarter box office performance since 2019, driven by a strong film slate [23]."
+        ],
+        "region": "americas"
+      },
+      {
+        "id": "audience",
+        "paragraphs": [
+          "Netflix has renewed its licensing deal for Seinfeld for another five years [24]. Paramount has also extended its basic-cable rights for the comedy series for three more years [24].",
+          "Broadcasters are preparing their autumn schedules. Corus Entertainment's Home Network has unveiled its fall slate of Canadian originals and global acquisitions [38]. Additionally, Peacock's drama Dig is scheduled to debut on Showcase and StackTV in November [33].",
+          "Disney is expanding its children's programming with a new hybrid live-action and animated series [39]. The show, Megan and Cupcake Ready for Preschool, will debut on Disney Junior and stream on Disney+ [39]."
+        ],
+        "region": "americas"
+      },
+      {
+        "id": "radio",
+        "paragraphs": [
+          "Corus Entertainment has secured a major sports broadcasting deal in Alberta. The Calgary Flames have signed a five-year radio partnership with Corus's QR 770 AM [25].",
+          "In the United States, National Public Radio has promoted two executives to senior digital roles [29]. Bryan Moffett becomes Senior Vice President of Transformation, and Michael Seifollahi becomes Vice President of Audience Technology and Data [29]."
+        ],
+        "region": "americas"
+      }
+    ],
+    "people_moves": [
+      {
+        "text": "Sandra Kleinfeld, Senior Director of Documentary, CBC (retiring)",
+        "refs": [
+          27
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "Michelle McCree, Senior Director of Documentary, CBC",
+        "refs": [
+          27
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "Nora Young, Senior Technology Reporter, CBC News (retiring)",
+        "refs": [
+          28
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "Bryan Moffett, Senior Vice President of Transformation, NPR",
+        "refs": [
+          29
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "Michael Seifollahi, Vice President of Audience Technology and Data, NPR",
+        "refs": [
+          29
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "Joss Hastings, Senior Vice President of Marketing for Disney Consumer Products, Disney",
+        "refs": [
+          30
+        ],
+        "region": "americas"
+      }
+    ],
+    "coming_up": [
+      {
+        "date": "1 Sep 2026",
+        "text": "Lyca Radio launches full DAB coverage in Birmingham",
+        "refs": [
+          10
+        ],
+        "region": "uk"
+      },
+      {
+        "date": "15 Sep 2026",
+        "text": "Spotify introduces labels for AI-generated artists and removes them from recommendations",
+        "refs": [
+          31
+        ],
+        "region": "uk"
+      },
+      {
+        "date": "1 Oct 2026",
+        "text": "David Ellison threatens to begin pulling Paramount out of California",
+        "refs": [
+          32
+        ],
+        "region": "americas"
+      },
+      {
+        "date": "Nov 2026",
+        "text": "Peacock's drama Dig debuts on Showcase and StackTV",
+        "refs": [
+          33
+        ],
+        "region": "americas"
+      },
+      {
+        "date": "Aug 2027",
+        "text": "CRTC administrative renewals for broadcasting licences expire",
+        "refs": [
+          34
+        ],
+        "region": "americas"
+      }
+    ]
   },
   "articles": [
     {
@@ -75,30 +379,254 @@
     },
     {
       "ref": 4,
+      "title": "Virgin TV adds Tennis Channel",
+      "link": "https://www.advanced-television.com/2026/08/13/virgin-tv-add-tennis-channel/",
+      "outlet": "Advanced Television",
+      "region": "uk"
+    },
+    {
+      "ref": 5,
+      "title": "Virgin Media adds Tennis Channel",
+      "link": "https://www.broadbandtvnews.com/2026/08/13/virgin-media-adds-tennis-channel/",
+      "outlet": "Broadband TV News",
+      "region": "uk"
+    },
+    {
+      "ref": 6,
       "title": "SNL UK returning to Sky with six more episodes and all 11 cast members",
       "link": "https://www.c21media.net/news/snl-uk-returning-to-sky-with-six-more-episodes-and-all-11-cast-members/",
       "outlet": "C21Media",
       "region": "uk"
     },
     {
-      "ref": 5,
+      "ref": 7,
+      "title": "Ofcom investigates GB News over guest’s pride and paedophilia remarks",
+      "link": "https://www.theguardian.com/media/2026/aug/10/ofcom-investigates-gb-news-pride-paedophilia-remarks-complaints-caroline-farrow",
+      "outlet": "Guardian Media",
+      "region": "uk"
+    },
+    {
+      "ref": 8,
+      "title": "Cleared radio advert ends with Ofcom breach",
+      "link": "https://radiotoday.co.uk/2026/08/cleared-radio-advert-ends-with-ofcom-breach/",
+      "outlet": "RadioToday",
+      "region": "uk"
+    },
+    {
+      "ref": 9,
+      "title": "Data: UK broadband market enters flat phase",
+      "link": "https://www.advanced-television.com/2026/08/13/data-uk-broadband-market-enters-flat-phase/",
+      "outlet": "Advanced Television",
+      "region": "uk"
+    },
+    {
+      "ref": 10,
+      "title": "Lyca Radio launches full DAB in Birmingham",
+      "link": "https://radiotoday.co.uk/2026/08/lyca-radio-launches-full-dab-in-birmingham/",
+      "outlet": "RadioToday",
+      "region": "uk"
+    },
+    {
+      "ref": 11,
+      "title": "Grampian Hospital Radio receives King’s Award",
+      "link": "https://radiotoday.co.uk/2026/08/grampian-hospital-radio-receives-kings-award/",
+      "outlet": "RadioToday",
+      "region": "uk"
+    },
+    {
+      "ref": 12,
+      "title": "WBD Access names UK prodcos to produce culinary content for Food Network, Discovery+",
+      "link": "https://www.c21media.net/news/wbd-access-names-uk-prodcos-to-produce-culinary-content-for-food-network-discovery/",
+      "outlet": "C21Media",
+      "region": "uk"
+    },
+    {
+      "ref": 13,
+      "title": "Samsung TV Plus expands All3Media Int’l partnership",
+      "link": "https://www.c21media.net/news/samsung-tv-plus-expands-all3media-intl-partnership/",
+      "outlet": "C21Media",
+      "region": "uk"
+    },
+    {
+      "ref": 14,
+      "title": "Commentary: David Ellison Made Himself The Best Argument For Blocking The Paramount-Warner Bros. Deal",
+      "link": "https://tvnewscheck.com/business/article/commentary-david-ellison-made-himself-the-best-argument-for-blocking-the-paramount-warner-bros-deal/",
+      "outlet": "TVNewsCheck",
+      "region": "americas"
+    },
+    {
+      "ref": 15,
+      "title": "Will Paramount Leave California? Execs Say It’s On The Table",
+      "link": "https://tvnewscheck.com/business/article/will-paramount-leave-california-execs-say-its-on-the-table/",
+      "outlet": "TVNewsCheck",
+      "region": "americas"
+    },
+    {
+      "ref": 16,
       "title": "Paramount Considers Moving CBS News Out Of NYC",
       "link": "https://tvnewscheck.com/journalism/article/paramount-considers-moving-cbs-news-out-of-nyc/",
       "outlet": "TVNewsCheck",
       "region": "americas"
     },
     {
-      "ref": 6,
+      "ref": 17,
       "title": "CRTC weighs indefinite TV broadcast licences",
       "link": "https://mediaincanada.com/2026/08/12/crtc-weighs-indefinite-tv-broadcast-licences/",
       "outlet": "Media in Canada",
       "region": "americas"
     },
     {
-      "ref": 7,
+      "ref": 18,
       "title": "CRTC considering indefinite TV broadcast licences",
       "link": "https://playbackonline.ca/2026/08/11/crtc-considering-indefinite-tv-broadcast-licences/",
       "outlet": "Playback",
+      "region": "americas"
+    },
+    {
+      "ref": 19,
+      "title": "LPTV Advocates Petition FCC For Voluntary 5G Broadcasts",
+      "link": "https://tvnewscheck.com/regulation/article/lptv-advocates-petition-fcc-for-voluntary-5g-broadcasts/",
+      "outlet": "TVNewsCheck",
+      "region": "americas"
+    },
+    {
+      "ref": 20,
+      "title": "Apple In Talks To Pay Publishers To Improve AI-Powered Siri",
+      "link": "https://tvnewscheck.com/ai/article/apple-in-talks-to-pay-publishers-to-improve-ai-powered-siri/",
+      "outlet": "TVNewsCheck",
+      "region": "americas"
+    },
+    {
+      "ref": 21,
+      "title": "Spotify Will Label AI Artists And Avoid Promoting Them",
+      "link": "https://www.nytimes.com/2026/08/11/arts/music/spotify-artificial-intelligence-music.html",
+      "outlet": "TVNewsCheck",
+      "region": "americas"
+    },
+    {
+      "ref": 22,
+      "title": "Cineplex reports Q2 revenue record off strong film slate",
+      "link": "https://playbackonline.ca/2026/08/12/cineplex-reports-q2-revenue-record-off-strong-film-slate/",
+      "outlet": "Playback",
+      "region": "americas"
+    },
+    {
+      "ref": 23,
+      "title": "Cineplex sees Q2 revenue rise amid higher theatre attendance",
+      "link": "https://mediaincanada.com/2026/08/12/cineplex-sees-q2-revenue-rise-amid-higher-theatre-attendance/",
+      "outlet": "Media in Canada",
+      "region": "americas"
+    },
+    {
+      "ref": 24,
+      "title": "Netflix Renews ‘Seinfeld’ Licensing Deal For Five More Years",
+      "link": "https://tvnewscheck.com/programming/article/netflix-renews-seinfeld-licensing-deal-for-five-more-years/",
+      "outlet": "TVNewsCheck",
+      "region": "americas"
+    },
+    {
+      "ref": 25,
+      "title": "Calgary Flames sign five-year radio partnership with Corus’ QR 770 AM",
+      "link": "https://broadcastdialogue.com/calgary-flames-sign-five-year-radio-partnership-with-coruss-qr-770-am/",
+      "outlet": "Broadcast Dialogue",
+      "region": "americas"
+    },
+    {
+      "ref": 26,
+      "title": "Newsmax Preps Lawsuit Over FCC Broadcast TV Ownership Vote",
+      "link": "https://tvnewscheck.com/regulation/article/newsmax-preps-lawsuit-over-fcc-broadcast-tv-ownership-vote/",
+      "outlet": "TVNewsCheck",
+      "region": "americas"
+    },
+    {
+      "ref": 27,
+      "title": "CBC’s Sandra Kleinfeld to retire, Michelle McCree to succeed her",
+      "link": "https://playbackonline.ca/2026/08/11/cbcs-sandra-kleinfeld-to-retire-michelle-mccree-to-succeed-her/",
+      "outlet": "Playback",
+      "region": "americas"
+    },
+    {
+      "ref": 28,
+      "title": "Founding ‘Spark’ and ‘DTNO’ host Nora Young retires from CBC",
+      "link": "https://broadcastdialogue.com/founding-spark-and-dtno-host-nora-young-retires-from-cbc/",
+      "outlet": "Broadcast Dialogue",
+      "region": "americas"
+    },
+    {
+      "ref": 29,
+      "title": "NPR Promotes Moffett, Seifollahi To Senior Digital Roles",
+      "link": "https://radioink.com/2026/08/12/npr-promotes-moffett-seifollahi-to-senior-digital-roles/",
+      "outlet": "Radio Ink",
+      "region": "americas"
+    },
+    {
+      "ref": 30,
+      "title": "Disney Continues Marketing Moves, Joss Hastings to Lead Consumer Products Marketing",
+      "link": "https://www.adweek.com/convergent-tv/disney-marketing-moves-joss-hastings-to-lead-consumer-products-marketing/",
+      "outlet": "Adweek",
+      "region": "americas"
+    },
+    {
+      "ref": 31,
+      "title": "Spotify to add label for AI-generated artists and remove them from recommendations",
+      "link": "https://www.bbc.co.uk/news/articles/cvgxzmgejd5o?at_medium=RSS&at_campaign=rss",
+      "outlet": "BBC Business",
+      "region": "uk"
+    },
+    {
+      "ref": 32,
+      "title": "WGA Slams David Ellison’s Plan To Pull Paramount From California",
+      "link": "https://tvnewscheck.com/business/article/wga-slams-david-ellisons-plan-to-pull-paramount-from-california/",
+      "outlet": "TVNewsCheck",
+      "region": "americas"
+    },
+    {
+      "ref": 33,
+      "title": "Peacock’s ‘Dig’ to debut on Showcase and StackTV in November",
+      "link": "https://cartt.ca/peacocks-dig-to-debut-on-showcase-and-stacktv-in-november/",
+      "outlet": "Cartt.ca",
+      "region": "americas"
+    },
+    {
+      "ref": 34,
+      "title": "CRTC administratively renews broadcasting licences to August 2027",
+      "link": "https://cartt.ca/crtc-administratively-renews-broadcasting-licences-to-august-2027/",
+      "outlet": "Cartt.ca",
+      "region": "americas"
+    },
+    {
+      "ref": 35,
+      "title": "Paramount Has Discussed Creating A Board To Ensure CNN’s Independence",
+      "link": "https://tvnewscheck.com/business/article/paramount-has-discussed-creating-a-board-to-ensure-cnns-independence/",
+      "outlet": "TVNewsCheck",
+      "region": "americas"
+    },
+    {
+      "ref": 36,
+      "title": "Every Amazon Google Pixel 11 preorder deal - get up to $350 on an Amazon gift card, free",
+      "link": "https://www.zdnet.com/article/google-pixel-11-amazon-deals/",
+      "outlet": "ZDNet",
+      "region": "americas"
+    },
+    {
+      "ref": 37,
+      "title": "Anthropic In Talks To Acquire Israeli AI Startup Decart For $6 Billion",
+      "link": "https://tvnewscheck.com/ai/article/anthropic-in-talks-to-acquire-israeli-ai-startup-decart-for-6-billion/",
+      "outlet": "TVNewsCheck",
+      "region": "americas"
+    },
+    {
+      "ref": 38,
+      "title": "Corus’s Home Network unveils fall slate of Canadian originals and global acquisitions",
+      "link": "https://cartt.ca/coruss-home-network-unveils-fall-slate-of-canadian-originals-and-global-acquisitions/",
+      "outlet": "Cartt.ca",
+      "region": "americas"
+    },
+    {
+      "ref": 39,
+      "title": "‘Megan and Cupcake Ready for Preschool,’ a New Hybrid Live-Action and Animated Series Heads to Disney Jr.",
+      "link": "https://variety.com/2026/tv/news/megan-and-cupcake-ready-for-preschool-disney-jr-1236833768/",
+      "outlet": "Variety",
       "region": "americas"
     }
   ]
