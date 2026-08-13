@@ -1,180 +1,101 @@
 {
   "schema": 1,
   "iso": "2026-08-13",
-  "headline": "UK broadband growth stalls as Paramount considers California exit",
+  "headline": "Paramount threatens California exit as Disney+ challenges Netflix in streaming battle",
   "date_line": "Thursday 13 August 2026 · covering Mon 10 Aug to Wed 12 Aug",
-  "footer_note": "Built from 13 cited articles across 8 outlets. Written by gemini-3-flash-preview, gemini-3.1-flash-lite, gemini-3.5-flash.",
-  "model": "gemini-3-flash-preview, gemini-3.1-flash-lite, gemini-3.5-flash",
+  "footer_note": "Built from 7 cited articles across 6 outlets. Written by gemini-3.1-flash-lite, gemini-3.5-flash.",
+  "model": "gemini-3.1-flash-lite, gemini-3.5-flash",
   "backfilled": false,
-  "generated_at": "2026-08-13T04:36:58+01:00",
+  "generated_at": "2026-08-13T16:10:00+01:00",
   "digest": {
-    "headline": "UK broadband growth stalls as Paramount considers California exit",
-    "lead": "The UK fixed broadband market has recorded its flattest quarter ever, while Sky Sports and Disney plus secured major broadcasting rights. Meanwhile, Paramount is considering moving its studio out of California as legal battles over the Warner Bros Discovery merger intensify.",
+    "headline": "Paramount threatens California exit as Disney+ challenges Netflix in streaming battle",
+    "lead": "Paramount Skydance chief David Ellison has threatened to move the studio out of California amid legal battles. Meanwhile, Disney+ has secured a major sponsorship deal with Gary Neville's sports platform to challenge Netflix in the United Kingdom.",
     "glance": [
       {
-        "text": "Sky Sports has secured the exclusive UK and Ireland broadcast rights for the 2026 Laver Cup tennis tournament.",
+        "text": "Disney+ has signed a one-year deal with Gary Neville's sports platform, The Overlap, to sponsor its football shows.",
         "section": "deals",
         "refs": [
           1,
-          2
-        ],
-        "region": "uk"
-      },
-      {
-        "text": "Media regulator Ofcom is investigating GB News after a guest made highly controversial comments linking pride parades to paedophilia.",
-        "section": "regulation",
-        "refs": [
+          2,
           3
         ],
         "region": "uk"
       },
       {
-        "text": "Samsung TV Plus has expanded its UK free ad-supported streaming offering with new channels from PA Media and All3Media.",
+        "text": "Sky will bring back Saturday Night Live UK for six more episodes with its original 11 cast members.",
         "section": "deals",
         "refs": [
-          4,
-          5,
-          6
+          4
         ],
         "region": "uk"
       },
       {
-        "text": "Nation Radio London breached broadcasting rules by airing a prohibited political advertisement despite receiving clearance from Radiocentre.",
-        "section": "radio",
-        "refs": [
-          7
-        ],
-        "region": "uk"
-      },
-      {
-        "text": "Disney+ has acquired the global streaming rights to the Formula E electric vehicle motor racing championship in 144 territories.",
-        "section": "deals",
-        "refs": [
-          8,
-          9
-        ],
-        "region": "uk"
-      },
-      {
-        "text": "Paramount CEO David Ellison is considering moving the studio out of California due to a legal fight over the Warner Bros merger.",
-        "section": "deals",
-        "refs": [
-          10,
-          11
-        ],
-        "region": "americas"
-      },
-      {
-        "text": "The CRTC is considering a proposal to remove expiry dates for television broadcast licences held by companies like Bell and Rogers.",
+        "text": "Paramount is considering moving CBS News out of New York City amid ongoing legal battles with state attorneys general.",
         "section": "regulation",
         "refs": [
-          12,
-          13
+          5
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "The CRTC is considering introducing indefinite television broadcast licences, which would remove expiry dates for major Canadian broadcasters.",
+        "section": "regulation",
+        "refs": [
+          6,
+          7
         ],
         "region": "americas"
       }
     ],
-    "sections": [
-      {
-        "id": "deals",
-        "paragraphs": [
-          "Sky Sports has agreed a deal with Trident8 to broadcast all three days of the 2026 Laver Cup from London's O2 Arena [27, 38]. The men's team tennis tournament will feature top players including Carlos Alcaraz and Alexander Zverev [2].",
-          "Disney+ has secured a multi-year deal for global streaming rights to the Formula E motor racing championship [22, 37]. The platform will stream the electric vehicle races in 144 territories starting from the 2026/27 season [22, 37].",
-          "Samsung TV Plus has expanded its UK FAST channel portfolio [21, 51]. It partnered with PA Media to launch the 24-hour channel Your Sports News, and added four single-programme channels from All3Media International [21, 46, 51]."
-        ],
-        "region": "uk"
-      }
-    ],
+    "sections": [],
     "people_moves": [],
     "coming_up": []
   },
   "articles": [
     {
       "ref": 1,
-      "title": "Sky Sports secures Laver Cup rights",
-      "link": "https://www.broadbandtvnews.com/2026/08/12/sky-sports-secures-laver-cup-rights/",
+      "title": "Disney+ signs football deal with The Overlap",
+      "link": "https://www.broadbandtvnews.com/2026/08/13/disney-signs-football-deal-with-the-overlap/",
       "outlet": "Broadband TV News",
       "region": "uk"
     },
     {
       "ref": 2,
-      "title": "Laver Cup to air on Sky Sports",
-      "link": "https://www.advanced-television.com/2026/08/12/laver-cup-to-air-on-sky-sports/",
-      "outlet": "Advanced Television",
-      "region": "uk"
-    },
-    {
-      "ref": 3,
-      "title": "Ofcom investigates GB News over guest’s pride and paedophilia remarks",
-      "link": "https://www.theguardian.com/media/2026/aug/10/ofcom-investigates-gb-news-pride-paedophilia-remarks-complaints-caroline-farrow",
-      "outlet": "Guardian Media",
-      "region": "uk"
-    },
-    {
-      "ref": 4,
-      "title": "PA Media backs Samsung sports news FAST channel",
-      "link": "https://www.broadbandtvnews.com/2026/08/12/pa-media-backs-samsung-sports-news-fast-channel/",
-      "outlet": "Broadband TV News",
-      "region": "uk"
-    },
-    {
-      "ref": 5,
-      "title": "Your Sports News launches on Samsung TV Plus in UK",
-      "link": "https://www.advanced-television.com/2026/08/12/your-sports-news-launches-on-samsung-tv-plus-in-uk/",
-      "outlet": "Advanced Television",
-      "region": "uk"
-    },
-    {
-      "ref": 6,
-      "title": "Samsung expands All3Media FAST portfolio",
-      "link": "https://www.broadbandtvnews.com/2026/08/12/samsung-expands-all3media-fast-portfolio/",
-      "outlet": "Broadband TV News",
-      "region": "uk"
-    },
-    {
-      "ref": 7,
-      "title": "Cleared radio advert ends with Ofcom breach",
-      "link": "https://radiotoday.co.uk/2026/08/cleared-radio-advert-ends-with-ofcom-breach/",
-      "outlet": "RadioToday",
-      "region": "uk"
-    },
-    {
-      "ref": 8,
-      "title": "Disney+ takes global rights to Formula E in multi-year deal",
-      "link": "https://www.c21media.net/news/disney-takes-global-rights-to-formula-e-in-multi-year-deal/",
+      "title": "Gary Neville’s The Overlap lands Disney+ sponsorship deal for two football series",
+      "link": "https://www.c21media.net/news/gary-nevilles-the-overlap-lands-disney-sponsorship-deal-for-two-football-series/",
       "outlet": "C21Media",
       "region": "uk"
     },
     {
-      "ref": 9,
-      "title": "Disney+ takes global Formula E rights",
-      "link": "https://www.broadbandtvnews.com/2026/08/11/disney-takes-global-formula-e-rights/",
-      "outlet": "Broadband TV News",
+      "ref": 3,
+      "title": "The Overlap signs Disney+ deal",
+      "link": "https://www.advanced-television.com/2026/08/13/the-overlap-coming-to-disney/",
+      "outlet": "Advanced Television",
       "region": "uk"
     },
     {
-      "ref": 10,
-      "title": "Will Paramount Leave California? Execs Say It’s On The Table",
-      "link": "https://tvnewscheck.com/business/article/will-paramount-leave-california-execs-say-its-on-the-table/",
+      "ref": 4,
+      "title": "SNL UK returning to Sky with six more episodes and all 11 cast members",
+      "link": "https://www.c21media.net/news/snl-uk-returning-to-sky-with-six-more-episodes-and-all-11-cast-members/",
+      "outlet": "C21Media",
+      "region": "uk"
+    },
+    {
+      "ref": 5,
+      "title": "Paramount Considers Moving CBS News Out Of NYC",
+      "link": "https://tvnewscheck.com/journalism/article/paramount-considers-moving-cbs-news-out-of-nyc/",
       "outlet": "TVNewsCheck",
       "region": "americas"
     },
     {
-      "ref": 11,
-      "title": "Paramount Has Spent 100 Years In Hollywood. David Ellison Loved That. Until He Didn’t",
-      "link": "https://tvnewscheck.com/business/article/paramount-has-spent-100-years-in-hollywood-david-ellison-loved-that-until-he-didnt/",
-      "outlet": "TVNewsCheck",
-      "region": "americas"
-    },
-    {
-      "ref": 12,
+      "ref": 6,
       "title": "CRTC weighs indefinite TV broadcast licences",
       "link": "https://mediaincanada.com/2026/08/12/crtc-weighs-indefinite-tv-broadcast-licences/",
       "outlet": "Media in Canada",
       "region": "americas"
     },
     {
-      "ref": 13,
+      "ref": 7,
       "title": "CRTC considering indefinite TV broadcast licences",
       "link": "https://playbackonline.ca/2026/08/11/crtc-considering-indefinite-tv-broadcast-licences/",
       "outlet": "Playback",
