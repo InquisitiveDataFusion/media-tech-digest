@@ -82,5 +82,12 @@ jobs:
           git commit -m "Digest for $(date -u +%Y-%m-%d)"
           # Both triggers can overlap if GitHub delays one of them. Rebasing
           # first means the second push tops up rather than being rejected.
-          git pull --rebase origin "${GITHUB_REF_NAME}"
-          git push
+          # Show anything unexpected in the tree, so a stray modified file
+          # is visible in the log rather than breaking the push silently.
+          echo "Working tree state:"
+          git status --porcelain
+          git push || {
+            echo "Push rejected, another run got there first. Syncing and retrying."
+            git pull --rebase --autostash origin "${GITHUB_REF_NAME}"
+            git push
+          }
