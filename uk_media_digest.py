@@ -63,6 +63,10 @@ SITE_SUBTITLE_SHORT = "Summarised with AI"
 # Keep it very short, iOS truncates at roughly twelve characters.
 SITE_SHORT_NAME = "Digest"
 
+def log_early(msg):
+    print(msg, flush=True)
+
+
 GEMINI_BASE = "https://generativelanguage.googleapis.com/v1beta/models"
 TEXT_MODELS = [
     "gemini-3.5-flash",
@@ -81,8 +85,37 @@ USER_AGENT = (
 # Raised from 26 after a diagnostic run found 122 qualifying articles in a
 # single window, of which only 52 were being sent. Each region gets its own
 # Gemini call now, so a larger list per region is comfortably affordable.
-MAX_ARTICLES_PER_REGION = 45
-MIN_RELEVANCE_SCORE = 4
+def _env_int(name, default):
+    raw = (os.getenv(name) or "").strip()
+    if not raw:
+        return default
+    try:
+        return int(raw)
+    except ValueError:
+        log_early(f"{name}={raw!r} is not a whole number. Using {default}.")
+        return default
+
+
+def _env_float(name, default):
+    raw = (os.getenv(name) or "").strip()
+    if not raw:
+        return default
+    try:
+        return float(raw)
+    except ValueError:
+        log_early(f"{name}={raw!r} is not a number. Using {default}.")
+        return default
+
+
+MAX_ARTICLES_PER_REGION = _env_int("MAX_PER_REGION", 45)
+
+# One-off overrides, set from the Run workflow form. All optional.
+#   WINDOW_DAYS  widen the period covered, instead of "since the last run"
+#   MIN_SCORE    lower the relevance bar
+#   GENEROUS     ask for a longer digest and give it room to write it
+WINDOW_DAYS = _env_float("WINDOW_DAYS", 0)
+GENEROUS = (os.getenv("GENEROUS") or "").strip().lower() in ("1", "true", "yes")
+MIN_RELEVANCE_SCORE = _env_int("MIN_SCORE", 4)
 
 # Above this many articles in one region, the digest is written in separate
 # calls per region and stitched together, rather than one overloaded prompt.
@@ -128,6 +161,28 @@ FEEDS = [
     ("Digiday", "https://digiday.com/feed/", "americas"),                        # NEW
     ("Nieman Lab", "https://www.niemanlab.org/feed/", "americas"),               # NEW
     ("Adweek", "https://www.adweek.com/feed/", "americas"),                      # NEW
+
+    # ---------- Additional candidates, added for breadth ----------
+    # None of these are verified. Run feed_check.py and comment out the
+    # failures. They are here because a showcase edition needs volume.
+    ("The Drum", "https://www.thedrum.com/feeds/rss.xml", "uk"),
+    ("TVBEurope", "https://www.tvbeurope.com/feed", "uk"),
+    ("RXTV info", "https://rxtvinfo.com/feed/", "uk"),
+    ("BBC Business", "https://feeds.bbci.co.uk/news/business/rss.xml", "uk"),
+    ("Sky News Tech", "https://feeds.skynews.com/feeds/rss/technology.xml", "uk"),
+    ("The Register", "https://www.theregister.com/headlines.atom", "global"),
+    ("ZDNet", "https://www.zdnet.com/news/rss.xml", "global"),
+    ("CNET News", "https://www.cnet.com/rss/news/", "global"),
+    ("Light Reading", "https://www.lightreading.com/rss_simple.asp", "global"),
+    ("Cynopsis", "https://www.cynopsis.com/feed/", "americas"),
+    ("NextTV", "https://www.nexttv.com/feeds/all", "americas"),
+    ("The Wrap", "https://www.thewrap.com/feed/", "americas"),
+    ("MediaPost", "https://www.mediapost.com/rss/", "americas"),
+    ("Ad Age", "https://adage.com/rss.xml", "americas"),
+    ("Streaming Media", "https://www.streamingmedia.com/rss/", "americas"),
+    ("RAIN News", "https://rainnews.com/feed/", "americas"),
+    ("Radio Ink", "https://radioink.com/feed/", "americas"),
+    ("BetaKit", "https://betakit.com/feed/", "americas"),
 
     # ---------- Canada media and tech ----------
     ("Playback", "https://playbackonline.ca/feed/", "americas"),                 # NEW
@@ -231,7 +286,9 @@ SPECIALIST_FEEDS = {
     "The Media Leader", "RadioToday", "Digital TV Europe", "Broadcast Now",
     "Press Gazette", "TVNewsCheck", "Digiday", "Adweek", "Playback",
     "Media in Canada", "Broadcast Dialogue", "Cartt.ca", "Nieman Lab",
-    "Podnews",
+    "Podnews", "The Drum", "TVBEurope", "RXTV info", "Light Reading",
+    "Cynopsis", "NextTV", "MediaPost", "Ad Age", "Streaming Media",
+    "RAIN News", "Radio Ink",
 }
 SPECIALIST_BONUS = 4
 
@@ -647,14 +704,22 @@ def build_prompt(articles, region, window_start, now_uk, corrections=None):
         "Write in British English even when covering American stories. Never use "
         "em dashes or en dashes.",
         "Plain, concrete language. Short sentences. Active voice.",
-        "Only include a section in \"sections\" if you actually have material for "
-        "it. An empty or padded section is worse than no section. Equally, do "
-        "not collapse everything into one section: if the articles cover five "
-        "different themes, write five sections, each with 2 to 3 paragraphs.",
+        ("Write a section for EVERY theme the articles cover, and give each one 3 "
+         "to 4 substantial paragraphs. This is a showcase edition, so breadth and "
+         "depth both matter. Never invent material to fill a section, but do not "
+         "leave a theme out that the articles genuinely support."
+         if GENEROUS else
+         "Only include a section in \"sections\" if you actually have material for "
+         "it. An empty or padded section is worse than no section. Equally, do "
+         "not collapse everything into one section: if the articles cover five "
+         "different themes, write five sections, each with 2 to 3 paragraphs."),
         "\"coming_up\" must contain only dates explicitly stated in the articles, "
         "such as a consultation closing or results being published. Never "
         "speculate. If no dates are stated, return an empty list.",
-        "Give 5 to 8 items in \"glance\", each a different story. Use the whole range when the articles support it.",
+        ("Give 8 to 12 items in \"glance\", each a different story."
+         if GENEROUS else
+         "Give 5 to 8 items in \"glance\", each a different story. Use the whole "
+         "range when the articles support it."),
         f"Everything you write must relate to {scope}. Ignore anything else, "
         "including celebrity and personal-life stories.",
         "Do not mention any employer, agency or brand as the publisher of this "
@@ -840,13 +905,24 @@ def call_gemini(model, prompt, config):
         if "error" in body:
             code = body["error"].get("code")
             message = body["error"].get("message", "")
-            if (code == 400 and "responseMimeType" in working
-                    and not dropped_json_mode
-                    and ("mime" in message.lower() or "json" in message.lower())):
-                log(f"  {model}: JSON mode rejected, retrying without it.")
-                working.pop("responseMimeType", None)
-                dropped_json_mode = True
-                continue
+            if code == 400 and not dropped_json_mode:
+                removed = []
+                low = message.lower()
+                if "thinking" in low or "thinkingbudget" in low:
+                    if working.pop("thinkingConfig", None) is not None:
+                        removed.append("thinkingConfig")
+                if "mime" in low or "json" in low or "schema" in low:
+                    if working.pop("responseMimeType", None) is not None:
+                        removed.append("responseMimeType")
+                if not removed:
+                    # Unclear which field upset it, so drop both optional ones
+                    for field in ("thinkingConfig", "responseMimeType"):
+                        if working.pop(field, None) is not None:
+                            removed.append(field)
+                if removed:
+                    log(f"  {model}: rejected {', '.join(removed)}, retrying without.")
+                    dropped_json_mode = True
+                    continue
             error = RuntimeError(f"{model}: {code} {message}")
             error.retryable = code in (404, 429, 500, 503)
             raise error
@@ -858,7 +934,9 @@ def call_gemini(model, prompt, config):
             raise error
 
         if candidates[0].get("finishReason") == "MAX_TOKENS":
-            log(f"  {model}: hit the token limit, output may be truncated.")
+            log(f"  *** {model} HIT THE TOKEN LIMIT "
+                f"({working.get('maxOutputTokens')}). The digest was cut short "
+                f"and will be missing its last items. Raise maxOutputTokens.")
         return candidates[0]
 
     raise RuntimeError(f"{model}: exhausted retries")
@@ -902,10 +980,16 @@ def generate_digest(articles, window_start, now_uk):
     if not by_region:
         raise RuntimeError("No region had enough articles to write about.")
 
+    # 5120 was too tight. On Gemini 2.5 and later, thinking tokens are drawn
+    # from the same allowance as the answer, so asking for a longer digest made
+    # the model think harder, run out mid-JSON, and get silently truncated back
+    # to something shorter. Hence a much larger ceiling, and an explicit
+    # thinking budget so the words get the room instead.
     config = {
         "temperature": 0.3,
-        "maxOutputTokens": 5120,
+        "maxOutputTokens": 24576 if GENEROUS else 16384,
         "responseMimeType": "application/json",
+        "thinkingConfig": {"thinkingBudget": 512},
     }
 
     total = sum(len(v) for v in by_region.values())
@@ -1332,7 +1416,20 @@ def main():
         raise SystemExit("GEMINI_API_KEY is not set.")
 
     now_uk = check_clock()
-    window_start = previous_scheduled_run(now_uk)
+    if WINDOW_DAYS > 0:
+        window_start = now_uk - timedelta(days=WINDOW_DAYS)
+        log(f"WINDOW_DAYS override: covering the last {WINDOW_DAYS} days "
+            f"instead of the period since the last run.")
+    else:
+        window_start = previous_scheduled_run(now_uk)
+
+    if GENEROUS:
+        log("GENEROUS mode: asking for a longer digest with more sections.")
+    if MIN_RELEVANCE_SCORE != 4:
+        log(f"MIN_SCORE override: relevance bar set to {MIN_RELEVANCE_SCORE}.")
+    if MAX_ARTICLES_PER_REGION != 45:
+        log(f"MAX_PER_REGION override: {MAX_ARTICLES_PER_REGION} per region.")
+
     log(f"Building the edition for {now_uk:%A %d %B %Y}.")
     log(f"Covering {window_start:%a %d %b %H:%M} to {now_uk:%a %d %b %H:%M}.")
 
@@ -1354,6 +1451,11 @@ def main():
         f"{now_uk:%A %d %B %Y} \u00b7 covering "
         f"{window_start:%a %d %b} to {now_uk - timedelta(days=1):%a %d %b}"
     )
+    if WINDOW_DAYS > 0:
+        date_line = (
+            f"{now_uk:%A %d %B %Y} \u00b7 covering the "
+            f"{int(WINDOW_DAYS)} days to {now_uk:%a %d %b}"
+        )
     headline = digest.get("headline") or "Media and technology round-up"
     footer_note = (
         f"Built from {len(cited)} cited articles across "
