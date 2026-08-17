@@ -1,0 +1,416 @@
+{
+  "schema": 1,
+  "iso": "2026-08-17",
+  "headline": "Paramount and Warner Bros merger nears completion as Disney+ expands sports content",
+  "date_line": "Monday 17 August 2026 · covering Thu 13 Aug to Sun 16 Aug",
+  "footer_note": "Built from 28 cited articles across 13 outlets. Written by gemini-3.1-flash-lite, gemini-3.5-flash.",
+  "model": "gemini-3.1-flash-lite, gemini-3.5-flash",
+  "backfilled": false,
+  "generated_at": "2026-08-17T03:36:15+01:00",
+  "digest": {
+    "headline": "Paramount and Warner Bros merger nears completion as Disney+ expands sports content",
+    "lead": "The Paramount and Warner Bros merger has cleared final global regulatory hurdles, while Disney+ has secured a major football podcast deal with The Overlap. These developments highlight a week of significant shifts across the media landscapes of the United Kingdom, the United States, and Canada.",
+    "glance": [
+      {
+        "text": "Disney+ signed a one-year sponsorship deal with Gary Neville's football platform The Overlap.",
+        "section": "deals",
+        "refs": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "Sky is bringing back Saturday Night Live UK for six more episodes with its full cast.",
+        "section": "deals",
+        "refs": [
+          5
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "Channel 4 has acquired the Australian hospital comedy-drama series The F Ward.",
+        "section": "deals",
+        "refs": [
+          6,
+          7
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "Virgin Media O2 has added the Tennis Channel to its streaming TV line-up at no extra cost.",
+        "section": "deals",
+        "refs": [
+          8,
+          9
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "Channel 4 commissioned the lifestyle series Scotland's Golden Coast for its sister channel More4.",
+        "section": "deals",
+        "refs": [
+          10
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "UK broadband market growth has flattened, reaching 29.37 million connections at the end of Q2 2026.",
+        "section": "results",
+        "refs": [
+          11
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "Narrative Entertainment selected Nagravision's platform to support personalisation and audience measurement on its streaming services.",
+        "section": "tech",
+        "refs": [
+          12
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "Mexico has approved the Paramount and Warner Bros. Discovery merger, leaving a US state lawsuit as the sole remaining regulatory barrier.",
+        "section": "deals",
+        "refs": [
+          13
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "A US judge has ordered Google to make alternative app store installations easier on its Google Play platform within one week.",
+        "section": "tech",
+        "refs": [
+          14,
+          15,
+          16
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "Apple has proposed charging a five to fifteen percent commission on digital purchases made outside its official App Store.",
+        "section": "tech",
+        "refs": [
+          17,
+          18,
+          19
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "Hollywood unions are divided over the Paramount-Warner merger, with the Writers Guild of America fighting to block the deal.",
+        "section": "deals",
+        "refs": [
+          20,
+          21
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "New Disney chief executive Josh D'Amaro has defended ABC's journalistic integrity during an ongoing dispute with the Federal Communications Commission.",
+        "section": "regulation",
+        "refs": [
+          22,
+          23
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "Nexstar has started replacing board members at Tegna following several resignations at the broadcasting company.",
+        "section": "deals",
+        "refs": [
+          24
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "Anthropic is in talks to acquire Israeli artificial intelligence startup Decart in a deal valued at six billion dollars.",
+        "section": "tech",
+        "refs": [
+          25
+        ],
+        "region": "americas"
+      }
+    ],
+    "sections": [
+      {
+        "id": "deals",
+        "paragraphs": [
+          "Disney+ has agreed a one-year sponsorship and content deal with soccer podcast producer The Overlap. The multimillion-pound package includes Stick to Football and a new format, Stick to United, featuring Wayne Rooney. This move serves as a direct rival to Netflix's partnership with Goalhanger.",
+          "Sky is preparing the return of Saturday Night Live UK. The broadcaster has ordered six more episodes of the comedy show, retaining all 11 cast members from its debut season.",
+          "Channel 4 has acquired the Australian medical comedy-drama The F Ward. Distributed by Paramount Global Content Distribution, the series has been licensed to 100 international markets, making it the fastest-selling Australian drama pre-launch."
+        ],
+        "region": "uk"
+      },
+      {
+        "id": "results",
+        "paragraphs": [
+          "The UK fixed broadband market has entered a flat phase. Total retail and wholesale connections reached an estimated 29.37 million at the end of the second quarter of 2026. This represents a rise of just 1,000 connections quarter-on-quarter.",
+          "Consumer segments accounted for the vast majority of these connections, making up approximately 27.06 million of the total UK broadband market."
+        ],
+        "region": "uk"
+      },
+      {
+        "id": "tech",
+        "paragraphs": [
+          "UK free-to-air broadcaster Narrative Entertainment has partnered with Nagravision. The broadcaster will use the OpenTV ENTera platform to improve personalisation, audience measurement and service development across its connected TV and streaming operations.",
+          "Virgin Media O2 has expanded its IPTV offering by adding the Tennis Channel. The 24-hour service is available on channel 542 for Virgin TV 360 and Flex customers at no extra cost."
+        ],
+        "region": "uk"
+      },
+      {
+        "id": "deals",
+        "paragraphs": [
+          "Paramount has obtained regulatory clearance from Mexico for its merger with Warner Bros. Discovery. The transaction has now satisfied conditions in 68 countries. A lawsuit by 12 US state attorneys general remains the final obstacle to closing the deal.",
+          "The legal battle has created divisions within Hollywood. The Directors Guild of America and IATSE are seeking a settlement to keep production in the US. However, the Writers Guild of America is actively fighting to block the merger.",
+          "Amid the regulatory delays, Warner Bros. Discovery chief executive David Zaslav has sold over 195 million dollars in company stock. Meanwhile, Paramount has rejected reports that it is willing to sell CNN to secure a settlement."
+        ],
+        "region": "americas"
+      },
+      {
+        "id": "tech",
+        "paragraphs": [
+          "A US federal judge has ordered Google to make it easier for users to install alternative app stores. Google has been given one week to implement the changes on its Google Play platform. The ruling follows a long-running legal dispute with Epic Games.",
+          "Apple has proposed a new fee structure for purchases made outside its App Store. The company wants to collect a commission of up to 15 percent on external transactions. Epic Games has opposed the request, calling it unreasonable.",
+          "In other technology developments, Apple is negotiating with publishers to pay for content to improve its Siri voice assistant. The deals aim to provide the artificial intelligence tool with current news. Separately, Anthropic is discussing a six billion dollar acquisition of Israeli startup Decart."
+        ],
+        "region": "americas"
+      },
+      {
+        "id": "regulation",
+        "paragraphs": [
+          "Disney chief executive Josh D'Amaro has asserted that ABC will maintain its journalistic independence. The broadcaster is currently involved in a dispute with the Federal Communications Commission. D'Amaro stated that the network will not be told how to run its business.",
+          "Paramount is also considering moving CBS News out of New York City. This potential relocation comes as legal tensions rise with attorneys general in New York and California. Chief executive David Ellison has also threatened to move Paramount out of California if the antitrust suit is not settled."
+        ],
+        "region": "americas"
+      }
+    ],
+    "people_moves": [
+      {
+        "text": "Denise Dresser, Chief Revenue Officer, OpenAI (departed)",
+        "refs": [
+          26
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "Lee Harris, Worldwide News Network lead, Red Apple Media (departed)",
+        "refs": [
+          27
+        ],
+        "region": "americas"
+      }
+    ],
+    "coming_up": [
+      {
+        "date": "28 Sep 2026",
+        "text": "CBS Sunday Morning launches its live conversation series at the 92nd Street Y with Sylvester Stallone",
+        "refs": [
+          28
+        ],
+        "region": "americas"
+      }
+    ]
+  },
+  "articles": [
+    {
+      "ref": 1,
+      "title": "Disney+ secures rights to Gary Neville’s Overlap content in riposte to Lineker’s Netflix deal",
+      "link": "https://www.theguardian.com/football/2026/aug/13/disney-buys-rights-gary-neville-overlap-podcast-content-gary-lineker-netflix-deal",
+      "outlet": "Guardian Media",
+      "region": "uk"
+    },
+    {
+      "ref": 2,
+      "title": "Disney+ signs football deal with The Overlap",
+      "link": "https://www.broadbandtvnews.com/2026/08/13/disney-signs-football-deal-with-the-overlap/",
+      "outlet": "Broadband TV News",
+      "region": "uk"
+    },
+    {
+      "ref": 3,
+      "title": "Gary Neville’s The Overlap lands Disney+ sponsorship deal for two football series",
+      "link": "https://www.c21media.net/news/gary-nevilles-the-overlap-lands-disney-sponsorship-deal-for-two-football-series/",
+      "outlet": "C21Media",
+      "region": "uk"
+    },
+    {
+      "ref": 4,
+      "title": "The Overlap signs Disney+ deal",
+      "link": "https://www.advanced-television.com/2026/08/13/the-overlap-coming-to-disney/",
+      "outlet": "Advanced Television",
+      "region": "uk"
+    },
+    {
+      "ref": 5,
+      "title": "SNL UK returning to Sky with six more episodes and all 11 cast members",
+      "link": "https://www.c21media.net/news/snl-uk-returning-to-sky-with-six-more-episodes-and-all-11-cast-members/",
+      "outlet": "C21Media",
+      "region": "uk"
+    },
+    {
+      "ref": 6,
+      "title": "Channel 4, CBC, HBO Asia among buyers for Aussie medical show The F Ward",
+      "link": "https://www.c21media.net/news/channel-4-cbc-hbo-asia-among-buyers-for-aussie-medical-show-the-f-ward/",
+      "outlet": "C21Media",
+      "region": "uk"
+    },
+    {
+      "ref": 7,
+      "title": "Paramount distributes The F Ward to 100 markets",
+      "link": "https://www.advanced-television.com/2026/08/14/paramount-distributes-the-f-ward-to-100-markets/",
+      "outlet": "Advanced Television",
+      "region": "uk"
+    },
+    {
+      "ref": 8,
+      "title": "Virgin TV adds Tennis Channel",
+      "link": "https://www.advanced-television.com/2026/08/13/virgin-tv-add-tennis-channel/",
+      "outlet": "Advanced Television",
+      "region": "uk"
+    },
+    {
+      "ref": 9,
+      "title": "Virgin Media adds Tennis Channel",
+      "link": "https://www.broadbandtvnews.com/2026/08/13/virgin-media-adds-tennis-channel/",
+      "outlet": "Broadband TV News",
+      "region": "uk"
+    },
+    {
+      "ref": 10,
+      "title": "Channel 4 orders lifestyle series Scotland’s Golden Coast",
+      "link": "https://www.c21media.net/news/channel-4-orders-lifestyle-series-scotlands-golden-coast/",
+      "outlet": "C21Media",
+      "region": "uk"
+    },
+    {
+      "ref": 11,
+      "title": "Data: UK broadband market enters flat phase",
+      "link": "https://www.advanced-television.com/2026/08/13/data-uk-broadband-market-enters-flat-phase/",
+      "outlet": "Advanced Television",
+      "region": "uk"
+    },
+    {
+      "ref": 12,
+      "title": "Narrative selects Nagravision for streaming platform",
+      "link": "https://www.broadbandtvnews.com/2026/08/13/narrative-selects-nagravision-for-streaming-platform/",
+      "outlet": "Broadband TV News",
+      "region": "uk"
+    },
+    {
+      "ref": 13,
+      "title": "Paramount-Warner Bros. Merger Gets Mexico’s Approval, Leaving States’ Lawsuit as the Only Barrier Left",
+      "link": "https://variety.com/2026/film/news/paramount-warner-bros-mexicos-settle-ellison-1236834861/",
+      "outlet": "Variety",
+      "region": "americas"
+    },
+    {
+      "ref": 14,
+      "title": "Google must make it easier to install alternative app stores, judge orders",
+      "link": "https://www.engadget.com/2237323/google-must-make-it-easier-to-install-alternative-app-stores-judge-orders/",
+      "outlet": "Engadget",
+      "region": "americas"
+    },
+    {
+      "ref": 15,
+      "title": "Judge gives Google one week to fix \"anticompetitive\" app store download in Google Play",
+      "link": "https://arstechnica.com/gadgets/2026/08/google-ordered-to-make-it-easier-to-download-alternative-android-app-stores/",
+      "outlet": "Ars Technica",
+      "region": "americas"
+    },
+    {
+      "ref": 16,
+      "title": "‘That is not acceptable’: Judge orders Google to make rival app store installs easier",
+      "link": "https://www.theverge.com/policy/979852/that-is-not-acceptable-judge-orders-google-to-make-rival-app-store-installs-easier",
+      "outlet": "The Verge",
+      "region": "americas"
+    },
+    {
+      "ref": 17,
+      "title": "Apple proposes taking a 5-to-15 percent cut from external App Store payments",
+      "link": "https://www.engadget.com/2236861/apple-proposal-5-to-15-percent-cut-external-app-store-payments/",
+      "outlet": "Engadget",
+      "region": "americas"
+    },
+    {
+      "ref": 18,
+      "title": "Apple proposes to take a 15% cut of purchases made outside the App Store",
+      "link": "https://techcrunch.com/2026/08/14/apple-proposes-to-take-a-15-cut-of-purchases-made-outside-the-app-store/",
+      "outlet": "TechCrunch",
+      "region": "americas"
+    },
+    {
+      "ref": 19,
+      "title": "Apple and Epic argue over how much Apple should get from purchases made outside the App Store",
+      "link": "https://www.theverge.com/tech/979967/apple-epic-games-external-links-fees-filing",
+      "outlet": "The Verge",
+      "region": "americas"
+    },
+    {
+      "ref": 20,
+      "title": "The War Over Warner Bros. Is Splintering Hollywood’s Labor World",
+      "link": "https://www.hollywoodreporter.com/business/business-news/paramount-warner-bros-labor-world-1236673223/",
+      "outlet": "Hollywood Reporter",
+      "region": "americas"
+    },
+    {
+      "ref": 21,
+      "title": "Hollywood Unions Split: DGA, IATSE Seek Settlement While WGA Fights To Block Paramount-Warner Merger",
+      "link": "https://tvnewscheck.com/business/article/hollywood-unions-split-dga-iatse-seek-settlement-while-wga-fights-to-block-paramount-warner-merger/",
+      "outlet": "TVNewsCheck",
+      "region": "americas"
+    },
+    {
+      "ref": 22,
+      "title": "Disney CEO Josh D’Amaro Says ABC Is ‘Not Going to Be Told How to Run’ Its Business Amid FCC Fight",
+      "link": "https://www.thewrap.com/industry-news/business/disney-ceo-josh-damaro-abc-license-renewal-the-view-fcc-investigation-comments/",
+      "outlet": "The Wrap",
+      "region": "americas"
+    },
+    {
+      "ref": 23,
+      "title": "New Disney CEO: “Not Happy With Where The Stock Stands Now”",
+      "link": "https://tvnewscheck.com/business/article/disney-ceo-discusses-park-revenue-disney-with-cnbc/",
+      "outlet": "TVNewsCheck",
+      "region": "americas"
+    },
+    {
+      "ref": 24,
+      "title": "Nexstar Begins Replacing TEGNA Board Members",
+      "link": "https://tvnewscheck.com/business/article/nexstar-begins-replacing-tegna-board-members/",
+      "outlet": "TVNewsCheck",
+      "region": "americas"
+    },
+    {
+      "ref": 25,
+      "title": "Anthropic In Talks To Acquire Israeli AI Startup Decart For $6 Billion",
+      "link": "https://tvnewscheck.com/ai/article/anthropic-in-talks-to-acquire-israeli-ai-startup-decart-for-6-billion/",
+      "outlet": "TVNewsCheck",
+      "region": "americas"
+    },
+    {
+      "ref": 26,
+      "title": "OpenAI Replaces Chief Revenue Officer After Just 8 Months",
+      "link": "https://tvnewscheck.com/ai/article/openai-replaces-chief-revenue-officer-after-just-8-months/",
+      "outlet": "TVNewsCheck",
+      "region": "americas"
+    },
+    {
+      "ref": 27,
+      "title": "Lee Harris Out At Red Apple Media After Three Months",
+      "link": "https://radioink.com/2026/08/13/lee-harris-out-at-red-apple-media-after-three-months/",
+      "outlet": "Radio Ink",
+      "region": "americas"
+    },
+    {
+      "ref": 28,
+      "title": "CBS Sunday Morning to Launch Live Conversation Series At 92nd Street Y With Sylvester Stallone",
+      "link": "https://tvnewscheck.com/programming/article/cbs-sunday-morning-to-launch-live-conversation-series-at-92nd-street-y-with-sylvester-stallone/",
+      "outlet": "TVNewsCheck",
+      "region": "americas"
+    }
+  ]
+}
