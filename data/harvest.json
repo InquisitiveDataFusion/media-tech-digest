@@ -1,6 +1,366 @@
 {
- "updated": "2026-08-19T20:06:41+01:00",
+ "updated": "2026-08-19T22:59:06+01:00",
  "items": [
+  {
+   "key": "princeharrymeghanmarkletomovebacktotheuk",
+   "title": "Prince Harry, Meghan Markle to Move Back to the U.K.",
+   "summary": "The Duke and Duchess of Sussex are set to leave California and take up a private residence outside London after leaving for the U.S. in 2020.",
+   "link": "https://www.hollywoodreporter.com/news/general-news/prince-harry-meghan-markle-moving-back-uk-1236677373/",
+   "outlet": "Hollywood Reporter",
+   "feed_region": "americas",
+   "published": "2026-08-19T22:52:29+01:00"
+  },
+  {
+   "key": "cognitionceodeniesreportthatspacextriedtoacquirethestartup",
+   "title": "Cognition CEO denies report that SpaceX tried to acquire the startup",
+   "summary": "SpaceX was reportedly in talks to buy AI coding startup Cognition. SpaceX has already acquired Cursor as it races to catch up to rivals like OpenAI and Anthropic in enterprise AI.",
+   "link": "https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup/",
+   "outlet": "TechCrunch",
+   "feed_region": "global",
+   "published": "2026-08-19T22:51:23+01:00"
+  },
+  {
+   "key": "traviskalanickkicksoffanotherroundofvcbashing1arehelpful",
+   "title": "Travis Kalanick kicks off another round of VC bashing: ‘1% are helpful’",
+   "summary": "After raising $1.7 billion for his new robotics company Atoms, Travis Kalanick is introspective about the role VCs have played in his career.",
+   "link": "https://techcrunch.com/2026/08/19/travis-kalanick-kicks-off-another-round-of-vc-bashing-1-are-helpful/",
+   "outlet": "TechCrunch",
+   "feed_region": "global",
+   "published": "2026-08-19T22:48:24+01:00"
+  },
+  {
+   "key": "sporteuropetvrelauncheswithnewbrandidentityandstreamingexperience",
+   "title": "SPORTEUROPE.TV relaunches with new brand identity and streaming experience",
+   "summary": "SPORTEUROPE.TV has relaunched its website as part of a broader overhaul of the European sports streaming platform. The new web presence features a redesigned interface, simplified navigation and an expanded […]",
+   "link": "https://www.broadbandtvnews.com/2026/08/19/sporteurope-tv-relaunches-with-new-brand-identity-and-streaming-experience/",
+   "outlet": "Broadband TV News",
+   "feed_region": "uk",
+   "published": "2026-08-19T22:44:09+01:00"
+  },
+  {
+   "key": "cynopsis81926peacockhikespricesforthefourthtimeinjustasmanyyears",
+   "title": "Cynopsis 8/19/26: Peacock Hikes Prices For The Fourth Time In Just As Many Years",
+   "summary": "/* ===== CLIENT RESETS ===== */ body, #bodyTable { margin: 0 !important; padding: 0 !important; width: 100% !important; } body { font-family: Roboto, Arial, sans-serif; font-size: 15px; color: #333333; line-height: 24px; } p { font-family: Roboto, Arial, sans-serif; font-size: 15px; color: #333333; line-height:...",
+   "link": "https://www.cynopsis.com/cynopsis-8-19-26-peacock-hikes-prices-for-the-fourth-time-in-just-as-many-years/",
+   "outlet": "Cynopsis",
+   "feed_region": "americas",
+   "published": "2026-08-19T22:19:33+01:00"
+  },
+  {
+   "key": "valvesteamframevideosshowhowtoweartheheadsetperfectthefitandsignin",
+   "title": "Valve Steam Frame videos show how to wear the headset, perfect the fit and sign in",
+   "summary": "Eight leaked Steam Frame videos are informative and kinda silly.",
+   "link": "https://www.engadget.com/2240427/valve-steam-frame-videos-show-how-to-wear-the-headset-perfect-the-fit-and-sign-in/",
+   "outlet": "Engadget",
+   "feed_region": "global",
+   "published": "2026-08-19T22:14:31+01:00"
+  },
+  {
+   "key": "waymoojaivansarenowavailableforallridersinthreecities",
+   "title": "Waymo Ojai vans are now available for all riders in three cities",
+   "summary": "It's a full rollout for the driverless vans in San Francisco, Phoenix and Los Angeles.",
+   "link": "https://www.engadget.com/2240419/waymo-ojai-vans-are-now-available-for-all-riders-in-three-cities/",
+   "outlet": "Engadget",
+   "feed_region": "global",
+   "published": "2026-08-19T22:07:58+01:00"
+  },
+  {
+   "key": "sandrabullockopensupaboutthetraumaticdeathoflatepartnerbryanrandall",
+   "title": "Sandra Bullock Opens Up About the ‘Traumatic’ Death of Late Partner Bryan Randall",
+   "summary": "\"I wasn’t allowed to speak about it,\" the actress shares three years after the model-turned-photographer died from ALS in 2023 The post Sandra Bullock Opens Up About the ‘Traumatic’ Death of Late Partner Bryan Randall appeared first on TheWrap .",
+   "link": "https://www.thewrap.com/culture-lifestyle/culture/sandra-bullock-late-partner-bryan-randall-dead-als/",
+   "outlet": "The Wrap",
+   "feed_region": "americas",
+   "published": "2026-08-19T22:03:01+01:00"
+  },
+  {
+   "key": "whyaicompaniesaregobblingupbooks",
+   "title": "Why AI companies are gobbling up books",
+   "summary": "Plus: Tech is watching the US-Canada tariff deal. The post Why AI companies are gobbling up books first appeared on BetaKit .",
+   "link": "https://betakit.com/why-ai-companies-are-gobbling-up-books/",
+   "outlet": "BetaKit",
+   "feed_region": "americas",
+   "published": "2026-08-19T22:00:00+01:00"
+  },
+  {
+   "key": "dowclimbs120nasdaqadds41sp500rises16",
+   "title": "Dow Climbs 120, Nasdaq Adds 41, S&P 500 Rises 16",
+   "summary": "NEW YORK (AP) — U.S. stocks rose Wednesday after the U.S. Treasury Department announced a move that could ease pressure coming from the bond market. Strong profit reports for the spring … The post Dow Climbs 120, Nasdaq Adds 41, S&P 500 Rises 16 appeared first on TV News Check .",
+   "link": "https://tvnewscheck.com/business/article/dow-climbs-120-nasdaq-adds-41-sp-500-rises-16/",
+   "outlet": "TVNewsCheck",
+   "feed_region": "americas",
+   "published": "2026-08-19T21:40:51+01:00"
+  },
+  {
+   "key": "ctvsthesocialshiftstovideopodcastformatforseason14",
+   "title": "CTV’s ‘The Social’ shifts to video podcast format for Season 14",
+   "summary": "CTV’s The Social is evolving into a podcast-first format as the daytime talk show enters its 14th season this fall. The network says the weekday broadcast, which was previously filmed […]",
+   "link": "https://broadcastdialogue.com/ctvs-the-social-shifts-to-video-podcast-format-for-season-14/",
+   "outlet": "Broadcast Dialogue",
+   "feed_region": "americas",
+   "published": "2026-08-19T21:36:51+01:00"
+  },
+  {
+   "key": "pokmonandpolaroidarecollaboratingonthreenewadorablecameras",
+   "title": "Pokémon and Polaroid are collaborating on three new adorable cameras",
+   "summary": "The new cameras are prettier versions of Polaroid Now and Polaroid Go.",
+   "link": "https://www.engadget.com/2240387/pokemon-polaroid-collaboration-cameras-coming-soon/",
+   "outlet": "Engadget",
+   "feed_region": "global",
+   "published": "2026-08-19T21:27:28+01:00"
+  },
+  {
+   "key": "frameworkrespondstocomplaintsthatbiosupdatebricksryzen7040laptops",
+   "title": "Framework responds to complaints that BIOS update bricks Ryzen 7040 laptops",
+   "summary": "Framework says it's replacing some out-of-warranty AMD mainboards.",
+   "link": "https://arstechnica.com/gadgets/2026/08/framework-responds-to-complaints-that-bios-update-bricked-ryzen-7040-laptops/",
+   "outlet": "Ars Technica",
+   "feed_region": "global",
+   "published": "2026-08-19T21:21:59+01:00"
+  },
+  {
+   "key": "paramountwarnerbrosmergerwillthreaten278billionineconomicvaluesayslaco",
+   "title": "Paramount-Warner Bros. Merger Will Threaten $2.78 Billion in Economic Value, Says L.A. County",
+   "summary": "The county's own report projects that $1.26 billion in lost wages by workers is at stake as part of the overall hit.",
+   "link": "https://www.hollywoodreporter.com/business/business-news/paramount-warner-bros-study-economic-1236677088/",
+   "outlet": "Hollywood Reporter",
+   "feed_region": "americas",
+   "published": "2026-08-19T21:21:18+01:00"
+  },
+  {
+   "key": "rilletraises100mseriescat1bvaluation2yearsafteremergingfromstealth",
+   "title": "Rillet raises $100M Series C at $1B valuation — 2 years after emerging from stealth",
+   "summary": "AI-native account startup Rillet became a unicorn, led by Iconiq, after it doubled its ARR in the past three months, it said.",
+   "link": "https://techcrunch.com/2026/08/19/rillet-raises-100m-series-c-at-1b-valuation-2-years-after-emerging-from-stealth/",
+   "outlet": "TechCrunch",
+   "feed_region": "global",
+   "published": "2026-08-19T21:12:33+01:00"
+  },
+  {
+   "key": "charliehunnamandsonsofanarchycasttoreuniteasthemselvesinfxandhulumetat",
+   "title": "Charlie Hunnam and ‘Sons of Anarchy’ Cast to Reunite as Themselves in FX and Hulu Meta Thriller ‘Legends’",
+   "summary": "The limited series executive produced by Rob Mac will follow the cast of \"Sons of Anarchy\" reuniting at a fan convention The post Charlie Hunnam and ‘Sons of Anarchy’ Cast to Reunite as Themselves in FX and Hulu Meta Thriller ‘Legends’ appeared first on TheWrap .",
+   "link": "https://www.thewrap.com/creative-content/tv-shows/sons-of-anarchy-limited-series-legends-ordered-fx/",
+   "outlet": "The Wrap",
+   "feed_region": "americas",
+   "published": "2026-08-19T21:09:55+01:00"
+  },
+  {
+   "key": "crtcdeniesztarrequesttouserogersnumberportingsystempastdisconnection",
+   "title": "CRTC denies Ztar request to use Rogers number porting system past disconnection",
+   "summary": "This content is restricted to subscribers The post CRTC denies Ztar request to use Rogers number porting system past disconnection appeared first on Cartt.ca .",
+   "link": "https://cartt.ca/crtc-denies-ztar-request-to-use-rogers-number-porting-system-past-disconnection/",
+   "outlet": "Cartt.ca",
+   "feed_region": "americas",
+   "published": "2026-08-19T21:09:39+01:00"
+  },
+  {
+   "key": "georgiandirectoranaurushadzeonmakinghersarajevocompetitionfilmbeforead",
+   "title": "Georgian Director Ana Urushadze on Making Her Sarajevo Competition Film Before “A Dead-End Situation” Got Worse",
+   "summary": "‘Supporting Role,’ about a fading actor’s odyssey through Tbilisi, made it out just before industry censorship protests and a boycott of the state funding agency intensified: \"I don't want to stop doing what I love.\"",
+   "link": "https://www.hollywoodreporter.com/movies/movie-features/ana-urushadze-supporting-role-georgia-sarajevo-film-1236677153/",
+   "outlet": "Hollywood Reporter",
+   "feed_region": "americas",
+   "published": "2026-08-19T21:06:23+01:00"
+  },
+  {
+   "key": "flightattendantsfreakedoutthatgoogleisbuyingtonsofspiritemployeedata",
+   "title": "Flight attendants freaked out that Google is buying tons of Spirit employee data",
+   "summary": "Bankrupt Spirit accused of selling out workers in massive data sale to Google.",
+   "link": "https://arstechnica.com/tech-policy/2026/08/flight-attendants-freaked-out-that-google-to-buy-tons-of-spirit-employee-data/",
+   "outlet": "Ars Technica",
+   "feed_region": "global",
+   "published": "2026-08-19T21:04:41+01:00"
+  },
+  {
+   "key": "trumptoappearonfixerturnedadversarymichaelcohenspodcast",
+   "title": "Trump to Appear on Fixer-Turned-Adversary Michael Cohen’s Podcast",
+   "summary": "The Thursday interview marks a stunning reunion between the president and his former attorney The post Trump to Appear on Fixer-Turned-Adversary Michael Cohen’s Podcast appeared first on TheWrap .",
+   "link": "https://www.thewrap.com/media-platforms/politics/trump-michael-cohen-podcast-mea-culpa/",
+   "outlet": "The Wrap",
+   "feed_region": "americas",
+   "published": "2026-08-19T21:04:38+01:00"
+  },
+  {
+   "key": "gwynethpaltrowallegedlysettothrowdinnerinhonorofsamaltman",
+   "title": "Gwyneth Paltrow allegedly set to throw dinner in honor of Sam Altman",
+   "summary": "The actress' firm Kinship Ventures is an investor in the company.",
+   "link": "https://techcrunch.com/2026/08/19/gwyneth-paltrow-allegedly-set-to-throw-dinner-in-honor-of-sam-altman/",
+   "outlet": "TechCrunch",
+   "feed_region": "global",
+   "published": "2026-08-19T21:04:12+01:00"
+  },
+  {
+   "key": "arobotcouldeventuallyconductyourblooddrawatthedoctorsoffice",
+   "title": "A robot could eventually conduct your blood draw at the doctor's office",
+   "summary": "The FDA has approved a first-of-its-kind automated blood draw device for outpatient settings.",
+   "link": "https://www.engadget.com/2240357/a-robot-could-eventually-conduct-your-blood-draw-at-the-doctors-office/",
+   "outlet": "Engadget",
+   "feed_region": "global",
+   "published": "2026-08-19T21:02:52+01:00"
+  },
+  {
+   "key": "larrydavidrecallsdustupwithtrumplawyeralandershowitzsaysdealwiththedev",
+   "title": "Larry David Recalls ‘Dust-Up’ With Trump Lawyer Alan Dershowitz, Says ‘Deal With the Devil’ Ended Their Friendship",
+   "summary": "\"I’d bet the devil hasn’t said a word to him since the impeachment,\" the \"Curb Your Enthusiasm\" creator adds The post Larry David Recalls ‘Dust-Up’ With Trump Lawyer Alan Dershowitz, Says ‘Deal With the Devil’ Ended Their Friendship appeared first on TheWrap .",
+   "link": "https://www.thewrap.com/culture-lifestyle/culture/larry-david-trump-lawyer-alan-dershowitz-fight-friendship-ended/",
+   "outlet": "The Wrap",
+   "feed_region": "americas",
+   "published": "2026-08-19T21:02:06+01:00"
+  },
+  {
+   "key": "gamblingonthelittleleagueworldseriessportsbettorshavegonetoofar",
+   "title": "Gambling on the Little League World Series? Sports bettors have gone too far",
+   "summary": "Have we tried turning off society and turning it back on again?",
+   "link": "https://techcrunch.com/2026/08/19/gambling-on-the-little-league-world-series-sports-bettors-have-gone-too-far/",
+   "outlet": "TechCrunch",
+   "feed_region": "global",
+   "published": "2026-08-19T21:01:02+01:00"
+  },
+  {
+   "key": "sonsofanarchyspinofflegendsorderedwithcharliehunnamoriginalcastreturni",
+   "title": "‘Sons of Anarchy’ Spinoff ‘Legends’ Ordered With Charlie Hunnam, Original Cast Returning — With a Wild Twist",
+   "summary": "FX and Hulu are taking a meta lens to their hit gritty series that ran from 2008 to 2014.",
+   "link": "https://www.hollywoodreporter.com/tv/tv-news/sons-of-anarchy-spin-off-legends-charlie-hunnam-1236677057/",
+   "outlet": "Hollywood Reporter",
+   "feed_region": "americas",
+   "published": "2026-08-19T21:00:00+01:00"
+  },
+  {
+   "key": "creatorversebreakingdownthealexcooperandunwellmess",
+   "title": "Creatorverse: Breaking Down the Alex Cooper and Unwell Mess",
+   "summary": "Cooper left UTA before receiving a $500 million valuation. Here's how we got here (Alix Earle drama included) The post Creatorverse: Breaking Down the Alex Cooper and Unwell Mess appeared first on TheWrap .",
+   "link": "https://www.thewrap.com/commentary-analysis/columns/creatorverse-alex-cooper-unwell-uta-breakdown/",
+   "outlet": "The Wrap",
+   "feed_region": "americas",
+   "published": "2026-08-19T21:00:00+01:00"
+  },
+  {
+   "key": "nielsenisleaningmoreonwearablestohearwhatpeoplearewatching",
+   "title": "Nielsen is leaning more on wearables to hear what people are watching",
+   "summary": "In order to beef up its ability to accurately measure viewership data in the streaming era, Nielsen is moving forward with a plan to use more information gathered from its partners' wearable devices. Today, Nielsen announced \"a number of key enhancements\" that are being added to its data capturing process ahead of...",
+   "link": "https://www.theverge.com/entertainment/982358/nielsen-ratings-ppm-smart-watch-cowatching-big-data",
+   "outlet": "The Verge",
+   "feed_region": "global",
+   "published": "2026-08-19T20:53:09+01:00"
+  },
+  {
+   "key": "betweenoffcampusandtheshardscollegiateinspiredmenswearisqueuedupforfal",
+   "title": "Between ‘Off Campus’ and ‘The Shards,’ Collegiate-Inspired Menswear Is Queued Up for Fall",
+   "summary": "After all, cardigans, quarter-zips and polo sweaters never go out of style.",
+   "link": "https://www.hollywoodreporter.com/lifestyle/shopping/fall-2026-menswear-trends-preppy-aesthetic-mens-wearhouse-1236676668/",
+   "outlet": "Hollywood Reporter",
+   "feed_region": "americas",
+   "published": "2026-08-19T20:52:43+01:00"
+  },
+  {
+   "key": "hownatalieportmangotcaughtinnovelistrachelcusksautofictiontrap",
+   "title": "How Natalie Portman Got Caught in Novelist Rachel Cusk’s Autofiction Trap",
+   "summary": "The buzzy novel ‘Life of M’ is a thinly veiled — and largely unflattering — portrait of the A-lister, by an acclaimed writer she has championed. The apparent betrayal has become the literary scandal of the year.",
+   "link": "https://www.hollywoodreporter.com/lifestyle/arts/natalie-portman-rachel-cusk-autofiction-trap-1236677139/",
+   "outlet": "Hollywood Reporter",
+   "feed_region": "americas",
+   "published": "2026-08-19T20:48:29+01:00"
+  },
+  {
+   "key": "fccabolishesgigabitspeedgoalsuggestingitisunfairtoslowertechnologies",
+   "title": "FCC abolishes gigabit speed goal, suggesting it is unfair to slower technologies",
+   "summary": "FCC decides 1Gbps is too fast, standard must be \"technologically neutral.\"",
+   "link": "https://arstechnica.com/tech-policy/2026/08/fcc-abolishes-gigabit-speed-goal-suggesting-it-is-unfair-to-slower-technologies/",
+   "outlet": "Ars Technica",
+   "feed_region": "global",
+   "published": "2026-08-19T20:45:19+01:00"
+  },
+  {
+   "key": "audacymeidastouchnetworkstrikeexclusivepodcastdeal",
+   "title": "Audacy, MeidasTouch Network Strike Exclusive Podcast Deal",
+   "summary": "Audacy is adding one of the fastest-growing progressive news operations to its podcast lineup, forming a strategic partnership with the MeidasTouch Network as the exclusive audio sales and distribution partner, with eyes on expansion to traditional radio.",
+   "link": "https://radioink.com/2026/08/19/audacy-meidastouch-network-strike-exclusive-podcast-deal/",
+   "outlet": "Radio Ink",
+   "feed_region": "americas",
+   "published": "2026-08-19T20:34:19+01:00"
+  },
+  {
+   "key": "msnowwilllaunchapaidmembershipprogramforsuperfans",
+   "title": "MS NOW will launch a paid membership program for “super fans”",
+   "summary": "When MS NOW — known until last year as MSNBC — celebrated its 30th anniversary last month, Status reported that the focus was “as much about the future as the past.” Natalie Korach described early conversations about the network’s planned subscription product, which she wrote would be “centered around community,...",
+   "link": "https://www.niemanlab.org/2026/08/ms-now-will-launch-a-paid-membership-program-for-super-fans/",
+   "outlet": "Nieman Lab",
+   "feed_region": "americas",
+   "published": "2026-08-19T20:32:27+01:00"
+  },
+  {
+   "key": "cecilystrongcallsoutsagaftrasdramaticallyincreasedmentalhealthpricesin",
+   "title": "Cecily Strong Calls Out SAG-AFTRA’s ‘Dramatically’ Increased Mental Health Prices in Plea to ‘Fix’ Insurance",
+   "summary": "The union's change from Carelon Behavioral Health to Anthem earlier this year is leading to \"hundreds to thousands of dollars a month\" extra, the \"SNL\" alum says The post Cecily Strong Calls Out SAG-AFTRA’s ‘Dramatically’ Increased Mental Health Prices in Plea to ‘Fix’ Insurance appeared first on TheWrap .",
+   "link": "https://www.thewrap.com/industry-news/labor-unions/cecily-strong-calls-out-sag-aftra-mental-health-insurance-sean-astin/",
+   "outlet": "The Wrap",
+   "feed_region": "americas",
+   "published": "2026-08-19T20:31:20+01:00"
+  },
+  {
+   "key": "dtfstlouisbossexplainshowandwhyhepulledoffthatcringerapscene",
+   "title": "‘DTF St. Louis’ Boss Explains How – and Why – He Pulled Off That Cringe Rap Scene",
+   "summary": "“My job as the showrunner is to make sure that this doesn’t break the spell with the audience … that it feels right and doesn’t feel desperate,” says Steven Conrad of the musical moment between Jason Bateman and David Harbour’s characters.",
+   "link": "https://www.hollywoodreporter.com/tv/tv-features/dtf-st-louis-boss-explains-rap-scene-1236675791/",
+   "outlet": "Hollywood Reporter",
+   "feed_region": "americas",
+   "published": "2026-08-19T20:30:00+01:00"
+  },
+  {
+   "key": "jossureztelemundoexecutivediesat55inhelicoptercrash",
+   "title": "José Suárez, Telemundo Executive, Dies at 55 in Helicopter Crash",
+   "summary": "The president and general manager of several of Telemundo’s Florida TV stations was one of four Americans who died in a crash in northeastern Kenya The post José Suárez, Telemundo Executive, Dies at 55 in Helicopter Crash appeared first on TheWrap .",
+   "link": "https://www.thewrap.com/media-platforms/tv/jose-suarez-telemundo-executive-dead-helicopter-crash/",
+   "outlet": "The Wrap",
+   "feed_region": "americas",
+   "published": "2026-08-19T20:24:13+01:00"
+  },
+  {
+   "key": "avengersdoomsdayexcitementebbsdespitesplashyd23teasechart",
+   "title": "‘Avengers: Doomsday’ Excitement Ebbs Despite Splashy D23 Tease | Chart",
+   "summary": "ScreenShare: A data partnership between ScreenEngine/ASI & TheWrap The post ‘Avengers: Doomsday’ Excitement Ebbs Despite Splashy D23 Tease | Chart appeared first on TheWrap .",
+   "link": "https://www.thewrap.com/industry-news/business/avengers-doomsday-excitement-ebbs-despite-splashy-d23-tease-chart/",
+   "outlet": "The Wrap",
+   "feed_region": "americas",
+   "published": "2026-08-19T20:23:16+01:00"
+  },
+  {
+   "key": "googlesnewaitoolhelpsfactcheckersinvestigateaifakes",
+   "title": "Google’s new AI tool helps fact-checkers investigate AI fakes",
+   "summary": "Every day the fact-checking team for one of India’s largest news organizations works to debunk a slew of false and misleading images circulating across social media. For the six-person team at India Today, that might include addressing an AI-generated archival photograph of a politician, a clip of deadly flooding...",
+   "link": "https://www.niemanlab.org/2026/08/googles-new-ai-tool-helps-fact-checkers-investigate-ai-fakes/",
+   "outlet": "Nieman Lab",
+   "feed_region": "americas",
+   "published": "2026-08-19T20:18:50+01:00"
+  },
+  {
+   "key": "aiwassupposedtowinpeopleoverbynowithasnt",
+   "title": "AI was supposed to win people over by now — it hasn’t",
+   "summary": "As AI becomes harder to avoid, consumers are growing more wary of the technology — and Silicon Valley is discovering that widespread adoption doesn’t necessarily lead to acceptance.",
+   "link": "https://techcrunch.com/2026/08/19/ai-was-supposed-to-win-people-over-by-now-it-hasnt/",
+   "outlet": "TechCrunch",
+   "feed_region": "global",
+   "published": "2026-08-19T20:11:40+01:00"
+  },
+  {
+   "key": "newyorkpublicradiotolaunchdemocracydialoguesliveseries",
+   "title": "New York Public Radio To Launch ‘Democracy Dialogues’ Live Series",
+   "summary": "New York Public Radio, the city’s public audio and multiplatform broadcaster, will launch a new live event series, Democracy Dialogues, on Sept. 14 at The Greene Space in Lower Manhattan. … The post New York Public Radio To Launch ‘Democracy Dialogues’ Live Series appeared first on TV News Check .",
+   "link": "https://tvnewscheck.com/journalism/article/new-york-public-radio-to-launch-democracy-dialogues-live-series/",
+   "outlet": "TVNewsCheck",
+   "feed_region": "americas",
+   "published": "2026-08-19T20:10:20+01:00"
+  },
+  {
+   "key": "charlottemarketmanagermacedwardssettodepartbeasley",
+   "title": "Charlotte Market Manager Mac Edwards Set to Depart Beasley",
+   "summary": "Mac Edwards, VP and Market Manager of Beasley Media Group’s Charlotte cluster, will depart his role on September 4. Edwards first joined Beasley in 1991 as a talent and PD at WKML in Lumberton, NC. Five years later, he ascended to GM at WFLB and WAZZ-AM.",
+   "link": "https://radioink.com/2026/08/19/charlotte-market-manager-mac-edwards-set-to-depart-beasley/",
+   "outlet": "Radio Ink",
+   "feed_region": "americas",
+   "published": "2026-08-19T20:09:17+01:00"
+  },
   {
    "key": "breezelinedirectvlaunchnewstreamingbundlewithtwoyearpriceguarantee",
    "title": "Breezeline & DirecTV Launch New Streaming Bundle With Two-Year Price Guarantee",
@@ -56,6 +416,15 @@
    "published": "2026-08-19T20:00:00+01:00"
   },
   {
+   "key": "googlepackssearchandgeminiwithnewaistudytools",
+   "title": "Google packs Search and Gemini with new AI study tools",
+   "summary": "The launch of the new study features marks Google's latest effort to make Gemini the AI assistant that students turn to when learning and studying, as it continues to compete with companies like OpenAI.",
+   "link": "https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini/",
+   "outlet": "TechCrunch",
+   "feed_region": "global",
+   "published": "2026-08-19T20:00:00+01:00"
+  },
+  {
    "key": "lovelessonsreviewaretiredteacherdithersoverhisdatingoptionsinseductive",
    "title": "‘Love Lessons’ Review: A Retired Teacher Dithers Over His Dating Options in Seductive Seaside French Fluff",
    "summary": "Fabrice Luchini stars alongside Emmanuelle Devos, Chiara Mastroianni and Carole Bouquet in the latest from writer-director Martin Provost ('Violette'), which premiered at Locarno.",
@@ -99,6 +468,15 @@
    "outlet": "BBC Business",
    "feed_region": "uk",
    "published": "2026-08-19T19:42:06+01:00"
+  },
+  {
+   "key": "thefloodgatesareopenafteranotherchinesecompanylandsareusablerocket",
+   "title": "The floodgates are open after another Chinese company lands a reusable rocket",
+   "summary": "\"We will put the booster back into service for another flight as soon as possible.\"",
+   "link": "https://arstechnica.com/space/2026/08/the-floodgates-are-open-after-another-chinese-company-lands-a-reusable-rocket/",
+   "outlet": "Ars Technica",
+   "feed_region": "global",
+   "published": "2026-08-19T19:41:02+01:00"
   },
   {
    "key": "warnerbrosintalkstolandtheoofgoldenfilmrightstomhankseyedtostar",
