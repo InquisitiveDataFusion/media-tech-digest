@@ -1,0 +1,452 @@
+{
+  "schema": 1,
+  "iso": "2026-08-20",
+  "headline": "Disney Sues FCC Amid Major Media Industry Developments in UK and Canada",
+  "date_line": "Thursday 20 August 2026 · covering Mon 17 Aug to Wed 19 Aug",
+  "footer_note": "Built from 28 cited articles across 14 outlets. Written by gemini-3.1-flash-lite, gemini-3.5-flash.",
+  "model": "gemini-3.1-flash-lite, gemini-3.5-flash",
+  "backfilled": false,
+  "generated_at": "2026-08-20T03:31:26+01:00",
+  "digest": {
+    "headline": "Disney Sues FCC Amid Major Media Industry Developments in UK and Canada",
+    "lead": "Disney and ABC have launched a First Amendment lawsuit against the FCC over broadcast licensing. Meanwhile, the United Kingdom media sector sees Sky introduce a new Multiview feature for sports fans alongside significant content acquisitions and partnerships across both regions.",
+    "glance": [
+      {
+        "text": "Sky is launching a new feature called Your Multiview on 21 August to let customers watch four live sports events simultaneously.",
+        "section": "tech",
+        "refs": [
+          1
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "Sky Sports has formed a long-term partnership with podcast The Fast and the Curious to attract younger and female Formula 1 fans.",
+        "section": "audience",
+        "refs": [
+          2,
+          3
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "UKTV has commissioned a two-part documentary about Fred and Rose West for its streaming service U.",
+        "section": "deals",
+        "refs": [
+          4
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "ITVX has acquired all five seasons of the BBC period drama Poldark to stream from September.",
+        "section": "deals",
+        "refs": [
+          5
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "BBC Studios is expanding its free ad-supported streaming television offering on German platform Joyn with BBC Earth.",
+        "section": "deals",
+        "refs": [
+          6,
+          7,
+          8
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "All3Media International has pre-sold the upcoming Channel 4 and Starz thriller Maya to broadcasters across multiple global regions.",
+        "section": "deals",
+        "refs": [
+          9
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "BBC Radio Scotland is launching a new monthly live music strand starting with a performance by Twin Atlantic.",
+        "section": "radio",
+        "refs": [
+          10
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "Disney and ABC sued the FCC, claiming its review of broadcast licenses violates free-speech protections.",
+        "section": "regulation",
+        "refs": [
+          11,
+          12,
+          13,
+          14,
+          15
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "All three major US cinema chains now support the proposed Paramount and Warner Bros. Discovery merger.",
+        "section": "deals",
+        "refs": [
+          16,
+          17
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "Paramount has requested that plaintiffs in its merger antitrust suit post a 1.9 billion dollar bond.",
+        "section": "deals",
+        "refs": [
+          18
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "Nielsen is updating its TV viewing measurement methods by incorporating more data from wearable devices.",
+        "section": "audience",
+        "refs": [
+          19,
+          20
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "Nvidia is investing 1.5 billion dollars in a SoftBank data center developer to power OpenAI projects.",
+        "section": "tech",
+        "refs": [
+          21
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "Corus Entertainment has confirmed a new round of layoffs across its Global News and talk radio divisions.",
+        "section": "radio",
+        "refs": [
+          22
+        ],
+        "region": "americas"
+      }
+    ],
+    "sections": [
+      {
+        "id": "tech",
+        "paragraphs": [
+          "Sky is launching its Your Multiview service on 21 August to coincide with the return of the Premier League. The feature allows viewers to watch up to four live Sky Sports events at the same time on a single screen.",
+          "The service is available exclusively to Sky customers during busy periods of the sporting calendar."
+        ],
+        "region": "uk"
+      },
+      {
+        "id": "deals",
+        "paragraphs": [
+          "UK commercial broadcaster ITV has acquired the rights to stream all five seasons of the BBC period drama Poldark on ITVX. The series will become available on the streaming platform from 10 September. ITVX has also picked up the Latin American preschool animation series Doggyworld for a September debut.",
+          "UKTV has ordered a two-part documentary titled Surviving Fred and Rose West: Inside Cromwell Street for its streaming service U. The broadcaster has also renewed its detective drama Bookish for a Christmas special and a third season.",
+          "BBC Studios is expanding its presence in Germany by launching its BBC Earth and BBC Lifestyle FAST channels on the streaming service Joyn. Meanwhile, Disney-owned Hulu has acquired the crime documentary series The Promise from Banijay-owned UK production company Workerbee."
+        ],
+        "region": "uk"
+      },
+      {
+        "id": "audience",
+        "paragraphs": [
+          "Sky Sports has agreed a strategic partnership with the podcast series The Fast and the Curious. The collaboration aims to reach more female and under-35 fans of Formula 1 through joint social media posts and content.",
+          "A new forecast by 3Vision projects that Western European streaming revenues will rise from 53.3 billion dollars in 2026 to 74.9 billion dollars by 2031. The growth will be driven by ad-supported and hybrid tiers outpacing traditional subscription growth."
+        ],
+        "region": "uk"
+      },
+      {
+        "id": "radio",
+        "paragraphs": [
+          "BBC Radio Scotland is launching a new monthly live music strand on 26 August. The series will feature live performances and interviews, beginning with the Scottish rock band Twin Atlantic.",
+          "BBC Radio 1 is bringing its New Music Live event back to Cardiff. The showcase will feature four emerging musical acts and will broadcast on the station on 30 September."
+        ],
+        "region": "uk"
+      },
+      {
+        "id": "regulation",
+        "paragraphs": [
+          "Disney and ABC have filed a lawsuit against the FCC and its chair, Brendan Carr. The network claims the agency is conducting a retaliatory campaign that violates First Amendment protections by targeting its broadcast licenses. The legal battle began after the FCC ordered ABC-owned stations to submit early license renewals following challenges to programming on The View.",
+          "Industry experts suggest the network has a strong legal case, though appeals could delay a final resolution. The outcome of the lawsuit could set a significant precedent for how the FCC reviews programming under its public interest standard. Meanwhile, internal documents have revealed close ties between the FCC chair, the White House, and right-wing media outlets."
+        ],
+        "region": "americas"
+      },
+      {
+        "id": "deals",
+        "paragraphs": [
+          "The proposed 111 billion dollar merger between Paramount and Warner Bros. Discovery has gained backing from major cinema chains AMC, Regal, and Cinemark. The exhibitors are urging California and other plaintiffs to settle their antitrust concerns to avoid market uncertainty. However, Los Angeles County projects the merger could threaten 2.78 billion dollars in local economic value, including substantial lost wages.",
+          "To mitigate delays, Paramount Skydance has asked a judge to force the twelve states and the Writers Guild of America to post a 1.88 billion dollar bond. This bond would cover financial losses incurred while the merger remains on hold pending trial. Meanwhile, CNN has secured its prime-time lineup ahead of the deal by signing a new contract with anchor Abby Phillip."
+        ],
+        "region": "americas"
+      },
+      {
+        "id": "audience",
+        "paragraphs": [
+          "Nielsen is overhauling its TV ratings methodology ahead of the new television season. The measurement firm will rely more heavily on data from partner wearable devices to capture co-viewing and demographic details. The changes aim to provide more accurate ratings for media and advertising clients.",
+          "The final traditional edition of Nielsen's Gauge report showed that streaming has reached a record 48.5 percent share of total TV viewing. In the streaming market, Peacock has raised its subscription prices again after achieving its first profitable quarter. To retain users, Peacock is also testing a new membership rewards program featuring merchandise discounts and free pizzas."
+        ],
+        "region": "americas"
+      }
+    ],
+    "people_moves": [
+      {
+        "text": "Eevamaria Vassinen, head of formats, ITV Studios Finland",
+        "refs": [
+          23
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "Katie Martin Kelley, appointed as Vice President of Communications for Film at Netflix, leaving Warner Bros.",
+        "refs": [
+          24,
+          25
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "Shane Smith, appointed as senior leader at TELUS originals alongside the promotion of Selina Crammond.",
+        "refs": [
+          26
+        ],
+        "region": "americas"
+      }
+    ],
+    "coming_up": [
+      {
+        "date": "21 Aug 2026",
+        "text": "Sky launches its Your Multiview feature for the return of the Premier League.",
+        "refs": [
+          1
+        ],
+        "region": "uk"
+      },
+      {
+        "date": "26 Aug 2026",
+        "text": "BBC Radio Scotland launches its new monthly live music strand with Twin Atlantic.",
+        "refs": [
+          10
+        ],
+        "region": "uk"
+      },
+      {
+        "date": "1 Sep 2026",
+        "text": "Animated series Doggyworld debuts on ITVX.",
+        "refs": [
+          27
+        ],
+        "region": "uk"
+      },
+      {
+        "date": "10 Sep 2026",
+        "text": "All five seasons of Poldark become available on ITVX.",
+        "refs": [
+          5
+        ],
+        "region": "uk"
+      },
+      {
+        "date": "30 Sep 2026",
+        "text": "BBC Radio 1 broadcasts its New Music Live event from Cardiff.",
+        "refs": [
+          28
+        ],
+        "region": "uk"
+      }
+    ]
+  },
+  "articles": [
+    {
+      "ref": 1,
+      "title": "Sky launches ‘Your Multiview’",
+      "link": "https://www.advanced-television.com/2026/08/20/sky-launches-your-multiview/",
+      "outlet": "Advanced Television",
+      "region": "uk"
+    },
+    {
+      "ref": 2,
+      "title": "Sky Sports and The Fast and the Curious strike partnership to reach new F1 audiences",
+      "link": "https://www.broadbandtvnews.com/2026/08/18/sky-sports-and-the-fast-and-the-curious-strike-partnership-to-reach-new-f1-audiences/",
+      "outlet": "Broadband TV News",
+      "region": "uk"
+    },
+    {
+      "ref": 3,
+      "title": "Sky Sports, The Fast and the Curious new partnership",
+      "link": "https://www.advanced-television.com/2026/08/18/sky-sports-the-fast-and-the-curious-new-partnership/",
+      "outlet": "Advanced Television",
+      "region": "uk"
+    },
+    {
+      "ref": 4,
+      "title": "UKTV commissions two-part Fred and Rose West documentary for streamer U",
+      "link": "https://www.c21media.net/news/uktv-commissions-two-part-fred-and-rose-west-documentary-for-streamer-u/",
+      "outlet": "C21Media",
+      "region": "uk"
+    },
+    {
+      "ref": 5,
+      "title": "ITV picks up period drama Poldark for streamer",
+      "link": "https://www.c21media.net/news/itv-picks-up-period-drama-poldark-for-streamer/",
+      "outlet": "C21Media",
+      "region": "uk"
+    },
+    {
+      "ref": 6,
+      "title": "BBC Studios expands Joyn FAST channel offering",
+      "link": "https://www.advanced-television.com/2026/08/17/bbc-studios-expands-joyn-fast-channel-offering/",
+      "outlet": "Advanced Television",
+      "region": "uk"
+    },
+    {
+      "ref": 7,
+      "title": "BBC Studios expands FAST channel offering on Joyn",
+      "link": "https://www.broadbandtvnews.com/2026/08/17/bbc-studios-expands-fast-channel-offering-on-joyn/",
+      "outlet": "Broadband TV News",
+      "region": "uk"
+    },
+    {
+      "ref": 8,
+      "title": "BBCS adds to FAST offering on Joyn in Germany",
+      "link": "https://www.c21media.net/news/bbcs-adds-to-fast-offering-on-joyn-in-germany/",
+      "outlet": "C21Media",
+      "region": "uk"
+    },
+    {
+      "ref": 9,
+      "title": "All3Media pre-sells Daisy Haggard’s Channel 4, Starz thriller Maya worldwide",
+      "link": "https://www.c21media.net/news/all3media-pre-sells-daisy-haggards-channel-4-starz-thriller-maya-worldwide/",
+      "outlet": "C21Media",
+      "region": "uk"
+    },
+    {
+      "ref": 10,
+      "title": "BBC Radio Scotland launches new monthly live music strand",
+      "link": "https://radiotoday.co.uk/2026/08/bbc-radio-scotland-launches-new-monthly-live-music-strand/",
+      "outlet": "RadioToday",
+      "region": "uk"
+    },
+    {
+      "ref": 11,
+      "title": "Disney’s FCC Suit Could Set Precedent For Radio Licenses",
+      "link": "https://radioink.com/2026/08/18/disneys-fcc-suit-could-set-precedent-for-radio-licenses/",
+      "outlet": "Radio Ink",
+      "region": "americas"
+    },
+    {
+      "ref": 12,
+      "title": "See How The Disney-FCC Fight Has Unfolded",
+      "link": "https://tvnewscheck.com/business/article/see-how-the-disney-fcc-fight-has-unfolded/",
+      "outlet": "TVNewsCheck",
+      "region": "americas"
+    },
+    {
+      "ref": 13,
+      "title": "ABC Sues the FCC, Claiming It’s Being Targeted Because of Its Reporting and Programming",
+      "link": "https://www.adweek.com/tvnewser/abc-sues-the-fcc-claiming-its-being-targeted-because-of-its-reporting-and-programming/",
+      "outlet": "Adweek",
+      "region": "americas"
+    },
+    {
+      "ref": 14,
+      "title": "ABC Sues FCC Over Threats to Broadcast Licenses In First Amendment Case",
+      "link": "https://www.hollywoodreporter.com/tv/tv-news/abc-sues-fcc-free-speech-broadcast-licenses-1236675974/",
+      "outlet": "Hollywood Reporter",
+      "region": "americas"
+    },
+    {
+      "ref": 15,
+      "title": "ABC Files First Amendment Lawsuit Against FCC Over ‘Retaliatory Campaign’",
+      "link": "https://www.thewrap.com/industry-news/public-policy-legal/abc-first-amendment-lawsuit-fcc-trump-administration-disney/",
+      "outlet": "The Wrap",
+      "region": "americas"
+    },
+    {
+      "ref": 16,
+      "title": "Cinemark Joins AMC Theatres and Regal in Supporting Paramount-Warner Bros. Discovery Merger",
+      "link": "https://variety.com/2026/film/news/cinemark-paramount-warner-bros-merger-amc-theatres-regal-1236836310/",
+      "outlet": "Variety",
+      "region": "americas"
+    },
+    {
+      "ref": 17,
+      "title": "Now All Three Major Theater Chains Want California to Settle With Paramount",
+      "link": "https://www.hollywoodreporter.com/business/business-news/cinemark-paramount-1236676229/",
+      "outlet": "Hollywood Reporter",
+      "region": "americas"
+    },
+    {
+      "ref": 18,
+      "title": "Paramount Requests States and WGA Be Required to Post $1.9 Billion Bond to Cover Financial Losses While Warner Bros. Merger Is Stuck on Hold Pending Trial",
+      "link": "https://variety.com/2026/film/news/paramount-requests-1-9-billion-bond-state-lawsuit-warner-bros-merger-1236836420/",
+      "outlet": "Variety",
+      "region": "americas"
+    },
+    {
+      "ref": 19,
+      "title": "Nielsen Changes How It Captures Co-Viewing and Demographic Details for More Accurate Ratings",
+      "link": "https://www.thewrap.com/media-platforms/tv/nielsen-changes-co-viewing-demographic-details-ratings/",
+      "outlet": "The Wrap",
+      "region": "americas"
+    },
+    {
+      "ref": 20,
+      "title": "Nielsen is leaning more on wearables to hear what people are watching",
+      "link": "https://www.theverge.com/entertainment/982358/nielsen-ratings-ppm-smart-watch-cowatching-big-data",
+      "outlet": "The Verge",
+      "region": "americas"
+    },
+    {
+      "ref": 21,
+      "title": "Nvidia investing $1.5B in SoftBank data center developer behind OpenAI project",
+      "link": "https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project/",
+      "outlet": "TechCrunch",
+      "region": "americas"
+    },
+    {
+      "ref": 22,
+      "title": "Corus Entertainment confirms more layoffs across Global News, talk radio",
+      "link": "https://broadcastdialogue.com/corus-entertainment-confirms-more-layoffs-across-global-news-talk-radio/",
+      "outlet": "Broadcast Dialogue",
+      "region": "americas"
+    },
+    {
+      "ref": 23,
+      "title": "ITV Studios Finland brings in ex-MTV exec Eevamaria Vassinen to head formats",
+      "link": "https://www.c21media.net/news/itv-studios-finland-brings-in-ex-mtv-exec-eevamaria-vassinen-to-head-formats/",
+      "outlet": "C21Media",
+      "region": "uk"
+    },
+    {
+      "ref": 24,
+      "title": "Katie Martin Kelley Moving From Warner Bros. To Netflix As VP Communications, Film",
+      "link": "https://tvnewscheck.com/people/article/katie-martin-kelley-moving-from-warner-bros-to-netflix-as-vp-communications-film/",
+      "outlet": "TVNewsCheck",
+      "region": "americas"
+    },
+    {
+      "ref": 25,
+      "title": "Katie Martin Kelley Jumps Ship From Warner Bros. to Netflix as VP Communications",
+      "link": "https://www.thewrap.com/media-platforms/film-studios/katie-martin-kelley-leaves-warner-bros-netflix-vp-communications/",
+      "outlet": "The Wrap",
+      "region": "americas"
+    },
+    {
+      "ref": 26,
+      "title": "TELUS originals strengthens senior leadership for its next chapter of growth",
+      "link": "https://playbackonline.ca/2026/08/19/telus-originals-strengthens-senior-leadership/",
+      "outlet": "Playback",
+      "region": "americas"
+    },
+    {
+      "ref": 27,
+      "title": "ITVX acquires Latin American children’s animation Doggyworld",
+      "link": "https://www.c21media.net/news/itvx-acquires-latin-american-childrens-animation-doggyworld/",
+      "outlet": "C21Media",
+      "region": "uk"
+    },
+    {
+      "ref": 28,
+      "title": "Radio 1’s New Music Live returns to Cardiff",
+      "link": "https://radiotoday.co.uk/2026/08/radio-1s-new-music-live-returns-to-cardiff/",
+      "outlet": "RadioToday",
+      "region": "uk"
+    }
+  ]
+}
