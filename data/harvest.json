@@ -1,6 +1,141 @@
 {
- "updated": "2026-08-22T10:58:32+01:00",
+ "updated": "2026-08-22T14:18:05+01:00",
  "items": [
+  {
+   "key": "anokaylaptopwith16gboframisbetterthananicelaptopwith8gbandthis520hpomn",
+   "title": "An okay laptop with 16GB of RAM is better than a nice laptop with 8GB, and this $520 HP OmniBook proves it",
+   "summary": "Laptop prices are out of whack. $500 used to get you a tolerable laptop, and $900 got you a really good one. They often had similar CPU, RAM, and storage options because that stuff was comparatively cheap; the difference was often in build quality and screen rather than power. But RAMageddon has thrown everything...",
+   "link": "https://www.theverge.com/tech/983554/hp-omnibook-3-16-snapdragon-laptop-review",
+   "outlet": "The Verge",
+   "feed_region": "global",
+   "published": "2026-08-22T14:00:00+01:00"
+  },
+  {
+   "key": "howtoairplayfromiphoneormacbooktoyourtv",
+   "title": "How to AirPlay from iPhone or MacBook to your TV",
+   "summary": "If you want to display media from your phone on a TV screen, you'll need to follow these steps to use AirPlay or screen mirroring.",
+   "link": "https://www.engadget.com/2240112/how-to-airplay-from-iphone-macbook-to-tv/",
+   "outlet": "Engadget",
+   "feed_region": "global",
+   "published": "2026-08-22T14:00:00+01:00"
+  },
+  {
+   "key": "robothorseandriderstealthespotlightatchineseconference",
+   "title": "Robot horse and rider steal the spotlight at Chinese conference",
+   "summary": "More than 300 companies are showcasing the latest advances in robotics at the five-day event in Beijing, China, organisers say.",
+   "link": "https://www.bbc.co.uk/news/videos/cy4k4d3lj21o?at_medium=RSS&at_campaign=rss",
+   "outlet": "BBC Technology",
+   "feed_region": "uk",
+   "published": "2026-08-22T13:47:28+01:00"
+  },
+  {
+   "key": "actormichaelwrightstarofthefiveheartbeatsandvdiesat70",
+   "title": "Actor Michael Wright, Star of ‘The Five Heartbeats’ and ‘V,’ Dies at 70",
+   "summary": "Michael Wright, an actor known for his roles in “The Five Heartbeats,” “The Principal” and “V,” has died, according to a statement from his family. He was 70. His wife, Susan Wright, announced his death in a post shared Friday evening on Instagram. “It is with profound sadness and an unimaginable heaviness in my...",
+   "link": "https://variety.com/2026/film/news/michael-wright-dead-five-heartbeats-the-principal-1236840765/",
+   "outlet": "Variety",
+   "feed_region": "americas",
+   "published": "2026-08-22T13:38:46+01:00"
+  },
+  {
+   "key": "thishandygooglepixelfeaturecanhelpsolveannoyingandroidbluetoothproblem",
+   "title": "This handy Google Pixel feature can help solve annoying Android Bluetooth problems",
+   "summary": "If you're having trouble with Bluetooth connections on your Pixel phone, this tool is a great place to start your troubleshooting.",
+   "link": "https://www.engadget.com/2240108/google-pixel-android-bluetooth-diagnostics-feature/",
+   "outlet": "Engadget",
+   "feed_region": "global",
+   "published": "2026-08-22T13:30:00+01:00"
+  },
+  {
+   "key": "auntievinfluencerswhyyoutubersarereadyforbattlewiththebbc",
+   "title": "Auntie v influencers: why YouTubers are ready for battle with the BBC",
+   "summary": "Content creators are fighting proposal to boost traditional broadcasters in video platforms’ all-powerful algorithms The millions who subscribe to the content creator Simon Squibb’s social media channels are usually delivered tips and hacks on how to turn their dream business idea into reality. But they were...",
+   "link": "https://www.theguardian.com/media/2026/aug/22/auntie-v-influencers-why-youtubers-are-ready-for-battle-with-the-bbc",
+   "outlet": "Guardian Media",
+   "feed_region": "uk",
+   "published": "2026-08-22T13:00:04+01:00"
+  },
+  {
+   "key": "twogreatnewrepairablegadgets",
+   "title": "Two great new repairable gadgets",
+   "summary": "Hi, friends! Welcome to Installer No. 141, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, I'm newish here too, and also you can read all the old editions at the Installer homepage.) This week, I've been getting back into the Installer groove, trying out some ergonomic Switch […]",
+   "link": "https://www.theverge.com/tech/983375/fairphone-6-plus-framework-12-laptop-mutiny-mortal-shell-2",
+   "outlet": "The Verge",
+   "feed_region": "global",
+   "published": "2026-08-22T13:00:00+01:00"
+  },
+  {
+   "key": "darkestdungeondlcabioshockstyleshooterwithclownsandothernewindiegamesw",
+   "title": "Darkest Dungeon DLC, a BioShock-style shooter with clowns and other new indie games worth checking out",
+   "summary": "Plus, Mixtape on Mac, Tetris Effect-style pachinko and a platformer with randomized controls.",
+   "link": "https://www.engadget.com/2241995/darkest-dungeon-dlc-a-bioshock-style-shooter-with-clowns-and-other-new-indie-games-worth-checking-out/",
+   "outlet": "Engadget",
+   "feed_region": "global",
+   "published": "2026-08-22T13:00:00+01:00"
+  },
+  {
+   "key": "pixelwatch4vspixelwatch5isgooglesnewmodelworthititcomesdowntothis",
+   "title": "Pixel Watch 4 vs. Pixel Watch 5: Is Google's new model worth it? It comes down to this",
+   "summary": "Google's latest smartwatch costs the same as the previous generation for now, but the upgrade could be worth it for a certain user.",
+   "link": "https://www.zdnet.com/article/pixel-watch-4-vs-pixel-watch-5/",
+   "outlet": "ZDNet",
+   "feed_region": "global",
+   "published": "2026-08-22T12:45:34+01:00"
+  },
+  {
+   "key": "puttingmiceintohibernationcausesamajorlossofsynapses",
+   "title": "Putting mice into hibernation causes a major loss of synapses",
+   "summary": "Hibernation cuts down on synapses, but mice seem to retain memories anyway.",
+   "link": "https://arstechnica.com/science/2026/08/memories-stick-around-even-after-half-the-synapses-are-gone/",
+   "outlet": "Ars Technica",
+   "feed_region": "global",
+   "published": "2026-08-22T12:22:32+01:00"
+  },
+  {
+   "key": "emilywatsonsaysduneprophecyseason2willhavelotsofnewelementsledheronaqu",
+   "title": "Emily Watson Says ‘Dune: Prophecy’ Season 2 Will Have ‘Lots of New Elements,’ Led Her on ‘A Quest in a Way Actors Always Get to Do and Actresses Don’t’",
+   "summary": "Starring in HBO Max’s “Dune: Prophecy” has been a major “departure” for Emily Watson, whose lauded career was built upon major independent and arthouse successes such as Lars von Trier’s “Breaking the Waves” and Robert Altman’s “Gosford Park.” As she embarks on a second season of the hit show, the actress feels...",
+   "link": "https://variety.com/2026/film/global/emily-watson-dune-prophecy-season-2-1236840725/",
+   "outlet": "Variety",
+   "feed_region": "americas",
+   "published": "2026-08-22T12:11:58+01:00"
+  },
+  {
+   "key": "dismantlingtheroadlessrulethreatenstodisruptwildlifeandwaterinus",
+   "title": "Dismantling the Roadless Rule threatens to disrupt wildlife and water in US",
+   "summary": "Lands free of roads are under threat from the Trump administration’s proposed rollback.",
+   "link": "https://arstechnica.com/science/2026/08/dismantling-the-roadless-rule-threatens-to-disrupt-wildlife-and-water-in-us/",
+   "outlet": "Ars Technica",
+   "feed_region": "global",
+   "published": "2026-08-22T12:08:53+01:00"
+  },
+  {
+   "key": "taxidriversurgecounciltoagree8farehike",
+   "title": "Taxi drivers urge council to agree 8% fare hike",
+   "summary": "Taxi fares could rise by 8% to help drivers combat rising fuel prices and the cost of living.",
+   "link": "https://www.bbc.co.uk/news/articles/cn0nlyxrz51o?at_medium=RSS&at_campaign=rss",
+   "outlet": "BBC Business",
+   "feed_region": "uk",
+   "published": "2026-08-22T11:53:26+01:00"
+  },
+  {
+   "key": "iditchedtmobileformintafter10yearsofservicenowimsaving120month",
+   "title": "I ditched T-Mobile for Mint after 10 years of service - now I'm saving $120/month",
+   "summary": "Mint uses the same 5G and LTE networks as T-Mobile, so I had no service interruptions after switching.",
+   "link": "https://www.zdnet.com/article/switching-from-t-mobile-to-mint-saving-money-on-mobile/",
+   "outlet": "ZDNet",
+   "feed_region": "global",
+   "published": "2026-08-22T11:30:40+01:00"
+  },
+  {
+   "key": "hereshowtowatch2026indycarseriesfreedom250grandprixofwashingtondcliveo",
+   "title": "Here’s How to Watch 2026 Indycar Series Freedom 250 Grand Prix of Washington, D.C. Live Online",
+   "summary": "After the Grand Prix of Ontario in Canada in mid-August, Indycar Series travels to the United States’ capital city for the 2026 Freedom 250 Grand Prix of Washington, D.C. It starts on Saturday, Aug. 22 with practice and qualifying rounds. Race day is the following day on Sunday, Aug. 23 at 1 p.m. ET/10 a.m. […]",
+   "link": "https://variety.com/2026/shopping/news/how-to-watch-indycar-freedom-250-grand-prix-live-online-free-1236838320/",
+   "outlet": "Variety",
+   "feed_region": "americas",
+   "published": "2026-08-22T11:00:00+01:00"
+  },
   {
    "key": "everythingthatswrongwithyoureviewaluminoustwohanderfromsloveniaabouton",
    "title": "‘Everything That’s Wrong With You’ Review: A Luminous Two-Hander from Slovenia About Online Pals Navigating the Waters of IRL Friendship",
@@ -29502,276 +29637,6 @@
    "outlet": "Ars Technica",
    "feed_region": "global",
    "published": "2026-08-12T14:35:30+01:00"
-  },
-  {
-   "key": "akiraransomwarescumblockedvictimssecuritytoolsandbroketheirownencrypto",
-   "title": "Akira ransomware scum blocked victim's security tools – and broke their own encryptor",
-   "summary": "Gives a whole new meaning to Safe Mode",
-   "link": "https://www.theregister.com/research/2026/08/12/akira-ransomware-scum-blocked-victims-security-tools-and-broke-their-own-encryptor/5286515",
-   "outlet": "The Register",
-   "feed_region": "global",
-   "published": "2026-08-12T14:00:00+01:00"
-  },
-  {
-   "key": "exclusivenewcrunchyrollcollabbringsanimestreamingtocars",
-   "title": "Exclusive: New Crunchyroll Collab Brings Anime Streaming to Cars",
-   "summary": "Anime on wheels? The app will soon take entertainment on the road.",
-   "link": "https://www.cnet.com/tech/services-and-software/exclusive-new-crunchyroll-collab-brings-anime-streaming-to-cars/",
-   "outlet": "CNET News",
-   "feed_region": "global",
-   "published": "2026-08-12T14:00:00+01:00"
-  },
-  {
-   "key": "bakerybuyscomediansformersitesafterclosure",
-   "title": "Bakery buys comedian's former sites after closure",
-   "summary": "Bakery business Janes Pantry confirms its plans to reopen at least 20 of the Coughlans shops.",
-   "link": "https://www.bbc.co.uk/news/articles/cr491p70dv5o?at_medium=RSS&at_campaign=rss",
-   "outlet": "BBC Business",
-   "feed_region": "uk",
-   "published": "2026-08-12T13:46:31+01:00"
-  },
-  {
-   "key": "bridgetphillipsoncondemnsrichardticeschillingattempttosilencefreepress",
-   "title": "Bridget Phillipson condemns Richard Tice’s ‘chilling attempt to silence free press’",
-   "summary": "Labour chair says Reform deputy leader is trying to harass journalists over reporting on his financial affairs UK politics live – latest updates Richard Tice has been accused by Labour’s Bridget Phillipson of mounting a “deeply chilling attempt to silence the free press” after he sent a legal threat to the Guardian...",
-   "link": "https://www.theguardian.com/uk-news/2026/aug/12/bridget-phillipson-condemns-richard-tice-attempt-silence-free-press-reform",
-   "outlet": "Guardian Media",
-   "feed_region": "uk",
-   "published": "2026-08-12T13:40:23+01:00"
-  },
-  {
-   "key": "didpoopenabletheevolutionofcomplexanimals",
-   "title": "Did poop enable the evolution of complex animals?",
-   "summary": "In a recent study, evolution gets even messier than usual.",
-   "link": "https://arstechnica.com/science/2026/08/feces-fueled-a-flurry-of-evolution-during-the-cambrian-study-suggests/",
-   "outlet": "Ars Technica",
-   "feed_region": "global",
-   "published": "2026-08-12T13:34:38+01:00"
-  },
-  {
-   "key": "watchgronkgooffscriptinnewcampaignfordnavibe",
-   "title": "Watch Gronk Go Off Script in New Campaign for DNA Vibe",
-   "summary": "Rob Gronkowski didn't need a script to talk up his DNA Vibe partnership.",
-   "link": "https://www.adweek.com/convergent-tv/watch-gronk-go-off-script-in-new-campaign-for-dna-vibe/",
-   "outlet": "Adweek",
-   "feed_region": "americas",
-   "published": "2026-08-12T13:10:31+01:00"
-  },
-  {
-   "key": "howvoyagerengineersfoundtwomoreyearsina50yearoldpowerbudget",
-   "title": "How Voyager engineers found two more years in a 50-year-old power budget",
-   "summary": "Even two-tenths of a watt matters when your spacecraft launched in 1977",
-   "link": "https://www.theregister.com/science/2026/08/12/how-voyager-engineers-found-two-more-years-in-a-50-year-old-power-budget/5284906",
-   "outlet": "The Register",
-   "feed_region": "global",
-   "published": "2026-08-12T13:02:00+01:00"
-  },
-  {
-   "key": "haspodcastingreachedsaturationpointsevenspecialistsweighin",
-   "title": "Has podcasting reached saturation point? Seven specialists weigh in",
-   "summary": "In the final instalment of this three-part series examining the future of podcasting, The Media Leader spoke to industry experts about whether the medium has reached its peak, and what impact future regulation might have.",
-   "link": "https://uk.themedialeader.com/has-podcasting-reached-saturation-point/?utm_source=rss&utm_medium=rss&utm_campaign=has-podcasting-reached-saturation-point",
-   "outlet": "The Media Leader",
-   "feed_region": "uk",
-   "published": "2026-08-12T13:00:55+01:00"
-  },
-  {
-   "key": "aftertrumpplanerusewhcapresseswhitehouseonpresspoolsafeguards",
-   "title": "After Trump Plane Ruse, WHCA Presses White House On Press Pool Safeguards",
-   "summary": "The White House Correspondents’ Association has asked President Donald Trump’s administration to “work with us on a protocol for handling extraordinary security circumstances in the future,” now that his secret plane switch last month has been revealed by leaks to news organizations. The post After Trump Plane...",
-   "link": "https://tvnewscheck.com/journalism/article/after-trump-plane-ruse-whca-presses-white-house-on-press-pool-safeguards/",
-   "outlet": "TVNewsCheck",
-   "feed_region": "americas",
-   "published": "2026-08-12T12:38:20+01:00"
-  },
-  {
-   "key": "honorhasradicallyreinventedthephonefortherobotageiplayedwithitanditswi",
-   "title": "Honor Has Radically Reinvented the Phone for the Robot Age. I Played With It, and It’s Wild",
-   "summary": "I attended the launch of Honor’s Robot Phone in China. I’m so glad this bold device is actually going on sale.",
-   "link": "https://www.cnet.com/tech/mobile/honor-robot-phone-launch-gimbal-camera-china/",
-   "outlet": "CNET News",
-   "feed_region": "global",
-   "published": "2026-08-12T12:31:33+01:00"
-  },
-  {
-   "key": "spotifywilllabelaiartistsandavoidpromotingthem",
-   "title": "Spotify Will Label AI Artists And Avoid Promoting Them",
-   "summary": "The post Spotify Will Label AI Artists And Avoid Promoting Them appeared first on TV News Check .",
-   "link": "https://www.nytimes.com/2026/08/11/arts/music/spotify-artificial-intelligence-music.html",
-   "outlet": "TVNewsCheck",
-   "feed_region": "americas",
-   "published": "2026-08-12T12:21:13+01:00"
-  },
-  {
-   "key": "britrailcopsbringlivefacialrecognitiontothelondonunderground",
-   "title": "Brit rail cops bring live facial recognition to the London Underground",
-   "summary": "Victoria is the first stop as privacy campaigners warn the technology is becoming routine",
-   "link": "https://www.theregister.com/security/2026/08/12/brit-rail-cops-bring-live-facial-recognition-to-the-london-underground/5286697",
-   "outlet": "The Register",
-   "feed_region": "global",
-   "published": "2026-08-12T12:19:00+01:00"
-  },
-  {
-   "key": "googletvfreeplayaddsondemandservice",
-   "title": "Google TV Freeplay adds on-demand service",
-   "summary": "Google has expanded its US free streaming service Google TV Freeplay with more than 10,000 advertising-supported films and television episodes. The on-demand catalogue includes content from studios and distributors including […]",
-   "link": "https://www.broadbandtvnews.com/2026/08/12/google-tv-freeplay-adds-on-demand-service/",
-   "outlet": "Broadband TV News",
-   "feed_region": "uk",
-   "published": "2026-08-12T12:03:46+01:00"
-  },
-  {
-   "key": "frenchpublishersfilecomplaintwithantitrustauthorityseekingaioverviewco",
-   "title": "French Publishers File Complaint with Antitrust Authority Seeking AI Overview Compensation",
-   "summary": "France's Alliance de la Presse D'Information Générale (APIG), a trade group representing French newspaper and magazine publishers, has filed a complaint with the national competition authority seeking compensation from Google for the use of publisher content in AI overviews. The organisation, which counts Le...",
-   "link": "https://videoweek.com/2026/08/12/french-publishers-file-complaint-with-antitrust-authority-seeking-ai-overview-compensation/",
-   "outlet": "VideoWeek",
-   "feed_region": "uk",
-   "published": "2026-08-12T12:01:20+01:00"
-  },
-  {
-   "key": "hopprbeginsdeploymentontimvisiondevices",
-   "title": "Hoppr begins deployment on TIMVision devices",
-   "summary": "Connected TV technology company Hoppr is deploying its HopprTV+ software on TIMVision devices in Italy. The phased rollout is intended to provide viewing data that can be used for content […]",
-   "link": "https://www.broadbandtvnews.com/2026/08/12/hoppr-begins-deployment-on-timvision-devices/",
-   "outlet": "Broadband TV News",
-   "feed_region": "uk",
-   "published": "2026-08-12T12:00:19+01:00"
-  },
-  {
-   "key": "willparamountleavecaliforniaexecssayitsonthetable",
-   "title": "Will Paramount Leave California? Execs Say It’s On The Table",
-   "summary": "CEO David Ellison has suggested a possible move as the antitrust battle drags on over the company’s Warner Bros. deal. The post Will Paramount Leave California? Execs Say It’s On The Table appeared first on TV News Check .",
-   "link": "https://tvnewscheck.com/business/article/will-paramount-leave-california-execs-say-its-on-the-table/",
-   "outlet": "TVNewsCheck",
-   "feed_region": "americas",
-   "published": "2026-08-12T11:59:48+01:00"
-  },
-  {
-   "key": "bigcloudispoisedtocornerthemarketforenterprisehardware",
-   "title": "Big Cloud is poised to corner the market for enterprise hardware",
-   "summary": "AI gave hyperscalers first dibs on scarce kit, and business buyers may have little choice but to rent it back",
-   "link": "https://www.theregister.com/systems/2026/08/12/big-cloud-is-poised-to-corner-the-market-for-enterprise-hardware/5286621",
-   "outlet": "The Register",
-   "feed_region": "global",
-   "published": "2026-08-12T11:52:00+01:00"
-  },
-  {
-   "key": "tvtimecofounderlaunchesbingerstorevivebelovedtvtrackingapp",
-   "title": "TV Time Co-Founder Launches Bingers To Revive Beloved TV-Tracking App",
-   "summary": "The new app is developed by one of TV Time’s original founders, Antonio Pinto, who said last month he would attempt to rebuild the best features of TV Time after its owner, Whip Media, decided to shut down the product to focus on AI efforts instead. The post TV Time Co-Founder Launches Bingers To Revive Beloved...",
-   "link": "https://tvnewscheck.com/programming/article/tv-time-co-founder-launches-bingers-to-revive-beloved-tv-tracking-app/",
-   "outlet": "TVNewsCheck",
-   "feed_region": "americas",
-   "published": "2026-08-12T11:45:47+01:00"
-  },
-  {
-   "key": "newsmaxprepslawsuitoverfccbroadcasttvownershipvote",
-   "title": "Newsmax Preps Lawsuit Over FCC Broadcast TV Ownership Vote",
-   "summary": "In an interview on Tuesday, Newsmax CEO Christopher Ruddy reaffirmed his commitment to litigation and said FCC Chairman Brendan Carr was \"not good for conservatives.\" The post Newsmax Preps Lawsuit Over FCC Broadcast TV Ownership Vote appeared first on TV News Check .",
-   "link": "https://tvnewscheck.com/regulation/article/newsmax-preps-lawsuit-over-fcc-broadcast-tv-ownership-vote/",
-   "outlet": "TVNewsCheck",
-   "feed_region": "americas",
-   "published": "2026-08-12T11:41:43+01:00"
-  },
-  {
-   "key": "cbssportssaysnotimetablefortonyromospotentialreturnafterdrunkdrivingar",
-   "title": "CBS Sports Says ‘No Timetable’ For Tony Romo’s Potential Return After Drunk Driving Arrest",
-   "summary": "CBS Sports CEO David Berson told reporters the situation is “a personnel matter, and a legal one for Tony. So I can’t speak to that as an evolving situation, and therefore we’re still investigating. There is no timetable or final decision at this time.” The post CBS Sports Says ‘No Timetable’ For Tony Romo’s...",
-   "link": "https://tvnewscheck.com/people/article/cbs-sports-says-no-timetable-for-tony-romos-potential-return-after-drunk-driving-arrest/",
-   "outlet": "TVNewsCheck",
-   "feed_region": "americas",
-   "published": "2026-08-12T11:31:15+01:00"
-  },
-  {
-   "key": "suitestexpandsaipowereddevicetestingplatformaheadofibc2026",
-   "title": "Suitest expands AI-powered device testing platform ahead of IBC2026",
-   "summary": "Suitest is expanding its test automation platform for OTT applications and devices with new AI-powered hardware, software and cloud capabilities. The Prague-based provider of test automation solutions will showcase the […]",
-   "link": "https://www.broadbandtvnews.com/2026/08/12/suitest-expands-ai-powered-device-testing-platform-ahead-of-ibc2026/",
-   "outlet": "Broadband TV News",
-   "feed_region": "uk",
-   "published": "2026-08-12T11:30:50+01:00"
-  },
-  {
-   "key": "acastacquiresbackyardventures",
-   "title": "Acast acquires Backyard Ventures",
-   "summary": "They paid $20mn for the company, which has audiences of more than 230 million every month. Sponsored by Magellan AI. Find out where Q2 podcast ad dollars went, live with Magellan AI on August 20. Sign up for the webinar https://podnews.net/cc/3645 Visit https://podnews.net/update/acast-bv for the story links in...",
-   "link": "https://podnews.net/update/acast-bv",
-   "outlet": "Podnews",
-   "feed_region": "global",
-   "published": "2026-08-12T11:30:41+01:00"
-  },
-  {
-   "key": "theofficeukstarlucydavisrevealsincurablecancerdiagnosis",
-   "title": "‘The Office’ U.K. Star Lucy Davis Reveals ‘Incurable’ Cancer Diagnosis",
-   "summary": "The post ‘The Office’ U.K. Star Lucy Davis Reveals ‘Incurable’ Cancer Diagnosis appeared first on TV News Check .",
-   "link": "https://variety.com/2026/tv/global/the-office-lucy-davis-cancer-diagnosis-incurable-1236832201/",
-   "outlet": "TVNewsCheck",
-   "feed_region": "americas",
-   "published": "2026-08-12T11:25:47+01:00"
-  },
-  {
-   "key": "wgaslamsdavidellisonsplantopullparamountfromcalifornia",
-   "title": "WGA Slams David Ellison’s Plan To Pull Paramount From California",
-   "summary": "The union has fired back at Paramount Skydance CEO David Ellison after he threatened to start pulling Paramount out of California on Oct. 1. “This type of behavior is precisely why the merger should be blocked,” he said. The post WGA Slams David Ellison’s Plan To Pull Paramount From California appeared first on TV...",
-   "link": "https://tvnewscheck.com/business/article/wga-slams-david-ellisons-plan-to-pull-paramount-from-california/",
-   "outlet": "TVNewsCheck",
-   "feed_region": "americas",
-   "published": "2026-08-12T11:21:31+01:00"
-  },
-  {
-   "key": "streamingtocontribute100milliontortlgroupthisyearasrtlturnsprofitable",
-   "title": "Streaming to Contribute €100 Million to RTL Group This Year as RTL+ Turns Profitable",
-   "summary": "This time two years ago, only two major streaming services (Netflix and Disney+) were profitable businesses, according to MoffettNathanson. Since then the tide has been turning, as ad-supported tiers and bundling partnerships have helped boost profitability. Most recently, Fox-owned Tubi reported its first...",
-   "link": "https://videoweek.com/2026/08/12/streaming-to-contribute-e100-million-to-rtl-group-this-year-as-rtl-turns-profitable/",
-   "outlet": "VideoWeek",
-   "feed_region": "uk",
-   "published": "2026-08-12T11:19:38+01:00"
-  },
-  {
-   "key": "paramounthasspent100yearsinhollywooddavidellisonlovedthatuntilhedidnt",
-   "title": "Paramount Has Spent 100 Years In Hollywood. David Ellison Loved That. Until He Didn’t",
-   "summary": "The mogul says he's considering moving his studio out of California. Not long ago, he was talking a big game about how a merger with Warner Bros. Discovery would boost the state. The post Paramount Has Spent 100 Years In Hollywood. David Ellison Loved That. Until He Didn’t appeared first on TV News Check .",
-   "link": "https://tvnewscheck.com/business/article/paramount-has-spent-100-years-in-hollywood-david-ellison-loved-that-until-he-didnt/",
-   "outlet": "TVNewsCheck",
-   "feed_region": "americas",
-   "published": "2026-08-12T11:16:06+01:00"
-  },
-  {
-   "key": "landcommunicationsdeploysdielectricoptiloadsystemsattwotexasstations",
-   "title": "Land Communications Deploys Dielectric OptiLoad Systems At Two Texas Stations",
-   "summary": "The post Land Communications Deploys Dielectric OptiLoad Systems At Two Texas Stations appeared first on TV News Check .",
-   "link": "https://www.tvtechnology.com/platform/broadcast/land-communications-deploys-dielectric-optiload-systems-at-two-texas-stations",
-   "outlet": "TVNewsCheck",
-   "feed_region": "americas",
-   "published": "2026-08-12T11:09:07+01:00"
-  },
-  {
-   "key": "yourchannelspamedialaunch247sportsnewsfastchannelonsamsungtvplusinuk",
-   "title": "Your Channels, PA Media Launch 24/7 Sports News FAST Channel On Samsung TV Plus In U.K.",
-   "summary": "A new 24/7 sports news channel, Your Sports News, debuts today on Samsung TV Plus in the United Kingdom after a partnership between Your Channels, an MPG Media Group company, … The post Your Channels, PA Media Launch 24/7 Sports News FAST Channel On Samsung TV Plus In U.K. appeared first on TV News Check .",
-   "link": "https://tvnewscheck.com/programming/article/your-channels-pa-media-launch-24-7-sports-news-fast-channel-on-samsung-tv-plus-in-u-k/",
-   "outlet": "TVNewsCheck",
-   "feed_region": "americas",
-   "published": "2026-08-12T11:04:00+01:00"
-  },
-  {
-   "key": "stealthisstorypleasereviewamygoodmanstalwartoftheamericanleftshowshert",
-   "title": "Steal This Story, Please! review – Amy Goodman, stalwart of the American left, shows her teeth",
-   "summary": "This comprehensive documentary about the Democracy Now! radio show host and seasoned investigative reporter takes in a massacre in East Timor, the actions of oil giants and a flustered Bill Clinton as it reflects her vital work Before there was Michael Moore, there was campaigning journalist Amy Goodman … and even...",
-   "link": "https://www.theguardian.com/film/2026/aug/12/steal-this-story-please-review-amy-goodman-democracy-now-documentary",
-   "outlet": "Guardian Media",
-   "feed_region": "uk",
-   "published": "2026-08-12T11:00:26+01:00"
-  },
-  {
-   "key": "medicalnetworkingapptheroundsacquiredbynativetouch",
-   "title": "Medical networking app The Rounds acquired by Native Touch",
-   "summary": "Halifax-based company will maintain standalone brand and continue hiring in Atlantic Canada. The post Medical networking app The Rounds acquired by Native Touch first appeared on BetaKit .",
-   "link": "https://betakit.com/medical-networking-app-the-rounds-acquired-by-native-touch/",
-   "outlet": "BetaKit",
-   "feed_region": "americas",
-   "published": "2026-08-12T11:00:00+01:00"
   }
  ]
 }
