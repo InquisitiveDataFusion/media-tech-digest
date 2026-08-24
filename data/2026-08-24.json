@@ -1,0 +1,483 @@
+{
+  "schema": 1,
+  "iso": "2026-08-24",
+  "headline": "Broadcasters face regulatory scrutiny and digital investment challenges across Western markets",
+  "date_line": "Monday 24 August 2026 · covering Thu 20 Aug to Sun 23 Aug",
+  "footer_note": "Built from 31 cited articles across 14 outlets. Written by gemini-3.1-flash-lite, gemini-3.5-flash.",
+  "model": "gemini-3.1-flash-lite, gemini-3.5-flash",
+  "backfilled": false,
+  "generated_at": "2026-08-24T03:38:30+01:00",
+  "digest": {
+    "headline": "Broadcasters face regulatory scrutiny and digital investment challenges across Western markets",
+    "lead": "UK broadcasters are seeking government support for digital infrastructure as streaming innovation continues. Meanwhile, the proposed Paramount and Warner Bros Discovery merger faces intense regulatory and political pressure in North America.",
+    "glance": [
+      {
+        "text": "Sky Sports has launched a multiview feature allowing viewers to watch four live events simultaneously.",
+        "section": "tech",
+        "refs": [
+          1,
+          2
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "Over a third of UK Roku accounts visited the platform's Football Zone during the World Cup.",
+        "section": "audience",
+        "refs": [
+          3,
+          4,
+          5
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "The BBC and ITV have backed a report calling for government investment in digital infrastructure.",
+        "section": "regulation",
+        "refs": [
+          6
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "UK cinema operators plan to restrict or ban smart glasses in venues due to privacy concerns.",
+        "section": "tech",
+        "refs": [
+          7
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "Online creators are fighting proposals that would boost traditional broadcasters in video platform algorithms.",
+        "section": "regulation",
+        "refs": [
+          8
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "Sky Media has secured trading platform IG as a co-sponsor for its Premier League coverage.",
+        "section": "deals",
+        "refs": [
+          9
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "BBC Local Radio will provide live commentary for every English Football League team this season.",
+        "section": "radio",
+        "refs": [
+          10
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "California's Attorney General stated that settling the Paramount-WBD merger lawsuit will require robust structural remedies.",
+        "section": "deals",
+        "refs": [
+          11
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "Walmart will begin accepting Apple Pay and Google Pay at select locations before a full nationwide rollout.",
+        "section": "tech",
+        "refs": [
+          12,
+          13
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "Canadian regulator CRTC rejected a request by Videotron to destandardise its low-speed internet tiers.",
+        "section": "regulation",
+        "refs": [
+          14
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "Corus Entertainment confirmed a new round of layoffs affecting its Global News and talk radio operations.",
+        "section": "radio",
+        "refs": [
+          15
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "Anthropic is reportedly looking to build data centres in Alberta, Canada, to expand its compute capacity.",
+        "section": "tech",
+        "refs": [
+          16
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "A federal judge scheduled an October hearing for ABC's First Amendment lawsuit against the FCC.",
+        "section": "regulation",
+        "refs": [
+          17
+        ],
+        "region": "americas"
+      }
+    ],
+    "sections": [
+      {
+        "id": "audience",
+        "paragraphs": [
+          "Roku UK revealed that 36 per cent of its active UK accounts used its dedicated Football Zone during the 2026 FIFA World Cup. The hub helped users find and track tournament coverage across different broadcasters.",
+          "Meanwhile, the BBC reported that its coverage of the European Athletics Championships reached 17.2 million viewers across television and iPlayer. Audiences also spent significant time on digital and social platforms during the event."
+        ],
+        "region": "uk"
+      },
+      {
+        "id": "tech",
+        "paragraphs": [
+          "Sky has launched a new feature called Your Multiview for Sky Glass, Sky Stream and Sky Q customers. The service lets sports fans watch up to four live events side by side on a single screen.",
+          "In other technology developments, British cinema operators are planning to restrict or ban smart glasses in theatres over privacy concerns. Additionally, the UK ranked third for mobile streaming performance in a study of comparable economies."
+        ],
+        "region": "uk"
+      },
+      {
+        "id": "regulation",
+        "paragraphs": [
+          "The BBC and ITV have joined a report calling on the UK government to invest in digital infrastructure. The broadcasters argue that a managed digital transition will improve connectivity and participation.",
+          "At the same time, independent YouTube creators are fighting proposals that would favour traditional broadcasters in video platform algorithms. Creators argue the changes would unfairly disadvantage online-first content."
+        ],
+        "region": "uk"
+      },
+      {
+        "id": "deals",
+        "paragraphs": [
+          "Channel 4 has acquired the six-part murder mystery series Complicit from ITV Studios' Tall Story Pictures and Metropolitan Pictures. ITV has also acquired the AMC comedy Kevin Can F**k Himself for its streaming service ITVX.",
+          "Amazon's Prime Video has commissioned a four-part documentary series about the 50-year career of footballer and presenter Gary Lineker. Sky Media also secured a three-year Premier League co-sponsorship deal with trading platform IG."
+        ],
+        "region": "uk"
+      },
+      {
+        "id": "deals",
+        "paragraphs": [
+          "The proposed merger between Paramount and Warner Bros Discovery is facing intense political and legal pressure. Los Angeles Mayor Karen Bass has urged California Attorney General Rob Bonta to resolve the multi-state antitrust lawsuit blocking the deal [9, 66]. However, Bonta maintains that any settlement outside of court will require robust structural remedies [11].",
+          "Local economic assessments have raised further concerns about the transaction. A report from Los Angeles County projects that the merger could threaten 2.78 billion dollars in economic value, including 1.26 billion dollars in lost wages [25]. Despite these warnings, Paramount is preparing to enter early settlement talks with California officials [26]."
+        ],
+        "region": "americas"
+      },
+      {
+        "id": "regulation",
+        "paragraphs": [
+          "The Federal Communications Commission is currently scrutinising a programming move by Disney-owned ABC in St. Louis [27]. In response, ABC has filed a First Amendment lawsuit against the regulator [17]. A federal judge has planned a hearing for early October, which could occur sooner if the commission acts on ABC's station licences [17].",
+          "In Canada, the CRTC has blocked an attempt by Videotron to destandardise four of its lower-speed internet tiers [14]. The regulator denied the Quebecor-owned company's request to phase out the aggregated third-party access speeds [14]. Meanwhile, FCC Commissioner Gomez warned that satellite deployments cannot replace universal service obligations [28]."
+        ],
+        "region": "americas"
+      },
+      {
+        "id": "tech",
+        "paragraphs": [
+          "Walmart has reversed its long-standing opposition to mobile wallets by agreeing to support Apple Pay and Google Pay [13]. The retail giant will launch tap-to-pay services at select locations on 24 August, with a full rollout planned by the end of 2026 [12].",
+          "Artificial intelligence infrastructure is expanding rapidly across North America. AI developer Anthropic is hiring staff to establish data centres in Alberta, Canada, aiming to bring gigawatts of compute to the region [16]. Additionally, chipmaker Nvidia has partnered with data centre developer Cloverleaf to support ongoing AI infrastructure demands [29]."
+        ],
+        "region": "americas"
+      },
+      {
+        "id": "radio",
+        "paragraphs": [
+          "Canadian media group Corus Entertainment has confirmed another round of layoffs across its television and radio divisions [15]. These cuts follow dozens of redundancies in July as the company restructures its Global News and talk radio operations [33, 37].",
+          "In the United States, Cumulus Media has received FCC approval to transfer its broadcast licences to new shareholders, clearing its path to exit bankruptcy [30]. Concurrently, a federal appeals court denied a rehearing bid by Nielsen in its ongoing antitrust dispute with Cumulus [31]."
+        ],
+        "region": "americas"
+      }
+    ],
+    "people_moves": [
+      {
+        "text": "Andy Weil joins Amazon MGM Studios as head of comedy, leaving his role as vice president of comedy at Netflix",
+        "refs": [
+          18
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "Andy Weil, Head of Comedy, Amazon MGM Studios",
+        "refs": [
+          19,
+          20
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "Chuck Saftler, leaving role as TV acquisition executive, Disney",
+        "refs": [
+          21
+        ],
+        "region": "americas"
+      }
+    ],
+    "coming_up": [
+      {
+        "date": "Oct 2026",
+        "text": "Woodcut Media will shop its new ancient history documentary series to buyers at Mipcom",
+        "refs": [
+          22
+        ],
+        "region": "uk"
+      },
+      {
+        "date": "Nov 2026",
+        "text": "BBC Introducing LIVE events will host aspiring musicians and creators across ten UK cities",
+        "refs": [
+          23
+        ],
+        "region": "uk"
+      },
+      {
+        "date": "24 Aug 2026",
+        "text": "Walmart begins rolling out Apple Pay and Google Pay support at select locations",
+        "refs": [
+          12
+        ],
+        "region": "americas"
+      },
+      {
+        "date": "25 Aug 2026",
+        "text": "Sinclair's AMP Sports launches its new Tennessee Volunteers podcast",
+        "refs": [
+          24
+        ],
+        "region": "americas"
+      },
+      {
+        "date": "14 Sep 2026",
+        "text": "Andy Weil starts his new role as Head of Comedy at Amazon MGM Studios",
+        "refs": [
+          19
+        ],
+        "region": "americas"
+      },
+      {
+        "date": "05 Oct 2026",
+        "text": "Week of the scheduled federal court hearing in ABC's lawsuit against the FCC",
+        "refs": [
+          17
+        ],
+        "region": "americas"
+      }
+    ]
+  },
+  "articles": [
+    {
+      "ref": 1,
+      "title": "Sky Sports introduces four-way multiview",
+      "link": "https://www.tvbeurope.com/media-consumption/sky-sports-introduces-four-way-multiview",
+      "outlet": "TVBEurope",
+      "region": "uk"
+    },
+    {
+      "ref": 2,
+      "title": "Sky launches ‘Your Multiview’, letting fans watch up to four live sports events at once",
+      "link": "https://www.broadbandtvnews.com/2026/08/20/sky-launches-your-multiview-letting-fans-watch-up-to-four-live-sports-events-at-once/",
+      "outlet": "Broadband TV News",
+      "region": "uk"
+    },
+    {
+      "ref": 3,
+      "title": "Data: Strong UK usage of Roku’s Football Zone",
+      "link": "https://www.advanced-television.com/2026/08/21/data-strong-uk-usage-of-rokus-football-zone/",
+      "outlet": "Advanced Television",
+      "region": "uk"
+    },
+    {
+      "ref": 4,
+      "title": "Data: 36% of UK Roku accounts visited Football Zone",
+      "link": "https://www.advanced-television.com/2026/08/21/data-strong-uk-usage-of-rokus-football-zone/",
+      "outlet": "Advanced Television",
+      "region": "uk"
+    },
+    {
+      "ref": 5,
+      "title": "Over a third of UK Roku households used Football Zone this summer",
+      "link": "https://www.broadbandtvnews.com/2026/08/21/over-a-third-of-uk-roku-households-used-football-zone-this-summer/",
+      "outlet": "Broadband TV News",
+      "region": "uk"
+    },
+    {
+      "ref": 6,
+      "title": "BBC, ITV join report calling on government to invest in ‘more digitally connected Britain’",
+      "link": "https://www.tvbeurope.com/media-delivery/bbc-itv-join-report-calling-on-government-to-invest-in-more-digitally-connected-britain",
+      "outlet": "TVBEurope",
+      "region": "uk"
+    },
+    {
+      "ref": 7,
+      "title": "UK cinemas to clamp down on smart glasses",
+      "link": "https://www.advanced-television.com/2026/08/21/uk-cinemas-to-clamp-down-on-smart-glasses/",
+      "outlet": "Advanced Television",
+      "region": "uk"
+    },
+    {
+      "ref": 8,
+      "title": "Auntie v influencers: why YouTubers are ready for battle with the BBC",
+      "link": "https://www.theguardian.com/media/2026/aug/22/auntie-v-influencers-why-youtubers-are-ready-for-battle-with-the-bbc",
+      "outlet": "Guardian Media",
+      "region": "uk"
+    },
+    {
+      "ref": 9,
+      "title": "Sky, IG partner for Premier League sponsorship",
+      "link": "https://www.advanced-television.com/2026/08/21/sky-ig-partner-for-premier-league-sponsorship/",
+      "outlet": "Advanced Television",
+      "region": "uk"
+    },
+    {
+      "ref": 10,
+      "title": "BBC Local to deliver live commentary for every EFL team",
+      "link": "https://radiotoday.co.uk/2026/08/bbc-local-to-deliver-live-commentary-for-every-efl-team/",
+      "outlet": "RadioToday",
+      "region": "uk"
+    },
+    {
+      "ref": 11,
+      "title": "Calif. AG Tells CNBC That Wettling Paramount-WBD Lawsuit Would Require ‘Robust Structural Remedies’",
+      "link": "https://tvnewscheck.com/regulation/article/calif-ag-tells-cnbc-that-wettling-paramount-wbd-lawsuit-would-require-robust-structural-remedies/",
+      "outlet": "TVNewsCheck",
+      "region": "americas"
+    },
+    {
+      "ref": 12,
+      "title": "Walmart is finally adding Apple Pay and Google Pay",
+      "link": "https://www.theverge.com/tech/983336/walmart-apple-google-pay-launch",
+      "outlet": "The Verge",
+      "region": "americas"
+    },
+    {
+      "ref": 13,
+      "title": "Walmart to finally start accepting Apple Pay and Google Pay",
+      "link": "https://techcrunch.com/2026/08/21/walmart-to-finally-start-accepting-apple-pay-and-google-pay/",
+      "outlet": "TechCrunch",
+      "region": "americas"
+    },
+    {
+      "ref": 14,
+      "title": "CRTC denies Videotron request to destandardize low internet speed tiers",
+      "link": "https://cartt.ca/crtc-denies-videotron-request-to-destandardize-low-internet-speed-tiers/",
+      "outlet": "Cartt.ca",
+      "region": "americas"
+    },
+    {
+      "ref": 15,
+      "title": "Corus confirms new round of layoffs across radio and TV",
+      "link": "https://mediaincanada.com/2026/08/20/corus-confirms-new-round-of-layoffs-across-radio-and-tv/",
+      "outlet": "Media in Canada",
+      "region": "americas"
+    },
+    {
+      "ref": 16,
+      "title": "Anthropic job posting suggests it’s eyeing Alberta for data centre buildout",
+      "link": "https://betakit.com/anthropic-job-posting-suggests-its-eyeing-alberta-for-data-centre-buildout/",
+      "outlet": "BetaKit",
+      "region": "americas"
+    },
+    {
+      "ref": 17,
+      "title": "Judge Plans October Hearing In ABC’s First Amendment Lawsuit Against FCC",
+      "link": "https://tvnewscheck.com/regulation/article/judge-plans-october-hearing-in-abcs-first-amendment-lawsuit-against-fcc/",
+      "outlet": "TVNewsCheck",
+      "region": "americas"
+    },
+    {
+      "ref": 18,
+      "title": "Netflix comedy VP Andy Weil leaves for Amazon MGM Studios",
+      "link": "https://www.c21media.net/news/netflix-comedy-vp-andy-weil-leaves-for-amazon-mgm-studios/",
+      "outlet": "C21Media",
+      "region": "uk"
+    },
+    {
+      "ref": 19,
+      "title": "Netflix Veteran Andy Weil Joins Amazon MGM Studios As Head Of Comedy",
+      "link": "https://tvnewscheck.com/programming/article/netflix-veteran-andy-weil-joins-amazon-mgm-studios-as-head-of-comedy/",
+      "outlet": "TVNewsCheck",
+      "region": "americas"
+    },
+    {
+      "ref": 20,
+      "title": "Netflix Exec Andy Weil Jumping to Amazon as Head of Comedy",
+      "link": "https://variety.com/2026/tv/news/netflix-exec-andy-weil-amazon-head-of-comedy-1236839544/",
+      "outlet": "Variety",
+      "region": "americas"
+    },
+    {
+      "ref": 21,
+      "title": "Chuck Saftler, Top TV Acquisition Executive & FX Veteran, Leaving Disney",
+      "link": "https://tvnewscheck.com/business/article/chuck-saftler-top-tv-acquisition-executive-fx-veteran-leaving-disney/",
+      "outlet": "TVNewsCheck",
+      "region": "americas"
+    },
+    {
+      "ref": 22,
+      "title": "Streamer BBC Select digs up ancient history series from Woodcut Media",
+      "link": "https://www.c21media.net/news/streamer-bbc-select-digs-up-ancient-history-series-from-woodcut-media/",
+      "outlet": "C21Media",
+      "region": "uk"
+    },
+    {
+      "ref": 23,
+      "title": "BBC Introducing LIVE returns to ten UK cities",
+      "link": "https://radiotoday.co.uk/2026/08/bbc-introducing-live-returns-to-ten-uk-cities/",
+      "outlet": "RadioToday",
+      "region": "uk"
+    },
+    {
+      "ref": 24,
+      "title": "Sinclair’s AMP Sports Adds Tennessee-Focused Podcast Hosted by Phillip Fulmer",
+      "link": "https://tvnewscheck.com/programming/article/sinclairs-amp-sports-adds-tennessee-focused-podcast-hosted-by-phillip-fulmer/",
+      "outlet": "TVNewsCheck",
+      "region": "americas"
+    },
+    {
+      "ref": 25,
+      "title": "Paramount-WB Merger Will Threaten $2.78B In Economic Value, Says L.A. County",
+      "link": "https://tvnewscheck.com/business/article/paramount-wb-merger-will-threaten-2-78b-in-economic-value-says-l-a-county/",
+      "outlet": "TVNewsCheck",
+      "region": "americas"
+    },
+    {
+      "ref": 26,
+      "title": "Paramount Prepares To Begin Early Settlement Talks With California Officials",
+      "link": "https://tvnewscheck.com/business/article/paramount-prepares-to-begin-early-settlement-talks-with-california-officials/",
+      "outlet": "TVNewsCheck",
+      "region": "americas"
+    },
+    {
+      "ref": 27,
+      "title": "ABC Local Station Move Draws FCC Scrutiny",
+      "link": "https://tvnewscheck.com/business/article/abc-local-station-move-draws-fcc-scrutiny/",
+      "outlet": "TVNewsCheck",
+      "region": "americas"
+    },
+    {
+      "ref": 28,
+      "title": "FCC’s Gomez Warns Satellite Deployment Is No Substitute For Universal Service",
+      "link": "https://tvnewscheck.com/regulation/article/fccs-gomez-warns-satellite-deployment-is-no-substitute-for-universal-service/",
+      "outlet": "TVNewsCheck",
+      "region": "americas"
+    },
+    {
+      "ref": 29,
+      "title": "Nvidia partners with data center developer Cloverleaf",
+      "link": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/",
+      "outlet": "TechCrunch",
+      "region": "americas"
+    },
+    {
+      "ref": 30,
+      "title": "FCC OKs New Cumulus Owners; Berner Pledges Newsroom Stability",
+      "link": "https://radioink.com/2026/08/20/fcc-oks-new-cumulus-owners-berner-pledges-newsroom-stability/",
+      "outlet": "Radio Ink",
+      "region": "americas"
+    },
+    {
+      "ref": 31,
+      "title": "Court Nixes Nielsen Rehearing; Clock Ticking On Cumulus Edict",
+      "link": "https://radioink.com/2026/08/20/court-nixes-nielsen-rehearing-clock-ticking-on-cumulus-mandate/",
+      "outlet": "Radio Ink",
+      "region": "americas"
+    }
+  ]
+}
