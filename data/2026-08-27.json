@@ -1,0 +1,530 @@
+{
+  "schema": 1,
+  "iso": "2026-08-27",
+  "headline": "Netflix UK revenue overtakes ITV as California halts Paramount merger talks",
+  "date_line": "Thursday 27 August 2026 · covering Mon 24 Aug to Wed 26 Aug",
+  "footer_note": "Built from 33 cited articles across 15 outlets. Written by gemini-3-flash-preview, gemini-3.1-flash-lite, gemini-3.5-flash.",
+  "model": "gemini-3-flash-preview, gemini-3.1-flash-lite, gemini-3.5-flash",
+  "backfilled": false,
+  "generated_at": "2026-08-27T09:59:22+01:00",
+  "digest": {
+    "headline": "Netflix UK revenue overtakes ITV as California halts Paramount merger talks",
+    "lead": "Netflix has surpassed ITV in annual UK revenue while streaming price hikes begin to slow. Meanwhile, California has cancelled settlement talks with Paramount regarding its proposed merger with Warner Bros Discovery.",
+    "glance": [
+      {
+        "text": "Netflix posted 2.06 billion pounds in UK revenue for 2025, overtaking the country's largest commercial broadcaster.",
+        "section": "results",
+        "refs": [
+          1
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "Average price rises for major streamers fell from 24 percent in 2023/24 to 14 percent in 2025/26.",
+        "section": "audience",
+        "refs": [
+          2,
+          3
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "The ECB is considering offering more free to air cricket rights to broadcasters like ITV from 2029.",
+        "section": "deals",
+        "refs": [
+          4
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "Sky and ITV executives addressed uncertainty regarding the 1.6 billion pound takeover of ITV by Comcast and Sky.",
+        "section": "deals",
+        "refs": [
+          5
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "The BBC and ABC have formed a partnership to co-develop children's content for global audiences.",
+        "section": "deals",
+        "refs": [
+          6,
+          7
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "Lebara has signed a two year deal to sponsor The Great British Bake Off on Channel 4.",
+        "section": "deals",
+        "refs": [
+          8
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "The BBC was warned that its traditional commissioning approach may fail to attract young audiences on YouTube.",
+        "section": "audience",
+        "refs": [
+          9
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "Meta agreed to pay 17 billion dollars in penalties and change platform operations to reduce harm to teenagers.",
+        "section": "regulation",
+        "refs": [
+          10
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "California cancelled settlement talks with Paramount over its proposed acquisition of Warner Bros Discovery.",
+        "section": "deals",
+        "refs": [
+          11,
+          12
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "A federal appeals court blocked FCC guidance that would have granted political parties discounted broadcast advertising rates.",
+        "section": "regulation",
+        "refs": [
+          13,
+          14
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "The CRTC eliminated fixed-term licence renewals for the vast majority of Canadian radio stations.",
+        "section": "regulation",
+        "refs": [
+          15,
+          16,
+          17
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "Nexstar Media Group appointed a new board for Tegna following a federal court ruling.",
+        "section": "deals",
+        "refs": [
+          18
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "Online services captured 40 percent of Canadian broadcasting revenues as traditional media formats declined.",
+        "section": "results",
+        "refs": [
+          19
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "Amazon tripled its order of Nvidia graphics chips to support surging data centre demand.",
+        "section": "tech",
+        "refs": [
+          20
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "Media watchdogs sought to intervene in Disney's First Amendment lawsuit against the FCC.",
+        "section": "regulation",
+        "refs": [
+          21,
+          22
+        ],
+        "region": "americas"
+      }
+    ],
+    "sections": [
+      {
+        "id": "results",
+        "paragraphs": [
+          "Netflix has reshaped the British television landscape by surpassing 2 billion pounds in UK revenue. This financial milestone places the global streamer ahead of ITV for the first time.",
+          "The shift comes as streaming giants face a ceiling on subscription costs. Research shows that price increases in Western Europe have been among the highest in the world recently."
+        ],
+        "region": "uk"
+      },
+      {
+        "id": "deals",
+        "paragraphs": [
+          "Sky and ITV are exploring content sharing for cricket rights to broaden the sport's appeal. The ECB wants more free to air coverage in the next contract cycle starting in 2029.",
+          "Tubi has expanded its UK catalogue through deals with NBCUniversal and Sony Pictures. The ad supported service added 450 movies and television episodes to its local offering.",
+          "Disney+ has secured a creator led football deal and a 20 episode series with Dhar Mann Studios. These moves reflect a strategy to engage audiences through established digital creators."
+        ],
+        "region": "uk"
+      },
+      {
+        "id": "audience",
+        "paragraphs": [
+          "Experts at the Edinburgh TV Festival cautioned the BBC against using traditional TV methods for YouTube. They suggest the broadcaster must adapt its commissioning style to reach younger viewers effectively.",
+          "Streaming platforms are also donating advertising inventory to the ASA public awareness campaign. Netflix and Waitrose are the latest brands to support the initiative which has run since 2022."
+        ],
+        "region": "uk"
+      },
+      {
+        "id": "radio",
+        "paragraphs": [
+          "BBC Music confirmed it will provide live coverage of the Reading and Leeds Festival 2026. Special shows will air across Radio 1 and 6 Music during the event.",
+          "Absolute Radio presenter Dan Noble is launching a new comedy podcast focused on a zombie apocalypse. The series features guest comedians and debuts at the start of September."
+        ],
+        "region": "uk"
+      },
+      {
+        "id": "deals",
+        "paragraphs": [
+          "California Attorney General Rob Bonta called off settlement talks with Paramount regarding its proposed 111 billion dollar acquisition of Warner Bros Discovery. Bonta accused Paramount of acting in bad faith and leaking details of the discussions. Meanwhile, Republican attorneys general from Iowa and Montana asked the Supreme Court to block the antitrust lawsuit led by California.",
+          "Nexstar Media Group selected a new board of directors for its Tegna subsidiary. A federal judge had ruled that the previous board, which consisted of Nexstar executives, violated a prior court order. Despite ongoing litigation, the combined Nexstar and Tegna entity remains the largest television station group in the United States."
+        ],
+        "region": "americas"
+      },
+      {
+        "id": "regulation",
+        "paragraphs": [
+          "A federal appeals court set aside an FCC Media Bureau notice that would have allowed political parties to receive the lowest unit charge for broadcast campaign ads. The court sided with four Democratic candidates who challenged the guidance. FCC Commissioner Anna Gomez had previously warned that the bureau's interpretation would unleash dark money into the upcoming midterms.",
+          "The CRTC announced it will no longer require most Canadian radio stations to undergo regular, fixed-term licence renewals. Under the new policy, the regulator granted indefinite broadcasting licences to hundreds of AM and FM stations to reduce administrative burdens.",
+          "Media watchdog groups filed a motion to intervene in Disney's First Amendment lawsuit against the FCC. The legal battle began after Disney sued the agency over investigations into diversity, equity, and inclusion policies at its ABC stations."
+        ],
+        "region": "americas"
+      },
+      {
+        "id": "results",
+        "paragraphs": [
+          "A report from the CRTC revealed that online services captured 40 percent of Canadian broadcasting revenues in the 2025 broadcast year. This milestone comes as traditional television and radio revenues continue to decline. Bell Media reported that subscriber growth for its Crave streaming service has allowed the platform to take bolder content risks.",
+          "Research from Ampere Analysis showed that the rate of subscription price increases for major streaming services has slowed. Average price hikes for Netflix, Disney Plus, and Amazon fell from 24 percent in 2023-24 to 14 percent in 2025-26."
+        ],
+        "region": "americas"
+      },
+      {
+        "id": "tech",
+        "paragraphs": [
+          "Amazon will add two million Nvidia graphics processing chips to its data centres over the next two years. The company tripled its order to keep pace with surging demand for cloud and artificial intelligence services. Nvidia expects its quarterly revenue to reach 108 billion dollars in the coming months."
+        ],
+        "region": "americas"
+      }
+    ],
+    "people_moves": [
+      {
+        "text": "Ben Illsley, head of programming strategy and performance for digital products in EMEA, BBC Studios",
+        "refs": [
+          23
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "Zach Marcovici, director of drama development, CBC",
+        "refs": [
+          24
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "Sam Register, exiting president, Warner Bros Animation and Hanna-Barbera Studios Europe",
+        "refs": [
+          25
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "Gianluca Pucacco, Vice President of Revenue Operations and International Growth, Roku",
+        "refs": [
+          26
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "Perry MacDonald, Vice President of Ad Sales, Paramount Canada",
+        "refs": [
+          27
+        ],
+        "region": "americas"
+      }
+    ],
+    "coming_up": [
+      {
+        "date": "29 Aug",
+        "text": "BBC Radio 5 Live broadcasts the Moses Itauma v Filip Hrgovic heavyweight fight",
+        "refs": [
+          28
+        ],
+        "region": "uk"
+      },
+      {
+        "date": "01 Sep",
+        "text": "Launch of Dan Noble's End of the World comedy podcast",
+        "refs": [
+          29
+        ],
+        "region": "uk"
+      },
+      {
+        "date": "03 Sep",
+        "text": "The Epstein Files documentary premieres on HBO Max in the UK",
+        "refs": [
+          30
+        ],
+        "region": "uk"
+      },
+      {
+        "date": "16 Sep",
+        "text": "Max vs 100 motorsport race streams live on Disney+",
+        "refs": [
+          31
+        ],
+        "region": "uk"
+      },
+      {
+        "date": "30 Nov",
+        "text": "Content London begins with drama commissioning executives from Sky and UKTV",
+        "refs": [
+          32
+        ],
+        "region": "uk"
+      },
+      {
+        "date": "30 Aug 2026",
+        "text": "Roku begins streaming eight Sunday night National Women's Soccer League matches for free on the Roku Sports Channel.",
+        "refs": [
+          33
+        ],
+        "region": "americas"
+      }
+    ]
+  },
+  "articles": [
+    {
+      "ref": 1,
+      "title": "Netflix UK revenue surpasses £2B in 2025, overtaking ITV and reshaping the British TV landscape",
+      "link": "https://www.broadbandtvnews.com/2026/08/24/netflix-uk-revenue-surpasses-2b-in-2025-overtaking-itv-and-reshaping-the-british-tv-landscape/",
+      "outlet": "Broadband TV News",
+      "region": "uk"
+    },
+    {
+      "ref": 2,
+      "title": "Analysis: Netflix, Disney+, Amazon pull brake on price rises",
+      "link": "https://www.advanced-television.com/2026/08/24/analysis-netflix-disney-amazon-pull-brake-on-price-rises/",
+      "outlet": "Advanced Television",
+      "region": "uk"
+    },
+    {
+      "ref": 3,
+      "title": "Streaming giants scale back price hikes as consumers hit ceiling on willingness to pay",
+      "link": "https://www.broadbandtvnews.com/2026/08/24/streaming-giants-scale-back-price-hikes-as-consumers-hit-ceiling-on-willingness-to-pay/",
+      "outlet": "Broadband TV News",
+      "region": "uk"
+    },
+    {
+      "ref": 4,
+      "title": "ECB pushing for more free-to-air coverage – with ITV open to showing Test cricket",
+      "link": "https://www.theguardian.com/sport/2026/aug/27/ecb-pushing-for-more-free-to-air-coverage-with-itv-open-to-showing-test-cricket",
+      "outlet": "Guardian Media",
+      "region": "uk"
+    },
+    {
+      "ref": 5,
+      "title": "‘Sky wouldn’t be buying us for all that money to destroy us’ – ITV’s Kevin Lygo",
+      "link": "https://www.c21media.net/news/sky-wouldnt-be-buying-us-for-all-that-money-to-destroy-us-itvs-kevin-lygo/",
+      "outlet": "C21Media",
+      "region": "uk"
+    },
+    {
+      "ref": 6,
+      "title": "BBC, ABC partner to find new kids content",
+      "link": "https://www.advanced-television.com/2026/08/26/bbc-abc-partner-to-find-new-kids-content/",
+      "outlet": "Advanced Television",
+      "region": "uk"
+    },
+    {
+      "ref": 7,
+      "title": "ABC, BBC join forces to find the next global hit for young audiences",
+      "link": "https://www.c21media.net/news/abc-bbc-join-forces-to-find-the-next-global-hit-for-young-audiences/",
+      "outlet": "C21Media",
+      "region": "uk"
+    },
+    {
+      "ref": 8,
+      "title": "Lebara sponsors Channel 4’s Bake Off",
+      "link": "https://www.advanced-television.com/2026/08/25/lebara-sponsors-channel-4s-bake-off/",
+      "outlet": "Advanced Television",
+      "region": "uk"
+    },
+    {
+      "ref": 9,
+      "title": "BBC cautioned on YouTube approach by platform experts",
+      "link": "https://www.c21media.net/news/bbc-cautioned-on-youtube-approach-by-platform-experts/",
+      "outlet": "C21Media",
+      "region": "uk"
+    },
+    {
+      "ref": 10,
+      "title": "Meta commits to make platforms less harmful, but questions remain over implementation",
+      "link": "https://uk.themedialeader.com/meta-commits-to-make-platforms-less-harmful-but-questions-remain-over-implementation/?utm_source=rss&utm_medium=rss&utm_campaign=meta-commits-to-make-platforms-less-harmful-but-questions-remain-over-implementation",
+      "outlet": "The Media Leader",
+      "region": "uk"
+    },
+    {
+      "ref": 11,
+      "title": "California Attorney General Cancels Paramount Settlement Talks Over $111 Billion Warner Bros. Discovery Deal, Says He’ll Meet When They ‘Stop Playing Games’",
+      "link": "https://variety.com/2026/film/global/california-ag-bonta-cancels-paramount-settlement-talks-1236841379/",
+      "outlet": "Variety",
+      "region": "americas"
+    },
+    {
+      "ref": 12,
+      "title": "California AG Calls Off Paramount-Warner Bros. Meeting, Accusing Company of “Playing Games”",
+      "link": "https://www.hollywoodreporter.com/business/business-news/california-bonta-cancels-paramount-wbd-deal-meeting-games-1236679548/",
+      "outlet": "Hollywood Reporter",
+      "region": "americas"
+    },
+    {
+      "ref": 13,
+      "title": "Federal Appeals Court Blocks FCC Guidance On Political Ad Rates",
+      "link": "https://tvnewscheck.com/business/article/federal-appeals-court-blocks-fcc-guidance-on-political-ad-rates/",
+      "outlet": "TVNewsCheck",
+      "region": "americas"
+    },
+    {
+      "ref": 14,
+      "title": "Court Rejects FCC’s Expanded Political Lowest Unit Rate Rule",
+      "link": "https://radioink.com/2026/08/26/court-rejects-fccs-expanded-political-lowest-unit-rate-rule/",
+      "outlet": "Radio Ink",
+      "region": "americas"
+    },
+    {
+      "ref": 15,
+      "title": "CRTC renews nearly all radio licences for indefinite terms",
+      "link": "https://cartt.ca/crtc-renews-nearly-all-radio-licences-for-indefinite-terms/",
+      "outlet": "Cartt.ca",
+      "region": "americas"
+    },
+    {
+      "ref": 16,
+      "title": "CRTC scraps fixed-term licence renewals for most radio stations",
+      "link": "https://broadcastdialogue.com/crtc-scraps-fixed-term-licence-renewals-for-most-radio-stations/",
+      "outlet": "Broadcast Dialogue",
+      "region": "americas"
+    },
+    {
+      "ref": 17,
+      "title": "CRTC Grants Indefinite Licenses for Canadian Radio Stations",
+      "link": "https://radioink.com/2026/08/26/crtc-grants-indefinite-licenses-for-canadian-radio-stations/",
+      "outlet": "Radio Ink",
+      "region": "americas"
+    },
+    {
+      "ref": 18,
+      "title": "Nexstar Appoints New Board For Tegna After Court Order",
+      "link": "https://tvnewscheck.com/business/article/nexstar-appoints-new-board-for-tegna-after-court-order/",
+      "outlet": "TVNewsCheck",
+      "region": "americas"
+    },
+    {
+      "ref": 19,
+      "title": "Online services capture 40% of broadcasting revenue as traditional TV, radio decline: CRTC report",
+      "link": "https://broadcastdialogue.com/online-services-capture-40-of-broadcasting-revenue-as-traditional-tv-radio-decline-crtc-report/",
+      "outlet": "Broadcast Dialogue",
+      "region": "americas"
+    },
+    {
+      "ref": 20,
+      "title": "Amazon just tripled its order of Nvidia chips over ‘surging demand’",
+      "link": "https://techcrunch.com/2026/08/26/amazon-just-tripled-its-order-of-nvidia-chips-over-surging-demand/",
+      "outlet": "TechCrunch",
+      "region": "americas"
+    },
+    {
+      "ref": 21,
+      "title": "Disney-FCC Lawsuit: Media Watchdogs Seek to Enter First Amendment Case",
+      "link": "https://www.thewrap.com/industry-news/business/abc-fcc-lawsuit-media-watchdogs-first-amendment-case/",
+      "outlet": "The Wrap",
+      "region": "americas"
+    },
+    {
+      "ref": 22,
+      "title": "FCC’s Annual EEO Audits Arrive Amid DEI Investigation Concerns",
+      "link": "https://radioink.com/2026/08/24/fccs-annual-eeo-audits-arrive-amid-dei-investigation-concerns/",
+      "outlet": "Radio Ink",
+      "region": "americas"
+    },
+    {
+      "ref": 23,
+      "title": "BBC Studios appoints former Sky exec Ben Illsley to digital team",
+      "link": "https://www.c21media.net/news/bbc-studios-appoints-former-sky-exec-ben-illsley-to-digital-team/",
+      "outlet": "C21Media",
+      "region": "uk"
+    },
+    {
+      "ref": 24,
+      "title": "CBC names Zach Marcovici as drama development director following Lea Marin exit",
+      "link": "https://www.c21media.net/news/cbc-names-zach-marcovici-as-drama-development-director-following-lea-marin-exit/",
+      "outlet": "C21Media",
+      "region": "uk"
+    },
+    {
+      "ref": 25,
+      "title": "Sam Register leaving post as president of Warner Bros Animation",
+      "link": "https://www.c21media.net/news/sam-register-leaving-post-as-president-of-warner-bros-animation/",
+      "outlet": "C21Media",
+      "region": "uk"
+    },
+    {
+      "ref": 26,
+      "title": "Roku Names Gianluca Pucacco VP, Revenue Operations, International Growth",
+      "link": "https://variety.com/2026/tv/news/roku-gianluca-pucacco-vp-revenue-operations-1236841290/",
+      "outlet": "Variety",
+      "region": "americas"
+    },
+    {
+      "ref": 27,
+      "title": "Perry MacDonald on his new ad role at Paramount Canada",
+      "link": "https://mediaincanada.com/2026/08/26/perry-macdonald-talks-about-his-new-ad-role-at-paramount-canada/",
+      "outlet": "Media in Canada",
+      "region": "americas"
+    },
+    {
+      "ref": 28,
+      "title": "BBC Sport announces watch-along for Itauma v Hrgović",
+      "link": "https://www.advanced-television.com/2026/08/26/bbc-sport-announces-watch-along-for-itauma-v-hrgovic/",
+      "outlet": "Advanced Television",
+      "region": "uk"
+    },
+    {
+      "ref": 29,
+      "title": "Absolute Radio’s Dan Noble launches zombie apocalypse podcast",
+      "link": "https://radiotoday.co.uk/2026/08/absolute-radios-dan-noble-launches-zombie-apocalypse-podcast/",
+      "outlet": "RadioToday",
+      "region": "uk"
+    },
+    {
+      "ref": 30,
+      "title": "WBD acquires Diabolical: The Epstein Files for HBO Max",
+      "link": "https://www.advanced-television.com/2026/08/25/wbd-acquires-diabolical-the-epstein-files-for-hbo-max/",
+      "outlet": "Advanced Television",
+      "region": "uk"
+    },
+    {
+      "ref": 31,
+      "title": "Max vs 100 race live on Disney+",
+      "link": "https://www.advanced-television.com/2026/08/25/max-vs-100-race-live-on-disney/",
+      "outlet": "Advanced Television",
+      "region": "uk"
+    },
+    {
+      "ref": 32,
+      "title": "Nine, Sky NZ and UKTV to share drama priorities and commissioning strategies at Content London",
+      "link": "https://www.c21media.net/department/marketing/nine-sky-nz-and-uktv-to-share-drama-priorities-and-commissioning-strategies-at-content-london/",
+      "outlet": "C21Media",
+      "region": "uk"
+    },
+    {
+      "ref": 33,
+      "title": "Roku To Stream 8 NWSL Sunday Night Matches In 2026",
+      "link": "https://tvnewscheck.com/programming/article/roku-to-stream-8-nwsl-sunday-night-matches-in-2026/",
+      "outlet": "TVNewsCheck",
+      "region": "americas"
+    }
+  ]
+}
