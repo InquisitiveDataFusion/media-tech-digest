@@ -1,0 +1,448 @@
+{
+  "schema": 1,
+  "iso": "2026-08-31",
+  "headline": "Sony Music and Warner Chappell Sue Anthropic Over Copyright Infringement",
+  "date_line": "Monday 31 August 2026 · covering Thu 27 Aug to Sun 30 Aug",
+  "footer_note": "Built from 29 cited articles across 14 outlets. Written by gemini-3.1-flash-lite, gemini-3.5-flash.",
+  "model": "gemini-3.1-flash-lite, gemini-3.5-flash",
+  "backfilled": false,
+  "generated_at": "2026-08-31T08:03:10+01:00",
+  "digest": {
+    "headline": "Sony Music and Warner Chappell Sue Anthropic Over Copyright Infringement",
+    "lead": "Sony Music and Warner Chappell have launched a major copyright lawsuit against AI startup Anthropic. Meanwhile, in the United Kingdom, new BBC director general Matt Brittin has proposed a public service algorithm for iPlayer to challenge the dominance of US tech giants.",
+    "glance": [
+      {
+        "text": "The BBC is seeking a multiplatform commissioning head to drive content on YouTube, TikTok and Roblox.",
+        "section": "tech",
+        "refs": [
+          1
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "Former Netflix executive Chris Sussman has been appointed as the BBC's new director of comedy.",
+        "section": "people",
+        "refs": [
+          2,
+          3
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "Sky has secured planning permission for a major new sustainable campus investment in Livingston, Scotland.",
+        "section": "deals",
+        "refs": [
+          4,
+          5
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "The ECB is planning to offer more free-to-air cricket rights packages to broadcasters like ITV.",
+        "section": "deals",
+        "refs": [
+          6
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "Broadcaster and BBC Radio 4 veteran Jenni Murray has died at the age of 75.",
+        "section": "people",
+        "refs": [
+          7
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "A UK man has been jailed for selling illegal IPTV services that generated nearly one million pounds.",
+        "section": "regulation",
+        "refs": [
+          8
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "Sony Music and Warner Chappell are suing AI startup Anthropic for allegedly infringing copyrights on tens of thousands of works.",
+        "section": "tech",
+        "refs": [
+          9,
+          10
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "Meta has agreed an 18 billion dollar settlement that could force rival social media platforms to alter their applications.",
+        "section": "tech",
+        "refs": [
+          11,
+          12
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "Apple has increased the monthly price of its Apple TV streaming service to 14.99 dollars.",
+        "section": "tech",
+        "refs": [
+          13
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "The Federal Communications Commission has abandoned its previous goal of connecting all Americans to gigabit-speed broadband.",
+        "section": "regulation",
+        "refs": [
+          14
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "Disney+ has secured a global distribution deal with the Pokémon Company, including a new stop-motion series.",
+        "section": "deals",
+        "refs": [
+          15,
+          16
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "Canadian broadcasters Bell and Telus have expanded their spectrum sharing to cover 90 percent of their licences.",
+        "section": "tech",
+        "refs": [
+          17
+        ],
+        "region": "americas"
+      }
+    ],
+    "sections": [
+      {
+        "id": "tech",
+        "paragraphs": [
+          "New BBC director general Matt Brittin has proposed a radical shift to open up the iPlayer platform to user-generated content. This content would be curated by a public service algorithm designed to remain free from the commercial interests of US technology giants.",
+          "To support this digital push, the BBC is recruiting its first head of multiplatform commissioning. The broadcaster is also seeking YouTube-first funny entertainment formats from independent producers to replicate the success of popular digital hits."
+        ],
+        "region": "uk"
+      },
+      {
+        "id": "regulation",
+        "paragraphs": [
+          "BBC Studios and Sky have strongly condemned unlawful streaming after a UK man was jailed for selling illegal IPTV services. Milan Ibrahim was sentenced after making nearly one million pounds from the illicit operation.",
+          "Meanwhile, the Children's Media Foundation has warned that financial penalties are not enough to protect young people online. The warning follows a major US court settlement where Meta agreed to pay penalties and reform its platforms to reduce teen harms."
+        ],
+        "region": "uk"
+      },
+      {
+        "id": "deals",
+        "paragraphs": [
+          "Sky has received planning permission for its new Livingston Campus in Scotland. The development will bring together existing operations into a modern, sustainable workplace for around 3,000 employees.",
+          "In sports rights, the England and Wales Cricket Board is pushing to return more live Test cricket to free-to-air television. ITV is reportedly open to broadcasting matches in the next rights cycle starting in 2029."
+        ],
+        "region": "uk"
+      },
+      {
+        "id": "radio",
+        "paragraphs": [
+          "BBC Radio 4 is celebrating the centenary of Winnie-the-Pooh with a series of new readings and a drama. The special programming will be introduced by Her Majesty the Queen.",
+          "BBC Radio 6 Music will also premiere a revised recording of Pet Shop Boys' Turing tribute, A man from the future, this October. The piece explores the life and influence of the pioneering mathematician Alan Turing."
+        ],
+        "region": "uk"
+      },
+      {
+        "id": "tech",
+        "paragraphs": [
+          "Sony Music and Warner Chappell have filed a lawsuit against Anthropic in a California federal court. The music publishers accuse the artificial intelligence firm of copyright infringement involving tens of thousands of works. They are seeking damages of up to 150,000 dollars per work. [21, 85]",
+          "Meanwhile, Meta has reached an 18 billion dollar settlement over its operations. Legal experts suggest the deal could force competitors like YouTube and TikTok to change how they run their apps. [47, 68]",
+          "Separately, a Microsoft-backed artificial intelligence data centre faces accusations of violating federal law. The facility allegedly operated dozens of large generators without the required permits. [25]"
+        ],
+        "region": "americas"
+      },
+      {
+        "id": "regulation",
+        "paragraphs": [
+          "The Federal Communications Commission has scrapped its target of bringing gigabit-speed broadband to every American. The decision marks a shift away from the connectivity goals of the previous administration. [14]",
+          "The regulator has also ended closed-captioning reporting requirements for public access television stations. The change is part of an ongoing deregulation campaign led by Chairman Brendan Carr. [26]",
+          "Additionally, President Donald Trump has called for the commission to punish NBC News anchor Kristen Welker. The threat followed comments she made on air about candidates endorsed by the president. [27]"
+        ],
+        "region": "americas"
+      },
+      {
+        "id": "deals",
+        "paragraphs": [
+          "Disney+ has signed a global distribution agreement with the Pokémon Company International. The deal includes a new stop-motion series scheduled for release in 2027. [15]",
+          "NBCUniversal has also expanded its international reach by partnering with Japanese platform U-Next. The deal will bring the Universal+ streaming brand to Japan and create new distribution routes for Japanese content. [28]",
+          "In contrast, Warner Bros. Discovery remains cautious as delays to the Paramount merger limit its options. The pause has forced the company to adopt a more conservative strategy. [29]"
+        ],
+        "region": "americas"
+      }
+    ],
+    "people_moves": [
+      {
+        "text": "Chris Sussman, Director of Comedy, BBC",
+        "refs": [
+          2,
+          3
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "Barret Zoph, former co-founder of Thinking Machines and OpenAI researcher, has joined Google.",
+        "refs": [
+          18
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "Sandhya Devanathan, former Meta executive, has joined OpenAI to oversee operations in Southeast Asia and Australia.",
+        "refs": [
+          19
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "Beth Wilkinson, attorney, has been hired by Paramount to represent the company in high-stakes legal battles.",
+        "refs": [
+          20
+        ],
+        "region": "americas"
+      }
+    ],
+    "coming_up": [
+      {
+        "date": "23 Sep 2026",
+        "text": "Toy Story 5 streams exclusively on Disney+",
+        "refs": [
+          21
+        ],
+        "region": "uk"
+      },
+      {
+        "date": "30 Nov 2026",
+        "text": "Content London conference begins, featuring drama commissioners from Nine, Sky NZ and UKTV",
+        "refs": [
+          22
+        ],
+        "region": "uk"
+      },
+      {
+        "date": "23 Sep 2026",
+        "text": "Toy Story 5 premieres on Disney+.",
+        "refs": [
+          23
+        ],
+        "region": "americas"
+      },
+      {
+        "date": "25 Sep 2026",
+        "text": "Queer comedy Slo Pitch premieres on Crave.",
+        "refs": [
+          24
+        ],
+        "region": "americas"
+      }
+    ]
+  },
+  "articles": [
+    {
+      "ref": 1,
+      "title": "BBC seeking ‘creator economy native’ for new head of multiplatform commissioning",
+      "link": "https://www.c21media.net/news/bbc-seeking-creator-economy-native-for-new-head-of-multiplatform-commissioning/",
+      "outlet": "C21Media",
+      "region": "uk"
+    },
+    {
+      "ref": 2,
+      "title": "BBC appoints ex-Netflix, BBCS exec Chris Sussman as director of comedy",
+      "link": "https://www.c21media.net/news/bbc-appoints-ex-netflix-bbcs-exec-chris-sussman-as-director-of-comedy/",
+      "outlet": "C21Media",
+      "region": "uk"
+    },
+    {
+      "ref": 3,
+      "title": "Sussman named BBC Director of Comedy",
+      "link": "https://www.advanced-television.com/2026/08/28/sussman-named-bbc-director-of-comedy/",
+      "outlet": "Advanced Television",
+      "region": "uk"
+    },
+    {
+      "ref": 4,
+      "title": "Sky secures approval for major Livingston Campus investment",
+      "link": "https://www.broadbandtvnews.com/2026/08/28/sky-secures-approval-for-major-livingston-campus-investment/",
+      "outlet": "Broadband TV News",
+      "region": "uk"
+    },
+    {
+      "ref": 5,
+      "title": "Sky secures approval for Livingston Campus investment",
+      "link": "https://www.advanced-television.com/2026/08/28/sky-secures-approval-for-livingston-campus-investment/",
+      "outlet": "Advanced Television",
+      "region": "uk"
+    },
+    {
+      "ref": 6,
+      "title": "ECB pushing for more free-to-air coverage with ITV open to showing Test cricket",
+      "link": "https://www.theguardian.com/sport/2026/aug/27/ecb-pushing-for-more-free-to-air-coverage-with-itv-open-to-showing-test-cricket",
+      "outlet": "Guardian Media",
+      "region": "uk"
+    },
+    {
+      "ref": 7,
+      "title": "Broadcaster Jenni Murray died days after north London car crash, inquest hears",
+      "link": "https://www.theguardian.com/media/2026/aug/27/broadcaster-bbc-jenni-murray-london-inquest-coroner",
+      "outlet": "Guardian Media",
+      "region": "uk"
+    },
+    {
+      "ref": 8,
+      "title": "BBC Studios, Sky condemn unlawful streaming after UK man jailed for selling illegal IPTV services",
+      "link": "https://www.c21media.net/news/bbc-studios-sky-condemn-unlawful-streaming-after-uk-man-jailed-for-selling-illegal-iptv-services/",
+      "outlet": "C21Media",
+      "region": "uk"
+    },
+    {
+      "ref": 9,
+      "title": "Sony Music and Warner Chappell are suing Anthropic",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright",
+      "outlet": "The Verge",
+      "region": "americas"
+    },
+    {
+      "ref": 10,
+      "title": "Sony and Warner sue Anthropic for 'blatant violation' of copyright law",
+      "link": "https://www.engadget.com/2246997/sony-warner-sue-anthropic-for-blatant-violation-of-copyright-law/",
+      "outlet": "Engadget",
+      "region": "americas"
+    },
+    {
+      "ref": 11,
+      "title": "Legal experts say Meta's settlement puts YouTube, TikTok and Snap on notice",
+      "link": "https://www.engadget.com/2245685/legal-experts-say-meta-settlement-puts-youtube-tiktok-snap-on-notice/",
+      "outlet": "Engadget",
+      "region": "americas"
+    },
+    {
+      "ref": 12,
+      "title": "Meta’s $18 Billion Settlement: A Wake-Up Call for Social Media or the Cost of Doing Business? | Analysis",
+      "link": "https://www.thewrap.com/industry-news/tech/meta-settlement-social-media-addiction-teens-explained/",
+      "outlet": "The Wrap",
+      "region": "americas"
+    },
+    {
+      "ref": 13,
+      "title": "Apple TV Hikes Prices As Streaming Inflation Continues",
+      "link": "https://tvnewscheck.com/programming/article/apple-tv-hikes-prices-as-streaming-inflation-continues/",
+      "outlet": "TVNewsCheck",
+      "region": "americas"
+    },
+    {
+      "ref": 14,
+      "title": "Trump’s FCC Just Scrapped Its Most Ambitious Broadband Goal",
+      "link": "https://www.cnet.com/home/internet/trumps-fcc-just-scrapped-its-most-ambitious-broadband-goal/",
+      "outlet": "CNET News",
+      "region": "americas"
+    },
+    {
+      "ref": 15,
+      "title": "Disney+, Pokemon Company Ink Global Distribution Deal, Including New Stop-Motion Series",
+      "link": "https://variety.com/2026/tv/news/new-pokemon-stop-motion-series-disney-plus-deal-1236846186/",
+      "outlet": "Variety",
+      "region": "americas"
+    },
+    {
+      "ref": 16,
+      "title": "Pokémon Stop-Motion Series Set at Disney+ as Part of Larger Distribution Deal",
+      "link": "https://www.hollywoodreporter.com/tv/tv-news/new-pokemon-animated-series-disney-plus-1236684445/",
+      "outlet": "Hollywood Reporter",
+      "region": "americas"
+    },
+    {
+      "ref": 17,
+      "title": "Bell and Telus spectrum sharing at 90% of licences following new approvals",
+      "link": "https://cartt.ca/bell-and-telus-spectrum-sharing-at-90-of-licences-following-new-approvals/",
+      "outlet": "Cartt.ca",
+      "region": "americas"
+    },
+    {
+      "ref": 18,
+      "title": "Barret Zoph, the Thinking Machines co-founder ousted before joining OpenAI, is now at Google",
+      "link": "https://techcrunch.com/2026/08/27/barret-zoph-the-thinking-machines-co-founder-who-defected-to-openai-is-now-at-google/",
+      "outlet": "TechCrunch",
+      "region": "americas"
+    },
+    {
+      "ref": 19,
+      "title": "Meta executive leaves for OpenAI as the social media giant faces growing scrutiny in India",
+      "link": "https://techcrunch.com/2026/08/28/meta-executive-leaves-for-openai-as-the-social-media-giant-faces-growing-scrutiny-in-india/",
+      "outlet": "TechCrunch",
+      "region": "americas"
+    },
+    {
+      "ref": 20,
+      "title": "Paramount Turns To A Heavy-Hitting Lawyer Who Likes Tough Clients",
+      "link": "https://tvnewscheck.com/business/article/paramount-turns-to-a-heavy-hitting-lawyer-who-likes-tough-clients/",
+      "outlet": "TVNewsCheck",
+      "region": "americas"
+    },
+    {
+      "ref": 21,
+      "title": "Toy Story 5 streams on Disney+ this September",
+      "link": "https://www.advanced-television.com/2026/08/27/toy-story-5-streams-on-disney-this-september/",
+      "outlet": "Advanced Television",
+      "region": "uk"
+    },
+    {
+      "ref": 22,
+      "title": "Nine, Sky NZ and UKTV to share drama priorities and commissioning strategies at Content London",
+      "link": "https://www.c21media.net/department/marketing/nine-sky-nz-and-uktv-to-share-drama-priorities-and-commissioning-strategies-at-content-london/",
+      "outlet": "C21Media",
+      "region": "uk"
+    },
+    {
+      "ref": 23,
+      "title": "‘Toy Story 5’ Sets Disney+ Streaming Release Date After Making Over $1 Billion at the Box Office",
+      "link": "https://variety.com/2026/film/news/toy-story-5-disney-plus-release-date-streaming-how-to-watch-1236844965/",
+      "outlet": "Variety",
+      "region": "americas"
+    },
+    {
+      "ref": 24,
+      "title": "Crave’s Slo Pitch sells to multiple territories ahead of premiere",
+      "link": "https://playbackonline.ca/2026/08/27/craves-slo-pitch-sells-to-multiple-territories-ahead-of-premiere/",
+      "outlet": "Playback",
+      "region": "americas"
+    },
+    {
+      "ref": 25,
+      "title": "Microsoft-backed AI data center has been accused of violating federal law",
+      "link": "https://www.engadget.com/2246451/microsoft-backed-ai-data-center-has-been-accused-of-violating-federal-law/",
+      "outlet": "Engadget",
+      "region": "americas"
+    },
+    {
+      "ref": 26,
+      "title": "FCC Ends Enforcement Of Closed Captions On Public Access TV",
+      "link": "https://tvnewscheck.com/regulation/article/fcc-ends-enforcement-of-closed-captions-on-public-access-tv/",
+      "outlet": "TVNewsCheck",
+      "region": "americas"
+    },
+    {
+      "ref": 27,
+      "title": "President Trump Calls For FCC Punishment of NBC News’ Kristen Welker Following Promotional ‘Meet the Press’ Banter",
+      "link": "https://variety.com/2026/tv/news/trump-kristen-welker-fcc-punishment-meet-the-press-1236846910/",
+      "outlet": "Variety",
+      "region": "americas"
+    },
+    {
+      "ref": 28,
+      "title": "NBCUniversal, U-Next Ink Sweeping Japan Partnership Spanning Streaming and Theme Parks",
+      "link": "https://variety.com/2026/tv/news/nbcuniversal-unext-japan-deal-1236847106/",
+      "outlet": "Variety",
+      "region": "americas"
+    },
+    {
+      "ref": 29,
+      "title": "Lost In Limbo: Where The Paramount Merger Delay Leaves WBD, And What May Come Next",
+      "link": "https://tvnewscheck.com/business/article/lost-in-limbo-where-the-paramount-merger-delay-leaves-wbd-and-what-may-come-next/",
+      "outlet": "TVNewsCheck",
+      "region": "americas"
+    }
+  ]
+}
