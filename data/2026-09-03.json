@@ -1,0 +1,416 @@
+{
+  "schema": 1,
+  "iso": "2026-09-03",
+  "headline": "Disney+ Gains UK Subscribers as Trump Threatens NBC Over Election Coverage",
+  "date_line": "Thursday 03 September 2026 · covering Mon 31 Aug to Wed 02 Sep",
+  "footer_note": "Built from 25 cited articles across 12 outlets. Written by gemini-3.1-flash-lite, gemini-3.5-flash.",
+  "model": "gemini-3.1-flash-lite, gemini-3.5-flash",
+  "backfilled": false,
+  "generated_at": "2026-09-03T06:49:15+01:00",
+  "digest": {
+    "headline": "Disney+ Gains UK Subscribers as Trump Threatens NBC Over Election Coverage",
+    "lead": "Disney+ has recorded strong growth in the United Kingdom following a partnership with Sky. Meanwhile, President Donald Trump has threatened to report NBC News host Kristen Welker to the FCC, sparking significant controversy across North America.",
+    "glance": [
+      {
+        "text": "Disney+ added more than 1.1 million UK homes in the second quarter of 2026, boosted by its inclusion in Sky packages.",
+        "section": "audience",
+        "refs": [
+          1,
+          2
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "The BBC has cancelled its long-running winter sports programme Ski Sunday after nearly 50 years on the air.",
+        "section": "audience",
+        "refs": [
+          3,
+          4
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "The BBC is facing internal anger after withdrawing promised jobs for apprentices due to sweeping budget cuts.",
+        "section": "people",
+        "refs": [
+          5
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "The UK ranks second in Europe for its share of standalone 5G network tests conducted between January and July 2026.",
+        "section": "tech",
+        "refs": [
+          6
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "Roku is bringing its Video-on-Demand Evolution Study to the UK to outline the state of streaming.",
+        "section": "tech",
+        "refs": [
+          7
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "The BBC has discontinued its flagship television highlights programme The Women's Football Show ahead of the new season.",
+        "section": "audience",
+        "refs": [
+          8
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "Netflix has commissioned a new psychological reality series called Playing with Matches from UK production company Mettlemouse.",
+        "section": "deals",
+        "refs": [
+          9
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "President Donald Trump threatened to report NBC News host Kristen Welker to the FCC over her comments on his endorsement record.",
+        "section": "regulation",
+        "refs": [
+          10,
+          11,
+          12
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "A federal court ruled that Google will not be forced to break up its advertising technology business despite its monopoly status.",
+        "section": "regulation",
+        "refs": [
+          13,
+          14
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "Apple and Google renamed Lake Ontario to Lake America on their maps following an executive order by President Trump.",
+        "section": "tech",
+        "refs": [
+          15,
+          16
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "Apple accused OpenAI of destroying evidence in an ongoing legal battle involving a former Apple employee.",
+        "section": "tech",
+        "refs": [
+          17,
+          18
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "The FCC rejected broadcaster appeals to lower regulatory fees, leading to higher bills for AM and FM radio stations.",
+        "section": "radio",
+        "refs": [
+          19
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "Publicis Groupe secured the global media business for PepsiCo and withdrew from the Coca-Cola media pitch.",
+        "section": "deals",
+        "refs": [
+          20
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "Netflix signed a multi-year deal with EverPass Media to stream NFL holiday games in commercial venues.",
+        "section": "deals",
+        "refs": [
+          21
+        ],
+        "region": "americas"
+      }
+    ],
+    "sections": [
+      {
+        "id": "audience",
+        "paragraphs": [
+          "Disney+ was the standout performer in the UK subscription video-on-demand market during the second quarter of 2026. The service added over 1.1 million UK households, largely driven by its integration into several Sky subscription packages.",
+          "Despite this growth, the wider UK streaming market showed signs of plateauing. Barb data revealed that 20.7 million UK homes had access to at least one subscription service in the second quarter, down slightly from 20.8 million in the previous quarter."
+        ],
+        "region": "uk"
+      },
+      {
+        "id": "radio",
+        "paragraphs": [
+          "BBC Radio 4 has announced the return of its surreal audio sketch show The Skewer for its seventeenth series. The programme will continue to blend news and satire using open submissions from the public."
+        ],
+        "region": "uk"
+      },
+      {
+        "id": "tech",
+        "paragraphs": [
+          "Mobile connectivity in the UK is showing significant progress, particularly in high-speed infrastructure. The UK ranked second among the top ten European nations for its share of standalone 5G tests between January and July 2026.",
+          "This infrastructure boost is evident on the London Underground, where a long-running mobile blackspot is finally being resolved. A 20-year project is bringing continuous cellular and 5G coverage to passengers travelling through the subway network."
+        ],
+        "region": "uk"
+      },
+      {
+        "id": "regulation",
+        "paragraphs": [
+          "President Donald Trump has threatened to report Meet the Press moderator Kristen Welker to the FCC. Trump objected to her comments stating that his endorsed political candidates have achieved mixed results. NBC News defended Welker, calling her one of the best in the business.",
+          "Former FCC Chairman Tom Wheeler and other media commentators criticised the threat as an attack on free speech and reality. They argued that the president is attempting to weaponise the regulatory agency against an individual journalist.",
+          "In another regulatory development, a federal court ruled that Google will not be forced to divest its adtech business. Although the court found Google operated illegal monopolies in publisher ad servers and ad exchanges, it rejected the Department of Justice proposal for a breakup."
+        ],
+        "region": "americas"
+      },
+      {
+        "id": "deals",
+        "paragraphs": [
+          "Publicis Groupe has won the global media account for PepsiCo. Following this win, the agency group withdrew from the ongoing global media pitch for rival Coca-Cola.",
+          "A pro-merger group called Neighbors for Strong Communities is using artificial intelligence to pressure California Attorney General Rob Bonta. The group is generating AI letters urging Bonta to drop his antitrust lawsuit against the Paramount and Warner Bros. merger.",
+          "Actor Tom Cruise publicly supported the proposed Paramount and Warner Bros. merger. Cruise expressed confidence that the combined company will deliver on its promise to release 30 films a year."
+        ],
+        "region": "americas"
+      },
+      {
+        "id": "tech",
+        "paragraphs": [
+          "Apple Maps and Google Maps have renamed Lake Ontario to Lake America. The change follows an executive order signed by President Trump during a trade dispute with Canada. The Canadian version of Apple Maps still displays the original name.",
+          "Apple has asked a court for expedited discovery in its legal battle against OpenAI. Apple alleges that OpenAI is actively destroying evidence, pointing to a recently returned laptop used by a former employee accused of stealing data.",
+          "Roku has launched its first OLED television under the Roku Pro Series banner. The launch introduces new midrange competition against established models from LG, Samsung and Sony."
+        ],
+        "region": "americas"
+      },
+      {
+        "id": "radio",
+        "paragraphs": [
+          "AM and FM broadcasters face higher regulatory fees after the FCC rejected relief bids from the National Association of Broadcasters. The fee increases follow a rise in the regulatory agency's overall operating budget.",
+          "The FCC revoked the license of Montana FM station KBOQ in Lima. The station owner, Southwest Montana Media, failed to pay more than 6,700 dollars in delinquent regulatory fees.",
+          "Triton Digital has partnered with broadcast software provider RCS to enable programmatic advertising on over-the-air radio. The deal allows broadcasters to sell traditional radio ad inventory using existing streaming audio workflows."
+        ],
+        "region": "americas"
+      }
+    ],
+    "people_moves": [
+      {
+        "text": "Beth Anderson has left her role as senior VP of sales planning at BBC Studios in New York.",
+        "refs": [
+          22
+        ],
+        "region": "uk"
+      }
+    ],
+    "coming_up": [
+      {
+        "date": "04 Sep 2026",
+        "text": "The WSL kicks off its 2026/27 season, coinciding with the launch of the new BBC Women's Football YouTube channel.",
+        "refs": [
+          23
+        ],
+        "region": "uk"
+      },
+      {
+        "date": "06 Oct 2026",
+        "text": "Roku reveals the results of its Video-on-Demand Evolution Study in a webcast with senior media buyers.",
+        "refs": [
+          7
+        ],
+        "region": "uk"
+      },
+      {
+        "date": "09 Sep 2026",
+        "text": "Season 2 of Korean drama Made in Korea premieres on Hulu and Disney+",
+        "refs": [
+          24
+        ],
+        "region": "americas"
+      },
+      {
+        "date": "11 Sep 2026",
+        "text": "IBC 2026 exhibition begins in Amsterdam, where Comcast Technology Solutions will showcase new AI tools",
+        "refs": [
+          25
+        ],
+        "region": "americas"
+      }
+    ]
+  },
+  "articles": [
+    {
+      "ref": 1,
+      "title": "Disney+ adds 1.1m UK homes as Sky partnership boosts reach",
+      "link": "https://www.broadbandtvnews.com/2026/09/02/disney-adds-1-1m-uk-homes-as-sky-partnership-boosts-reach/",
+      "outlet": "Broadband TV News",
+      "region": "uk"
+    },
+    {
+      "ref": 2,
+      "title": "Barb: Disney+ adds 1.1m UK homes in Q2 2026",
+      "link": "https://www.advanced-television.com/2026/09/02/barb-disney-adds-1-1m-uk-homes-in-q2-2026/",
+      "outlet": "Advanced Television",
+      "region": "uk"
+    },
+    {
+      "ref": 3,
+      "title": "BBC ends Ski Sunday after almost 50 years on air",
+      "link": "https://www.c21media.net/news/bbc-ends-ski-sunday-after-almost-50-years-on-air/",
+      "outlet": "C21Media",
+      "region": "uk"
+    },
+    {
+      "ref": 4,
+      "title": "BBC axes ‘iconic’ Ski Sunday winter sports show after nearly 50 years on TV",
+      "link": "https://www.theguardian.com/sport/2026/sep/01/bbc-axes-ski-sunday-winter-sports-show",
+      "outlet": "Guardian Media",
+      "region": "uk"
+    },
+    {
+      "ref": 5,
+      "title": "Anger as BBC withdraws jobs promise for apprentices amid sweeping cuts",
+      "link": "https://www.theguardian.com/media/2026/sep/01/bbc-jobs-promise-apprentices-cuts",
+      "outlet": "Guardian Media",
+      "region": "uk"
+    },
+    {
+      "ref": 6,
+      "title": "Data: UK ranks 2nd in 5G SA test share in Europe",
+      "link": "https://www.advanced-television.com/2026/09/01/data-uk-ranks-2nd-in-5g-sa-test-share-in-europe/",
+      "outlet": "Advanced Television",
+      "region": "uk"
+    },
+    {
+      "ref": 7,
+      "title": "Roku brings its Video-on-Demand Evolution Study to the UK",
+      "link": "https://uk.themedialeader.com/roku-brings-its-video-on-demand-evolution-study-to-the-uk/?utm_source=rss&utm_medium=rss&utm_campaign=roku-brings-its-video-on-demand-evolution-study-to-the-uk",
+      "outlet": "The Media Leader",
+      "region": "uk"
+    },
+    {
+      "ref": 8,
+      "title": "BBC ‘fully committed to women’s football’ despite cancelling flagship highlights show",
+      "link": "https://www.theguardian.com/football/2026/sep/01/bbc-fully-committed-to-womens-football-despite-cancelling-flagship-highlights-show",
+      "outlet": "Guardian Media",
+      "region": "uk"
+    },
+    {
+      "ref": 9,
+      "title": "Netflix commissions deception-based reality series from UK’s Mettlemouse",
+      "link": "https://www.c21media.net/news/netflix-commissions-deception-based-reality-series-from-uks-mettlemouse/",
+      "outlet": "C21Media",
+      "region": "uk"
+    },
+    {
+      "ref": 10,
+      "title": "NBC News Responds To Trump’s FCC Threat Against Kristen Welker",
+      "link": "https://tvnewscheck.com/journalism/article/nbc-news-responds-to-trumps-fcc-threat-against-kristen-welker/",
+      "outlet": "TVNewsCheck",
+      "region": "americas"
+    },
+    {
+      "ref": 11,
+      "title": "Trump Promises NBC’s Welker Will Be Reported To FCC ‘For Rebuke Or Punishment’",
+      "link": "https://tvnewscheck.com/journalism/article/trump-promises-nbcs-welker-will-be-reported-to-fcc-for-rebuke-or-punishment/",
+      "outlet": "TVNewsCheck",
+      "region": "americas"
+    },
+    {
+      "ref": 12,
+      "title": "Trump’s Threat Against An NBC Journalist Is An Attack On Reality",
+      "link": "https://tvnewscheck.com/journalism/article/trumps-threat-against-an-nbc-journalist-is-an-attack-on-reality/",
+      "outlet": "TVNewsCheck",
+      "region": "americas"
+    },
+    {
+      "ref": 13,
+      "title": "Google Won’t Be Forced to Break Up Adtech Biz, Even After Monopoly Ruling",
+      "link": "https://www.adweek.com/media/google-wont-be-forced-to-break-up-adtech-biz-even-after-monopoly-ruling/",
+      "outlet": "Adweek",
+      "region": "americas"
+    },
+    {
+      "ref": 14,
+      "title": "Google Avoids Breakup of Ad Tech Business in Antitrust Ruling",
+      "link": "https://www.thewrap.com/industry-news/public-policy-legal/google-ad-tech-breakup-antitrust-ruling/",
+      "outlet": "The Wrap",
+      "region": "americas"
+    },
+    {
+      "ref": 15,
+      "title": "Apple Maps follows Google in renaming Lake Ontario",
+      "link": "https://www.theverge.com/tech/987784/apple-maps-lake-america-renaming",
+      "outlet": "The Verge",
+      "region": "americas"
+    },
+    {
+      "ref": 16,
+      "title": "Apple follows Google in adopting Trump’s ‘Lake America’ name",
+      "link": "https://techcrunch.com/2026/09/01/apple-follows-google-in-adopting-trumps-lake-america-name/",
+      "outlet": "TechCrunch",
+      "region": "americas"
+    },
+    {
+      "ref": 17,
+      "title": "Apple accuses OpenAI of destroying evidence",
+      "link": "https://www.theverge.com/tech/987575/apple-openai-destroying-evidence-trade-secrets-lawsuit",
+      "outlet": "The Verge",
+      "region": "americas"
+    },
+    {
+      "ref": 18,
+      "title": "Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI",
+      "link": "https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/",
+      "outlet": "TechCrunch",
+      "region": "americas"
+    },
+    {
+      "ref": 19,
+      "title": "Radio Fees Rise as FCC Rejects Broadcasters’ Relief Bids",
+      "link": "https://radioink.com/2026/08/31/radio-fees-rise-as-fcc-rejects-broadcasters-relief-bids/",
+      "outlet": "Radio Ink",
+      "region": "americas"
+    },
+    {
+      "ref": 20,
+      "title": "Publicis Lands PepsiCo’s Global Media Business, Withdraws From Coke Pitch",
+      "link": "https://www.adweek.com/agencies/publicis-lands-pepsicos-global-media-business-withdraws-from-coke-pitch/",
+      "outlet": "Adweek",
+      "region": "americas"
+    },
+    {
+      "ref": 21,
+      "title": "Netflix Strikes Multi-Year NFL Content Deal With EverPass Media",
+      "link": "https://www.thewrap.com/media-platforms/tv/netflix-everpass-media-nfl-content-deal/",
+      "outlet": "The Wrap",
+      "region": "americas"
+    },
+    {
+      "ref": 22,
+      "title": "Longstanding BBC Studios exec Beth Anderson exits New York role",
+      "link": "https://www.c21media.net/news/longstanding-bbc-studios-exec-beth-anderson-exits-new-york-role/",
+      "outlet": "C21Media",
+      "region": "uk"
+    },
+    {
+      "ref": 23,
+      "title": "BBC launches Women’s football YouTube channel",
+      "link": "https://www.advanced-television.com/2026/09/02/bbc-launches-womens-football-youtube-channel/",
+      "outlet": "Advanced Television",
+      "region": "uk"
+    },
+    {
+      "ref": 24,
+      "title": "Hyun Bin and Woo Do-hwan Turn Against Each Other in Hulu and Disney+’s ‘Made in Korea’ Season 2",
+      "link": "https://variety.com/2026/tv/news/hyun-bin-woo-do-hwan-made-in-korea-season-2-1236848100/",
+      "outlet": "Variety",
+      "region": "americas"
+    },
+    {
+      "ref": 25,
+      "title": "IBC: Comcast Tech Solutions Adding AI Workflow Apps For Video",
+      "link": "https://tvnewscheck.com/tech/article/ibc-comcast-tech-solutions-adding-ai-workflow-apps-for-video/",
+      "outlet": "TVNewsCheck",
+      "region": "americas"
+    }
+  ]
+}
