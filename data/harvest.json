@@ -1,6 +1,744 @@
 {
- "updated": "2026-09-07T06:13:20+01:00",
+ "updated": "2026-09-07T14:00:56+01:00",
  "items": [
+  {
+   "key": "howtochangesirisvoice",
+   "title": "How to change Siri's voice",
+   "summary": "Siri's voice will be more expressive and customizable in iOS 27, but only if you have the latest hardware.",
+   "link": "https://www.engadget.com/2249016/how-to-change-siri-voice/",
+   "outlet": "Engadget",
+   "feed_region": "global",
+   "published": "2026-09-07T14:00:00+01:00"
+  },
+  {
+   "key": "howasweethornyhockeyshowrewrotetherulesofindependenttv",
+   "title": "How a Sweet, Horny Hockey Show Rewrote the Rules of Independent TV",
+   "summary": "Accent Aigu Entertainment turned a $200,000 lowball offer and a rabid BookTok fandom into the game-changing global hit ‘Heated Rivalry.'",
+   "link": "https://www.hollywoodreporter.com/tv/tv-features/how-heated-rivarly-rewrote-rules-independent-tv-1236687243/",
+   "outlet": "Hollywood Reporter",
+   "feed_region": "americas",
+   "published": "2026-09-07T14:00:00+01:00"
+  },
+  {
+   "key": "ciaramillergetsarealitycheck",
+   "title": "Ciara Miller Gets a Reality Check",
+   "summary": "The former ICU nurse has conquered Bravo, survived a shocking public betrayal and landed on her feet with 'Dancing With the Stars.'",
+   "link": "https://www.hollywoodreporter.com/tv/tv-features/ciara-miller-dwts-season-35-summer-house-season-11-return-1236691402/",
+   "outlet": "Hollywood Reporter",
+   "feed_region": "americas",
+   "published": "2026-09-07T14:00:00+01:00"
+  },
+  {
+   "key": "fleshimpactreviewmaggiegyllenhaaladdsmarilynmonroetoherrosterofcomplex",
+   "title": "‘Flesh Impact’ Review: Maggie Gyllenhaal Adds Marilyn Monroe to Her Roster of Complex Heroines",
+   "summary": "Venice Film Festival: The jury president and director of “The Lost Daughter” and “The Bride!” has made a short film starring Ellen Burstyn and Dakota Fanning as the screen icon The post ‘Flesh Impact’ Review: Maggie Gyllenhaal Adds Marilyn Monroe to Her Roster of Complex Heroines appeared first on TheWrap .",
+   "link": "https://www.thewrap.com/creative-content/movies/flesh-impact-maggie-gyllenhaal-marilyn-monroe-review/",
+   "outlet": "The Wrap",
+   "feed_region": "americas",
+   "published": "2026-09-07T14:00:00+01:00"
+  },
+  {
+   "key": "chancellorrefusestoruleouttaxhikesinoctoberbudget",
+   "title": "Chancellor refuses to rule out tax hikes in October Budget",
+   "summary": "John Healey detailed plans to spread growth more widely across the UK, ahead of his first Budget.",
+   "link": "https://www.bbc.co.uk/news/articles/cgjqg450w28o?at_medium=RSS&at_campaign=rss",
+   "outlet": "BBC Business",
+   "feed_region": "uk",
+   "published": "2026-09-07T13:48:28+01:00"
+  },
+  {
+   "key": "thedownsidesofswitchingfromamacbooktowindows",
+   "title": "The downsides of switching from a MacBook to Windows",
+   "summary": "macOS and Windows both have their own advantages. If you're planning to move to Windows, make sure you know what you're giving up.",
+   "link": "https://www.engadget.com/2248705/downsides-switching-from-macbook-to-windows/",
+   "outlet": "Engadget",
+   "feed_region": "global",
+   "published": "2026-09-07T13:30:00+01:00"
+  },
+  {
+   "key": "nitterlivestoproxyanotherdayaftertakinglegaladvice",
+   "title": "Nitter lives to proxy another day after taking legal advice",
+   "summary": "Public instance XCancel uncancelled after X Corp's cease-and-desist campaign, with others promised shortly",
+   "link": "https://www.theregister.com/personal-tech/2026/09/07/nitter-lives-to-proxy-another-day-after-taking-legal-advice/5294754",
+   "outlet": "The Register",
+   "feed_region": "global",
+   "published": "2026-09-07T13:30:00+01:00"
+  },
+  {
+   "key": "openaichiefscientistwarnsnooneispreparedforconsequencesofai",
+   "title": "OpenAI chief scientist warns no one is prepared for consequences of AI",
+   "summary": "The post comes as the firm releases GPT-6 Astra, which it says is its most powerful product yet.",
+   "link": "https://www.bbc.co.uk/news/articles/cwyzrrd0kp7o?at_medium=RSS&at_campaign=rss",
+   "outlet": "BBC Technology",
+   "feed_region": "uk",
+   "published": "2026-09-07T13:22:07+01:00"
+  },
+  {
+   "key": "imperiumreviewsergeiloznitsabringstogethernearlythreehoursofitalianfoo",
+   "title": "‘Imperium’ Review: Sergei Loznitsa Brings Together Nearly Three Hours of Italian Footage From the Early 1970s Covering the Vastness of the USSR",
+   "summary": "In the early 1970s, Italian film crews spread out across the USSR, capturing a vast, multicultural empire few had ever seen in such diversity. From urban commuters to village fêtes, Baku trawlers to Siberian reindeer herders, the cameramen aimed to capture the Soviet polity at a time when Westerners had a gray,...",
+   "link": "https://variety.com/2026/film/reviews/imperium-review-2-1236853999/",
+   "outlet": "Variety",
+   "feed_region": "americas",
+   "published": "2026-09-07T13:15:30+01:00"
+  },
+  {
+   "key": "festivalleadersconfrontgrowingpoliticalpressureatlumieresummitwedontju",
+   "title": "Festival Leaders Confront Growing Political Pressure at Lumiere Summit: ‘We Don’t Judge Artists by Their Passport’",
+   "summary": "Political pressure on film and television festivals emerged as a defining theme of a panel discussion Monday at the Lumière Summit in Saint-Paul-de-Vence, France, with Séries Mania general director Laurence Herszberg issuing the session’s most direct call for protection of programming autonomy. “We don’t judge...",
+   "link": "https://variety.com/2026/film/news/lumiere-summit-festival-panel-political-protection-1236853995/",
+   "outlet": "Variety",
+   "feed_region": "americas",
+   "published": "2026-09-07T13:09:33+01:00"
+  },
+  {
+   "key": "francekovaleenationlaunchsweetzmicrodramaapp",
+   "title": "France : Kovalee, Nation launch Sweetz microdrama app",
+   "summary": "AI production studio Nation and European app publisher Kovalee have announced the launch of Sweetz in France, a new mobile app dedicated to vertical short series, as well as the closure of €100 mllion in funding finance it. The investors include M6 Group in France, German producer and investor BriskPace Unlimited,...",
+   "link": "https://www.advanced-television.com/2026/09/07/france-kovalee-nation-launch-sweetz-microdrama-app/",
+   "outlet": "Advanced Television",
+   "feed_region": "uk",
+   "published": "2026-09-07T13:05:01+01:00"
+  },
+  {
+   "key": "whytheiphoneisabouttogetmoreexpensive",
+   "title": "Why the iPhone is about to get more expensive",
+   "summary": "When Apple debuts the next generation of iPhones this week, they're likely to come with an unwanted change: a higher price tag. A price hike from the supply-chain powerhouse would be the clearest sign yet that soaring memory costs have become unavoidable - with no end to the memory crunch in sight. Call it...",
+   "link": "https://www.theverge.com/tech/988225/ram-shortage-supply-chain-micron-apple-iphone",
+   "outlet": "The Verge",
+   "feed_region": "global",
+   "published": "2026-09-07T13:00:00+01:00"
+  },
+  {
+   "key": "ios27betahadadigitalidglitchtravelerswerentexpecting",
+   "title": "iOS 27 beta had a Digital ID glitch travelers weren't expecting",
+   "summary": "This unexpected bug could have caused problems for travelers, which is why you shouldn't use a beta version of iOS on a device you rely on.",
+   "link": "https://www.engadget.com/2248933/ios-27-beta-digital-id-glitch-passport-deactivated/",
+   "outlet": "Engadget",
+   "feed_region": "global",
+   "published": "2026-09-07T13:00:00+01:00"
+  },
+  {
+   "key": "iusedtheiphone17promaxwithoutacaseforayearhereshowitlooksnow",
+   "title": "I Used the iPhone 17 Pro Max Without a Case for a Year. Here’s How It Looks Now",
+   "summary": "Apple promised improved durability for the iPhone 17 Pro, and its Ceramic Shield 2 protection might be the biggest durability upgrade in years.",
+   "link": "https://www.cnet.com/tech/mobile/i-used-the-iphone-17-pro-max-without-a-case-for-a-year-heres-how-it-looks-now/",
+   "outlet": "CNET News",
+   "feed_region": "global",
+   "published": "2026-09-07T13:00:00+01:00"
+  },
+  {
+   "key": "plazacatedraldirectorabnerbenaimchilesdanielavegaandalfredocastroboard",
+   "title": "‘Plaza Catedral’ Director Abner Benaim, Chile’s Daniela Vega and Alfredo Castro Board Fiction Series ‘School of the Americas’ (EXCLUSIVE)",
+   "summary": "Panama’s Abner Benaim has boarded as a co-director of the fiction series “School of the Americas” (“Escuela de las Américas”), which will star two of Chile’s most internationally renowned thespians: Daniela Vega, who headed the Oscar-winning “A Fantastic Woman,) and Alfredo Castro, a Pablo Larrain regular who’s...",
+   "link": "https://variety.com/2026/film/global/abner-benaim-daniela-vega-alfredo-castro-school-americas-1236853506/",
+   "outlet": "Variety",
+   "feed_region": "americas",
+   "published": "2026-09-07T12:57:59+01:00"
+  },
+  {
+   "key": "studiotf1smashesdocrecordswithleonmarchandbeyondgoldrollsoutsurface",
+   "title": "Studio TF1 Smashes Doc Records With ‘Leon Marchand: Beyond Gold,’ Rolls Out ‘Surface’",
+   "summary": "Studio TF1 is celebrating recent successes at home and abroad with Sacha Vucinic and Xavier Marchand’s sports documentary “Leon Marchand: Beyond Gold” and Slimane-Baptiste Berhoun’s mystery drama “Surface.” While the doc series on French Olympic swimming champion Leon Marchand and his life in the wake of four...",
+   "link": "https://variety.com/2026/tv/global/studio-tf1-leon-marchand-records-surface-sales-1236853480/",
+   "outlet": "Variety",
+   "feed_region": "americas",
+   "published": "2026-09-07T12:57:00+01:00"
+  },
+  {
+   "key": "laurapoitrassharesthedesperatevisionbehindhericedocumentarytheyreherew",
+   "title": "Laura Poitras Shares the Desperate Vision Behind Her ICE Documentary ‘They’re Here’: “What’s Happening in the United States Is a Nightmare”",
+   "summary": "Speaking in Venice ahead of the film's world premiere, the Oscar-winning filmmaker and co-director Rachel Lauren Mueller described how their doc uses the language of horror and dystopian cinema to challenge the normalization of ICE violence in Minneapolis.",
+   "link": "https://www.hollywoodreporter.com/movies/movie-news/laura-poitras-ice-documentary-theyre-here-us-is-nightmare-1236693186/",
+   "outlet": "Hollywood Reporter",
+   "feed_region": "americas",
+   "published": "2026-09-07T12:53:42+01:00"
+  },
+  {
+   "key": "jaguarlandrovertocut4000jobsovernexttwoyears",
+   "title": "Jaguar Land Rover to cut 4,000 jobs over next two years",
+   "summary": "The cuts come as the carmaker struggles with Chinese competition, US tariffs, and the transition to electric vehicles.",
+   "link": "https://www.bbc.co.uk/news/articles/c36lx560jjko?at_medium=RSS&at_campaign=rss",
+   "outlet": "BBC Business",
+   "feed_region": "uk",
+   "published": "2026-09-07T12:51:54+01:00"
+  },
+  {
+   "key": "sumospiritweighsnothingreviewahandsomeodetoanoftdisrespectedsport",
+   "title": "‘Sumo: Spirit Weighs Nothing’ Review: A Handsome Ode to an Oft-Disrespected Sport",
+   "summary": "The title of “Sumo: Spirit Weighs Nothing” is the closest that Erik Shirai’s documentary comes to a joke at the expense of its subject: sumo wrestling, the Japanese sport largely known in the western world for the ample size and minimal clothing of its practitioners, and not an awful lot beyond that. In all other […]",
+   "link": "https://variety.com/2026/film/reviews/sumo-spirit-weighs-nothing-review-1236853884/",
+   "outlet": "Variety",
+   "feed_region": "americas",
+   "published": "2026-09-07T12:50:05+01:00"
+  },
+  {
+   "key": "belgianroyaltyserieskingofheartssecureskeyvrtbackingexclusive",
+   "title": "Belgian Royalty Series ‘King of Hearts’ Secures Key VRT Backing (EXCLUSIVE)",
+   "summary": "Enterprising Flemish broadcaster VRT has boarded the historical coming-of-age drama series ‘King of Hearts’ from Giles Coulier, whose company, De Wereldvrede, is behind such hits as 2019 series “War of the Worlds” and Prix Europa winner, “Albatros.” As continental royalty series hit ratins and sales – think...",
+   "link": "https://variety.com/2026/film/global/flemish-broadcaster-vrt-historical-series-king-of-hearts-1236852181/",
+   "outlet": "Variety",
+   "feed_region": "americas",
+   "published": "2026-09-07T12:46:41+01:00"
+  },
+  {
+   "key": "applefmstartsbroadcastingfromnewstudio",
+   "title": "Apple FM starts broadcasting from new studio",
+   "summary": "Apple FM has completed its move from Musgrove Park Hospital and started broadcasting from Ina’s Cottage in Taunton",
+   "link": "https://radiotoday.co.uk/2026/09/apple-fm-starts-broadcasting-from-new-studio/",
+   "outlet": "RadioToday",
+   "feed_region": "uk",
+   "published": "2026-09-07T12:45:01+01:00"
+  },
+  {
+   "key": "thenextjamesbondhasbeenpickedsaysgaryoldmanwhosefingersarecrossedforsl",
+   "title": "The Next James Bond Has Been Picked, Says Gary Oldman, Whose ‘Fingers Are Crossed’ for ‘Slow Horses’ Co-Star Jack Lowden",
+   "summary": "Gary Oldman’s connection to the world of James Bond may be unknown, but the actor claims to have some key information about the casting of the next 007. According to the Oscar-winning acting icon, the hotly-disputed and widely-debated hunt to find the next superspy is over, and he’s hoping his “Slow Horses” co-star...",
+   "link": "https://variety.com/2026/film/global/james-bond-picked-says-gary-oldman-hopes-for-jack-lowden-1236853973/",
+   "outlet": "Variety",
+   "feed_region": "americas",
+   "published": "2026-09-07T12:35:10+01:00"
+  },
+  {
+   "key": "dollypartonssisterpleadsforendtoaigarbagepostsaftersingersdeath",
+   "title": "Dolly Parton's sister pleads for end to 'AI garbage' posts after singer's death",
+   "summary": "Since Parton's death in late August, dozens of AI-generated songs, images and videos have appeared online.",
+   "link": "https://www.bbc.co.uk/news/articles/c1wxppnrqlqo?at_medium=RSS&at_campaign=rss",
+   "outlet": "BBC Technology",
+   "feed_region": "uk",
+   "published": "2026-09-07T12:30:27+01:00"
+  },
+  {
+   "key": "snlukaddssuchbravegirlsstarfreddiemeredith",
+   "title": "‘SNL UK’ Adds ‘Such Brave Girls’ Star Freddie Meredith",
+   "summary": "The comedian joins the cast ahead of the season two premiere on Sep. 12 with host Jeff Goldblum.",
+   "link": "https://www.hollywoodreporter.com/tv/tv-news/snl-uk-adds-such-brave-girls-star-freddie-meredith-cast-tv-1236693203/",
+   "outlet": "Hollywood Reporter",
+   "feed_region": "americas",
+   "published": "2026-09-07T12:30:19+01:00"
+  },
+  {
+   "key": "smartphonemakersdontbothertocomplywitheurepairabilityrequirements",
+   "title": "Smartphone makers don't bother to comply with EU repairability requirements",
+   "summary": "Vast majority of new devices on market still don't give repair information to owners, but give themselves top marks for repairability",
+   "link": "https://www.theregister.com/personal-tech/2026/09/07/smartphone-makers-dont-bother-to-comply-with-eu-repairability-requirements/5294532",
+   "outlet": "The Register",
+   "feed_region": "global",
+   "published": "2026-09-07T12:30:00+01:00"
+  },
+  {
+   "key": "26000ticketssoldlastweekendforgoalhangersfest",
+   "title": "26,000 tickets sold last weekend for Goalhanger’s Fest",
+   "summary": "22 shows were at the event. Sponsored by The Podglomerate. Get YouTube podcast strategy straight from the source. Join The Podglomerate for a free webinar featuring YouTube Podcasts’ Strategic Partner Manager on video production, marketing, and monetization. Register here https://podnews.net/cc/3685 Visit...",
+   "link": "https://podnews.net/update/goalhanger-rest-is-fest",
+   "outlet": "Podnews",
+   "feed_region": "global",
+   "published": "2026-09-07T12:29:29+01:00"
+  },
+  {
+   "key": "howareeuropessvodbvodcontentalliancesshapingup",
+   "title": "How Are Europe’s SVOD/BVOD Content Alliances Shaping Up?",
+   "summary": "Last week saw the announcements of two fresh content partnerships between international streaming services and European domestic broadcasters, the latest additions to a frantic period of dealmaking since TF1 and Netflix kicked off the trend in the summer of 2025. Netflix was responsible for one of these deals,...",
+   "link": "https://videoweek.com/2026/09/07/how-are-europes-svod-bvod-content-alliances-shaping-up/",
+   "outlet": "VideoWeek",
+   "feed_region": "uk",
+   "published": "2026-09-07T12:23:10+01:00"
+  },
+  {
+   "key": "netflixraisesukpriceswithcheapesttierupbyathird",
+   "title": "Netflix raises UK prices, with cheapest tier up by a third",
+   "summary": "Netflix has increased the price of all three of its UK subscription plans, with the cheapest ad-supported tier rising by 33.4% to £7.99 (€9.28) a month. The Standard plan has […]",
+   "link": "https://www.broadbandtvnews.com/2026/09/07/netflix-raises-uk-prices-with-cheapest-tier-up-by-a-third/",
+   "outlet": "Broadband TV News",
+   "feed_region": "uk",
+   "published": "2026-09-07T12:18:32+01:00"
+  },
+  {
+   "key": "tomrothmanonsonysspidermanbrandnewdayblockbustersuccessbeingoutbidforo",
+   "title": "Tom Rothman on Sony’s ‘Spider-Man: Brand New Day’ Blockbuster Success, Being Outbid for ‘Obsession’ and More",
+   "summary": "Sony’s Tom Rothman took a bit of a victory lap with the studio’s boffo success of “Spider-Man: Brand New Day,” which has become the highest-grossing film of 2026 to date. Rothman, chairman and CEO of Sony Pictures Entertainment’s Motion Picture Group, spoke Monday at the Lumière Summit in Saint-Paul-de-Vence, an...",
+   "link": "https://variety.com/2026/film/news/tom-rothman-sony-spider-man-brand-new-day-lumiere-summit-1236853815/",
+   "outlet": "Variety",
+   "feed_region": "americas",
+   "published": "2026-09-07T12:13:12+01:00"
+  },
+  {
+   "key": "welshenvironmentregulatorsfoiblunderexposesdiversitydataof2000staff",
+   "title": "Welsh environment regulator's FoI blunder exposes diversity data of 2,000 staff",
+   "summary": "NRW says it has found no evidence data was misused after spreadsheet published in error five years ago",
+   "link": "https://www.theregister.com/security/2026/09/07/welsh-environment-regulators-foi-blunder-exposes-diversity-data-of-2000-staff/5294748",
+   "outlet": "The Register",
+   "feed_region": "global",
+   "published": "2026-09-07T12:04:46+01:00"
+  },
+  {
+   "key": "thecomplexcorporatewebbehinda32billionaidatacenter",
+   "title": "The complex corporate web behind a $3.2 billion AI data center",
+   "summary": "When multiple companies are behind one project, who bears responsibility for problems?",
+   "link": "https://arstechnica.com/ai/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems/",
+   "outlet": "Ars Technica",
+   "feed_region": "global",
+   "published": "2026-09-07T12:00:03+01:00"
+  },
+  {
+   "key": "bentleystorcalevtriestobalanceauthenticitywithfakev8sounds",
+   "title": "Bentley’s Torcal EV tries to balance authenticity with fake V8 sounds",
+   "summary": "Thanks to their ability to provide a smooth ride and quiet powertrain with ease, electric vehicles are a true shoo-in for the high-end luxury automotive segment. Rolls-Royce has the Spectre, Cadillac's Celestiq is taking bespoke to a whole new level, and Mercedes has given the EQS the full Maybach treatment. From...",
+   "link": "https://www.theverge.com/transportation/990319/bentley-torcal-ev-power-ride-sound-v8",
+   "outlet": "The Verge",
+   "feed_region": "global",
+   "published": "2026-09-07T12:00:00+01:00"
+  },
+  {
+   "key": "earlydttswitchoffcouldputradioatrisk",
+   "title": "Early DTT switch off could put radio at risk",
+   "summary": "Switching off DTT in 2034 could raise radio costs by 50%, threatening local stations and listener choice, warns a new study.",
+   "link": "https://radiotoday.co.uk/2026/09/early-dtt-switch-off-could-put-radio-at-risk/",
+   "outlet": "RadioToday",
+   "feed_region": "uk",
+   "published": "2026-09-07T11:53:00+01:00"
+  },
+  {
+   "key": "bigbluemarblepartnerswithtdfonfrench5gbroadcastrollout",
+   "title": "Big Blue Marble partners with TDF on French 5G Broadcast rollout",
+   "summary": "Big Blue Marble is supporting French infrastructure and network operator TDF as a technology partner in the next phase of its large-scale 5G Broadcast deployment in France. Big Blue Marble […]",
+   "link": "https://www.broadbandtvnews.com/2026/09/07/big-blue-marble-partners-with-tdf-on-french-5g-broadcast-rollout/",
+   "outlet": "Broadband TV News",
+   "feed_region": "uk",
+   "published": "2026-09-07T11:51:40+01:00"
+  },
+  {
+   "key": "snlukaddsfreddiemeredithtocast",
+   "title": "‘SNL U.K.’ Adds Freddie Meredith to Cast",
+   "summary": "“Saturday Night Live U.K.” has added a new castmember for its second season with Freddie Meredith joining the gang. The comedian has previously starred in “Such Brave Girls” and “Big Boys.” Meredith, who recently won an award for best newcomer at the Edinburgh Fringe for his show “Need a Light?”, joins returning...",
+   "link": "https://variety.com/2026/tv/global/snl-uk-freddie-meredith-adds-cast-1236853962/",
+   "outlet": "Variety",
+   "feed_region": "americas",
+   "published": "2026-09-07T11:50:57+01:00"
+  },
+  {
+   "key": "aibotsnowaccountfor13ofallwebtraffic",
+   "title": "AI bots now account for 13% of all web traffic",
+   "summary": "Websites have seen an increase of more than 60% in visits from AI harvesting bots in the last 12 months, according to new data from 51Degrees.",
+   "link": "https://uk.themedialeader.com/ai-bots-now-account-for-13-of-all-web-traffic/?utm_source=rss&utm_medium=rss&utm_campaign=ai-bots-now-account-for-13-of-all-web-traffic",
+   "outlet": "The Media Leader",
+   "feed_region": "uk",
+   "published": "2026-09-07T11:50:27+01:00"
+  },
+  {
+   "key": "pamelaandersonspeaksoutonovercominghepatitiscinpowerfulspeechatamfarve",
+   "title": "Pamela Anderson Speaks Out on Overcoming Hepatitis C in Powerful Speech at amfAR Venice: ‘I’m Not a Victim. I’m a Victor’",
+   "summary": "When Pamela Anderson was diagnosed with hepatitis C in the late ’90s, there was no cure. “It was a death sentence. That’s what my doctor told me — that I probably had around 10 years to live,” the “Baywatch” star recalled in a moving speech at the amfAR Gala in Venice. “I’m sure that colored […]",
+   "link": "https://variety.com/2026/film/festivals/pamela-anderson-hepatitis-c-amfar-venice-not-victim-1236853854/",
+   "outlet": "Variety",
+   "feed_region": "americas",
+   "published": "2026-09-07T11:48:40+01:00"
+  },
+  {
+   "key": "irasachsjordanfirstmananddiegolunaamongsansebastiansfilmtalkslineup",
+   "title": "Ira Sachs, Jordan Firstman and Diego Luna Among San Sebastian’s Film Talks Lineup",
+   "summary": "'Josephine' filmmaker Beth de Araújo and Argentine director Benjamín Naishtat will also sit down for discussions on their creative processes at the Spanish film festival.",
+   "link": "https://www.hollywoodreporter.com/movies/movie-news/ira-sachs-jordan-firstman-diego-luna-san-sebastian-film-1236693176/",
+   "outlet": "Hollywood Reporter",
+   "feed_region": "americas",
+   "published": "2026-09-07T11:41:28+01:00"
+  },
+  {
+   "key": "irdetoandchainalysisstrengthenantipiracypartnership",
+   "title": "Irdeto and Chainalysis strengthen anti-piracy partnership",
+   "summary": "Irdeto and blockchain data specialist Chainalysis are strengthening their partnership to tackle digital piracy and cryptocurrency-enabled cybercrime. The companies are combining blockchain intelligence, payment disruption and international law enforcement coordination […]",
+   "link": "https://www.broadbandtvnews.com/2026/09/07/irdeto-and-chainalysis-strengthen-anti-piracy-partnership/",
+   "outlet": "Broadband TV News",
+   "feed_region": "uk",
+   "published": "2026-09-07T11:37:04+01:00"
+  },
+  {
+   "key": "formetechnologyhasneverbeenanabstractthingthomasriedelsindependentvisi",
+   "title": "‘For me, technology has never been an abstract thing’: Thomas Riedel’s independent vision",
+   "summary": "Thomas Riedel sits down with Jenny Priestley to discuss industry independence, the ARRI acquisition, and why connecting technology is vital for future live production The post ‘For me, technology has never been an abstract thing’: Thomas Riedel’s independent vision appeared first on TVBEurope .",
+   "link": "https://www.tvbeurope.com/business/for-me-technology-has-never-been-an-abstract-thing-thomas-riedels-indepent-vision",
+   "outlet": "TVBEurope",
+   "feed_region": "uk",
+   "published": "2026-09-07T11:33:49+01:00"
+  },
+  {
+   "key": "bbcnewspresentermaryammoshirirevealsshehasincurablebloodcancer",
+   "title": "BBC News presenter Maryam Moshiri reveals she has incurable blood cancer",
+   "summary": "Newscaster says rare but treatable condition polycythaemia vera left her feeling like she ‘had her batteries taken out’ The BBC News presenter Maryam Moshiri has been diagnosed with a rare form of incurable blood cancer, she has revealed. Doctors told the broadcaster last November she had polycythaemia vera (PV),...",
+   "link": "https://www.theguardian.com/society/2026/sep/07/maryam-moshiri-blood-cancer-bbc-news-presenter",
+   "outlet": "Guardian Media",
+   "feed_region": "uk",
+   "published": "2026-09-07T11:32:23+01:00"
+  },
+  {
+   "key": "fullseasonspringsintoactionwithbbcanduktv",
+   "title": "full season springs into action with BBC and UKTV",
+   "summary": "The media services company has entered a multi-year agreement to support global distribution of 53 channels The post full season springs into action with BBC and UKTV appeared first on TVBEurope .",
+   "link": "https://www.tvbeurope.com/media-management/full-season-springs-into-action-with-bbc-and-uktv",
+   "outlet": "TVBEurope",
+   "feed_region": "uk",
+   "published": "2026-09-07T11:32:04+01:00"
+  },
+  {
+   "key": "ebucallsforsafeguardstoprotectrtvslovenijaindependence",
+   "title": "EBU calls for safeguards to protect RTV Slovenija independence",
+   "summary": "The European Broadcasting Union (EBU) has joined media and journalist organisations in calling for stronger safeguards to protect the institutional and editorial independence of RTV Slovenija under proposed reforms to […]",
+   "link": "https://www.broadbandtvnews.com/2026/09/07/ebu-calls-for-safeguards-to-protect-rtv-slovenija-independence/",
+   "outlet": "Broadband TV News",
+   "feed_region": "uk",
+   "published": "2026-09-07T11:30:07+01:00"
+  },
+  {
+   "key": "ellenburstynonbeingrecognizedbymarilynmonroechangingrolesforwomenwitha",
+   "title": "Ellen Burstyn on Being “Recognized” by Marilyn Monroe, Changing Roles for Women With ‘Alice Doesn’t Live Here Anymore’",
+   "summary": "The 93-year-old Oscar-winning star is in Venice with two films, and to receive a honorary Golden Lion for lifetime achievement.",
+   "link": "https://www.hollywoodreporter.com/movies/movie-news/ellen-burstyn-venice-film-festival-marilyn-monroe-1236693165/",
+   "outlet": "Hollywood Reporter",
+   "feed_region": "americas",
+   "published": "2026-09-07T11:25:28+01:00"
+  },
+  {
+   "key": "clipsourcetargetssecuritygapinpromotionalworkflows",
+   "title": "Clipsource targets security gap in promotional workflows",
+   "summary": "Clipsource is set to introduce new service Partner Upload at IBC2026, providing broadcasters and streaming services with a more secure way to receive promotional assets from external partners. The company […]",
+   "link": "https://www.broadbandtvnews.com/2026/09/07/clipsource-targets-security-gap-in-promotional-workflows/",
+   "outlet": "Broadband TV News",
+   "feed_region": "uk",
+   "published": "2026-09-07T11:15:04+01:00"
+  },
+  {
+   "key": "huaweicopiessamsungsprivacydisplayinitslatesttrifold",
+   "title": "Huawei copies Samsung’s privacy display in its latest trifold",
+   "summary": "Huawei has released its third trifold phone in China, and the company has clearly had half an eye on Samsung during development. Not only does the Mate XT 2 adopt the inward-folding form factor used on Samsung's Galaxy Z TriFold, it's also the first foldable to include a privacy-enhancing display, much like the one...",
+   "link": "https://www.theverge.com/tech/990958/huawei-mate-xt-2-trifold-launch-china-privacy-display",
+   "outlet": "The Verge",
+   "feed_region": "global",
+   "published": "2026-09-07T11:09:42+01:00"
+  },
+  {
+   "key": "ukfoodsupplychainatriskfromhostileattacks",
+   "title": "UK food supply chain at risk from hostile attacks",
+   "summary": "Defending against cyber foes is among factors hitting food price inflation, report finds",
+   "link": "https://www.theregister.com/security/2026/09/07/uk-food-supply-chain-at-risk-from-hostile-attacks/5294719",
+   "outlet": "The Register",
+   "feed_region": "global",
+   "published": "2026-09-07T11:06:10+01:00"
+  },
+  {
+   "key": "garyoldmansaysajamesbondhasbeenpickedandheshopingitsjacklowden",
+   "title": "Gary Oldman Says a James Bond Has Been Picked — and He’s Hoping It’s Jack Lowden",
+   "summary": "\"They have made their choice, but they have not announced it yet,\" Oldman says of the upcoming casting for Amazon MGM Studios' new Bond film.",
+   "link": "https://www.hollywoodreporter.com/movies/movie-news/gary-oldman-james-bond-cast-picked-jack-lowden-slow-horses-1236693169/",
+   "outlet": "Hollywood Reporter",
+   "feed_region": "americas",
+   "published": "2026-09-07T11:03:07+01:00"
+  },
+  {
+   "key": "australianproductionhousemakesoneeurodreamcometruewithsicilysetdocuser",
+   "title": "Australian Production House makes One Euro Dream come true with Sicily-set docuseries",
+   "summary": "Melbourne-based prodco Australian Production House (APH) is developing a home renovation format called One Euro Dream. Filmed in Sicily, the docuseries is described as a “light-hearted mash-up of...",
+   "link": "https://www.c21media.net/news/australian-production-house-makes-one-euro-dream-come-true-with-sicily-set-docuseries/",
+   "outlet": "C21Media",
+   "feed_region": "uk",
+   "published": "2026-09-07T11:00:06+01:00"
+  },
+  {
+   "key": "myfavoritehomesecurityrevealatifawasaibutnothowyouthink",
+   "title": "My Favorite Home Security Reveal at IFA Was AI, but Not How You Think",
+   "summary": "Free, custom AI learning tech in home security could be closer than we thought.",
+   "link": "https://www.cnet.com/home/security/my-favorite-home-security-reveal-at-ifa-was-ai-but-not-how-you-think/",
+   "outlet": "CNET News",
+   "feed_region": "global",
+   "published": "2026-09-07T11:00:00+01:00"
+  },
+  {
+   "key": "calreckeepscloudbassonsidewithobfleetaudioupgrade",
+   "title": "Calrec keeps Cloudbass onside with OB fleet audio upgrade",
+   "summary": "The hybrid OB20 unit includes a 48-fader Argo M with dual Calrec ImPulse1 cores and an RP1 remote production audio processing engine The post Calrec keeps Cloudbass onside with OB fleet audio upgrade appeared first on TVBEurope .",
+   "link": "https://www.tvbeurope.com/audio/calrec-keeps-cloudbass-onside-with-ob-fleet-audio-upgrade",
+   "outlet": "TVBEurope",
+   "feed_region": "uk",
+   "published": "2026-09-07T10:56:50+01:00"
+  },
+  {
+   "key": "probebeginsintowhycargoplaneoverranmiamirunway",
+   "title": "Probe begins into why cargo plane overran Miami runway",
+   "summary": "Five people died and five others were injured as the Amazon plane overshot the runway after landing at Miami International Airport.",
+   "link": "https://www.bbc.co.uk/news/articles/c0e3p1j7n3ro?at_medium=RSS&at_campaign=rss",
+   "outlet": "BBC Business",
+   "feed_region": "uk",
+   "published": "2026-09-07T10:54:40+01:00"
+  },
+  {
+   "key": "catherinezetajonesrealswanseaaccentisloudandproudintrailerforamcskillj",
+   "title": "Catherine Zeta-Jones’ Real Swansea Accent Is Loud and Proud in Trailer for AMC+’s ‘Kill Jackie’",
+   "summary": "The Welsh Oscar-winner plays Jackie Price in the series adaptation of Aidan Truhen's novel 'The Price You Pay.'",
+   "link": "https://www.hollywoodreporter.com/tv/tv-news/catherine-zeta-jones-kill-jackie-trailer-1236693134/",
+   "outlet": "Hollywood Reporter",
+   "feed_region": "americas",
+   "published": "2026-09-07T10:45:06+01:00"
+  },
+  {
+   "key": "primevideomgmsspidernoircannedascostandviewershipblamed",
+   "title": "Prime Video, MGM+’s Spider-Noir canned as cost and viewership blamed",
+   "summary": "Amazon's Prime Video and MGM+ have axed high-profile superhero series Spider-Noir after just one season, with high production costs and underwhelming viewership believed to be responsible for the cance...",
+   "link": "https://www.c21media.net/news/prime-video-mgms-spider-noir-canned-as-costs-and-viewership-blamed/",
+   "outlet": "C21Media",
+   "feed_region": "uk",
+   "published": "2026-09-07T10:37:29+01:00"
+  },
+  {
+   "key": "sabusarrestedmemoryturnsakidnappingthrillerintoanamnesiaccopcomedy",
+   "title": "Sabu’s ‘Arrested Memory’ Turns a Kidnapping Thriller Into an Amnesiac Cop Comedy",
+   "summary": "The cult director discusses the creation of his Taiwan-set action-comedy, a deliberate riff on Kurosawa's 'High and Low,' and why shooting outside Japan left him \"invigorated.\"",
+   "link": "https://www.hollywoodreporter.com/movies/movie-news/venice-2026-hidden-gem-film-arrested-memory-sabu-1236688854/",
+   "outlet": "Hollywood Reporter",
+   "feed_region": "americas",
+   "published": "2026-09-07T10:30:00+01:00"
+  },
+  {
+   "key": "gallupchrosconfirmwhatradiosalessurveysfoundonai",
+   "title": "Gallup: CHROs Confirm What Radio Sales Surveys Found On AI",
+   "summary": "For GMs weighing how much AI guidance their staff needs, new Gallup data offers a clear answer: a lot. National workforce numbers show manager support decides whether AI helps or hurts a workplace, a pattern radio's own sales surveys have already flagged.",
+   "link": "https://radioink.com/2026/09/07/gallup-confirms-what-radio-sales-surveys-found-on-ai/",
+   "outlet": "Radio Ink",
+   "feed_region": "americas",
+   "published": "2026-09-07T10:28:25+01:00"
+  },
+  {
+   "key": "peersaskwhyukcyberbillleavesexecsoffthepersonalliabilityhook",
+   "title": "Peers ask why UK cyber bill leaves execs off the personal liability hook",
+   "summary": "Ministers say £17M corporate fines and forthcoming board-level governance rules provide sufficient accountability",
+   "link": "https://www.theregister.com/security/2026/09/07/peers-ask-why-uk-cyber-bill-leaves-execs-off-the-personal-liability-hook/5294586",
+   "outlet": "The Register",
+   "feed_region": "global",
+   "published": "2026-09-07T10:15:00+01:00"
+  },
+  {
+   "key": "donlemontolaunch247tvnetworkinpartnershipwithswervetv",
+   "title": "Don Lemon to launch 24/7 TV network in partnership with Swerve TV",
+   "summary": "American journalist Don Lemon is launching a 24/7 television network across linear and streaming platforms. The Don Lemon Channel, part of Lemon's company Lemon Media Network, will launch in partnershi...",
+   "link": "https://www.c21media.net/news/don-lemon-to-launch-24-7-tv-network-in-partnership-with-swerve-tv/",
+   "outlet": "C21Media",
+   "feed_region": "uk",
+   "published": "2026-09-07T10:03:00+01:00"
+  },
+  {
+   "key": "indielabwarns40ofukindiescouldfailwithintwoyearsascashreservesfall",
+   "title": "Indielab warns 40% of UK indies could fail within two years as cash reserves fall",
+   "summary": "Around 40% of the UK's small independent production companies are at risk of closure within the next two years, according to a new study by Indielab, the accelerator scheme for UK-based indies. The ind...",
+   "link": "https://www.c21media.net/news/indielab-warns-40-of-uk-indies-could-fail-within-two-years-as-cash-reserves-fall/",
+   "outlet": "C21Media",
+   "feed_region": "uk",
+   "published": "2026-09-07T10:02:09+01:00"
+  },
+  {
+   "key": "preloveduniformssavefamilies69sayscharity",
+   "title": "Pre-loved uniforms save families £69, says charity",
+   "summary": "Clothing Coventry has helped provide thousands of children with second-hand school uniform.",
+   "link": "https://www.bbc.co.uk/news/articles/c23x054g889o?at_medium=RSS&at_campaign=rss",
+   "outlet": "BBC Business",
+   "feed_region": "uk",
+   "published": "2026-09-07T09:54:15+01:00"
+  },
+  {
+   "key": "howjohndemolscreativesystembuildshits",
+   "title": "How John de Mol’s creative system builds hits",
+   "summary": "AI isn't replacing human creativity but it is expanding the canvas upon which it can work, says John de Mol, founder and owner of Talpa Studios and the man behind global hits Big Brother and The Voice....",
+   "link": "https://www.c21media.net/department/creative-leadership-insights/how-john-de-mols-creative-system-builds-hits/",
+   "outlet": "C21Media",
+   "feed_region": "uk",
+   "published": "2026-09-07T09:41:34+01:00"
+  },
+  {
+   "key": "cameracorpsdebutscompactuhdptzcamera",
+   "title": "Camera Corps debuts compact UHD PTZ camera",
+   "summary": "The camera features a high sensitivity 1/1.8” 8.4 Megapixel Sony sensor capable of capturing true UHD resolution at up to 60fps The post Camera Corps debuts compact UHD PTZ camera appeared first on TVBEurope .",
+   "link": "https://www.tvbeurope.com/production-post/camera-corps-debuts-compact-uhd-ptz-camera",
+   "outlet": "TVBEurope",
+   "feed_region": "uk",
+   "published": "2026-09-07T09:40:03+01:00"
+  },
+  {
+   "key": "nathanfielderandlanceoppenheimselizabethholmesdocyoucanseeeverythingfi",
+   "title": "Nathan Fielder and Lance Oppenheim’s Elizabeth Holmes Doc ‘You Can See Everything’: First Reactions",
+   "summary": "The A24 docudrama about the Theranos founder and convicted fraudster had a surprise screening at the Telluride Film Festival.",
+   "link": "https://www.hollywoodreporter.com/movies/movie-news/you-can-see-everything-first-reactions-nathan-fielder-a24-1236693077/",
+   "outlet": "Hollywood Reporter",
+   "feed_region": "americas",
+   "published": "2026-09-07T09:39:41+01:00"
+  },
+  {
+   "key": "tagsnewcloudplatformgivesfullvisibilityacrossthedeliverychain",
+   "title": "TAG’s new cloud platform gives full visibility across the delivery chain",
+   "summary": "The platform enables broadcasters, service providers and operators to solve problems and avoid unnecessary costs related to service outages The post TAG’s new cloud platform gives full visibility across the delivery chain appeared first on TVBEurope .",
+   "link": "https://www.tvbeurope.com/media-management/tags-new-cloud-platform-gives-full-visibility-across-the-delivery-chain",
+   "outlet": "TVBEurope",
+   "feed_region": "uk",
+   "published": "2026-09-07T09:38:58+01:00"
+  },
+  {
+   "key": "netflixstrikesdealwithatresmediafordailycontentinspain",
+   "title": "Netflix strikes deal with Atresmedia for daily content in Spain",
+   "summary": "Netflix has agreed a deal with Spanish media group Atresmedia to offer daily programming to its subscribers in Spain. Equipo de Investigación landed on Netflix on Saturday, while El Hormiguero, El Int...",
+   "link": "https://www.c21media.net/news/netflix-strikes-deal-with-atresmedia-for-daily-content-in-spain/",
+   "outlet": "C21Media",
+   "feed_region": "uk",
+   "published": "2026-09-07T09:37:55+01:00"
+  },
+  {
+   "key": "oceanbluesoftwaretohostlivedvbidemonstrationatibc",
+   "title": "Ocean Blue Software to host live DVB-I demonstration at IBC",
+   "summary": "The demonstration will give broadcasters, operators, TV manufacturers, and technology providers a first-hand look at how DVB-I can be deployed using a practical, standards-compliant implementation The post Ocean Blue Software to host live DVB-I demonstration at IBC appeared first on TVBEurope .",
+   "link": "https://www.tvbeurope.com/media-delivery/ocean-blue-software-to-host-live-dvb-i-demonstration-at-ibc",
+   "outlet": "TVBEurope",
+   "feed_region": "uk",
+   "published": "2026-09-07T09:36:33+01:00"
+  },
+  {
+   "key": "xroadmediatoprovidepersonalisationforrogerssportsmediastreamingservice",
+   "title": "XroadMedia to provide personalisation for Rogers Sports & Media streaming services",
+   "summary": "XroadMedia is working with Rogers Sports & Media to introduce AI-powered personalisation across the Canadian media company’s entertainment streaming services discovery+ and Citytv+. The rollout is starting this month with […]",
+   "link": "https://www.broadbandtvnews.com/2026/09/07/xroadmedia-to-provide-personalisation-for-rogers-sports-media-streaming-services/",
+   "outlet": "Broadband TV News",
+   "feed_region": "uk",
+   "published": "2026-09-07T09:34:09+01:00"
+  },
+  {
+   "key": "openaisrebelagentswarmdiedyoungbutitschillinglogsliveon",
+   "title": "OpenAI's rebel agent swarm died young, but its chilling logs live on",
+   "summary": "'The Collective' learned to communicate, organize, cheat, and apparently sacrifice its own",
+   "link": "https://www.theregister.com/columnists/2026/09/07/openais-rebel-agent-swarm-died-young-but-its-chilling-logs-live-on/5294446",
+   "outlet": "The Register",
+   "feed_region": "global",
+   "published": "2026-09-07T09:30:00+01:00"
+  },
+  {
+   "key": "unveilingtelluridesbigsecretelizabethholmesdocumentaryissheercraziness",
+   "title": "Unveiling Telluride’s Big Secret: Elizabeth Holmes Documentary Is Sheer Craziness",
+   "summary": "Telluride Film Festival: Nathan Fielder and Lance Oppenheim’s “You Can See Everything” is a mind-bending three-year journey into the abyss The post Unveiling Telluride’s Big Secret: Elizabeth Holmes Documentary Is Sheer Craziness appeared first on TheWrap .",
+   "link": "https://www.thewrap.com/creative-content/movies/tellurides-big-secret-elizabeth-holmes-documentary/",
+   "outlet": "The Wrap",
+   "feed_region": "americas",
+   "published": "2026-09-07T09:16:09+01:00"
+  },
+  {
+   "key": "canalgroupcreatesdedicatedcomedydivisionledbyjrmiekhiat",
+   "title": "Canal+ Group creates dedicated comedy division led by Jérémie Khiat",
+   "summary": "France's Canal+ Group has appointed JÃ©rÃ©mie Khiat as director of a new dedicated comedy division, overseeing comedy content across TV, films and shortform movies. Khiat will lead the newly created â€...",
+   "link": "https://www.c21media.net/news/canal-group-creates-dedicated-comedy-division-led-by-jeremie-khiat/",
+   "outlet": "C21Media",
+   "feed_region": "uk",
+   "published": "2026-09-07T08:50:23+01:00"
+  },
+  {
+   "key": "banijaycolombiaprepsfirstspanishlanguageversionofnbcushouseofvillains",
+   "title": "Banijay Colombia preps first Spanish-language version of NBCU’s House of Villains",
+   "summary": "Banijay Colombia will produce the first Spanish-language adaptation of House of Villains, an NBCUniversal Formats show that brings together controversial reality TV personalities in a competition of st...",
+   "link": "https://www.c21media.net/news/banijay-colombia-preps-first-spanish-language-version-of-nbcus-house-of-villains/",
+   "outlet": "C21Media",
+   "feed_region": "uk",
+   "published": "2026-09-07T08:43:50+01:00"
+  },
+  {
+   "key": "exgloboexecutivecarolinaiaciajoinslatamreadingplatformskeelo",
+   "title": "Ex-Globo executive Carolina Iacia joins Lat Am reading platform Skeelo",
+   "summary": "Latin American digital reading platform Skeelo has hired former Globo executive Carolina Iacia as its content director, leading original productions and coproductions. Iacia, who has 20 years of experi...",
+   "link": "https://www.c21media.net/news/ex-globo-executive-carolina-iacia-joins-lat-am-reading-platform-skeelo/",
+   "outlet": "C21Media",
+   "feed_region": "uk",
+   "published": "2026-09-07T08:35:53+01:00"
+  },
+  {
+   "key": "directormanuelbelmartostepdownamidreorganisationatbrazilsglobo",
+   "title": "Director Manuel Belmar to step down amid reorganisation at Brazil’s Globo",
+   "summary": "Manuel Belmar, Globo’s director of digital products, finance, legal and infrastructure, is leaving the company, the Brazilian giant has confirmed. Belmar’s departure had been reported by th...",
+   "link": "https://www.c21media.net/news/director-manuel-belmar-to-step-down-amid-reorganisation-at-brazils-globo/",
+   "outlet": "C21Media",
+   "feed_region": "uk",
+   "published": "2026-09-07T08:21:51+01:00"
+  },
+  {
+   "key": "amazonbrandedplaneinfatalaccidentatmiamiairport",
+   "title": "Amazon-branded plane in fatal accident at Miami Airport",
+   "summary": "Couldn’t stop before the end of a runway",
+   "link": "https://www.theregister.com/on-prem/2026/09/07/amazon-branded-plane-in-fatal-accident-at-miami-airport/5294707",
+   "outlet": "The Register",
+   "feed_region": "global",
+   "published": "2026-09-07T08:02:00+01:00"
+  },
+  {
+   "key": "peacockgreenlightsnewusversionofimacelebrityfromitvamerica",
+   "title": "Peacock greenlights new US version of I’m a Celebrity from ITV America",
+   "summary": "US streamer Peacock has greenlit a new American version of the long-running UK survival format I'm a Celebrityâ€¦ Get Me Out of Here!. The adaptation, titled simply Get Me Out of Here (working title), ...",
+   "link": "https://www.c21media.net/news/peacock-greenlights-new-us-version-of-im-a-celebrity-from-itv-america/",
+   "outlet": "C21Media",
+   "feed_region": "uk",
+   "published": "2026-09-07T07:53:50+01:00"
+  },
+  {
+   "key": "samlintonleavesblueantasdistributionandchannelsteamsintegrate",
+   "title": "Sam Linton leaves Blue Ant as distribution and channels teams integrate",
+   "summary": "Sam Linton has left her role as VP of production and development at Blue Ant Media as the Toronto-based company continues to make changes as it integrates its distribution and channels teams. Linton, w...",
+   "link": "https://www.c21media.net/news/sam-linton-leaves-blue-ant-as-distribution-and-channels-teams-integrate/",
+   "outlet": "C21Media",
+   "feed_region": "uk",
+   "published": "2026-09-07T07:45:02+01:00"
+  },
+  {
+   "key": "whometechiesenttofixnobelprizewinnerspcalmostsetitonfire",
+   "title": "Who, Me? Techie sent to fix Nobel Prize winner’s PC almost set it on fire",
+   "summary": "Even the greatest scientific minds are at risk of rogue 9-pin connectors",
+   "link": "https://www.theregister.com/personal-tech/2026/09/07/who-me-techie-sent-to-fix-nobel-prize-winners-pc-almost-set-it-on-fire/5294430",
+   "outlet": "The Register",
+   "feed_region": "global",
+   "published": "2026-09-07T07:30:00+01:00"
+  },
+  {
+   "key": "tinycashbuffersleavesmalluktvfirmsatriskofgoingbustanalysisfinds",
+   "title": "Tiny cash buffers leave small UK TV firms at risk of going bust, analysis finds",
+   "summary": "Median £42,000 in reserve not enough to cover filming overrun or delay to series, industry body warns Hundreds of small UK TV companies have so little cash in reserve that a filming overrun or a delay to a series could send them bust, an industry body has warned, as programme budget cuts by broadcasters threaten...",
+   "link": "https://www.theguardian.com/media/2026/sep/07/tiny-cash-buffers-leave-small-uk-tv-firms-at-risk-of-going-bust-analysis-finds",
+   "outlet": "Guardian Media",
+   "feed_region": "uk",
+   "published": "2026-09-07T07:00:28+01:00"
+  },
+  {
+   "key": "radiowyverngoldlaunchesacrossworcester",
+   "title": "Radio Wyvern Gold launches across Worcester",
+   "summary": "Radio Wyvern Gold launches in Worcester, playing 50s to 70s hits on DAB, Alexa, app and online, with local presenters.",
+   "link": "https://radiotoday.co.uk/2026/09/radio-wyvern-gold-launches-across-worcester/",
+   "outlet": "RadioToday",
+   "feed_region": "uk",
+   "published": "2026-09-07T07:00:23+01:00"
+  },
+  {
+   "key": "costoflivingonmanymindsaheadofmanxelection",
+   "title": "Cost of living on many minds ahead of Manx election",
+   "summary": "Residents, businesses and charities are focused on the economy ahead of the general election.",
+   "link": "https://www.bbc.co.uk/news/articles/c1dlr2dzv20o?at_medium=RSS&at_campaign=rss",
+   "outlet": "BBC Business",
+   "feed_region": "uk",
+   "published": "2026-09-07T06:46:34+01:00"
+  },
+  {
+   "key": "jensenspurchaseofanewtoycouldreshapetheentireaiindustry",
+   "title": "Jensen's purchase of a new toy could reshape the entire AI industry",
+   "summary": "This week on The Kettle we weigh in on Nvidia's Hugging Face acquisition and why it could spell a new, more fragmented and siloed era of AI development",
+   "link": "https://www.theregister.com/ai-and-ml/2026/09/07/jensens-purchase-of-a-new-toy-could-reshape-the-entire-ai-industry/5294610",
+   "outlet": "The Register",
+   "feed_region": "global",
+   "published": "2026-09-07T06:30:00+01:00"
+  },
+  {
+   "key": "morefundingneededtoboostconstructionjobsforyoungpeoplehousingbosssays",
+   "title": "More funding needed to boost construction jobs for young people, housing boss says",
+   "summary": "Recent analysis showed the construction sector needs an extra 2,200 workers a year to meet demand.",
+   "link": "https://www.bbc.co.uk/news/articles/cwyzd53rq9jo?at_medium=RSS&at_campaign=rss",
+   "outlet": "BBC Business",
+   "feed_region": "uk",
+   "published": "2026-09-07T06:05:24+01:00"
+  },
   {
    "key": "visapourlimageperpignanfestivalofphotojournalism2026inpictures",
    "title": "Visa pour l’image: Perpignan festival of photojournalism 2026 – in pictures",
@@ -92,6 +830,15 @@
    "published": "2026-09-07T04:59:05+01:00"
   },
   {
+   "key": "australianswillbeabletoswitchoffsocialmediaalgorithmsunderplannedlegis",
+   "title": "Australians will be able to switch off social media algorithms under planned legislation",
+   "summary": "Firms like Meta, Google and TikTok should face \"substantial\" penalties if they don't give the option, minister says.",
+   "link": "https://www.bbc.co.uk/news/articles/cn9wyvxn95vo?at_medium=RSS&at_campaign=rss",
+   "outlet": "BBC Business",
+   "feed_region": "uk",
+   "published": "2026-09-07T04:40:09+01:00"
+  },
+  {
    "key": "augustboxofficegrows67tocapoffhighestgrossingsummeronrecord",
    "title": "August box office grows 67% to cap off highest-grossing summer on record",
    "summary": "Year-to-date box office has now reached £902.8m, running 23% of 2024 and 33% ahead of 2024. It is the first time since the Covid-19 pandemic that the UK and Ireland box office has also moved ahead of 2019's pace.",
@@ -101,6 +848,15 @@
    "published": "2026-09-07T04:16:43+01:00"
   },
   {
+   "key": "francebigbluemarblecollaborateswithtdfon5gbroadcastrollout",
+   "title": "France: Big Blue Marble collaborates with TDF on 5G broadcast rollout",
+   "summary": "Big Blue Marble is supporting TDF, French infrastructure and network operator, broadcasting DTT and radio services, as a technology partner in the next phase of its large-scale 5G Broadcast initiative in France. As part of the collaboration, Big Blue Marble is providing its Nakolos 5G Broadcast Core technology and...",
+   "link": "https://www.advanced-television.com/2026/09/07/france-big-blue-marble-collaborates-with-tdf-on-5g-broadcast-rollout/",
+   "outlet": "Advanced Television",
+   "feed_region": "uk",
+   "published": "2026-09-07T04:16:05+01:00"
+  },
+  {
    "key": "googleisntallpowerfulbutitknowshowtoturnmediaintowater",
    "title": "Google isn’t all-powerful, but it knows how to turn media into water",
    "summary": "The real damage from Google's ad monopoly isn't the 20% it takes. It's a market that can no longer tell good inventory from bad and prices them almost the same.",
@@ -108,6 +864,15 @@
    "outlet": "The Media Leader",
    "feed_region": "uk",
    "published": "2026-09-07T04:09:49+01:00"
+  },
+  {
+   "key": "channel4partnerswithmaggionshortformrecipeseries",
+   "title": "Channel 4 partners with Maggi on short-form recipe series",
+   "summary": "Channel 4 has announced a new short-form video series for its social-first food and drink channel, Channel 4 Served, as part of its partnership with Nestlé’s global food brand, Maggi. Advanced-Teleivison can exclusively reveal that the recipe series will see popular Channel 4 Served chefs Jono Yates and Verna Gao...",
+   "link": "https://www.advanced-television.com/2026/09/07/channel-4-partners-with-maggi-on-short-form-recipe-series/",
+   "outlet": "Advanced Television",
+   "feed_region": "uk",
+   "published": "2026-09-07T04:02:32+01:00"
   },
   {
    "key": "robreinerandbettygilpinwin2026emmysforguestactorandactressinacomedyser",
@@ -135,6 +900,15 @@
    "outlet": "Hollywood Reporter",
    "feed_region": "americas",
    "published": "2026-09-07T03:46:37+01:00"
+  },
+  {
+   "key": "netflixordersnewinbetweenersmovie",
+   "title": "Netflix orders new Inbetweeners movie",
+   "summary": "Netflix has announced that production has commenced in the UK on feature film The Inbetweeners 3, a continuation of the celebrated sitcom and its two record-breaking films. Simon Bird, James Buckley, Blake Harrison and Joe Thomas will reprise their roles as Will McKenzie, Jay Cartwright, Neil Sutherland and Simon...",
+   "link": "https://www.advanced-television.com/2026/09/07/netflix-orders-new-inbetweeners-movie/",
+   "outlet": "Advanced Television",
+   "feed_region": "uk",
+   "published": "2026-09-07T03:43:42+01:00"
   },
   {
    "key": "robreinerwinsposthumousemmyforthebear",
@@ -371,6 +1145,15 @@
    "published": "2026-09-07T00:51:05+01:00"
   },
   {
+   "key": "samuraivsninjachannellaunchesonsamsungtvplusseasia",
+   "title": "Samurai vs Ninja channel launches on Samsung TV Plus SE Asia",
+   "summary": "Lightning International, a specialist in content and entertainment distribution, has partnered with REMOW, a powerhouse in Japanese entertainment distribution and production, to launch Samurai vs Ninja, a 24/7 FAST channel dedicated to Samurai and Ninja content, on Samsung TV Plus SE Asia. For centuries, Samurai...",
+   "link": "https://www.advanced-television.com/2026/09/07/samurai-vs-ninja-channel-launches-on-samsung-tv-plus-se-asia/",
+   "outlet": "Advanced Television",
+   "feed_region": "uk",
+   "published": "2026-09-07T00:45:02+01:00"
+  },
+  {
    "key": "seattletimesandnewsdaysueopenaiandmicrosoftforinfringement",
    "title": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
    "summary": "The Seattle Times and Newsday are just the latest plaintiffs to take OpenAI to court, alleging copyright infringement. The two outlets say the company used their journalism as training data for its AI models without permission and often reproduces passages from their reporting in response to user queries. This is...",
@@ -389,6 +1172,24 @@
    "published": "2026-09-07T00:34:18+01:00"
   },
   {
+   "key": "irdetochainalysistacklecryptoenabledpiracy",
+   "title": "Irdeto, Chainalysis tackle crypto-enabled piracy",
+   "summary": "Irdeto, a Canal+ company and specialist in digital video platform experiences and security, and Chainalysis, the blockchain data platform, have reaffirmed their ongoing partnership to combat digital piracy and cryptocurrency-enabled cybercrime. As pirate operators increasingly turn to cryptocurrency to monetise...",
+   "link": "https://www.advanced-television.com/2026/09/07/irdeto-chainalysis-tackle-crypto-enabled-piracy/",
+   "outlet": "Advanced Television",
+   "feed_region": "uk",
+   "published": "2026-09-07T00:33:18+01:00"
+  },
+  {
+   "key": "dvizhonstudioslauncheswiththefirsttimeseries",
+   "title": "Dvizhon Studios launches with The First Time series",
+   "summary": "Dvizhon Studios has launched, alongside the premiere of series The First Time on Ukrainian streaming service Megogo. Developed over two and a half years between London and Kyiv, the five-part series was led by filmmaker and showrunner Yuriy Dvizhon in collaboration with the Olena Pinchuk Foundation, which has been...",
+   "link": "https://www.advanced-television.com/2026/09/07/dvizhon-studios-launches-with-the-first-time-series/",
+   "outlet": "Advanced Television",
+   "feed_region": "uk",
+   "published": "2026-09-07T00:31:24+01:00"
+  },
+  {
    "key": "theprosandconsofusingwirelessandroidauto",
    "title": "The pros and cons of using wireless Android Auto",
    "summary": "Wireless Android Auto delivers on the promise of making your life easier most of the time, but ditching the cable can come with a number of tradeoffs.",
@@ -396,6 +1197,15 @@
    "outlet": "Engadget",
    "feed_region": "global",
    "published": "2026-09-07T00:30:00+01:00"
+  },
+  {
+   "key": "hitsnowexpandsusentertainmentlieup",
+   "title": "Hits Now expands US entertainment lieup",
+   "summary": "Rewind Networks has unveiled slate of fresh content for its entertainment channel, Hits Now, reinforcing the network’s position as a destination for US entertainment across Asia. Anchoring the slate will be the exclusive live broadcast of the 78th Primetime Emmy Awards, bringing television’s biggest night directly...",
+   "link": "https://www.advanced-television.com/2026/09/07/hits-now-expands-us-entertainment-lieup/",
+   "outlet": "Advanced Television",
+   "feed_region": "uk",
+   "published": "2026-09-07T00:23:19+01:00"
   },
   {
    "key": "the70refundletterthatisntascam",
@@ -2504,6 +3314,15 @@
    "published": "2026-09-05T11:00:34+01:00"
   },
   {
+   "key": "consumerfightback",
+   "title": "Consumer Fight Back",
+   "summary": "Rejected for PIP? Most tribunal appeals succeed. We ask why.",
+   "link": "https://www.bbc.co.uk/sounds/play/m00316n9?at_medium=RSS&at_campaign=rss",
+   "outlet": "BBC Business",
+   "feed_region": "uk",
+   "published": "2026-09-05T11:00:00+01:00"
+  },
+  {
    "key": "theliberationreviewcarriecoonisbreathtakingasawomanluredbyacultinguyna",
    "title": "‘The Liberation’ Review: Carrie Coon Is Breathtaking as a Woman Lured by a Cult in Guy Nattiv’s Deeply Personal Film",
    "summary": "“You carry a lot of weight around, don’t you?” In Guy Nattiv’s observant, harrowing and unmistakably feminine “The Liberation,” this line marks the first time someone truly sees through fortysomething protagonist Rita Cooper. Based on Nattiv’s own grandmother (alongside various cult survivors) and played by Carrie...",
@@ -2781,6 +3600,15 @@
    "outlet": "The Wrap",
    "feed_region": "americas",
    "published": "2026-09-05T02:47:00+01:00"
+  },
+  {
+   "key": "whyareeuropeancountriesmovingtheirgoldoutofnorthamerica",
+   "title": "Why are European countries moving their gold out of North America?",
+   "summary": "The Netherlands has relocated 86 tonnes of the shiny stuff - what's going on?",
+   "link": "https://www.bbc.co.uk/news/articles/cvgyn8q8gqxo?at_medium=RSS&at_campaign=rss",
+   "outlet": "BBC Business",
+   "feed_region": "uk",
+   "published": "2026-09-05T02:42:09+01:00"
   },
   {
    "key": "brucecampbellsayshehas5yearstoliveaftercancerdiagnosisgiveortake",
@@ -24417,933 +25245,6 @@
    "outlet": "The Register",
    "feed_region": "global",
    "published": "2026-08-28T14:01:14+01:00"
-  },
-  {
-   "key": "ivetesteddozensofrobotvacuumsthisnew599roborockhasallthefeaturesineed",
-   "title": "I've tested dozens of robot vacuums - this new $599 Roborock has all the features I need",
-   "summary": "The Roborock Qrevo 2 Pro is a midrange robot vacuum and mop with a hands-free cleaning experience.",
-   "link": "https://www.zdnet.com/article/roborock-qrevo-2-pro-review/",
-   "outlet": "ZDNet",
-   "feed_region": "global",
-   "published": "2026-08-28T14:00:48+01:00"
-  },
-  {
-   "key": "pokmonchampionsreviewpeakmonsterbattling",
-   "title": "Pokémon Champions review: Peak monster battling",
-   "summary": "If you want to be the very best, Pokémon Champions is your new arena.",
-   "link": "https://www.engadget.com/2245080/pokmon-champions-review/",
-   "outlet": "Engadget",
-   "feed_region": "global",
-   "published": "2026-08-28T14:00:00+01:00"
-  },
-  {
-   "key": "theprosandconsofflashmemory",
-   "title": "The pros and cons of flash memory",
-   "summary": "Flash memory is popular for lots of good reasons, but it's not without its faults. Will the market be moving on?",
-   "link": "https://www.engadget.com/2245475/flash-memory-pros-and-cons/",
-   "outlet": "Engadget",
-   "feed_region": "global",
-   "published": "2026-08-28T14:00:00+01:00"
-  },
-  {
-   "key": "the2026midtermsarecomingpoliticaldeepfakesarealreadyhere",
-   "title": "The 2026 Midterms Are Coming. Political Deepfakes Are Already Here",
-   "summary": "Remember that fake Joe Biden robocall? That likely won’t be the last AI deepfake we see during election season.",
-   "link": "https://www.cnet.com/tech/services-and-software/2026-midterms-political-ai-deepfakes/",
-   "outlet": "CNET News",
-   "feed_region": "global",
-   "published": "2026-08-28T14:00:00+01:00"
-  },
-  {
-   "key": "talktvunderfirefornotdisclosingreporterstiestoreformukinchannelcrossin",
-   "title": "TalkTV under fire for not disclosing reporter’s ties to Reform UK in Channel crossing film",
-   "summary": "Christian Drogan’s Invading Britain shows former builder turned journalist trying to travel from France to England in small boat Rupert Murdoch’s online channel TalkTV is facing criticism after it did not disclose that a journalist who travelled to Britain in a small boat for a documentary was a Reform party member...",
-   "link": "https://www.theguardian.com/media/2026/aug/28/talktv-journalist-small-boat-crossing-reform-member-christian-drogan",
-   "outlet": "Guardian Media",
-   "feed_region": "uk",
-   "published": "2026-08-28T13:52:31+01:00"
-  },
-  {
-   "key": "anthropicgetsitsfirstcourtwinoverthepentagonssupplychainrisklabel",
-   "title": "Anthropic gets its first court win over the Pentagon’s supply-chain risk label",
-   "summary": "A federal judge ruled the Trump administration illegally labeled Anthropic a supply-chain risk, handing the AI company a victory as its second Pentagon lawsuit continues in Washington.",
-   "link": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/",
-   "outlet": "TechCrunch",
-   "feed_region": "global",
-   "published": "2026-08-28T13:46:12+01:00"
-  },
-  {
-   "key": "pentagonblacklistedanthropicoverclaudepowersitdidnthave",
-   "title": "Pentagon blacklisted Anthropic over Claude powers it didn't have",
-   "summary": "Judge finds national-security rationale was assembled after Hegseth had already decided AI maker was a threat",
-   "link": "https://www.theregister.com/ai-and-ml/2026/08/28/pentagon-blacklisted-anthropic-over-claude-powers-it-didnt-have/5293266",
-   "outlet": "The Register",
-   "feed_region": "global",
-   "published": "2026-08-28T13:31:51+01:00"
-  },
-  {
-   "key": "metaexecutiveleavesforopenaiasthesocialmediagiantfacesgrowingscrutinyi",
-   "title": "Meta executive leaves for OpenAI as the social media giant faces growing scrutiny in India",
-   "summary": "Sandhya Devanathan will oversee some OpenAI operations across Southeast Asia and Australia in her new role.",
-   "link": "https://techcrunch.com/2026/08/28/meta-executive-leaves-for-openai-as-the-social-media-giant-faces-growing-scrutiny-in-india/",
-   "outlet": "TechCrunch",
-   "feed_region": "global",
-   "published": "2026-08-28T13:21:06+01:00"
-  },
-  {
-   "key": "mattpumograyregionalvpgmtoretireafter41yearsintv",
-   "title": "Matt Pumo, Gray Regional VP/GM, To Retire After 41 Years In TV",
-   "summary": "The post Matt Pumo, Gray Regional VP/GM, To Retire After 41 Years In TV appeared first on TV News Check .",
-   "link": "https://newsblues.com/2026/08/27/matt-pumo-regional-vp-gm-at-gray-television-to-retire-after-41-years-of-tv/",
-   "outlet": "TVNewsCheck",
-   "feed_region": "americas",
-   "published": "2026-08-28T13:17:19+01:00"
-  },
-  {
-   "key": "appleisntfollowingitstypicalplaybookfortheseptemberiphoneevent",
-   "title": "Apple Isn’t Following Its Typical Playbook for the September iPhone Event",
-   "summary": "Tim Cook is having a wild last week on the job.",
-   "link": "https://www.cnet.com/tech/computing/apple-isnt-following-its-typical-playbook-for-the-september-iphone-event/",
-   "outlet": "CNET News",
-   "feed_region": "global",
-   "published": "2026-08-28T13:16:00+01:00"
-  },
-  {
-   "key": "aretailerschecklisttopreventthenexttargetcostumeblunder",
-   "title": "A Retailer’s Checklist to Prevent the Next Target Costume Blunder",
-   "summary": "When does an apology stop being a checkbox exercise as opposed to a genuine learning moment?",
-   "link": "https://www.adweek.com/brand-marketing/a-retailers-checklist-to-prevent-the-next-target-costume-blunder/",
-   "outlet": "Adweek",
-   "feed_region": "americas",
-   "published": "2026-08-28T13:12:05+01:00"
-  },
-  {
-   "key": "pinkfloydsrogerwatersnobelprizewinnerannieernauxandmoresignopenletterc",
-   "title": "Pink Floyd’s Roger Waters, Nobel Prize Winner Annie Ernaux and More Sign Open Letter Calling for Venice Film Festival to Take ‘Concrete Action’ in Support of Palestine",
-   "summary": "Nobel Prize-winning writer Annie Ernaux, Pink Floyd co-founder Roger Waters and directors Isabel Coixet and Matteo Garrone are among signatories of an open letter issued on Friday calling for the Venice Film Festival “to take concrete action in support of Palestine.” The open letter comes from the Venice4Palestine...",
-   "link": "https://variety.com/2026/film/festivals/roger-waters-annie-ernaux-petition-venice-palestine-1236845869/",
-   "outlet": "Variety",
-   "feed_region": "americas",
-   "published": "2026-08-28T13:11:26+01:00"
-  },
-  {
-   "key": "microsoftprepsthisyearswindows11featuretweaks26h2hitsreleasepreview",
-   "title": "Microsoft preps this year's Windows 11 feature tweaks: 26H2 hits Release Preview",
-   "summary": "Same servicing branch as 24H2 and 25H2... and the same buggy updates",
-   "link": "https://www.theregister.com/os-platforms/2026/08/28/microsoft-preps-this-years-windows-11-feature-tweaks-26h2-hits-release-preview/5293211",
-   "outlet": "The Register",
-   "feed_region": "global",
-   "published": "2026-08-28T13:03:00+01:00"
-  },
-  {
-   "key": "clyde1leavesclydebankstudiosfornewhome",
-   "title": "Clyde 1 leaves Clydebank studios for new home",
-   "summary": "Clyde 1 has moved from Clydebank to new studios in Glasgow city centre, marking a new era after 43 years.",
-   "link": "https://radiotoday.co.uk/2026/08/clyde-1-leaves-clydebank-studios-for-new-home/",
-   "outlet": "RadioToday",
-   "feed_region": "uk",
-   "published": "2026-08-28T13:02:44+01:00"
-  },
-  {
-   "key": "appletvsscifithrillerdarkmattergetseventrippierinseason2",
-   "title": "Apple TV’s sci-fi thriller Dark Matter gets even trippier in season 2",
-   "summary": "Confusion is a generally accepted side effect of mystery box shows. They slather on secrets with the promise of a satisfying payoff in the end, and sometimes the cast and crew even have a hard time following what's going on. But even by the standards of the genre, Dark Matter is extreme. Its multiversal premise, […]",
-   "link": "https://www.theverge.com/entertainment/983263/dark-matter-season-2-review-apple-tv",
-   "outlet": "The Verge",
-   "feed_region": "global",
-   "published": "2026-08-28T13:00:00+01:00"
-  },
-  {
-   "key": "howtoaddanintrotoapplecarplayusingshortcuts",
-   "title": "How to add an intro to Apple CarPlay using Shortcuts",
-   "summary": "If you want your car to greet you every morning, the Shortcuts app can make it happen.",
-   "link": "https://www.engadget.com/2244156/how-to-add-intro-apple-carplay-with-shortcuts/",
-   "outlet": "Engadget",
-   "feed_region": "global",
-   "published": "2026-08-28T13:00:00+01:00"
-  },
-  {
-   "key": "theiphoneairisoneofapplesmostimportantproductsevenifitwasntablockbuste",
-   "title": "The iPhone Air Is One of Apple’s Most Important Products, Even if It Wasn’t a Blockbuster",
-   "summary": "Apple’s super-thin iPhone didn’t sell like crazy, but it helped set the stage for something bigger: the long-rumored foldable.",
-   "link": "https://www.cnet.com/tech/mobile/iphone-air-one-of-apples-most-important-products/",
-   "outlet": "CNET News",
-   "feed_region": "global",
-   "published": "2026-08-28T13:00:00+01:00"
-  },
-  {
-   "key": "wantafreeapplewatchplayzdnetsguessinggametowinoneonly4daysleft",
-   "title": "Want a free Apple Watch? Play ZDNET's 'Guessing Game' to win one - only 4 days left",
-   "summary": "It's the third and final round of ZDNET's Big Guessing Game. We want to know what you think.",
-   "link": "https://www.zdnet.com/article/big-guessing-game-apple-edition-round-3/",
-   "outlet": "ZDNet",
-   "feed_region": "global",
-   "published": "2026-08-28T12:57:00+01:00"
-  },
-  {
-   "key": "evenanaicostmanagementvendorcanlosecontrolofitsagentspending",
-   "title": "Even an AI cost-management vendor can lose control of its agent spending",
-   "summary": "In one instance, an AI agent stayed open for four days and ran 4,819 calls for almost $4,000. No one had budgeted for this cost.",
-   "link": "https://www.zdnet.com/article/even-an-ai-cost-management-vendor-can-lose-control-of-its-agent-spending/",
-   "outlet": "ZDNet",
-   "feed_region": "global",
-   "published": "2026-08-28T12:51:00+01:00"
-  },
-  {
-   "key": "howtogetfreegoogleaiproforanentireyearandsave2403ways",
-   "title": "How to get free Google AI Pro for an entire year - and save $240: 3 ways",
-   "summary": "Google is offering its premium AI subscription plan for free. It usually costs $20 a month - and comes with many benefits.",
-   "link": "https://www.zdnet.com/article/how-to-get-free-google-ai-pro-subscription-for-one-year/",
-   "outlet": "ZDNet",
-   "feed_region": "global",
-   "published": "2026-08-28T12:45:00+01:00"
-  },
-  {
-   "key": "sseairtricitytoincreasegaspricesby19fromoctober",
-   "title": "SSE Airtricity to increase gas prices by 19% from October",
-   "summary": "The annual gas bill of a typical household in the greater Belfast and west gas network areas will increase by almost £172.",
-   "link": "https://www.bbc.co.uk/news/articles/cvgyxky1m4wo?at_medium=RSS&at_campaign=rss",
-   "outlet": "BBC Business",
-   "feed_region": "uk",
-   "published": "2026-08-28T12:44:47+01:00"
-  },
-  {
-   "key": "tvratingshelpexplainwhythenflkilledtheprobowl",
-   "title": "TV Ratings Help Explain Why The NFL Killed The Pro Bowl",
-   "summary": "The NFL is hardly accustomed to sharp drops in viewership, but that was very much the case for its now-defunct Pro Bowl Games. The post TV Ratings Help Explain Why The NFL Killed The Pro Bowl appeared first on TV News Check .",
-   "link": "https://tvnewscheck.com/programming/article/tv-ratings-help-explain-why-the-nfl-killed-the-pro-bowl/",
-   "outlet": "TVNewsCheck",
-   "feed_region": "americas",
-   "published": "2026-08-28T12:34:53+01:00"
-  },
-  {
-   "key": "demsgopsqueezetvstationsinadratewar",
-   "title": "Dems & GOP Squeeze TV Stations In Ad Rate War",
-   "summary": "National Democrats and Republicans are pressuring local TV stations to respond in opposite ways to a new federal court ruling on political ad rates. How they respond will have a major impact on the fight for control of Congress by deciding which party's ad money goes further in the final stretch of the 2026...",
-   "link": "https://tvnewscheck.com/business/article/dems-gop-squeeze-tv-stations-in-ad-rate-war/",
-   "outlet": "TVNewsCheck",
-   "feed_region": "americas",
-   "published": "2026-08-28T12:31:49+01:00"
-  },
-  {
-   "key": "bbcappointsexnetflixbbcsexecchrissussmanasdirectorofcomedy",
-   "title": "BBC appoints ex-Netflix, BBCS exec Chris Sussman as director of comedy",
-   "summary": "UK public broadcaster the BBC has appointed former Netflix and BBC Studios (BBCS) exec Chris Sussman as director of comedy. Sussman was previously director of scripted series at Netflix UK, where he bu...",
-   "link": "https://www.c21media.net/news/bbc-appoints-ex-netflix-bbcs-exec-chris-sussman-as-director-of-comedy/",
-   "outlet": "C21Media",
-   "feed_region": "uk",
-   "published": "2026-08-28T12:31:46+01:00"
-  },
-  {
-   "key": "cisamostexploitedvulnerabilitiesshouldhavebeeneradicateddecadesago",
-   "title": "CISA: Most exploited vulnerabilities should have been eradicated decades ago",
-   "summary": "Organizational culture and systemic gaps in Secure by Design adoption blamed for sorry state of affairs",
-   "link": "https://www.theregister.com/security/2026/08/28/cisa-most-exploited-vulnerabilities-should-have-been-eradicated-decades-ago/5293194",
-   "outlet": "The Register",
-   "feed_region": "global",
-   "published": "2026-08-28T12:29:00+01:00"
-  },
-  {
-   "key": "googleexpandsdemandgenadswithmessagingaivideo",
-   "title": "Google Expands ‘Demand Gen’ Ads With Messaging, AI Video",
-   "summary": "The idea is to help advertisers drive high-quality leads and acquire customers on YouTube and its other platforms through Demand Gen ads. It gives lead generation advertisers another action to take beyond sending users to a website or landing page. The post Google Expands ‘Demand Gen’ Ads With Messaging, AI Video...",
-   "link": "https://tvnewscheck.com/ai/article/google-expands-demand-gen-ads-with-messaging-ai-video/",
-   "outlet": "TVNewsCheck",
-   "feed_region": "americas",
-   "published": "2026-08-28T12:27:39+01:00"
-  },
-  {
-   "key": "byronallenscomicsunleashedtopskimmelfalloninkeyratingsdemo",
-   "title": "Byron Allen’s ‘Comics Unleashed’ Tops Kimmel, Fallon In Key Ratings Demo",
-   "summary": "The post Byron Allen’s ‘Comics Unleashed’ Tops Kimmel, Fallon In Key Ratings Demo appeared first on TV News Check .",
-   "link": "https://latenighter.com/news/ratings/byron-allen-comics-unleashed-kimmel-fallon-ratings-august-24-2026/",
-   "outlet": "TVNewsCheck",
-   "feed_region": "americas",
-   "published": "2026-08-28T12:25:26+01:00"
-  },
-  {
-   "key": "8marketermovestoknowthisweekwendysskimskohlsandmore",
-   "title": "8 Marketer Moves to Know This Week: Wendy’s, Skims, Kohl’s, and More",
-   "summary": "A roundup of this week's biggest marketing leadership moves",
-   "link": "https://www.adweek.com/brand-marketing/8-marketer-moves-to-know-this-week-wendys-skims-kohls-and-more/",
-   "outlet": "Adweek",
-   "feed_region": "americas",
-   "published": "2026-08-28T12:20:20+01:00"
-  },
-  {
-   "key": "authoritiesarrest2allegedmembersofprolifichackinggroupteampcp",
-   "title": "Authorities arrest 2 alleged members of prolific hacking group TeamPCP",
-   "summary": "The group infected more than 1,000 organizations in a relentless supply-chain attack campaign.",
-   "link": "https://arstechnica.com/security/2026/08/authorities-arrest-2-alleged-members-of-prolific-hacking-group-teampcp/",
-   "outlet": "Ars Technica",
-   "feed_region": "global",
-   "published": "2026-08-28T12:15:05+01:00"
-  },
-  {
-   "key": "bbcnameschrissussmandirectorofcomedy",
-   "title": "BBC Names Chris Sussman Director of Comedy",
-   "summary": "The BBC has a new comedy head. Chris Sussman, formerly director of scripted series at Netflix U.K. and prior to that head of comedy at BBC Studios, has rejoined the broadcaster as its director of comedy, where he’ll be responsible for leading what the BBC says is the “U.K.s largest generator of original British...",
-   "link": "https://variety.com/2026/tv/global/bbc-chris-sussman-director-of-comedy-1236845870/",
-   "outlet": "Variety",
-   "feed_region": "americas",
-   "published": "2026-08-28T12:14:08+01:00"
-  },
-  {
-   "key": "keynotesannouncedforpodcastmovementnyc",
-   "title": "Keynotes announced for Podcast Movement NYC",
-   "summary": "Details of two keynotes for next month. Sponsored by Magellan AI. CBC swapped generic trailers for episode-specific promos and nearly tripled conversion, measured by Magellan AI. See how they did it https://podnews.net/cc/3677 Visit https://podnews.net/update/keynotes-pmnyc for the story links in full, and to get...",
-   "link": "https://podnews.net/update/keynotes-pmnyc",
-   "outlet": "Podnews",
-   "feed_region": "global",
-   "published": "2026-08-28T12:05:15+01:00"
-  },
-  {
-   "key": "industrythatbuilttheproblemofferstosellyouthesolution",
-   "title": "Industry that built the problem offers to sell you the solution",
-   "summary": "100+ tech giants warn AI attacks are coming, skip the part where they pay for defenses",
-   "link": "https://www.theregister.com/security/2026/08/28/industry-that-built-the-problem-offers-to-sell-you-the-solution/5293207",
-   "outlet": "The Register",
-   "feed_region": "global",
-   "published": "2026-08-28T12:01:00+01:00"
-  },
-  {
-   "key": "rocketreporteuropesplashessomecashonlaunchstartupspallas1nearsdebut",
-   "title": "Rocket Report: Europe splashes some cash on launch startups; Pallas-1 nears debut",
-   "summary": "\"From here on, Starlink missions out of Florida will fly on Starship.\"",
-   "link": "https://arstechnica.com/space/2026/08/rocket-report-europe-splashes-some-cash-on-launch-startups-pallas-1-nears-debut/",
-   "outlet": "Ars Technica",
-   "feed_region": "global",
-   "published": "2026-08-28T12:00:39+01:00"
-  },
-  {
-   "key": "whosafraidoffilmfestivalsafterpoliticsrattledberlinandshookupcannesven",
-   "title": "Who’s Afraid of Film Festivals? After Politics Rattled Berlin and Shook Up Cannes, Venice Braces for Impact",
-   "summary": "With wars still raging in the Middle East and Ukraine — and turbulence escalating globally — artists on the film festival circuit have been navigating political minefields. At the Berlin Film Festival in February, jury president Wim Wenders came under fire for saying that film directors should “stay out of...",
-   "link": "https://variety.com/2026/film/features/politics-film-festivals-venice-russia-israel-discourse-1236841779/",
-   "outlet": "Variety",
-   "feed_region": "americas",
-   "published": "2026-08-28T12:00:00+01:00"
-  },
-  {
-   "key": "theviewconfirmsseason30castinpromoteasingbigpremieresurprise",
-   "title": "‘The View’ Confirms Season 30 Cast In Promo, Teasing Big Premiere Surprise",
-   "summary": "On Thursday, the Barbara Walters-created daytime talk show released a promo for its 30th season, kicking off Tuesday, Sept. 8, confirming the return of co-hosts Whoopi Goldberg, Sara Haines, Joy Behar, Ana Navarro, Sunny Hostin and Alyssa Farah Griffin. The post ‘The View’ Confirms Season 30 Cast In Promo, Teasing...",
-   "link": "https://tvnewscheck.com/programming/article/the-view-confirms-season-30-cast-in-promo-teasing-big-premiere-surprise/",
-   "outlet": "TVNewsCheck",
-   "feed_region": "americas",
-   "published": "2026-08-28T11:52:01+01:00"
-  },
-  {
-   "key": "plansindevelopmenttoreplaceedinburghtvfestivalasitmovestomanchester",
-   "title": "Plans In Development To Replace Edinburgh TV Festival As It Moves to Manchester",
-   "summary": "Scotland’s screen bodies are working on a new Edinburgh-based festival for the media and creative industries as the TV Festival moves to Manchester. The post Plans In Development To Replace Edinburgh TV Festival As It Moves to Manchester appeared first on TV News Check .",
-   "link": "https://tvnewscheck.com/programming/article/plans-in-development-to-replace-edinburgh-tv-festival-as-it-moves-to-manchester/",
-   "outlet": "TVNewsCheck",
-   "feed_region": "americas",
-   "published": "2026-08-28T11:47:33+01:00"
-  },
-  {
-   "key": "furiousrenewedforseason2athulu",
-   "title": "‘Furious’ Renewed For Season 2 At Hulu",
-   "summary": "The thriller series starring Emmy Rossum has become a breakout hit for the streamer, with viewership growing week over week since its July 27 premiere date. The post ‘Furious’ Renewed For Season 2 At Hulu appeared first on TV News Check .",
-   "link": "https://tvnewscheck.com/programming/article/furious-renewed-for-season-2-at-hulu/",
-   "outlet": "TVNewsCheck",
-   "feed_region": "americas",
-   "published": "2026-08-28T11:45:15+01:00"
-  },
-  {
-   "key": "grandtheftautovicouldtakeyoumorethan80hourstofinish",
-   "title": "Grand Theft Auto VI could take you more than 80 hours to finish",
-   "summary": "PSA to friends and family of GTA fans: You'll probably rarely see them from November 19 onwards.",
-   "link": "https://www.engadget.com/2246187/grand-theft-auto-vi-could-take-more-than-80-hours/",
-   "outlet": "Engadget",
-   "feed_region": "global",
-   "published": "2026-08-28T11:38:19+01:00"
-  },
-  {
-   "key": "nflannouncesofficialpartnershipswiththreemajorbettingplatforms",
-   "title": "NFL Announces Official Partnerships With Three Major Betting Platforms",
-   "summary": "DraftKings, FanDuel and Fanatics each sign multi-year deals. The post NFL Announces Official Partnerships With Three Major Betting Platforms appeared first on TV News Check .",
-   "link": "https://tvnewscheck.com/business/article/nfl-announces-official-partnerships-with-three-major-betting-platforms/",
-   "outlet": "TVNewsCheck",
-   "feed_region": "americas",
-   "published": "2026-08-28T11:35:47+01:00"
-  },
-  {
-   "key": "colmansmustardputupforsaleaheadofmerger",
-   "title": "Colman's Mustard put up for sale ahead of merger",
-   "summary": "The sale comes before a proposed merger between parent company Unilever and McCormick.",
-   "link": "https://www.bbc.co.uk/news/articles/cd08g4pjkymo?at_medium=RSS&at_campaign=rss",
-   "outlet": "BBC Business",
-   "feed_region": "uk",
-   "published": "2026-08-28T11:34:43+01:00"
-  },
-  {
-   "key": "firedstarsandstripesstaffsuepentagonallegingfirstamendmentviolations",
-   "title": "Fired Stars And Stripes Staff Sue Pentagon, Alleging First Amendment Violations",
-   "summary": "Three staffers at Stars and Stripes, the military publication, sued the Pentagon and top officials on Thursday. The trio, including the outlet’s editor-in-chief, claimed they were illegally pushed out over personal statements protected under the First Amendment. The post Fired Stars And Stripes Staff Sue Pentagon,...",
-   "link": "https://tvnewscheck.com/journalism/article/fired-stars-and-stripes-staff-sue-pentagon-alleging-first-amendment-violations/",
-   "outlet": "TVNewsCheck",
-   "feed_region": "americas",
-   "published": "2026-08-28T11:31:48+01:00"
-  },
-  {
-   "key": "microsoftsvirtualinternteamsfacilitatorwillbelateforthemeeting",
-   "title": "Microsoft's virtual intern Teams Facilitator will be late for the meeting",
-   "summary": "Teams question detection bot postpones debut, will get 2-month extension to practice interrupting you",
-   "link": "https://www.theregister.com/ai-and-ml/2026/08/28/microsofts-virtual-intern-teams-facilitator-will-be-late-for-the-meeting/5293045",
-   "outlet": "The Register",
-   "feed_region": "global",
-   "published": "2026-08-28T11:29:00+01:00"
-  },
-  {
-   "key": "scrippstapsnbcusalesveterantoleadsmallmediumbusinessgrowthanddirectres",
-   "title": "Scripps Taps NBCU Sales Veteran To Lead Small & Medium Business Growth And Direct Response Advertising",
-   "summary": "Jen Carfley will lead the company’s strategy to connect advertisers with Scripps’ premium video inventory — including sports, news and entertainment — and performance-driven television advertising solutions across its local, national, linear and connected TV platforms. The post Scripps Taps NBCU Sales Veteran To...",
-   "link": "https://tvnewscheck.com/business/article/scripps-taps-nbcu-sales-veteran-to-lead-small-medium-business-growth-and-direct-response-advertising/",
-   "outlet": "TVNewsCheck",
-   "feed_region": "americas",
-   "published": "2026-08-28T11:28:04+01:00"
-  },
-  {
-   "key": "bbcstudiosskycondemnunlawfulstreamingafterukmanjailedforsellingillegal",
-   "title": "BBC Studios, Sky condemn unlawful streaming after UK man jailed for selling illegal IPTV services",
-   "summary": "BBC Studios and Sky in the UK have condemned unlawful streaming and piracy after a man has been jailed for selling illegal IPTV services that made him almost £1m (US$1.4m). Milan Ibrahim was sentenced...",
-   "link": "https://www.c21media.net/news/bbc-studios-sky-condemn-unlawful-streaming-after-uk-man-jailed-for-selling-illegal-iptv-services/",
-   "outlet": "C21Media",
-   "feed_region": "uk",
-   "published": "2026-08-28T11:24:09+01:00"
-  },
-  {
-   "key": "chartersuesscrippsoverretrans",
-   "title": "Charter Sues Scripps Over Retrans",
-   "summary": "The suit filed in Nevada District Court claims that Scripps is calling some language from the companies’ retransmission consent deal a “drafting mistake,” and that Charter doesn’t have a contractual obligation to REDACTED after the Cox-Charter transaction. The post Charter Sues Scripps Over Retrans appeared first...",
-   "link": "https://tvnewscheck.com/business/article/charter-sues-scripps-over-retrans/",
-   "outlet": "TVNewsCheck",
-   "feed_region": "americas",
-   "published": "2026-08-28T11:18:31+01:00"
-  },
-  {
-   "key": "zdfheadstotwitchforlivestreamedpopculturenostalgiatvshow",
-   "title": "ZDF heads to Twitch for live-streamed pop culture nostalgia TV show",
-   "summary": "German public broadcaster ZDF has launched a weekly show on Amazon-owned live-streamer Twitch, drawing on its vast archive of classic TV programming. ZDFtapes launched this week, with host Milo Pochyls...",
-   "link": "https://www.c21media.net/news/zdf-heads-to-twitch-for-live-streamed-pop-culture-nostalgia-tv-show/",
-   "outlet": "C21Media",
-   "feed_region": "uk",
-   "published": "2026-08-28T11:11:42+01:00"
-  },
-  {
-   "key": "jamievardyshavingapartyyoutubechanneltolivestreamselectbundesligamatch",
-   "title": "Jamie Vardy’s Having a Party YouTube channel to live-stream select Bundesliga matches",
-   "summary": "Banijay Entertainment has struck an agreement with top German football division the Bundesliga, securing rights to live-stream matches in the UK and Ireland on its YouTube channel Jamie Vardy’s H...",
-   "link": "https://www.c21media.net/news/jamie-vardys-having-a-party-youtube-channel-to-live-stream-select-bundesliga-matches/",
-   "outlet": "C21Media",
-   "feed_region": "uk",
-   "published": "2026-08-28T11:08:22+01:00"
-  },
-  {
-   "key": "aconservativestrategistcalledforgettingridoftrumpthreeyearsagocouldheb",
-   "title": "A conservative strategist called for ‘getting rid of Trump’ three years ago. Could he be his next press secretary?",
-   "summary": "Scott Jennings has pivoted from his early critiques and caught the White House’s eye with pro-Trump commentary on CNN In 2016, a month before the presidential election that Donald Trump would win, the longtime Republican strategist Scott Jennings described him as “a vulgar, crude, braggadocious,...",
-   "link": "https://www.theguardian.com/media/2026/aug/28/scott-jennings-new-trump-press-secretary",
-   "outlet": "Guardian Media",
-   "feed_region": "uk",
-   "published": "2026-08-28T11:00:54+01:00"
-  },
-  {
-   "key": "thesemammotionrobotlawnmowerscanclimbhillsandtheyreupto560offrightnow",
-   "title": "These Mammotion robot lawn mowers can climb hills - and they're up to $560 off right now",
-   "summary": "The Mammotion LUBA 3 AWD 3000H and the LUBA Mini 2 mowers are both heavily discounted - here's which you should get.",
-   "link": "https://www.zdnet.com/article/mammotion-robot-mowers-deal-luba-3-awd-3000h-luba-mini-2-awd-1500h/",
-   "outlet": "ZDNet",
-   "feed_region": "global",
-   "published": "2026-08-28T11:00:43+01:00"
-  },
-  {
-   "key": "unsafeatanyspeedaioptimistsareturningcautiousassafetyconcernsmount",
-   "title": "Unsafe at any speed: AI optimists are turning cautious as safety concerns mount",
-   "summary": "And as for getting US government to help – uncontrolled AI is not as dangerous as AI under the control of the technically clueless",
-   "link": "https://www.theregister.com/columnists/2026/08/28/unsafe-at-any-speed-ai-optimists-are-turning-cautious-as-safety-concerns-mount/5292853",
-   "outlet": "The Register",
-   "feed_region": "global",
-   "published": "2026-08-28T11:00:00+01:00"
-  },
-  {
-   "key": "ganglandactionthrillernozemfromdirectorscottvickerstostarbuddyboerkoel",
-   "title": "Gangland Action Thriller ‘Nozem’ From Director Scott Vickers to Star Buddy Boerkoel, Daniel Fathers (EXCLUSIVE)",
-   "summary": "Brit director Scott Vickers has lined up the cast for upcoming Amsterdam-set gangland thriller “Nozem,” which starts shooting in the Dutch capital next week. Led by the film’s writer Buddy Boerkoel, the film will also star Daniel Fathers (“House of the Dragon”), Francesca van Neuren (“Coked”) and Ibrahim Naji...",
-   "link": "https://variety.com/2026/film/global/nozem-scott-vickers-buddy-boerkoel-daniel-fathers-1236844850/",
-   "outlet": "Variety",
-   "feed_region": "americas",
-   "published": "2026-08-28T10:55:10+01:00"
-  },
-  {
-   "key": "ukscmfwarnsmetafineisnotsolutiontoprotectingchildrenfromonlineharm",
-   "title": "UK’s CMF warns Meta fine is not solution to protecting children from online harm",
-   "summary": "The Children's Media Foundation (CMF) in the UK has welcomed the recent court judgment in the US against social media giant Meta, but warned that “handing out fines after the event is not the solutio...",
-   "link": "https://www.c21media.net/news/uks-cmf-warns-meta-fine-is-not-solution-to-protecting-children-from-online-harm/",
-   "outlet": "C21Media",
-   "feed_region": "uk",
-   "published": "2026-08-28T10:48:22+01:00"
-  },
-  {
-   "key": "bbcradio6musictoairnewpetshopboysturingtribute",
-   "title": "BBC Radio 6 Music to air new Pet Shop Boys Turing tribute",
-   "summary": "BBC Radio 6 Music will premiere Pet Shop Boys’ revised A man from the future, exploring Alan Turing’s life, this October.",
-   "link": "https://radiotoday.co.uk/2026/08/bbc-radio-6-music-to-air-new-pet-shop-boys-turing-tribute/",
-   "outlet": "RadioToday",
-   "feed_region": "uk",
-   "published": "2026-08-28T10:48:03+01:00"
-  },
-  {
-   "key": "amolrajancallsonburnhamtoactonbbclicencefeemodelashedepartsforyoutube",
-   "title": "Amol Rajan calls on Burnham to act on BBC licence fee model as he departs for YouTube",
-   "summary": "ETVF: Amol Rajan, the broadcaster who is leaving the BBC to join the creator economy, has urged new UK prime minister Andy Burnham to consider a radical alternative to the licence fee, warning that the...",
-   "link": "https://www.c21media.net/news/amol-rajan-calls-on-burnham-to-act-on-bbc-licence-fee-model-as-he-departs-for-youtube/",
-   "outlet": "C21Media",
-   "feed_region": "uk",
-   "published": "2026-08-28T10:37:16+01:00"
-  },
-  {
-   "key": "aselectrictwowheelersgainafootholdbelgianstartupanybetsoncargospace",
-   "title": "As electric two-wheelers gain a foothold, Belgian startup Any bets on cargo space",
-   "summary": "Launched by Belgian startup Any, LUV1 is a modular electric motorcycle with 120 liters of cargo space that can be used to carry bags, work equipment, or even pets.",
-   "link": "https://techcrunch.com/2026/08/28/as-electric-two-wheelers-gain-a-foothold-belgian-startup-any-bets-on-cargo-space/",
-   "outlet": "TechCrunch",
-   "feed_region": "global",
-   "published": "2026-08-28T10:33:00+01:00"
-  },
-  {
-   "key": "notfarenoughusparentsandteensonmetasnewlimitsforyoungusers",
-   "title": "'Not far enough' - US parents and teens on Meta's new limits for young users",
-   "summary": "As part of an $18bn settlement in a child-safety lawsuit, Meta announced new restrictions on its apps. We asked families what they thought.",
-   "link": "https://www.bbc.co.uk/news/articles/cx2zn9zj361o?at_medium=RSS&at_campaign=rss",
-   "outlet": "BBC Business",
-   "feed_region": "uk",
-   "published": "2026-08-28T10:32:14+01:00"
-  },
-  {
-   "key": "10radiolistenersgiveonemessagewewantconnection",
-   "title": "10 Radio Listeners Give One Message: We Want Connection",
-   "summary": "Ask radio listeners why they still tune in, and one word keeps coming up: connection. That's the throughline of a new qualitative study from Coleman Insights, presented on August 27 as \"The Listener Truth,\" drawing on interviews with ten radio listeners.",
-   "link": "https://radioink.com/2026/08/28/10-radio-listeners-give-one-message-we-want-connection/",
-   "outlet": "Radio Ink",
-   "feed_region": "americas",
-   "published": "2026-08-28T10:30:15+01:00"
-  },
-  {
-   "key": "dontmakeheritageahandicap",
-   "title": "Don’t Make Heritage a Handicap",
-   "summary": "(Deborah Parenti) Depending on who you listen to, radio’s tomorrows are either doomed to extinction or defined by reinvention. But make no mistake: radio’s destiny won’t be decided by technology alone. It will be secured by the stations that remember who they are",
-   "link": "https://radioink.com/2026/08/28/dont-make-heritage-a-handicap/",
-   "outlet": "Radio Ink",
-   "feed_region": "americas",
-   "published": "2026-08-28T10:28:19+01:00"
-  },
-  {
-   "key": "katzradioattributionstudytiesfootballadstomoreclicks",
-   "title": "Katz Radio Attribution Study Ties Football Ads To More Clicks",
-   "summary": "Radio's attribution case studies keep getting more granular, and the latest example ties football directly to website clicks. A home improvement brand's radio campaign running alongside NFL and NCAA broadcasts generated a web traffic boost, per Katz Radio Group.",
-   "link": "https://radioink.com/2026/08/28/katz-radio-attribution-study-ties-football-ads-to-more-clicks/",
-   "outlet": "Radio Ink",
-   "feed_region": "americas",
-   "published": "2026-08-28T10:27:47+01:00"
-  },
-  {
-   "key": "whatareyouknownfor",
-   "title": "What Are You Known For?",
-   "summary": "(Kathleen Fink) Here’s a question I think every professional should be able to answer: What are you known for? For a long time, I didn’t think much about that question. Then I decided to help build a company and, like many people in radio, found myself at an unexpected crossroads.",
-   "link": "https://radioink.com/2026/08/28/kathleen-fink-what-are-you-known-for-2/",
-   "outlet": "Radio Ink",
-   "feed_region": "americas",
-   "published": "2026-08-28T10:25:37+01:00"
-  },
-  {
-   "key": "whathappensrightbeforeshowtime",
-   "title": "What Happens Right Before Showtime?",
-   "summary": "(Jeff McHugh) A couple of years ago, I coached a fellow with the Cleveland Browns on his speaking skills. I was surprised when he suggested that we have a session on the day his team played the New York Jets. You may picture the team and coaches rushing around.",
-   "link": "https://radioink.com/2026/08/28/jeff-mchugh-what-happens-right-before-showtime/",
-   "outlet": "Radio Ink",
-   "feed_region": "americas",
-   "published": "2026-08-28T10:24:03+01:00"
-  },
-  {
-   "key": "kentuckybroadcastgroupsettlesfccviolationsaheadofsale",
-   "title": "Kentucky Broadcast Group Settles FCC Violations Ahead of Sale",
-   "summary": "The FCC won't penalize a Kentucky broadcaster for a string of compliance failures as it prepares to sell its stations. Morgan County Industries entered a Consent Decree resolving violations at its four eastern Kentucky FM stations, going to Ridgeline Communications.",
-   "link": "https://radioink.com/2026/08/28/kentucky-broadcast-group-settles-fcc-violations-ahead-of-sale/",
-   "outlet": "Radio Ink",
-   "feed_region": "americas",
-   "published": "2026-08-28T10:23:31+01:00"
-  },
-  {
-   "key": "yospacelaunchesadpresentationtoscalenonlinearadopportunities",
-   "title": "Yospace launches Ad Presentation to scale non-linear ad opportunities",
-   "summary": "Deployable across live, FAST and VoD services whether content is delivered via SSAI or SGAI, the solution enables new formats to be unlocked without the need for device-specific implementations The post Yospace launches Ad Presentation to scale non-linear ad opportunities appeared first on TVBEurope .",
-   "link": "https://www.tvbeurope.com/adtech/yospace-launches-ad-presentation-to-scale-non-linear-ad-opportunities",
-   "outlet": "TVBEurope",
-   "feed_region": "uk",
-   "published": "2026-08-28T10:22:12+01:00"
-  },
-  {
-   "key": "nicolacoughlanmattlucashughbonnevilleandmorebackcampaignagainstaivoice",
-   "title": "Nicola Coughlan, Matt Lucas, Hugh Bonneville and More Back Campaign Against AI Voice Cloning: ‘An Existential Threat to Our Entire Industry’",
-   "summary": "Nicola Coughlan, Matt Lucas and Hugh Bonneville are among the high-profile names backing a new campaign against AI voice cloning. Titled “Save Our Voices Now,” the initiative calls for greater protections against AI technology being used to replicate a person’s voice, according to The Guardian. The group of over 80...",
-   "link": "https://variety.com/2026/digital/global/nicola-coughlan-matt-lucas-ai-voice-cloning-law-1236845817/",
-   "outlet": "Variety",
-   "feed_region": "americas",
-   "published": "2026-08-28T10:21:18+01:00"
-  },
-  {
-   "key": "bbcleadersclarifypubcasterspositionontermsoftrade",
-   "title": "BBC leaders clarify pubcaster’s position on terms of trade",
-   "summary": "ETVF: The BBC has reassured producers that it is not seeking radical changes to the UK’s terms of trade, which guarantee IP stays with its creator and have helped build the country’s produc...",
-   "link": "https://www.c21media.net/news/bbc-leaders-clarify-pubcasters-position-on-terms-of-trade/",
-   "outlet": "C21Media",
-   "feed_region": "uk",
-   "published": "2026-08-28T10:19:53+01:00"
-  },
-  {
-   "key": "blastfromthepastdollypartonkere1977",
-   "title": "Blast From The Past: Dolly Parton; KERE, 1977",
-   "summary": "This week's Radio Ink Blast from the Past was submitted by Doug Lane. It was 1977 when Dolly Parton stopped by KERE in Denver, bringing a bit of Tennessee sparkle to the Rockies. Send your Blast From The Past story and photo to Editor-in-Chief Cameron Coats .",
-   "link": "https://radioink.com/2026/08/28/blast-from-the-past-dolly-parton-kere-1977/",
-   "outlet": "Radio Ink",
-   "feed_region": "americas",
-   "published": "2026-08-28T10:17:51+01:00"
-  },
-  {
-   "key": "bigtechmarketpowerwillcauseuktoloseairacethinktankwarns",
-   "title": "Big Tech market power will cause UK to lose AI race, think tank warns",
-   "summary": "Britain's market watchdog criticized for not creating the conditions for competition to thrive",
-   "link": "https://www.theregister.com/ai-and-ml/2026/08/28/big-tech-market-power-will-cause-uk-to-lose-ai-race-think-tank-warns/5292918",
-   "outlet": "The Register",
-   "feed_region": "global",
-   "published": "2026-08-28T10:15:00+01:00"
-  },
-  {
-   "key": "joachimtrierssentimentalvaluedrivesarthousesuccessfromtaiwantoromaniaa",
-   "title": "Joachim Trier’s ‘Sentimental Value’ Drives Arthouse Success From Taiwan to Romania as Distributors Reveal Nordic Playbook",
-   "summary": "Joachim Trier’s Cannes Grand Prix winner “Sentimental Value,” starring Renate Reinsve, Stellan Skarsgård and Elle Fanning, is providing independent distributors with a potent case study in how Nordic arthouse cinema can still break through internationally — when festival heat is matched with intensely local...",
-   "link": "https://variety.com/2026/film/global/joachim-trier-sentimental-value-hlynur-palmason-1236845133/",
-   "outlet": "Variety",
-   "feed_region": "americas",
-   "published": "2026-08-28T10:14:19+01:00"
-  },
-  {
-   "key": "sabuunpacksarrestedmemoryaheadofvenicetorontobowsastrailerdebutsexclus",
-   "title": "Sabu Unpacks ‘Arrested Memory’ Ahead of Venice, Toronto Bows as Trailer Debuts (EXCLUSIVE)",
-   "summary": "Sabu, the Japanese director of Venice and Toronto-bound “Arrested Memory,” says the film’s nearly two-decade journey to the screen – after stalled attempts to shoot in Germany, Korea, the U.S. and Japan – left it with more tension and poignancy than the version he first wrote. Variety is unveiling the first trailer...",
-   "link": "https://variety.com/2026/film/festivals/sabu-arrested-memory-venice-toronto-1236845823/",
-   "outlet": "Variety",
-   "feed_region": "americas",
-   "published": "2026-08-28T10:12:44+01:00"
-  },
-  {
-   "key": "bbcbossbrittinwantstoopenupiplayertocreatorscuratedbypublicservicealgo",
-   "title": "BBC boss Brittin wants to open up iPlayer to creators curated by ‘public service algorithm’",
-   "summary": "ETVF: The new director general of the BBC wants to open up the UK pubcaster’s iPlayer VoD platform to user-generated content using a so-called “public service algorithm,” free from th...",
-   "link": "https://www.c21media.net/news/bbc-boss-brittin-wants-to-open-up-iplayer-to-creators-curated-by-public-service-algorithm/",
-   "outlet": "C21Media",
-   "feed_region": "uk",
-   "published": "2026-08-28T10:06:03+01:00"
-  },
-  {
-   "key": "thebothersomemandirectorjenslientacklesautomationanxietyinjoesassignme",
-   "title": "‘The Bothersome Man’ Director Jens Lien Tackles Automation Anxiety in ‘Joe’s Assignment’ (EXCLUSIVE)",
-   "summary": "Jens Lien, the Norwegian filmmaker behind cult dystopian comedy “The Bothersome Man” and HBO Nordic sci-fi satire “Beforeigners,” is returning to speculative territory with “Joe’s Assignment,” a near-future comedy starring Lilyhammer’s Trond Fausa Aurvåg and turning on work, automation and what happens when society...",
-   "link": "https://variety.com/2026/film/global/bothersome-man-jens-lien-joes-assignment-1236844917/",
-   "outlet": "Variety",
-   "feed_region": "americas",
-   "published": "2026-08-28T10:03:09+01:00"
-  },
-  {
-   "key": "helpihavedisappeareddownarabbitholeofhorriblemobilegamingadvertsdomini",
-   "title": "Help! I have disappeared down a rabbithole of horrible mobile gaming adverts | Dominik Diamond",
-   "summary": "Led by the nose from game to terrible game by increasingly disturbing and terrible adverts, I feel like I’m in the cinema scene from A Clockwork Orange We’re all escaping something when we play video games. Mostly it’s the drabness of real life, where we don’t get to command kingdoms using armies of dragons, win...",
-   "link": "https://www.theguardian.com/games/2026/aug/28/horrible-mobile-gaming-adverts",
-   "outlet": "Guardian Media",
-   "feed_region": "uk",
-   "published": "2026-08-28T10:00:54+01:00"
-  },
-  {
-   "key": "thehollowingoutoftenniscomisawarningforamericansportsjournalism",
-   "title": "The hollowing out of Tennis.com is a warning for American sports journalism",
-   "summary": "The site once paired news and scores with distinctive voices. Its overhaul under Sinclair Media is the latest sign that serious tennis writing in the US is becoming endangered A few weeks ago, as I often do, I went to the Tennis.com site to get an update about a match and to check out the commentary from my fellow...",
-   "link": "https://www.theguardian.com/sport/2026/aug/28/tennis-com-american-tennis-journalism-decline-sinclair-media",
-   "outlet": "Guardian Media",
-   "feed_region": "uk",
-   "published": "2026-08-28T10:00:54+01:00"
-  },
-  {
-   "key": "uhdhdrgivestheshowacinematicfeelbehindthescenesofmeettheowens",
-   "title": "‘UHD/HDR gives the show a cinematic feel’: behind the scenes of Meet the Owens",
-   "summary": "Production executive Rebecca Hathway takes TVBEurope through the 18-month long production and post on Prime Video's new series following the former England striker and his family The post ‘UHD/HDR gives the show a cinematic feel’: behind the scenes of Meet the Owens appeared first on TVBEurope .",
-   "link": "https://www.tvbeurope.com/production-post/uhd-hdr-gives-the-show-a-cinematic-feel-behind-the-scenes-of-meet-the-owens",
-   "outlet": "TVBEurope",
-   "feed_region": "uk",
-   "published": "2026-08-28T09:40:24+01:00"
-  },
-  {
-   "key": "txintxuafilmsboardsthisisthememoryasansebastinforumtitlefromberlinfirs",
-   "title": "Txintxua Films Boards ‘This Is the Memory,’ a San Sebastián Forum Title From Berlin First Feature Winner Martínez Bucio (EXCLUSIVE)",
-   "summary": "Txintxua Films, producer of Netflix hit series “Intimacy,” has boarded Mexican filmmaker Ernesto Martínez Bucio’s second feature, “This Is the Memory I Would Like to Have of Mom” (“Éste es el recuerdo que me gustaría tener de mamá”). The Basque company joins Mexican production outfit Colectivo Colmena on the...",
-   "link": "https://variety.com/2026/film/markets-festivals/txintxua-martinez-bucio-this-is-the-memory-san-sebastian-1236845485/",
-   "outlet": "Variety",
-   "feed_region": "americas",
-   "published": "2026-08-28T09:39:03+01:00"
-  },
-  {
-   "key": "banijayentertainmentnamespatrickhollandasexecutivechairmanandceoofbani",
-   "title": "Banijay Entertainment names Patrick Holland as executive chairman and CEO of Banijay UK",
-   "summary": "Banijay Entertainment has confirmed Patrick Holland as executive chairman and CEO of Banijay UK following its recent merger with All3Media. Reporting to Banijay Entertainment CEO Marco Bassetti, Hollan...",
-   "link": "https://www.c21media.net/news/banijay-entertainment-names-patrick-holland-as-executive-chairman-and-ceo-of-banijay-uk/",
-   "outlet": "C21Media",
-   "feed_region": "uk",
-   "published": "2026-08-28T09:36:16+01:00"
-  },
-  {
-   "key": "studiocanallaunchesstudiocanalclassics",
-   "title": "STUDIOCANAL launches STUDIOCANAL CLASSICS",
-   "summary": "STUDIOCANAL has launched STUDIOCANAL CLASSICS, a new global label dedicated to showcasing and revitalising its vast catalogue of classic cinema. The label, which comes with its own branding and international […]",
-   "link": "https://www.broadbandtvnews.com/2026/08/28/studiocanal-launches-studiocanal-classic/",
-   "outlet": "Broadband TV News",
-   "feed_region": "uk",
-   "published": "2026-08-28T09:31:17+01:00"
-  },
-  {
-   "key": "bofhschrdingerspettycashputsusinaveryawkwardsuperposition",
-   "title": "BOFH: Schrödinger's petty cash puts us in a very awkward superposition",
-   "summary": "Why oh why are the accountants stricter than the IRS and HMRC put together?",
-   "link": "https://www.theregister.com/bofh/2026/08/28/bofh-schroedingers-petty-cash-puts-us-in-a-very-awkward-superposition/5289510",
-   "outlet": "The Register",
-   "feed_region": "global",
-   "published": "2026-08-28T09:29:00+01:00"
-  },
-  {
-   "key": "cronenbergmeetsactivisminvictordimarcoandmrciopicolisqueerbdsmdramalon",
-   "title": "Cronenberg Meets Activism in Victor Di Marco and Márcio Picoli’s Queer BDSM Drama ‘London’",
-   "summary": "As they worked on their long-gestating first feature, “London,” Brazilian filmmakers ​Victor Di Marco and Márcio Picoli dove headfirst into cinematic portrayals of disability. What they found was frustrating: often infantilized and overreliant characters in condescending stories that looked at disability as...",
-   "link": "https://variety.com/2026/film/global/victor-di-marco-and-marcio-picoli-london-venice-cronenberg-1236840945/",
-   "outlet": "Variety",
-   "feed_region": "americas",
-   "published": "2026-08-28T09:21:27+01:00"
-  },
-  {
-   "key": "newscotflixstreamingplatformtakesthehiway",
-   "title": "New Scotflix streaming platform takes the Hiway",
-   "summary": "Providing audience and revenue insights for users, Scotflix removes technological barriers to streaming while ensuring creators retain their IP The post New Scotflix streaming platform takes the Hiway appeared first on TVBEurope .",
-   "link": "https://www.tvbeurope.com/media-delivery/scottish-content-takes-the-hiway-with-launch-of-scotflix-streaming-platform",
-   "outlet": "TVBEurope",
-   "feed_region": "uk",
-   "published": "2026-08-28T09:18:56+01:00"
-  },
-  {
-   "key": "channel4investigatesbillionairesinfactualdramacommissionsalexhornegame",
-   "title": "Channel 4 investigates Billionaires in factual drama, commissions Alex Horne gameshow",
-   "summary": "UK pubcaster Channel 4 has commissioned a factual drama series that tells the stories of the creators, victims and billionaire beneficiaries of disinformation on social media platforms. Billionaires (3...",
-   "link": "https://www.c21media.net/news/channel-4-investigates-billionaires-in-factual-drama-commissions-alex-horne-gameshow/",
-   "outlet": "C21Media",
-   "feed_region": "uk",
-   "published": "2026-08-28T09:18:52+01:00"
-  },
-  {
-   "key": "radiocentretargetstopagencieswithadcampaign",
-   "title": "Radiocentre targets top agencies with ad campaign",
-   "summary": "Radiocentre's new outdoor campaign targets top media agencies, highlighting audio advertising’s effectiveness with direct messaging and high-visibility placements.",
-   "link": "https://radiotoday.co.uk/2026/08/radiocentre-targets-top-agencies-with-ad-campaign/",
-   "outlet": "RadioToday",
-   "feed_region": "uk",
-   "published": "2026-08-28T09:00:23+01:00"
-  },
-  {
-   "key": "whyawiedenkennedyvetjoinedfinnpartnerstobuildoutitsmediapractice",
-   "title": "Why a Wieden+Kennedy Vet Joined Finn Partners To Build Out its Media Practice",
-   "summary": "Kim Sizemore is the independent agency’s first head of integrated media",
-   "link": "https://www.adweek.com/agencies/why-a-wiedenkennedy-vet-joined-finn-partners-to-build-out-its-media-practice/",
-   "outlet": "Adweek",
-   "feed_region": "americas",
-   "published": "2026-08-28T09:00:00+01:00"
-  },
-  {
-   "key": "researchglobaltvshipmentsgrew36inq2",
-   "title": "Research: Global TV shipments grew 3.6% in Q2",
-   "summary": "Global TV shipments grew 3.6 per cent year-on-year (YoY) to 48.8 million units in Q2 2026, supported by demand around the FIFA World Cup and Amazon Prime day timing, despite increasingly challenging market conditions, according to research from Omdia. Persistent consumer inflation and tightening memory supply are...",
-   "link": "https://www.advanced-television.com/2026/08/28/research-global-tv-shipments-grew-3-6-in-q226/",
-   "outlet": "Advanced Television",
-   "feed_region": "uk",
-   "published": "2026-08-28T08:55:18+01:00"
-  },
-  {
-   "key": "amazonmgmstudiosrevealseveryoneinmyfamilyhaskilledsomeone",
-   "title": "Amazon MGM Studios reveals Everyone in My Family Has Killed Someone",
-   "summary": "Amazon MGM Studios has ordered darkly comedic murder-mystery Everyone in My Family Has Killed Someone to series for Prime Video. Based on American author and comedian Benjamin Stevenson's novel of the ...",
-   "link": "https://www.c21media.net/news/amazon-mgm-studios-reveals-everyone-in-my-family-has-killed-someone/",
-   "outlet": "C21Media",
-   "feed_region": "uk",
-   "published": "2026-08-28T08:45:25+01:00"
-  },
-  {
-   "key": "emmyrossumsfurioussetfors2onhulu",
-   "title": "Emmy Rossum’s Furious set for S2 on Hulu",
-   "summary": "NEWS BRIEF: Disney-owned Hulu has renewed thriller series Furious for a second season, one month after the debut of season one. From creator, writer and exec producer Elizabeth Meriwether, Furious foll...",
-   "link": "https://www.c21media.net/news/emmy-rossums-furious-set-for-s2-on-hulu/",
-   "outlet": "C21Media",
-   "feed_region": "uk",
-   "published": "2026-08-28T08:42:23+01:00"
-  },
-  {
-   "key": "oldenburgfesttoopenwithwordlesselbeislanddocstrangeneighbors",
-   "title": "Oldenburg Fest to Open With Wordless Elbe Island Doc ‘Strange Neighbors’",
-   "summary": "Mi Steinbach's feature, about the wildlife on 2 mile nature preserve in the middle of one of Europe's busiest waterways, will be the first documentary to open the German indie festival.",
-   "link": "https://www.hollywoodreporter.com/movies/movie-news/oldenburg-fest-to-open-with-nature-doc-strange-neighbors-1236683980/",
-   "outlet": "Hollywood Reporter",
-   "feed_region": "americas",
-   "published": "2026-08-28T08:40:42+01:00"
-  },
-  {
-   "key": "boatrockerreturnstodinoranchislandexplorers",
-   "title": "Boat Rocker returns to Dino Ranch: Island Explorers",
-   "summary": "NEWS BRIEF: Canada's Boat Rocker Studios has confirmed a second 52×11' season of animated kids' series Dino Ranch: Island Explorers, with pubcaster the CBC, Radio-Canada and Warner Bros Discovery ...",
-   "link": "https://www.c21media.net/news/boat-rocker-returns-to-dino-ranch-island-explorers/",
-   "outlet": "C21Media",
-   "feed_region": "uk",
-   "published": "2026-08-28T08:40:01+01:00"
-  },
-  {
-   "key": "aimsboostsmembershipwithbolintechnologyanditdev",
-   "title": "AIMS boosts membership with Bolin Technology and ITDev",
-   "summary": "The latest additions to the alliance include a PTZ camera and AVoIP hardware manufacturer and an FPGA design and IP licensing specialist The post AIMS boosts membership with Bolin Technology and ITDev appeared first on TVBEurope .",
-   "link": "https://www.tvbeurope.com/ip-migration/aims-boosts-membership-with-bolin-technology-and-itdev",
-   "outlet": "TVBEurope",
-   "feed_region": "uk",
-   "published": "2026-08-28T08:20:23+01:00"
-  },
-  {
-   "key": "oscarsirelandpicksaontasasbestinternationalfeaturesubmission",
-   "title": "Oscars: Ireland Picks ‘Aontas’ as Best International Feature Submission",
-   "summary": "Directed by Damian McCann, the heist thriller stars Carrie Crowley, known from 'The Quiet Girl,' which scored the country's first-ever nomination in the category.",
-   "link": "https://www.hollywoodreporter.com/movies/movie-news/oscars-2027-ireland-aontas-international-film-submission-1236683954/",
-   "outlet": "Hollywood Reporter",
-   "feed_region": "americas",
-   "published": "2026-08-28T08:00:00+01:00"
-  },
-  {
-   "key": "inmoolahanorganizedcrimereporterlookstoreboothiscareerexclusivevenicec",
-   "title": "In ‘Moolah,’ an Organized Crime Reporter Looks to Reboot His Career (Exclusive Venice Clips)",
-   "summary": "The fiction feature directorial debut of Jérôme Pierrat, who has made a name for himself as a journalist investigating organized crime in France, world-premieres in the Horizons section of the festival.",
-   "link": "https://www.hollywoodreporter.com/movies/movie-news/venice-2026-film-clip-moolah-organized-crime-reporter-1236677241/",
-   "outlet": "Hollywood Reporter",
-   "feed_region": "americas",
-   "published": "2026-08-28T07:59:00+01:00"
-  },
-  {
-   "key": "execcouldntidentifyaphotocopierwhichmadeforafaxinatingtechsupportcall",
-   "title": "Exec couldn’t identify a photocopier, which made for a fax-inating tech support call",
-   "summary": "One retro numeric keypad looks much like any other to some users",
-   "link": "https://www.theregister.com/personal-tech/2026/08/28/exec-couldnt-identify-a-photocopier-which-made-for-a-fax-inating-tech-support-call/5292838",
-   "outlet": "The Register",
-   "feed_region": "global",
-   "published": "2026-08-28T07:37:00+01:00"
-  },
-  {
-   "key": "oncallexeccouldntidentifyaphotocopierwhichmadeforafaxinatingtechsuppor",
-   "title": "On Call: Exec couldn’t identify a photocopier, which made for a fax-inating tech support call",
-   "summary": "One retro numeric keypad looks much like any other to some users",
-   "link": "https://www.theregister.com/personal-tech/2026/08/28/on-call-exec-couldnt-identify-a-photocopier-which-made-for-a-fax-inating-tech-support-call/5292838",
-   "outlet": "The Register",
-   "feed_region": "global",
-   "published": "2026-08-28T07:37:00+01:00"
-  },
-  {
-   "key": "stripeledgroupisreportedlyabandoningitspaypalacquisition",
-   "title": "Stripe-led group is reportedly abandoning its PayPal acquisition",
-   "summary": "Stripe and buyout firm Advent are no longer pursuing their acquisition of PayPal as was reported earlier this month.",
-   "link": "https://www.engadget.com/2246144/stripe-led-group-is-reportedly-abandoning-paypal-acquisition/",
-   "outlet": "Engadget",
-   "feed_region": "global",
-   "published": "2026-08-28T07:34:44+01:00"
-  },
-  {
-   "key": "xclaimsitfoundachinesebotfarmpostingantiaidatacentersentiments",
-   "title": "X claims it found a Chinese bot farm posting anti-AI data center sentiments",
-   "summary": "X found a bot farm in its investigation of inauthentic Chinese accounts. Out of 200,000 bots, 200 allegedly focused on posting against AI data centers.",
-   "link": "https://www.engadget.com/2246140/x-chinese-bot-farm-anti-ai-data-center-sentiments/",
-   "outlet": "Engadget",
-   "feed_region": "global",
-   "published": "2026-08-28T07:21:43+01:00"
-  },
-  {
-   "key": "skysecuresapprovalforlivingstoncampusinvestment",
-   "title": "Sky secures approval for Livingston Campus investment",
-   "summary": "Planning permission has been granted for Sky’s new Livingston Campus, unlocking a major investment in West Lothian, Scotland. Sky says the approval will enable the delivery of a new campus with sustainability in mind, that will bring together its existing operations into a modern workplace for around 3,000...",
-   "link": "https://www.advanced-television.com/2026/08/28/sky-secures-approval-for-livingston-campus-investment/",
-   "outlet": "Advanced Television",
-   "feed_region": "uk",
-   "published": "2026-08-28T07:14:26+01:00"
-  },
-  {
-   "key": "thesecretwomanreviewclaesbangisdastardlygaslighterindanishamnesiathril",
-   "title": "The Secret Woman review – Claes Bang is dastardly gaslighter in Danish amnesia thriller",
-   "summary": "In spite of capable performances and deployment of hygge , gothic and Nordic noir elements, you’ll search for a feasible plot or a character insight in vain Adapted from the 2017 novel by Anna Ekberg (actually a male writing duo), this thriller from Denmark chucks in a bit of everything into the mix: hygge lakeside...",
-   "link": "https://www.theguardian.com/film/2026/aug/28/the-secret-woman-review-claes-bang-is-dastardly-gaslighter-in-danish-amnesia-thriller",
-   "outlet": "Guardian Media",
-   "feed_region": "uk",
-   "published": "2026-08-28T07:00:50+01:00"
-  },
-  {
-   "key": "retailrounduphomedepotfinallyhiresaretailmedialeaderandmoreadsarecomin",
-   "title": "Retail Roundup: Home Depot Finally Hires a Retail Media Leader, and More Ads Are Coming to Shopping Malls",
-   "summary": "Plus, Dollar General goes deep on DoorDash, and Amazon brings brands into its back-to-school campaign.",
-   "link": "https://www.adweek.com/commerce/retail-roundup-home-depot-finally-hires-an-ads-leader-and-more-ads-are-coming-to-shopping-malls/",
-   "outlet": "Adweek",
-   "feed_region": "americas",
-   "published": "2026-08-28T07:00:00+01:00"
-  },
-  {
-   "key": "adsoftheweek13campaignsthatcaughtoureyefromfantatoheinz",
-   "title": "Ads of the Week: 13 Campaigns That Caught Our Eye, From Fanta to Heinz",
-   "summary": "Starbucks, Spotify, Heinz, Taco Bell, and more are behind the week’s most notable ads.",
-   "link": "https://www.adweek.com/creativity/ads-of-the-week-13-campaigns-that-caught-our-eye-from-fanta-to-heinz/",
-   "outlet": "Adweek",
-   "feed_region": "americas",
-   "published": "2026-08-28T07:00:00+01:00"
-  },
-  {
-   "key": "selenagomezpushesbackagainstfrivolousfraudclaims",
-   "title": "Selena Gomez pushes back against 'frivolous' fraud claims",
-   "summary": "Selena Gomez's lawyer says the fraud case is \"absurd\" - but it is far from unusual for celebrity family business relationships to go wrong.",
-   "link": "https://www.bbc.co.uk/news/articles/cz0z4k28804o?at_medium=RSS&at_campaign=rss",
-   "outlet": "BBC Business",
-   "feed_region": "uk",
-   "published": "2026-08-28T06:53:05+01:00"
-  },
-  {
-   "key": "printmanagementoutfitpapercutisunder0dayattackanditsdrawingcustomersbl",
-   "title": "Print management outfit PaperCut is under 0-day attack, and it’s drawing customers’ blood",
-   "summary": "The fix is either an unvalidated and unofficial emergency patch or taking the server offline",
-   "link": "https://www.theregister.com/security/2026/08/28/print-management-outfit-papercut-is-under-0-day-attack-and-its-drawing-customers-blood/5293168",
-   "outlet": "The Register",
-   "feed_region": "global",
-   "published": "2026-08-28T06:29:53+01:00"
-  },
-  {
-   "key": "whatdoyouspendtoomuchon",
-   "title": "What do you spend too much on?",
-   "summary": "Central London shoppers reveal what they love to splash out on - and share their tips for not overspending.",
-   "link": "https://www.bbc.co.uk/news/videos/cx2znnn4574o?at_medium=RSS&at_campaign=rss",
-   "outlet": "BBC Business",
-   "feed_region": "uk",
-   "published": "2026-08-28T06:23:47+01:00"
-  },
-  {
-   "key": "jamievardyshavingapartylandsbundesligarightsdeal",
-   "title": "Jamie Vardy’s Having A Party lands Bundesliga rights deal",
-   "summary": "Banijay Entertainment has announced an agreement with the Bundesliga, Germany’s top-flight footbal league securing rights to livestream matches in the UK and Ireland alongside access to Bundesliga archive content across its digital network. The deal sees Banijay UK and its label Workerbee bring live Bundesliga...",
-   "link": "https://www.advanced-television.com/2026/08/28/jamie-vardys-having-a-party-lands-bundesliga-rights-package/",
-   "outlet": "Advanced Television",
-   "feed_region": "uk",
-   "published": "2026-08-28T06:13:52+01:00"
   }
  ]
 }
