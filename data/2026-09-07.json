@@ -1,0 +1,492 @@
+{
+  "schema": 1,
+  "iso": "2026-09-07",
+  "headline": "Nvidia to Acquire AI Platform Hugging Face for Thirteen Billion Dollars",
+  "date_line": "Monday 07 September 2026 · covering Thu 03 Sep to Sun 06 Sep",
+  "footer_note": "Built from 32 cited articles across 15 outlets. Written by gemini-3-flash-preview, gemini-3.1-flash-lite, gemini-3.5-flash.",
+  "model": "gemini-3-flash-preview, gemini-3.1-flash-lite, gemini-3.5-flash",
+  "backfilled": false,
+  "generated_at": "2026-09-07T07:07:58+01:00",
+  "digest": {
+    "headline": "Nvidia to Acquire AI Platform Hugging Face for Thirteen Billion Dollars",
+    "lead": "Nvidia has agreed to acquire the open-source AI platform Hugging Face for 12.9 billion dollars. This major deal coincides with significant media developments in the United Kingdom, where VodafoneThree launched a new TV hub and Netflix increased subscription prices.",
+    "glance": [
+      {
+        "text": "VodafoneThree is launching a new UK TV hub featuring streaming services like Netflix and HBO Max following its recent merger.",
+        "section": "tech",
+        "refs": [
+          1,
+          2
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "Netflix has immediately increased subscription prices across all three of its tiers for customers in the United Kingdom.",
+        "section": "audience",
+        "refs": [
+          3
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "BBC Studios and UKTV have appointed Full Season to provide playout and distribution for 53 linear channels.",
+        "section": "deals",
+        "refs": [
+          4,
+          5
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "ITVX reported its strongest August performance to date with streaming figures up nine per cent year-on-year.",
+        "section": "audience",
+        "refs": [
+          6
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "A US court ruling has allowed Google to avoid breaking up its ad tech business despite monopoly concerns.",
+        "section": "regulation",
+        "refs": [
+          7,
+          8
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "Nvidia has agreed to acquire the open-source AI platform Hugging Face in a deal worth 12.9 billion dollars.",
+        "section": "tech",
+        "refs": [
+          9,
+          10
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "Nvidia is buying AI platform Hugging Face for 13 billion dollars to boost its open-source artificial intelligence efforts.",
+        "section": "deals",
+        "refs": [
+          11,
+          12
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "OpenAI and Anthropic have signed a new voluntary data centre framework in Canada to address rising public concern over resource use.",
+        "section": "regulation",
+        "refs": [
+          13,
+          14,
+          15
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "The Seattle Times and Newsday have filed lawsuits against OpenAI and Microsoft for allegedly using their journalism without permission.",
+        "section": "regulation",
+        "refs": [
+          16,
+          17
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "Rogers Communications has agreed a new 12-year sub-licensing deal to hand French-language NHL broadcast rights to Quebecor.",
+        "section": "deals",
+        "refs": [
+          18,
+          19
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "Disney and Optimum have renewed their carriage agreement, offering eligible subscribers free access to the ESPN Unlimited streaming app.",
+        "section": "deals",
+        "refs": [
+          20
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "The FCC has asked a court to dismiss ABC's lawsuit alleging that a TV license review violates the First Amendment.",
+        "section": "regulation",
+        "refs": [
+          21,
+          22
+        ],
+        "region": "americas"
+      }
+    ],
+    "sections": [
+      {
+        "id": "tech",
+        "paragraphs": [
+          "VodafoneThree has announced a new entertainment hub for the UK market. The service integrates live television, gaming, and music alongside major streaming apps like Netflix and Freely.",
+          "The platform aims to help households manage multiple subscriptions in one place. This move follows the 16.5 billion pound merger between Vodafone UK and Three UK.",
+          "In the AI sector, Nvidia is acquiring Hugging Face to gain control of its developer community. The 12.9 billion dollar deal strengthens Nvidia's position in the open-source AI market."
+        ],
+        "region": "uk"
+      },
+      {
+        "id": "deals",
+        "paragraphs": [
+          "BBC Studios and UKTV have signed a multi-year agreement with German provider Full Season. The partner will deliver playout services for 53 linear channels and video-on-demand offerings.",
+          "The BBC has also acquired the Irish true-crime drama The Murder of Mr Moonlight. The five-part factual series covers a high-profile criminal case from recent Irish history.",
+          "Fox in the US has ordered a local version of the BBC Two comedy Mammoth. The show follows a PE teacher who returns to work after being frozen for 40 years."
+        ],
+        "region": "uk"
+      },
+      {
+        "id": "regulation",
+        "paragraphs": [
+          "Industry experts are reacting to a court decision that prevents the break-up of Google's ad tech business. The ruling means Google does not have to sell its AdX exchange.",
+          "Critics argue that behavioural remedies are only effective if they are strictly enforced. The decision follows previous findings that Google monopolised publisher ad servers.",
+          "The UK government has proposed rules to boost traditional broadcasters in social media feeds. Some analysts argue that regulating algorithms is a better solution than artificial boosts."
+        ],
+        "region": "uk"
+      },
+      {
+        "id": "radio",
+        "paragraphs": [
+          "Trevor Nelson is returning to BBC Radio 2 following a period of absence for surgery. He will begin a phased return to his broadcasting duties from 7 September.",
+          "BT has been named as the headline sponsor for Zoe Ball’s new afternoon show on Greatest Hits Radio. The brand will be integrated across digital and broadcast platforms.",
+          "Ofcom has opened applications for the 2026/27 Community Radio Fund. Stations can now apply for multi-year grants and funding for technical equipment."
+        ],
+        "region": "uk"
+      },
+      {
+        "id": "deals",
+        "paragraphs": [
+          "Nvidia has agreed to acquire open-source AI platform Hugging Face for approximately 13 billion dollars. The deal represents the chipmaker's second-largest acquisition and aims to promote open-weight AI models that compete with OpenAI and Anthropic.",
+          "In Canadian sports broadcasting, Rogers Communications and Quebecor have signed a 12-year sub-licensing agreement. Starting this season, Quebecor's TVA Sports will broadcast up to 350 national NHL games in French.",
+          "Disney and Optimum have also renewed their carriage agreement. The deal includes free access to the ESPN Unlimited streaming app for certain eligible subscribers."
+        ],
+        "region": "americas"
+      },
+      {
+        "id": "regulation",
+        "paragraphs": [
+          "Major technology and telecom firms including OpenAI, Anthropic, Bell and Telus have signed Canada's new voluntary data centre framework. The agreement aims to limit water use and protect consumers from rising electricity costs, though it lacks binding penalties.",
+          "Meanwhile, the Seattle Times and Newsday have sued OpenAI and Microsoft. The publishers allege that the tech companies used their copyrighted journalism to train AI models without permission.",
+          "The Federal Communications Commission has asked a court to throw out a lawsuit by ABC. The Disney-owned broadcaster claims that an early license renewal review of its TV stations is a form of retaliation."
+        ],
+        "region": "americas"
+      },
+      {
+        "id": "audience",
+        "paragraphs": [
+          "A new study reveals that Asia has surpassed North America and Europe to lead in streaming scripted series orders. The Asia-Pacific region now accounts for 36 percent of global greenlights across major platforms like Netflix and Amazon.",
+          "CNN reports that its free ad-supported streaming television service, Headlines, has reached 60 million viewers. The broadcaster is now working to convert this rapid FAST growth into long-term business value."
+        ],
+        "region": "americas"
+      }
+    ],
+    "people_moves": [
+      {
+        "text": "Dafydd Llewelyn, drama commissioner, S4C",
+        "refs": [
+          23
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "Catrin Cooper, film commissioner, S4C",
+        "refs": [
+          23
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "Marlie Packer, podcast co-host, Fix Radio",
+        "refs": [
+          24
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "Maria Bartiromo, host, has been ousted from Fox News Media",
+        "refs": [
+          25,
+          26
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "Norah O'Donnell, co-host, returns to CBS Mornings as a permanent co-host",
+        "refs": [
+          27,
+          28
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "Jennifer Creegan, Head of Marketing Technology and Operations, Disney",
+        "refs": [
+          29
+        ],
+        "region": "americas"
+      }
+    ],
+    "coming_up": [
+      {
+        "date": "05 Sep",
+        "text": "Netflix begins integrating Series Atresmedia content into its library",
+        "refs": [
+          30
+        ],
+        "region": "uk"
+      },
+      {
+        "date": "07 Sep",
+        "text": "Trevor Nelson returns to BBC Radio 2",
+        "refs": [
+          31
+        ],
+        "region": "uk"
+      },
+      {
+        "date": "Oct 2026",
+        "text": "VodafoneThree TV offering scheduled to go live",
+        "refs": [
+          2
+        ],
+        "region": "uk"
+      },
+      {
+        "date": "10 Sep 2026",
+        "text": "Supergirl begins streaming on HBO Max",
+        "refs": [
+          32
+        ],
+        "region": "americas"
+      }
+    ]
+  },
+  "articles": [
+    {
+      "ref": 1,
+      "title": "Vodafone TV launching in UK",
+      "link": "https://www.advanced-television.com/2026/09/03/vodafone-tv-launches-in-the-uk/",
+      "outlet": "Advanced Television",
+      "region": "uk"
+    },
+    {
+      "ref": 2,
+      "title": "VodafoneThree Leans on Streaming Bundling for New TV Offering",
+      "link": "https://videoweek.com/2026/09/03/vodafonethree-leans-on-streaming-bundling-for-new-tv-offering/",
+      "outlet": "VideoWeek",
+      "region": "uk"
+    },
+    {
+      "ref": 3,
+      "title": "Netflix raises UK subscription prices",
+      "link": "https://www.advanced-television.com/2026/09/04/netflix-raises-uk-subscription-prices/",
+      "outlet": "Advanced Television",
+      "region": "uk"
+    },
+    {
+      "ref": 4,
+      "title": "BBC Studios, UKTV select full season services",
+      "link": "https://www.advanced-television.com/2026/09/07/bbc-studios-and-uktv-select-full-season-services/",
+      "outlet": "Advanced Television",
+      "region": "uk"
+    },
+    {
+      "ref": 5,
+      "title": "BBC Studios and UKTV appoint Full Season for 53-channel playout",
+      "link": "https://www.broadbandtvnews.com/2026/09/07/bbc-studios-and-uktv-appoint-full-season-for-53-channel-playout/",
+      "outlet": "Broadband TV News",
+      "region": "uk"
+    },
+    {
+      "ref": 6,
+      "title": "ITVX sees record August performance",
+      "link": "https://www.advanced-television.com/2026/09/03/itvx-sees-record-august-performance/",
+      "outlet": "Advanced Television",
+      "region": "uk"
+    },
+    {
+      "ref": 7,
+      "title": "“Behavioural Remedies Are Only Worth What the Enforcement Behind Them is Worth” – Industry Reacts to Google Avoiding Ad Tech Break-Up",
+      "link": "https://videoweek.com/2026/09/03/behavioural-remedies-are-only-worth-what-the-enforcement-behind-them-is-worth-industry-reacts-to-google-avoiding-ad-tech-break-up/",
+      "outlet": "VideoWeek",
+      "region": "uk"
+    },
+    {
+      "ref": 8,
+      "title": "The Industry Reacts to Google Avoiding Ad Tech Break-Up",
+      "link": "https://videoweek.com/2026/09/03/behavioural-remedies-are-only-worth-what-the-enforcement-behind-them-is-worth-industry-reacts-to-google-avoiding-ad-tech-break-up/",
+      "outlet": "VideoWeek",
+      "region": "uk"
+    },
+    {
+      "ref": 9,
+      "title": "Nvidia acquires Hugging Face for $12.9bn",
+      "link": "https://www.advanced-television.com/2026/09/04/nvidia-acquires-hugging-face-for-12-9bn/",
+      "outlet": "Advanced Television",
+      "region": "uk"
+    },
+    {
+      "ref": 10,
+      "title": "Nvidia strikes $12.9bn deal to buy AI platform Hugging Face",
+      "link": "https://www.bbc.co.uk/news/articles/cr4vnr5g1k7o?at_medium=RSS&at_campaign=rss",
+      "outlet": "BBC Technology",
+      "region": "uk"
+    },
+    {
+      "ref": 11,
+      "title": "Nvidia Agrees To Buy AI Platform Hugging Face For $13 Billion",
+      "link": "https://tvnewscheck.com/ai/article/nvidia-agrees-to-buy-ai-platform-hugging-face-for-13-billion/",
+      "outlet": "TVNewsCheck",
+      "region": "americas"
+    },
+    {
+      "ref": 12,
+      "title": "Nvidia Confirms Purchase of Hugging Face for Nearly $13 Billion",
+      "link": "https://www.adweek.com/dealroom/nvidia-confirms-purchase-of-hugging-face-for-nearly-13-billion/",
+      "outlet": "Adweek",
+      "region": "americas"
+    },
+    {
+      "ref": 13,
+      "title": "OpenAI, Anthropic sign on to Canada’s new data centre framework as public opinion sours on buildout",
+      "link": "https://betakit.com/openai-anthropic-sign-on-to-canadas-new-data-centre-framework-as-public-opinion-sours-on-buildout/",
+      "outlet": "BetaKit",
+      "region": "americas"
+    },
+    {
+      "ref": 14,
+      "title": "OpenAI, Anthropic, and others sign Canada’s new data centre framework as public opinion sours on buildout",
+      "link": "https://betakit.com/openai-anthropic-sign-on-to-canadas-new-data-centre-framework-as-public-opinion-sours-on-buildout/",
+      "outlet": "BetaKit",
+      "region": "americas"
+    },
+    {
+      "ref": 15,
+      "title": "Bell, Telus among signatories of responsible data centre framework",
+      "link": "https://cartt.ca/bell-telus-among-signatories-of-responsible-data-centre-framework/",
+      "outlet": "Cartt.ca",
+      "region": "americas"
+    },
+    {
+      "ref": 16,
+      "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
+      "link": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
+      "outlet": "TechCrunch",
+      "region": "americas"
+    },
+    {
+      "ref": 17,
+      "title": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft",
+      "outlet": "The Verge",
+      "region": "americas"
+    },
+    {
+      "ref": 18,
+      "title": "Rogers and Quebecor agree to new 12-year NHL broadcasting deal",
+      "link": "https://cartt.ca/rogers-and-quebecor-agree-to-new-12-year-nhl-broadcasting-deal/",
+      "outlet": "Cartt.ca",
+      "region": "americas"
+    },
+    {
+      "ref": 19,
+      "title": "Rogers sub-licenses French NHL broadcast rights to Quebecor in 12-year deal",
+      "link": "https://broadcastdialogue.com/rogers-sub-licenses-french-nhl-broadcast-rights-to-quebecor-in-12-year-deal/",
+      "outlet": "Broadcast Dialogue",
+      "region": "americas"
+    },
+    {
+      "ref": 20,
+      "title": "Disney, Optimum Renew Carriage Deal",
+      "link": "https://tvnewscheck.com/business/article/disney-optimum-renew-carriage-deal/",
+      "outlet": "TVNewsCheck",
+      "region": "americas"
+    },
+    {
+      "ref": 21,
+      "title": "FCC Asks Court To Throw Out ABC’s Lawsuit Alleging TV License Review Violates First Amendment",
+      "link": "https://tvnewscheck.com/regulation/article/fcc-asks-court-to-throw-out-abcs-lawsuit-alleging-tv-license-review-violates-first-amendment/",
+      "outlet": "TVNewsCheck",
+      "region": "americas"
+    },
+    {
+      "ref": 22,
+      "title": "Trump admin fights ABC lawsuit as watchdogs worry Disney will settle with FCC",
+      "link": "https://arstechnica.com/tech-policy/2026/09/trump-admin-fights-abc-lawsuit-as-watchdogs-worry-disney-will-settle-with-fcc/",
+      "outlet": "Ars Technica",
+      "region": "americas"
+    },
+    {
+      "ref": 23,
+      "title": "Welsh pubcaster S4C appoints drama and film commissioners",
+      "link": "https://www.c21media.net/news/welsh-pubcaster-s4c-appoints-drama-and-film-commissioners/",
+      "outlet": "C21Media",
+      "region": "uk"
+    },
+    {
+      "ref": 24,
+      "title": "Rugby player Marlie Packer to co-host Fix Radio podcast",
+      "link": "https://radiotoday.co.uk/2026/09/rugby-player-marlie-packer-to-co-host-fix-radio-podcast/",
+      "outlet": "RadioToday",
+      "region": "uk"
+    },
+    {
+      "ref": 25,
+      "title": "Maria Bartiromo No Longer With Fox News Media",
+      "link": "https://www.adweek.com/tvnewser/maria-bartiromo-no-longer-with-fox-news-media/",
+      "outlet": "Adweek",
+      "region": "americas"
+    },
+    {
+      "ref": 26,
+      "title": "Maria Bartiromo Ousted From Fox News ‘Effective Today’",
+      "link": "https://tvnewscheck.com/journalism/article/maria-bartiromo-pink-slipped-from-fox-effective-today/",
+      "outlet": "TVNewsCheck",
+      "region": "americas"
+    },
+    {
+      "ref": 27,
+      "title": "Norah O’Donnell Returns to the Morning Shift at CBS News",
+      "link": "https://www.adweek.com/tvnewser/norah-odonnell-returns-to-the-morning-shift-at-cbs-news/",
+      "outlet": "Adweek",
+      "region": "americas"
+    },
+    {
+      "ref": 28,
+      "title": "Norah O’Donnell Returning To ‘CBS Mornings’ As Permanent Co-Host",
+      "link": "https://tvnewscheck.com/journalism/article/norah-odonnell-returning-to-cbs-mornings-as-permanent-co-host/",
+      "outlet": "TVNewsCheck",
+      "region": "americas"
+    },
+    {
+      "ref": 29,
+      "title": "Disney Adds to Revamped Marketing Org, Jennifer Creegan to Lead Martech",
+      "link": "https://www.adweek.com/convergent-tv/disney-adds-to-revamped-marketing-org-jennifer-creegan-to-lead-martech/",
+      "outlet": "Adweek",
+      "region": "americas"
+    },
+    {
+      "ref": 30,
+      "title": "Spain: Netflix, Atresmedia expand alliance",
+      "link": "https://www.advanced-television.com/2026/09/04/spain-netflix-atresmedia-expand-alliance/",
+      "outlet": "Advanced Television",
+      "region": "uk"
+    },
+    {
+      "ref": 31,
+      "title": "Trevor Nelson back on Radio 2 after surgery",
+      "link": "https://radiotoday.co.uk/2026/09/trevor-nelson-back-on-radio-2-after-surgery/",
+      "outlet": "RadioToday",
+      "region": "uk"
+    },
+    {
+      "ref": 32,
+      "title": "‘Supergirl’ Sets HBO Max Streaming Release Date",
+      "link": "https://variety.com/2026/film/news/supergirl-hbo-max-streaming-release-date-1236837579/",
+      "outlet": "Variety",
+      "region": "americas"
+    }
+  ]
+}
