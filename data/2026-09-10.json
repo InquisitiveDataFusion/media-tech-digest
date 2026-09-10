@@ -1,0 +1,432 @@
+{
+  "schema": 1,
+  "iso": "2026-09-10",
+  "headline": "Channel 4 job cuts and Apple iPhone Duo launch dominate media landscape",
+  "date_line": "Thursday 10 September 2026 · covering Mon 07 Sep to Wed 09 Sep",
+  "footer_note": "Built from 28 cited articles across 12 outlets. Written by gemini-3.1-flash-lite, gemini-3.5-flash.",
+  "model": "gemini-3.1-flash-lite, gemini-3.5-flash",
+  "backfilled": false,
+  "generated_at": "2026-09-10T06:59:14+01:00",
+  "digest": {
+    "headline": "Channel 4 job cuts and Apple iPhone Duo launch dominate media landscape",
+    "lead": "Channel 4 is cutting 340 roles to redirect revenues towards British content as part of a major restructuring. Meanwhile, Apple has unveiled its first foldable smartphone, the iPhone Duo, while the Paramount and Warner Bros. Discovery merger battle intensifies in North America.",
+    "glance": [
+      {
+        "text": "Channel 4 is cutting 340 jobs, representing 28 per cent of its workforce, to redirect revenues towards British content.",
+        "section": "results",
+        "refs": [
+          1,
+          2,
+          3
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "BBC Studios and UKTV have selected German media services provider Full Season to manage playout and distribution for 53 linear channels.",
+        "section": "tech",
+        "refs": [
+          4,
+          5
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "Scotland's STV Group reported a 27 per cent decline in revenues to 66.1 million pounds following a commission slump.",
+        "section": "results",
+        "refs": [
+          6
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "Sky has launched a redesigned Sky Go app specifically for its Sky Glass and Sky Stream customers.",
+        "section": "tech",
+        "refs": [
+          7,
+          8
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "ITV has commissioned a new linear series based on Middlechild Production's YouTube gardening show with Alan Titchmarsh.",
+        "section": "deals",
+        "refs": [
+          9,
+          10
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "Stafford community radio station Vibe 1 was found in breach of Ofcom rules for failing to provide requested recordings.",
+        "section": "regulation",
+        "refs": [
+          11
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "Apple has launched the foldable iPhone Duo, prompting Netflix to redesign its iOS application for the larger screen.",
+        "section": "tech",
+        "refs": [
+          12,
+          13
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "Paramount has repeated its demand that twelve states and the WGA post a $1.88 billion bond over merger delays.",
+        "section": "deals",
+        "refs": [
+          14,
+          15
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "The US Department of Justice has requested additional documents regarding Fox's proposed $22 billion acquisition of Roku.",
+        "section": "deals",
+        "refs": [
+          16
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "CBC/Radio-Canada reported a 5.6 per cent decline in revenue to $113.9 million for its first fiscal quarter.",
+        "section": "results",
+        "refs": [
+          17
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "The Supreme Court has temporarily restored an FCC policy allowing political committees to claim discounted candidate rates on radio.",
+        "section": "radio",
+        "refs": [
+          18
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "AMC Global Media has settled a long-running profit participation lawsuit over The Walking Dead for $120 million.",
+        "section": "deals",
+        "refs": [
+          19
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "Netflix will begin reporting box office grosses this autumn for select films with theatrical windows.",
+        "section": "audience",
+        "refs": [
+          20
+        ],
+        "region": "americas"
+      }
+    ],
+    "sections": [
+      {
+        "id": "results",
+        "paragraphs": [
+          "Channel 4 is cutting 340 jobs, which represents 28 per cent of its workforce, by the end of the year. The broadcaster described the layoffs as part of a long-term transformation strategy to create a leaner operating model.",
+          "Trade body Bectu called the decision deeply worrying for a television industry already facing a severe commission slump. The cuts aim to redirect more revenues towards distinctive British content.",
+          "Meanwhile, Scotland's STV Group reported that its revenues fell by 27 per cent to 66.1 million pounds. The company blamed a slump in commissions and a strategic pivot to digital content for the decline."
+        ],
+        "region": "uk"
+      },
+      {
+        "id": "tech",
+        "paragraphs": [
+          "BBC Studios and its subsidiary UKTV have signed a multi-year agreement with German provider Full Season. The media services company will handle playout and distribution for 53 linear channels and associated on-demand services.",
+          "Sky has upgraded its Sky Go application for Sky Glass and Sky Stream customers. The redesigned app brings more of the Sky OS experience to mobile devices and tablets, allowing users to resume viewing easily."
+        ],
+        "region": "uk"
+      },
+      {
+        "id": "deals",
+        "paragraphs": [
+          "ITV has commissioned a 12-part linear television series based on a popular YouTube format. The show, produced by Middlechild Production, follows gardener Alan Titchmarsh as he shares his horticultural experience.",
+          "Comcast Technology Solutions has secured a multi-year agreement with A+E Global Media. The technology provider will manage the distribution of premium on-demand content across major streaming and pay-television platforms."
+        ],
+        "region": "uk"
+      },
+      {
+        "id": "deals",
+        "paragraphs": [
+          "Paramount and Skydance have reiterated their demand that twelve states and the Writers Guild of America post a $1.88 billion bond. This security would cover losses if their $110 billion merger with Warner Bros. Discovery is delayed past the trial. Courts have historically resisted issuing such massive bonds in antitrust merger cases.",
+          "Meanwhile, the US Department of Justice is intensifying its scrutiny of other major media transactions. Both Fox and Roku have received federal requests for additional information and documentary material regarding their proposed $22 billion deal. Fox stated that the regulatory review and document requests were expected."
+        ],
+        "region": "americas"
+      },
+      {
+        "id": "tech",
+        "paragraphs": [
+          "Apple has introduced its first foldable smartphone, the iPhone Duo, featuring a 7.6-inch screen when opened. The device is priced at $1,999 and includes new artificial intelligence features. Apple also launched a new image provenance tool to help users verify whether photos were captured on an iPhone or generated by AI.",
+          "Netflix is working as a pre-release partner to adapt its streaming application for the new foldable screen. Other hardware manufacturers are also active, with Samsung offering semiconductor supply chain support to OpenAI. Huawei and Xiaomi have also progressed their own foldable and trifold designs to compete with Samsung."
+        ],
+        "region": "americas"
+      },
+      {
+        "id": "regulation",
+        "paragraphs": [
+          "Public television stations and PBS have expressed support for the Federal Communications Commission's efforts to modernise the Emergency Alert System. They back a proposal to permit software-based alert technologies. Separately, the FCC is preparing to vote on opening up more than 1,000 MHz of spectrum for satellite and internet-of-things services.",
+          "A defamation lawsuit filed by California Governor Gavin Newsom against Fox News has been scheduled for trial. The governor is seeking $787 million in punitive damages. The trial is set to begin in March 2028."
+        ],
+        "region": "americas"
+      }
+    ],
+    "people_moves": [
+      {
+        "text": "David Urgell Pérez, Country Manager for Iberia, BBC Studios",
+        "refs": [
+          21,
+          22
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "Jon Norman, Sports Rights Manager, talkSPORT",
+        "refs": [
+          23
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "Jay Francis, IP and acquisitions advisor, Noodle & Caboodle Entertainment",
+        "refs": [
+          24
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "Patrick Paolini, Chief Executive Officer, Tegna",
+        "refs": [
+          25
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "Norah O'Donnell, Co-Host, CBS Mornings",
+        "refs": [
+          26
+        ],
+        "region": "americas"
+      }
+    ],
+    "coming_up": [
+      {
+        "date": "12 Sep 2026",
+        "text": "England Women's rugby autumn fixtures kick off on BBC platforms.",
+        "refs": [
+          27
+        ],
+        "region": "uk"
+      },
+      {
+        "date": "25 Sep 2026",
+        "text": "Supreme Court deadline for state attorneys general to respond to Iowa and Montana objections regarding the Paramount-Warner Bros. merger",
+        "refs": [
+          28
+        ],
+        "region": "americas"
+      }
+    ]
+  },
+  "articles": [
+    {
+      "ref": 1,
+      "title": "Channel 4 cutting 28% of workforce",
+      "link": "https://www.advanced-television.com/2026/09/09/job-cuts-at-channel-4-as-transformation-strategy-begins/",
+      "outlet": "Advanced Television",
+      "region": "uk"
+    },
+    {
+      "ref": 2,
+      "title": "Channel 4 confirms 340 job cuts as part of transformation strategy",
+      "link": "https://www.broadbandtvnews.com/2026/09/09/channel-4-confirms-340-job-cuts-as-part-of-transformation-strategy/",
+      "outlet": "Broadband TV News",
+      "region": "uk"
+    },
+    {
+      "ref": 3,
+      "title": "Channel 4 to cut more than a quarter of workforce",
+      "link": "https://uk.themedialeader.com/channel-4-to-cut-more-than-a-quarter-of-workforce/?utm_source=rss&utm_medium=rss&utm_campaign=channel-4-to-cut-more-than-a-quarter-of-workforce",
+      "outlet": "The Media Leader",
+      "region": "uk"
+    },
+    {
+      "ref": 4,
+      "title": "BBC Studios and UKTV appoint Full Season for 53-channel playout",
+      "link": "https://www.broadbandtvnews.com/2026/09/07/bbc-studios-and-uktv-appoint-full-season-for-53-channel-playout/",
+      "outlet": "Broadband TV News",
+      "region": "uk"
+    },
+    {
+      "ref": 5,
+      "title": "full season springs into action with BBC and UKTV",
+      "link": "https://www.tvbeurope.com/media-management/full-season-springs-into-action-with-bbc-and-uktv",
+      "outlet": "TVBEurope",
+      "region": "uk"
+    },
+    {
+      "ref": 6,
+      "title": "Commission slump, pivot to digital content blamed as STV Group revenues fall",
+      "link": "https://www.c21media.net/news/commission-slump-pivot-to-digital-content-blamed-as-stv-group-revenues-fall/",
+      "outlet": "C21Media",
+      "region": "uk"
+    },
+    {
+      "ref": 7,
+      "title": "Sky Go upgraded for Sky Glass, Sky Stream customers",
+      "link": "https://www.advanced-television.com/2026/09/08/sky-go-upgraded-for-sky-glass-and-sky-stream-customers/",
+      "outlet": "Advanced Television",
+      "region": "uk"
+    },
+    {
+      "ref": 8,
+      "title": "Sky launches redesigned Sky Go app for Glass and Stream customers",
+      "link": "https://www.broadbandtvnews.com/2026/09/08/sky-launches-redesigned-sky-go-app-for-glass-and-stream-customers/",
+      "outlet": "Broadband TV News",
+      "region": "uk"
+    },
+    {
+      "ref": 9,
+      "title": "ITV takes YouTube’s Alan Titchmarsh gardening format from Middlechild to linear",
+      "link": "https://www.c21media.net/news/itv-takes-youtubes-alan-titchmarsh-gardening-format-from-middlechild-to-linear/",
+      "outlet": "C21Media",
+      "region": "uk"
+    },
+    {
+      "ref": 10,
+      "title": "Alan Titchmarsh YouTube series coming to ITV",
+      "link": "https://www.advanced-television.com/2026/09/08/alan-titchmarsh-youtube-series-coming-to-itv/",
+      "outlet": "Advanced Television",
+      "region": "uk"
+    },
+    {
+      "ref": 11,
+      "title": "Ofcom logs Vibe 1 breach after turbulent summer",
+      "link": "https://radiotoday.co.uk/2026/09/ofcom-logs-vibe-1-breach-after-turbulent-summer/",
+      "outlet": "RadioToday",
+      "region": "uk"
+    },
+    {
+      "ref": 12,
+      "title": "How Netflix Will Use Apple’s iPhone Duo to Deliver a ‘Big-Screen Feeling’",
+      "link": "https://variety.com/2026/digital/news/netflix-apple-iphone-duo-foldable-features-1236856362/",
+      "outlet": "Variety",
+      "region": "americas"
+    },
+    {
+      "ref": 13,
+      "title": "Apple Unveils The iPhone Duo, A Foldable Phone That Costs $1,999",
+      "link": "https://tvnewscheck.com/tech/article/apple-unveils-the-iphone-duo-a-foldable-phone-that-costs-1999/",
+      "outlet": "TVNewsCheck",
+      "region": "americas"
+    },
+    {
+      "ref": 14,
+      "title": "Paramount Repeats Demand That States and WGA Post $1.88 Billion Bond Over Warner Bros. Merger Delay, After AGs Argue Company Is Trying to ‘Offload Its Responsibility’ for Ticking Fees",
+      "link": "https://variety.com/2026/film/news/paramount-rdemands-states-wga-post-bond-warner-bros-merger-delay-1236855184/",
+      "outlet": "Variety",
+      "region": "americas"
+    },
+    {
+      "ref": 15,
+      "title": "Paramount Argues That the States Post a $1.88 Billion Bond to Cover Warner Bros. Bills",
+      "link": "https://www.hollywoodreporter.com/business/business-news/paramount-warner-bros-bills-1236694694/",
+      "outlet": "Hollywood Reporter",
+      "region": "americas"
+    },
+    {
+      "ref": 16,
+      "title": "Fox Says DOJ Requests More Documents in Review of $22 Billion Roku Deal ‘as Expected’",
+      "link": "https://variety.com/2026/tv/news/fox-roku-deal-doj-merger-review-1236855878/",
+      "outlet": "Variety",
+      "region": "americas"
+    },
+    {
+      "ref": 17,
+      "title": "CBC/Radio-Canada’s Q1 revenue fell by 5.6% year-over-year",
+      "link": "https://cartt.ca/cbc-radio-canadas-q1-revenue-fell-by-5-6-year-over-year/",
+      "outlet": "Cartt.ca",
+      "region": "americas"
+    },
+    {
+      "ref": 18,
+      "title": "SCOTUS Restores FCC’s Widened Lowest Unit Charge, For Now",
+      "link": "https://radioink.com/2026/09/08/scotus-restores-fccs-widened-lowest-unit-charge-for-now/",
+      "outlet": "Radio Ink",
+      "region": "americas"
+    },
+    {
+      "ref": 19,
+      "title": "AMC Global Media Settles Latest ‘The Walking Dead’ Lawsuit for $120 Million",
+      "link": "https://www.thewrap.com/creative-content/tv-shows/amc-settles-the-walking-dead-lawsuit-120-million/",
+      "outlet": "The Wrap",
+      "region": "americas"
+    },
+    {
+      "ref": 20,
+      "title": "Netflix To Report Box Office Numbers For First Time Starting This Fall",
+      "link": "https://tvnewscheck.com/business/article/netflix-to-report-box-office-numbers-for-first-time-starting-this-fall/",
+      "outlet": "TVNewsCheck",
+      "region": "americas"
+    },
+    {
+      "ref": 21,
+      "title": "BBC Studios expands Iberia operation with new Madrid team",
+      "link": "https://www.broadbandtvnews.com/2026/09/09/bbc-studios-expands-iberia-operation-with-new-madrid-team/",
+      "outlet": "Broadband TV News",
+      "region": "uk"
+    },
+    {
+      "ref": 22,
+      "title": "BBC Studios expands in Iberia with new Madrid-based team",
+      "link": "https://www.c21media.net/news/bbc-studios-expands-in-iberia-with-new-madrid-based-team/",
+      "outlet": "C21Media",
+      "region": "uk"
+    },
+    {
+      "ref": 23,
+      "title": "Jon Norman appointed Sports Rights Manager at talkSPORT",
+      "link": "https://radiotoday.co.uk/2026/09/jon-norman-appointed-sports-rights-manager-at-talksport/",
+      "outlet": "RadioToday",
+      "region": "uk"
+    },
+    {
+      "ref": 24,
+      "title": "Noodle & Caboodle makes ex-Disney exec Jay Francis IP and acquisitions advisor",
+      "link": "https://www.c21media.net/news/noodle-caboodle-makes-ex-disney-exec-jay-francis-ip-and-acquisitions-advisor/",
+      "outlet": "C21Media",
+      "region": "uk"
+    },
+    {
+      "ref": 25,
+      "title": "Tegna CEO Says Stability, Innovation Will Lead His Company Through Uncertainty",
+      "link": "https://tvnewscheck.com/business/article/tegna-ceo-says-stability-innovation-will-lead-his-company-through-uncertainty/",
+      "outlet": "TVNewsCheck",
+      "region": "americas"
+    },
+    {
+      "ref": 26,
+      "title": "Norah O’Donnell Makes Her ‘CBS Mornings’ Return: ‘It’s Great To Be Here’",
+      "link": "https://tvnewscheck.com/journalism/article/norah-odonnell-makes-her-cbs-mornings-return-its-great-to-be-here/",
+      "outlet": "TVNewsCheck",
+      "region": "americas"
+    },
+    {
+      "ref": 27,
+      "title": "England Women’s rugby autumn fixtures on BBC",
+      "link": "https://www.advanced-television.com/2026/09/10/england-womens-rugby-autumn-fixtures-on-bbc/",
+      "outlet": "Advanced Television",
+      "region": "uk"
+    },
+    {
+      "ref": 28,
+      "title": "Paramount-Warner Bros. Merger: Supreme Court Asks for State AG Response to Iowa, Montana Objection by Sept. 25",
+      "link": "https://www.thewrap.com/industry-news/deals-ma/paramount-warner-bros-merger-lawsuit-iowa-montana-objection-response-supreme-court-deadline/",
+      "outlet": "The Wrap",
+      "region": "americas"
+    }
+  ]
+}
