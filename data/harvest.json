@@ -1,6 +1,348 @@
 {
- "updated": "2026-09-10T22:12:04+01:00",
+ "updated": "2026-09-11T00:23:38+01:00",
  "items": [
+  {
+   "key": "caneuroperechargeitsbatteryindustry",
+   "title": "Can Europe recharge its battery industry?",
+   "summary": "Europe has some promising battery tech, but can it make up ground lost to Chinese battery giants?",
+   "link": "https://www.bbc.co.uk/news/articles/cjeg8ly0qd3o?at_medium=RSS&at_campaign=rss",
+   "outlet": "BBC Technology",
+   "feed_region": "uk",
+   "published": "2026-09-11T00:05:47+01:00"
+  },
+  {
+   "key": "iaskedmyhusbandtopayintomypensionwhenwehadachildhereswhy",
+   "title": "I asked my husband to pay into my pension when we had a child - here's why",
+   "summary": "Molly and Taylor Haylett explain the changes to how they managed their finances when they started a family.",
+   "link": "https://www.bbc.co.uk/news/articles/cde02k65427o?at_medium=RSS&at_campaign=rss",
+   "outlet": "BBC Business",
+   "feed_region": "uk",
+   "published": "2026-09-11T00:04:30+01:00"
+  },
+  {
+   "key": "areinterestratesonthewayupagain",
+   "title": "Are interest rates on the way up again?",
+   "summary": "As countries grapple with energy costs pushing up inflation, this month will see how central banks respond.",
+   "link": "https://www.bbc.co.uk/news/articles/cew9nkx7v9eo?at_medium=RSS&at_campaign=rss",
+   "outlet": "BBC Business",
+   "feed_region": "uk",
+   "published": "2026-09-11T00:03:09+01:00"
+  },
+  {
+   "key": "hudsonwilliamstacklingtworolesincravesupcomingthrilleryaga",
+   "title": "Hudson Williams Tackling Two Roles in Crave’s Upcoming Thriller ‘Yaga’",
+   "summary": "The Crave series is set to premiere this October and air in on AMC+ in the U.S.",
+   "link": "https://www.hollywoodreporter.com/tv/tv-news/hudson-williams-two-roles-crave-yaga-1236697049/",
+   "outlet": "Hollywood Reporter",
+   "feed_region": "americas",
+   "published": "2026-09-11T00:01:07+01:00"
+  },
+  {
+   "key": "reportwifi7surpasses50ofmarket",
+   "title": "Report: Wi-Fi 7 surpasses 50% of market",
+   "summary": "According to a report from Dell’Oro Group, a source for market information about the telco, security, networks, and data centre industries, vendors sold over 10 billion Access Points (APs) in Q2 2026, setting an industry-wide record for the volume of AP shipments. “WLAN average selling prices (ASPs) increased only...",
+   "link": "https://www.advanced-television.com/2026/09/11/report-wi-fi-7-surpasses-50-of-market/",
+   "outlet": "Advanced Television",
+   "feed_region": "uk",
+   "published": "2026-09-11T00:00:23+01:00"
+  },
+  {
+   "key": "iphone18promaxvssamsunggalaxys26ultrahowthesexlphonescompete",
+   "title": "iPhone 18 Pro Max vs Samsung Galaxy S26 Ultra: How these XL phones compete",
+   "summary": "Apple or Samsung? It really comes down to which ecosystem you prefer.",
+   "link": "https://www.engadget.com/2255321/iphone-18-pro-max-vs-samsung-galaxy-s26-ultra-comparison/",
+   "outlet": "Engadget",
+   "feed_region": "global",
+   "published": "2026-09-11T00:00:00+01:00"
+  },
+  {
+   "key": "residentevilfilmmakerzachcreggerrevealsthekeyadjustmenthemadeaftertest",
+   "title": "‘Resident Evil’ Filmmaker Zach Cregger Reveals the Key Adjustment He Made After Test Screenings",
+   "summary": "Test audiences always liked the film, but after removing much of the humor, \"not only did the audience enjoy the movie more, but I also liked the movie a lot more.\"",
+   "link": "https://www.hollywoodreporter.com/movies/movie-features/resident-evil-filmmaker-zach-cregger-test-screenings-1236697134/",
+   "outlet": "Hollywood Reporter",
+   "feed_region": "americas",
+   "published": "2026-09-10T23:57:36+01:00"
+  },
+  {
+   "key": "watchthreetimestrumphaspromisedmoneytoamericans",
+   "title": "Watch: Three times Trump has promised money to Americans",
+   "summary": "The BBC's Samira Hussain looks at the president's past claims after he announced he would pay American adults $5,000 if Republicans win in the midterm elections.",
+   "link": "https://www.bbc.co.uk/news/videos/cgk5nn338peo?at_medium=RSS&at_campaign=rss",
+   "outlet": "BBC Business",
+   "feed_region": "uk",
+   "published": "2026-09-10T23:53:00+01:00"
+  },
+  {
+   "key": "danschneidersquietonsetdefamationlawsuitdismissedonappeal",
+   "title": "Dan Schneider’s ‘Quiet on Set’ Defamation Lawsuit Dismissed on Appeal",
+   "summary": "The court found that the docuseries doesn't imply that the producer sexually abused children.",
+   "link": "https://www.hollywoodreporter.com/business/business-news/dan-schneider-quiet-on-set-defamation-lawsuit-dismissed-1236697230/",
+   "outlet": "Hollywood Reporter",
+   "feed_region": "americas",
+   "published": "2026-09-10T23:52:01+01:00"
+  },
+  {
+   "key": "mcclatchygutsnewsroomsnationwidemonthsaftercontroversialpushtoai",
+   "title": "McClatchy Guts Newsrooms Nationwide Months After Controversial Push to AI",
+   "summary": "Papers in Miami, Kentucky and the Pacific Northwest saw as much as 30% of their staff cut on Thursday The post McClatchy Guts Newsrooms Nationwide Months After Controversial Push to AI appeared first on TheWrap .",
+   "link": "https://www.thewrap.com/media-platforms/journalism/mcclatchy-newspapers-layoffs-ai-tool/",
+   "outlet": "The Wrap",
+   "feed_region": "americas",
+   "published": "2026-09-10T23:47:39+01:00"
+  },
+  {
+   "key": "cagovernorsignslandmarklawsonyouthuseofsocialmediaandaichatbots",
+   "title": "CA governor signs 'landmark' laws on youth use of social media and AI chatbots",
+   "summary": "They're aimed at protecting minors, but the rules are not universally supported.",
+   "link": "https://www.engadget.com/2255569/ca-governor-signs-landmark-laws-on-youth-use-of-social-media-and-ai-chatbots/",
+   "outlet": "Engadget",
+   "feed_region": "global",
+   "published": "2026-09-10T23:45:45+01:00"
+  },
+  {
+   "key": "danschneiderlosesappealinquietonsetdocumentarydefamationlawsuit",
+   "title": "Dan Schneider Loses Appeal in ‘Quiet on Set’ Documentary Defamation Lawsuit",
+   "summary": "The Nickelodeon creator had argued the Investigation Discovery doc implied he “committed crimes of child sexual abuse\" The post Dan Schneider Loses Appeal in ‘Quiet on Set’ Documentary Defamation Lawsuit appeared first on TheWrap .",
+   "link": "https://www.thewrap.com/media-platforms/tv/dan-schneider-loses-appeal-quiet-on-set-documentary-defamation-lawsuit/",
+   "outlet": "The Wrap",
+   "feed_region": "americas",
+   "published": "2026-09-10T23:43:42+01:00"
+  },
+  {
+   "key": "danschneiderlosesquietonsetdefamationsuitonappeal",
+   "title": "Dan Schneider Loses ‘Quiet on Set’ Defamation Suit on Appeal",
+   "summary": "The producers of the documentary series “Quiet on Set” have prevailed in a lawsuit brought by former Nickelodeon showrunner Dan Schneider, who claimed that the show implied that he was a child sex abuser. Schneider sued for defamation in 2024, alleging that the series had falsely portrayed him as being responsible...",
+   "link": "https://variety.com/2026/tv/news/dan-schneider-quiet-on-set-defamation-dismissed-appeal-1236858005/",
+   "outlet": "Variety",
+   "feed_region": "americas",
+   "published": "2026-09-10T23:33:33+01:00"
+  },
+  {
+   "key": "thrivecapitalledvcsintoprosportsownershipcollaborativefundjustuppedtha",
+   "title": "Thrive Capital led VCs into pro sports ownership; Collaborative Fund just upped that play",
+   "summary": "Collaborative Fund just bought into D.C. United and its stadium, with firm founder Craig Shapiro pitching it as a way to showcase for the firm's startups.",
+   "link": "https://techcrunch.com/2026/09/10/thrive-capital-showed-vcs-the-way-into-pro-sports-ownership-collaborative-fund-is-now-trying-its-own-version-of-the-same-play/",
+   "outlet": "TechCrunch",
+   "feed_region": "global",
+   "published": "2026-09-10T23:30:00+01:00"
+  },
+  {
+   "key": "tedlassoseason4isrunningoutoftimetofixitself",
+   "title": "‘Ted Lasso’ Season 4 Is Running Out of Time to Fix Itself",
+   "summary": "Episode six's New Year's Eve bottle episode leans on love-triangle clichés and leaves its women's team as underwritten as ever.",
+   "link": "https://www.hollywoodreporter.com/tv/tv-features/ted-lasso-season-4-episode-6-recap-1236697138/",
+   "outlet": "Hollywood Reporter",
+   "feed_region": "americas",
+   "published": "2026-09-10T23:23:48+01:00"
+  },
+  {
+   "key": "boydevelopedtoastedskinconditionfromusingalaptopeveryday",
+   "title": "Boy developed \"toasted skin\" condition from using a laptop every day",
+   "summary": "Laptops don't usually get hot enough to burn—but they can still be harmful.",
+   "link": "https://arstechnica.com/health/2026/09/boy-developed-toasted-skin-condition-from-using-a-laptop-every-day/",
+   "outlet": "Ars Technica",
+   "feed_region": "global",
+   "published": "2026-09-10T23:16:05+01:00"
+  },
+  {
+   "key": "megynkellymockssandrabullockforfearingforchildrenssafetybecausetheyreb",
+   "title": "Megyn Kelly Mocks Sandra Bullock for Fearing for Children’s Safety Because They’re Black: ‘A Low-Information Voter’",
+   "summary": "\"Low-income minorities, in particular, wind up dying because crime is unleashed on them by effectively woke white liberals like Sandra Bullock,\" the host says The post Megyn Kelly Mocks Sandra Bullock for Fearing for Children’s Safety Because They’re Black: ‘A Low-Information Voter’ appeared first on TheWrap .",
+   "link": "https://www.thewrap.com/media-platforms/journalism/megyn-kelly-mocks-sandra-bullock-kids-safety/",
+   "outlet": "The Wrap",
+   "feed_region": "americas",
+   "published": "2026-09-10T23:13:27+01:00"
+  },
+  {
+   "key": "todaysnytconnectionssportseditionhintsandanswersforsept11718",
+   "title": "Today’s NYT Connections: Sports Edition Hints and Answers for Sept. 11, #718",
+   "summary": "Here are hints and the answers for today’s Connections: Sports Edition puzzle No. 718 for Friday, Sept. 11, 2026.",
+   "link": "https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-sept-11-718/",
+   "outlet": "CNET News",
+   "feed_region": "global",
+   "published": "2026-09-10T23:13:13+01:00"
+  },
+  {
+   "key": "netflixtapsfridaynightlightsdirectorpeterbergfornflgamedayopenersthefi",
+   "title": "Netflix Taps ‘Friday Night Lights’ Director Peter Berg for NFL Gameday Openers, the First Narrated by Kyle Chandler",
+   "summary": "Peter Berg is directing the show opens for all four of Netflix’s NFL gameday livestreams this season — and for the first one, debuting Thursday, he drafted Kyle Chandler, star of the “Friday Night Lights” TV series, for an assist on the play. Berg directed the 2004 movie “Friday Night Lights,” about a high school […]",
+   "link": "https://variety.com/2026/tv/news/netflix-peter-berg-kyle-chandler-friday-night-lights-nfl-gameday-1236858004/",
+   "outlet": "Variety",
+   "feed_region": "americas",
+   "published": "2026-09-10T23:09:46+01:00"
+  },
+  {
+   "key": "jamestalaricoblastsfccforgovernmentcensorshipafterjimmykimmelsaysabcwo",
+   "title": "James Talarico Blasts FCC for ‘Government Censorship’ After Jimmy Kimmel Says ABC Won’t Air Their Interview",
+   "summary": "The conversation between the late-night host and Texas' Democratic candidate for the U.S. Senate will only be released on YouTube The post James Talarico Blasts FCC for ‘Government Censorship’ After Jimmy Kimmel Says ABC Won’t Air Their Interview appeared first on TheWrap .",
+   "link": "https://www.thewrap.com/media-platforms/tv/james-talarico-rips-fcc-censorship-abc-kimmel-interview/",
+   "outlet": "The Wrap",
+   "feed_region": "americas",
+   "published": "2026-09-10T22:56:15+01:00"
+  },
+  {
+   "key": "jelloandbeermayholdthekeystobrewinghousesonmars",
+   "title": "Jell-O and Beer May Hold the Keys to Brewing Houses on Mars",
+   "summary": "The yeast used won’t brew beer, but it can help brew a building.",
+   "link": "https://www.cnet.com/science/yeast-gelatin-brew-houses-mars/",
+   "outlet": "CNET News",
+   "feed_region": "global",
+   "published": "2026-09-10T22:53:19+01:00"
+  },
+  {
+   "key": "jensenhuangexplainswhynvidiawillgrowanastounding70nextyear",
+   "title": "Jensen Huang explains why Nvidia will grow an astounding 70% next year",
+   "summary": "Nvidia has its finger in every pie, and sees another year of plenty in its future, Jensen Huang says. But, he insists, its deals are not circular.",
+   "link": "https://techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year/",
+   "outlet": "TechCrunch",
+   "feed_region": "global",
+   "published": "2026-09-10T22:51:59+01:00"
+  },
+  {
+   "key": "whygeorgelucasmuseumbuildingmogslacmasnewdavidgeffenexhibitionhall",
+   "title": "Why George Lucas’ Museum Building Mogs LACMA’s New David Geffen Exhibition Hall",
+   "summary": "The mogul-auteur’s billion-dollar new L.A. cultural center marks a stark contrast with recent failures, involving substantial public money, at the encyclopedic art museum across town.",
+   "link": "https://www.hollywoodreporter.com/lifestyle/arts/george-lucas-museum-building-lacma-david-geffen-galleries-1236697092/",
+   "outlet": "Hollywood Reporter",
+   "feed_region": "americas",
+   "published": "2026-09-10T22:46:13+01:00"
+  },
+  {
+   "key": "stevecarellalmostplayedtheofficecreatorgregdanielsdadinbiopicaboutthe1",
+   "title": "Steve Carell Almost Played ‘The Office’ Creator Greg Daniels’ Dad in Biopic About the 1968 Olympics",
+   "summary": "Steve Carell and writer Greg Daniels got so close while making “The Office,” they became like family. So much so that Daniels once wanted Carell to play his dad Aaron in a biopic he wrote about him almost 20 years ago. “He’s a very colorful person and he actually was in the Olympics in 1968, […]",
+   "link": "https://variety.com/2026/film/columns/steve-carell-the-office-creator-greg-daniels-dad-biopic-olympics-1236857975/",
+   "outlet": "Variety",
+   "feed_region": "americas",
+   "published": "2026-09-10T22:46:02+01:00"
+  },
+  {
+   "key": "appleiphone18promaxvssamsunggalaxys26ultrathehighestendphonescompared",
+   "title": "Apple iPhone 18 Pro Max vs. Samsung Galaxy S26 Ultra: The Highest-End Phones Compared",
+   "summary": "The iPhone 18 Pro Max has a big camera upgrade – and a bigger price. How does it compare to Samsung’s flagship phone?",
+   "link": "https://www.cnet.com/tech/mobile/apple-iphone-18-pro-max-vs-samsung-galaxy-s26-ultra-the-highest-end-phones-compared/",
+   "outlet": "CNET News",
+   "feed_region": "global",
+   "published": "2026-09-10T22:45:29+01:00"
+  },
+  {
+   "key": "theshardsepsbreakdownthatfinalecliffhangerandwhatmakesaprojectunputdow",
+   "title": "‘The Shards’ EPs Break Down That Finale Cliffhanger and What Makes a Project ‘Unputdownable’",
+   "summary": "Nina Jacobson and Brad Simpson also tell TheWrap what could happen in \"Love Story\" Season 2 and reflect on popularizing true crime The post ‘The Shards’ EPs Break Down That Finale Cliffhanger and What Makes a Project ‘Unputdownable’ appeared first on TheWrap .",
+   "link": "https://www.thewrap.com/creative-content/tv-shows/the-shards-episode-9-nina-jacobson-brad-simpson-interview-fx/",
+   "outlet": "The Wrap",
+   "feed_region": "americas",
+   "published": "2026-09-10T22:45:00+01:00"
+  },
+  {
+   "key": "metapromotesupcomingdatacentrebuildoutatalbertainvestmentconference",
+   "title": "Meta promotes upcoming data centre buildout at Alberta investment conference",
+   "summary": "Meta representative Matt Sexton spoke about the $13 billion project’s economic and social impacts. The post Meta promotes upcoming data centre buildout at Alberta investment conference first appeared on BetaKit .",
+   "link": "https://betakit.com/meta-promotes-upcoming-data-centre-buildout-at-alberta-investment-conference/",
+   "outlet": "BetaKit",
+   "feed_region": "americas",
+   "published": "2026-09-10T22:41:36+01:00"
+  },
+  {
+   "key": "wittingtonventuresclosesthird180millionvcfund",
+   "title": "Wittington Ventures closes third, $180-million VC fund",
+   "summary": "Weston family-backed firm plans to back 15 more startups. The post Wittington Ventures closes third, $180-million VC fund first appeared on BetaKit .",
+   "link": "https://betakit.com/wittington-ventures-closes-third-180-million-vc-fund/",
+   "outlet": "BetaKit",
+   "feed_region": "americas",
+   "published": "2026-09-10T22:36:31+01:00"
+  },
+  {
+   "key": "markwahlbergiscomingtotechcrunchdisrupt2026andhewantstotalkaboutyourwo",
+   "title": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
+   "summary": "Mark Wahlberg joins Bruce K. Lee at Disrupt to discuss investing, entrepreneurship, healthcare, wellness and building businesses.",
+   "link": "https://techcrunch.com/2026/09/10/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/",
+   "outlet": "TechCrunch",
+   "feed_region": "global",
+   "published": "2026-09-10T22:35:00+01:00"
+  },
+  {
+   "key": "zerointentionoflivingquietlyreviewdocaboutadifferentmanstaradampearson",
+   "title": "‘Zero Intention of Living Quietly’ Review: Doc About ‘A Different Man’ Star Adam Pearson Is Moving, When It’s Not Getting in Its Own Way",
+   "summary": "The Telluride debut centers on the friendship between the actor, who has facial disfigurement from neurofibromatosis, and a teenage girl with the same genetic condition.",
+   "link": "https://www.hollywoodreporter.com/movies/movie-reviews/zero-intention-of-living-quietly-review-adam-pearson-1236690979/",
+   "outlet": "Hollywood Reporter",
+   "feed_region": "americas",
+   "published": "2026-09-10T22:34:44+01:00"
+  },
+  {
+   "key": "gavinnewsomimposesstrictnewrulesonaisocialmediaandchatbotsforchildren",
+   "title": "Gavin Newsom imposes strict new rules on AI, social media and chatbots for children",
+   "summary": "California governor hails ‘nation-leading’ legislation banning addictive features for users under 16 California has adopted what Gavin Newsom described as “nation-leading” legislation that bans addictive social media features for young users, regulates companion chatbots and implements new safeguards around AI. The...",
+   "link": "https://www.theguardian.com/media/2026/sep/10/gavin-newsom-social-media-bill",
+   "outlet": "Guardian Media",
+   "feed_region": "uk",
+   "published": "2026-09-10T22:28:39+01:00"
+  },
+  {
+   "key": "slackcannowvibecodeinteractivechartsandreportsinsidechats",
+   "title": "Slack can now vibe-code interactive charts and reports inside chats",
+   "summary": "A new feature coming to Slack will allow you to build interactive reports, polls, dashboards, presentations, microsites, and other tools directly inside a chat. With Slackforce Surfaces, you can describe to Slackbot what you need, and it will use AI to gather information from relevant conversations and connected...",
+   "link": "https://www.theverge.com/tech/989853/slackforce-surfaces-launch",
+   "outlet": "The Verge",
+   "feed_region": "global",
+   "published": "2026-09-10T22:25:21+01:00"
+  },
+  {
+   "key": "over153milliondriverslicenseswerestolenbyhackershereswhattoknow",
+   "title": "Over 153 Million Driver’s Licenses Were Stolen by Hackers. Here’s What to Know",
+   "summary": "The hackers allegedly spent a year hoarding documents before IDScan closed the door.",
+   "link": "https://www.cnet.com/tech/services-and-software/hackers-stole-153-million-drivers-licenses-from-idscan/",
+   "outlet": "CNET News",
+   "feed_region": "global",
+   "published": "2026-09-10T22:23:46+01:00"
+  },
+  {
+   "key": "waiputvaddsfournewfastchannels",
+   "title": "waipu.tv adds four new FAST Channels",
+   "summary": "German TV streaming service waipu.tv is expanding its FAST Channel line-up with four new services: ZDF zu Hause, Beverly Hills, 90210, H2O & Friends and the Western classic Rauchende Colts. […]",
+   "link": "https://www.broadbandtvnews.com/2026/09/10/waipu-tv-adds-four-new-fast-channels/",
+   "outlet": "Broadband TV News",
+   "feed_region": "uk",
+   "published": "2026-09-10T22:23:19+01:00"
+  },
+  {
+   "key": "crtcordersispstodelivertypicalinternetspeedstheypromise",
+   "title": "CRTC orders ISPs to deliver “typical” internet speeds they promise",
+   "summary": "This content is restricted to subscribers The post CRTC orders ISPs to deliver “typical” internet speeds they promise appeared first on Cartt.ca .",
+   "link": "https://cartt.ca/crtc-orders-isps-to-deliver-typical-internet-speeds-they-promise/",
+   "outlet": "Cartt.ca",
+   "feed_region": "americas",
+   "published": "2026-09-10T22:22:13+01:00"
+  },
+  {
+   "key": "jamestalaricoblastsgovernmentcensorshipafterabcpullshisjimmykimmelinte",
+   "title": "James Talarico Blasts ‘Government Censorship’ After ABC Pulls His Jimmy Kimmel Interview Over FCC Concerns: ‘Dangerous Form of Cancel Culture’",
+   "summary": "James Talarico, the Democratic candidate running for senator in Texas, has spoken out after ABC pulled his sit-down with Jimmy Kimmel over FCC concerns. The interview will instead be posted to the “Jimmy Kimmel Live!” YouTube channel on Thursday night. “Government censorship should be a concern to all of us,...",
+   "link": "https://variety.com/2026/tv/news/james-talarico-fcc-censorship-abc-jimmy-kimmel-interview-1236857957/",
+   "outlet": "Variety",
+   "feed_region": "americas",
+   "published": "2026-09-10T22:21:46+01:00"
+  },
+  {
+   "key": "ninjatakesoncarawaywithcheapermoredurableceramiccookware",
+   "title": "Ninja Takes on Caraway With Cheaper, ‘More Durable’ Ceramic Cookware",
+   "summary": "Ninja’s NeverQuit Cookware is available for purchase now.",
+   "link": "https://www.cnet.com/home/kitchen-and-household/ninja-first-ceramic-coated-cookware-durable/",
+   "outlet": "CNET News",
+   "feed_region": "global",
+   "published": "2026-09-10T22:21:35+01:00"
+  },
+  {
+   "key": "mikemcfarlanddragonballzandonepiecevoiceactordiesat56",
+   "title": "Mike McFarland, ‘Dragon Ball Z’ and ‘One Piece’ Voice Actor, Dies at 56",
+   "summary": "The voice actor is known to anime fans for voicing characters like Master Roshi, Yajirobe and Buggy the Clown The post Mike McFarland, ‘Dragon Ball Z’ and ‘One Piece’ Voice Actor, Dies at 56 appeared first on TheWrap .",
+   "link": "https://www.thewrap.com/creative-content/tv-shows/mike-mcfarland-dead-dragon-ball-z-one-piece/",
+   "outlet": "The Wrap",
+   "feed_region": "americas",
+   "published": "2026-09-10T22:19:53+01:00"
+  },
   {
    "key": "janellerodrigueztoexitnbcnewsasprogrammingevp",
    "title": "Janelle Rodriguez To Exit NBC News As Programming EVP",
@@ -56,6 +398,15 @@
    "published": "2026-09-10T22:04:54+01:00"
   },
   {
+   "key": "alstomtobuildnewbatteryelectrictrainfleet",
+   "title": "Alstom to build new battery-electric train fleet",
+   "summary": "The government says the work will support thousands of jobs across the UK.",
+   "link": "https://www.bbc.co.uk/news/articles/cd94y7d7qyzo?at_medium=RSS&at_campaign=rss",
+   "outlet": "BBC Business",
+   "feed_region": "uk",
+   "published": "2026-09-10T22:00:33+01:00"
+  },
+  {
    "key": "openaiputsprosubscriptionsonholdduetoastrademand",
    "title": "OpenAI puts Pro subscriptions on hold due to Astra demand",
    "summary": "The company said Pro subscriptions put the most strain on its systems, so it's pausing sign-ups while adding more capacity.",
@@ -68,6 +419,15 @@
    "key": "practicalmagic2producerdenisedinovionsexistreactionstotheoriginalandho",
    "title": "‘Practical Magic 2’ Producer Denise Di Novi on Sexist Reactions to the Original and How the Sequel Got Made",
    "summary": "Office With a View: The legendary producer opens up on the key to successful producing, the Warner Bros.-Paramount merger and recasting Evan Rachel Wood The post ‘Practical Magic 2’ Producer Denise Di Novi on Sexist Reactions to the Original and How the Sequel Got Made appeared first on TheWrap .",
+   "link": "https://www.thewrap.com/creative-content/movies/practical-magic-2-denise-di-novi-interview/",
+   "outlet": "The Wrap",
+   "feed_region": "americas",
+   "published": "2026-09-10T21:57:34+01:00"
+  },
+  {
+   "key": "practicalmagic2producerdenisedinovionhowtheoriginalmoviesfandomfueleda",
+   "title": "‘Practical Magic 2’ Producer Denise Di Novi on How the Original Movie’s Fandom Fueled a Sequel 27 Years Later",
+   "summary": "Office With a View: The legendary producer also opens up on the key to successful producing, the Warner Bros.-Paramount merger and recasting Evan Rachel Wood The post ‘Practical Magic 2’ Producer Denise Di Novi on How the Original Movie’s Fandom Fueled a Sequel 27 Years Later appeared first on TheWrap .",
    "link": "https://www.thewrap.com/creative-content/movies/practical-magic-2-denise-di-novi-interview/",
    "outlet": "The Wrap",
    "feed_region": "americas",
@@ -794,6 +1154,15 @@
    "published": "2026-09-10T18:30:09+01:00"
   },
   {
+   "key": "newfilingssuggestsonyproactivelysharedinternalwpprebateprobeinwhistleb",
+   "title": "New Filings Suggest Sony Proactively Shared Internal WPP Rebate Probe in Whistleblower Case",
+   "summary": "The claim could upend WPP’s previous motion to seal the documents and toss the whistleblower case brought by former exec Richard Foster",
+   "link": "https://www.adweek.com/agencies/new-filings-suggest-sony-proactively-shared-internal-wpp-rebate-probe-in-whistleblower-case/",
+   "outlet": "Adweek",
+   "feed_region": "americas",
+   "published": "2026-09-10T18:23:14+01:00"
+  },
+  {
    "key": "magewellzixiexpandlivevideooveripworkflow",
    "title": "Magewell, Zixi Expand Live Video Over IP Workflow",
    "summary": "Magewell and Zixi said they have expanded their collaboration to give broadcasters and streaming providers an end-to-end path for live video contribution over public and hybrid IP networks. The companies … The post Magewell, Zixi Expand Live Video Over IP Workflow appeared first on TV News Check .",
@@ -949,6 +1318,15 @@
   {
    "key": "dronesdeliverfoodandremovebodiesafternepalsflooddisaster",
    "title": "Drones deliver food and remove bodies after Nepal’s flood disaster",
+   "summary": "DJI drones that already supply Mount Everest camps assist Nepal’s flood relief.",
+   "link": "https://arstechnica.com/gadgets/2026/09/drones-deliver-food-and-remove-bodies-after-nepals-flood-disaster/",
+   "outlet": "Ars Technica",
+   "feed_region": "global",
+   "published": "2026-09-10T17:53:52+01:00"
+  },
+  {
+   "key": "chinasdronesupremacyshowsinairliftingbodiesandfoodafternepalflooddisas",
+   "title": "China’s drone supremacy shows in airlifting bodies and food after Nepal flood disaster",
    "summary": "DJI drones that already supply Mount Everest camps assist Nepal’s flood relief.",
    "link": "https://arstechnica.com/gadgets/2026/09/drones-deliver-food-and-remove-bodies-after-nepals-flood-disaster/",
    "outlet": "Ars Technica",
@@ -5035,6 +5413,15 @@
   {
    "key": "iphone18proand18promaxpricesjumpby100",
    "title": "iPhone 18 Pro and 18 Pro Max Prices Jump by $100",
+   "summary": "Apple is raising prices for the two smartphones by $100 each.",
+   "link": "https://www.cnet.com/tech/mobile/iphone-18-pro-and-18-pro-max-prices-jump-by-100/",
+   "outlet": "CNET News",
+   "feed_region": "global",
+   "published": "2026-09-09T19:05:08+01:00"
+  },
+  {
+   "key": "applehikesiphone18proand18promaxpricesby100",
+   "title": "Apple Hikes iPhone 18 Pro and 18 Pro Max Prices by $100",
    "summary": "Apple is raising prices for the two smartphones by $100 each.",
    "link": "https://www.cnet.com/tech/mobile/iphone-18-pro-and-18-pro-max-prices-jump-by-100/",
    "outlet": "CNET News",
@@ -32157,375 +32544,6 @@
    "outlet": "Variety",
    "feed_region": "americas",
    "published": "2026-09-01T00:30:00+01:00"
-  },
-  {
-   "key": "a16zbringsgrowthfundto85bdaysafterlaunchingnew11bfund",
-   "title": "a16z brings growth fund to $8.5B days after launching new $1.1B fund",
-   "summary": "Andreessen Horowitz held out its hand and returned with billions more in new funds to invest in startups.",
-   "link": "https://techcrunch.com/2026/08/31/a16z-brings-growth-fund-to-8-5b-days-after-launching-new-1-1b-fund/",
-   "outlet": "TechCrunch",
-   "feed_region": "global",
-   "published": "2026-09-01T00:14:14+01:00"
-  },
-  {
-   "key": "kellyclarksonendstalkshowonaliteralhighnotesinginghermostrequestedcove",
-   "title": "Kelly Clarkson Ends Talk Show on a Literal High Note Singing Her Most-Requested Cover Song Ever",
-   "summary": "\"The Kelly Clarkson Show\" host performs \"Golden\" from \"KPop Demon Hunters\" for the program's series finale The post Kelly Clarkson Ends Talk Show on a Literal High Note Singing Her Most-Requested Cover Song Ever appeared first on TheWrap .",
-   "link": "https://www.thewrap.com/creative-content/tv-shows/kelly-clarkson-golden-kpop-demon-hunters-cover/",
-   "outlet": "The Wrap",
-   "feed_region": "americas",
-   "published": "2026-09-01T00:11:35+01:00"
-  },
-  {
-   "key": "lionelrichiehospitalizedfollowingstlouisconcertsourcesays",
-   "title": "Lionel Richie Hospitalized Following St. Louis Concert, Source Says",
-   "summary": "A source close to Richie's tour said the singer \"self-checked in after the show Saturday night and is doing okay.\"",
-   "link": "https://www.hollywoodreporter.com/music/music-news/lionel-richie-hospitalized-following-st-louis-concert-1236686213/",
-   "outlet": "Hollywood Reporter",
-   "feed_region": "americas",
-   "published": "2026-09-01T00:03:56+01:00"
-  },
-  {
-   "key": "japanhbomaxlaunchingonprimevideohulu",
-   "title": "Japan: HBO Max launching on Prime Video, Hulu",
-   "summary": "Warner Bros Discovery (WBD) has announced that the HBO Max streaming service will launch on Prime Video and Hulu in Japan on October 1st. Available as a dedicated HBO Max hub within both services, subscribers will have access to an collection of popular series and films from iconic brands, including HBO, Warner...",
-   "link": "https://www.advanced-television.com/2026/09/01/japan-hbo-max-launching-on-prime-video-hulu/",
-   "outlet": "Advanced Television",
-   "feed_region": "uk",
-   "published": "2026-09-01T00:03:46+01:00"
-  },
-  {
-   "key": "daznscoreslaligarightsacrosssubsaharanafrica",
-   "title": "DAZN scores LaLiga rights across Sub-Saharan Africa",
-   "summary": "DAZN, the sports streaming platform, has secured the rights to broadcast LaLiga football across Sub-Saharan Africa for the next three seasons – from 2026/27 through to the end of the 2028/29 season. Effective immediately, DAZN’s users will have access to all 380 top flight LaLiga matches each season, available live...",
-   "link": "https://www.advanced-television.com/2026/09/01/dazn-scores-laliga-rights-across-sub-saharan-africa/",
-   "outlet": "Advanced Television",
-   "feed_region": "uk",
-   "published": "2026-09-01T00:02:38+01:00"
-  },
-  {
-   "key": "seraphimlaunchesnewspacefund",
-   "title": "Seraphim launches new space fund",
-   "summary": "London-based financial institution Seraphim is launching a new specialty fund, its New Space ETF to tap into fresh opportunities in the space sector. An initial 23 businesses will be part of the Exchange Traded Fund (ETF) including SpaceX, Rocket Lab, AST SpaceMobile and HawkEye 360. Mark Boggett, the company’s...",
-   "link": "https://www.advanced-television.com/2026/09/01/seraphim-launches-new-space-fund/",
-   "outlet": "Advanced Television",
-   "feed_region": "uk",
-   "published": "2026-09-01T00:01:43+01:00"
-  },
-  {
-   "key": "nielsenrollsoutnewlocalmethodologyenhancements",
-   "title": "Nielsen rolls out new Local methodology enhancements",
-   "summary": "Nielsen has announced four new local methodology enhancements that have been activated into Local TV currency data effective immediately, ahead of the 2026/2027 broadcast season in the US. Nielsen said the enhancements are “singularly focused on delivering the most comprehensive Local & National media intelligence...",
-   "link": "https://www.advanced-television.com/2026/09/01/nielsen-rolls-out-new-local-methodology-enhancements/",
-   "outlet": "Advanced Television",
-   "feed_region": "uk",
-   "published": "2026-09-01T00:01:36+01:00"
-  },
-  {
-   "key": "thebentleysupersportsastrippedoutengineersindulgence",
-   "title": "The Bentley Supersports: A stripped-out engineer's indulgence",
-   "summary": "It's the lightest Bentley in 85 years.",
-   "link": "https://arstechnica.com/cars/2026/08/the-bentley-supersports-a-stripped-out-engineers-indulgence/",
-   "outlet": "Ars Technica",
-   "feed_region": "global",
-   "published": "2026-09-01T00:01:16+01:00"
-  },
-  {
-   "key": "spacexlouisianapermitswithin6months",
-   "title": "SpaceX Louisiana permits “within 6 months”",
-   "summary": "Louisiana’s Governor Jeff Landry says that official permits for SpaceX’s new giant spaceport (called Starbase Louisiana) will be issued within the next six months. In an interview, and questioned whether the launch site will be built to withstand the strong storms that can come ashore in Louisiana, Gov. Landry said...",
-   "link": "https://www.advanced-television.com/2026/09/01/spacex-louisiana-permits-within-6-months/",
-   "outlet": "Advanced Television",
-   "feed_region": "uk",
-   "published": "2026-09-01T00:00:16+01:00"
-  },
-  {
-   "key": "vernierreiffersappointedgeneralcounselofcanal",
-   "title": "Vernier-Reiffers appointed General Counsel of Canal+",
-   "summary": "Sophie Vernier-Reiffers has been appointed General Counsel of Canal+, replacing Laëtitia Ménasé. She reports to CEO Maxime Saada and joins the group’s Executive Committee. Vernier-Reiffers has dual expertise in French and Spanish law. A former member of the Paris Bar, specializing in corporate law, securities law...",
-   "link": "https://www.advanced-television.com/2026/09/01/vernier-reiffers-appointed-general-counsel-of-canal/",
-   "outlet": "Advanced Television",
-   "feed_region": "uk",
-   "published": "2026-09-01T00:00:09+01:00"
-  },
-  {
-   "key": "mdaspacewants170satellitesford2d",
-   "title": "MDA Space wants 170 satellites for D2D",
-   "summary": "Canada-based MDA Space wants to own and operate a satellite constellation of its own in the form of 170 satellites for direct-to-device users. MDA Space is a Canadian space technology company headquartered in Ontario, Canada, that provides geo-intelligence, robotics, space operations and satellite systems. On...",
-   "link": "https://www.advanced-television.com/2026/09/01/mda-space-wants-170-satellites-for-d2d/",
-   "outlet": "Advanced Television",
-   "feed_region": "uk",
-   "published": "2026-09-01T00:00:08+01:00"
-  },
-  {
-   "key": "thestarlinkminixkitcomeswithanextrarouterbutdoyoureallyneedit",
-   "title": "The Starlink Mini X kit comes with an extra router, but do you really need it?",
-   "summary": "Starlink's extra router can be useful, but getting your main satellite dish positioned properly is more important.",
-   "link": "https://www.engadget.com/2246412/starlink-mini-x-comes-with-extra-router-do-you-need-it/",
-   "outlet": "Engadget",
-   "feed_region": "global",
-   "published": "2026-09-01T00:00:00+01:00"
-  },
-  {
-   "key": "trumpcallsoncongresstopassfederalproductiontaxincentiveaftermeetingwit",
-   "title": "Trump Calls on Congress to Pass Federal Production Tax Incentive After Meeting With Jon Voight",
-   "summary": "\"Meetings are being set up with the leaders of both Parties in order to get this done,\" the president writes in a Truth Social post The post Trump Calls on Congress to Pass Federal Production Tax Incentive After Meeting With Jon Voight appeared first on TheWrap .",
-   "link": "https://www.thewrap.com/industry-news/business/trump-supports-federal-production-tax-incentive/",
-   "outlet": "The Wrap",
-   "feed_region": "americas",
-   "published": "2026-08-31T23:56:45+01:00"
-  },
-  {
-   "key": "trumpcallsforpassageoffederalfilmandtvtaxincentiveletsgetthisdone",
-   "title": "Trump Calls for Passage of Federal Film and TV Tax Incentive: “Let’s Get This Done!”",
-   "summary": "The bill already had bipartisan support, but Republican lawmakers especially seemed to be waiting to see if the President would support the idea.",
-   "link": "https://www.hollywoodreporter.com/business/business-news/president-trump-federal-film-and-tv-tax-incentive-1236686220/",
-   "outlet": "Hollywood Reporter",
-   "feed_region": "americas",
-   "published": "2026-08-31T23:55:49+01:00"
-  },
-  {
-   "key": "nvidiaisbuildinganiplicensingempireonthebackofnvlink",
-   "title": "Nvidia is building an IP licensing empire on the back of NVLink",
-   "summary": "Even when you think you're not buying Nvidia, you might still be buying Nvidia",
-   "link": "https://www.theregister.com/systems/2026/08/31/nvidia-is-building-an-ip-licensing-empire-on-the-back-of-nvlink/5293530",
-   "outlet": "The Register",
-   "feed_region": "global",
-   "published": "2026-08-31T23:54:24+01:00"
-  },
-  {
-   "key": "davidspadeweighsinonjellyrollstrumpbashingfatjokesonkimmeltoomanypolit",
-   "title": "David Spade Weighs in on Jelly Roll’s Trump-Bashing Fat Jokes on ‘Kimmel’: ‘Too Many Politics’",
-   "summary": "The comedian adds that the country singer \"got away with\" giving the president a taste of his own medicine The post David Spade Weighs in on Jelly Roll’s Trump-Bashing Fat Jokes on ‘Kimmel’: ‘Too Many Politics’ appeared first on TheWrap .",
-   "link": "https://www.thewrap.com/creative-content/tv-shows/david-spade-jelly-roll-trump-fat-jokes-jimmy-kimmel/",
-   "outlet": "The Wrap",
-   "feed_region": "americas",
-   "published": "2026-08-31T23:51:51+01:00"
-  },
-  {
-   "key": "trumpendorsesustaxincentivetokeephollywoodproductionletsgetthisdone",
-   "title": "Trump Endorses U.S. Tax Incentive to Keep Hollywood Production: ‘Let’s Get This Done!’",
-   "summary": "President Trump on Monday endorsed a federal tax incentive for film and TV production, a move long sought by Hollywood studios and unions. In a statement posted to Truth Social, Trump said he will push for a bipartisan bill to save the industry. “I am going to suggest that Republicans and Democrats get together,...",
-   "link": "https://variety.com/2026/film/news/trump-endorses-federal-incentive-hollywood-1236847834/",
-   "outlet": "Variety",
-   "feed_region": "americas",
-   "published": "2026-08-31T23:40:16+01:00"
-  },
-  {
-   "key": "appleaddsmoreallegationstoitstradesecretslawsuitagainstopenai",
-   "title": "Apple adds more allegations to its trade secrets lawsuit against OpenAI",
-   "summary": "It claims a laptop proves that a former employee accessed and used proprietary files for the AI company.",
-   "link": "https://www.engadget.com/2248199/apple-adds-more-allegations-to-its-trade-secrets-lawsuit-against-openai/",
-   "outlet": "Engadget",
-   "feed_region": "global",
-   "published": "2026-08-31T23:34:52+01:00"
-  },
-  {
-   "key": "thegoogletvstreamernowcosts50more",
-   "title": "The Google TV Streamer now costs $50 more",
-   "summary": "Google raised the price of its 4K streaming box to $149, up $50 from its original $99 price. The new price is currently live at the Google Store and Best Buy, but Amazon appears to still be offering the original price. The price hike comes just a couple of weeks after Google launched its new […]",
-   "link": "https://www.theverge.com/tech/987032/google-tv-streamer-price-increase",
-   "outlet": "The Verge",
-   "feed_region": "global",
-   "published": "2026-08-31T23:32:51+01:00"
-  },
-  {
-   "key": "hereshownintendomissedthemarkwiththegamecubeconsole",
-   "title": "Here's how Nintendo missed the mark with the GameCube console",
-   "summary": "The GameCube had some things going for it, and it even has a cult following these days, but at its release, it was a flop.",
-   "link": "https://www.engadget.com/2243923/how-nintendo-missed-mark-with-gamecube-console/",
-   "outlet": "Engadget",
-   "feed_region": "global",
-   "published": "2026-08-31T23:30:00+01:00"
-  },
-  {
-   "key": "agroupfundedbyandreessenhorowitzandbrockmanplansdatacenteradstoswaymid",
-   "title": "A group funded by Andreessen, Horowitz, and Brockman plans data center ads to sway midterms",
-   "summary": "Build American AI plans to lobby voters in select states about the virtues of data centers by spending millions of dollars on ads.",
-   "link": "https://techcrunch.com/2026/08/31/a-group-funded-by-andreessen-horowitz-and-brockman-plan-data-center-ads-to-sway-midterms/",
-   "outlet": "TechCrunch",
-   "feed_region": "global",
-   "published": "2026-08-31T23:14:05+01:00"
-  },
-  {
-   "key": "healthcarecyberattackshitpacemakersandmillionsofpatientrecords",
-   "title": "Healthcare cyberattacks hit pacemakers and millions of patient records",
-   "summary": "McKesson admits breach as ShinyHunters demands $55.2M",
-   "link": "https://www.theregister.com/cyber-crime/2026/08/31/healthcare-cyberattacks-hit-pacemakers-and-millions-of-patient-records/5293537",
-   "outlet": "The Register",
-   "feed_region": "global",
-   "published": "2026-08-31T23:10:38+01:00"
-  },
-  {
-   "key": "melgibsonapologizesformockingaslinterpreteratfaneventthoughtlessidiocy",
-   "title": "Mel Gibson Apologizes for Mocking ASL Interpreter at Fan Event: ‘Thoughtless Idiocy’",
-   "summary": "\"There was no intended maliciousness attached, and I certainly apologize to anyone who was upset by it,\" he adds The post Mel Gibson Apologizes for Mocking ASL Interpreter at Fan Event: ‘Thoughtless Idiocy’ appeared first on TheWrap .",
-   "link": "https://www.thewrap.com/culture-lifestyle/culture/mel-gibson-apology-asl-interpreter-mocking/",
-   "outlet": "The Wrap",
-   "feed_region": "americas",
-   "published": "2026-08-31T23:08:41+01:00"
-  },
-  {
-   "key": "howsheinlostitsshineaheadoflongawaitedstockmarketdebut",
-   "title": "How Shein lost its shine ahead of long-awaited stock market debut",
-   "summary": "The firm's Hong Kong listing on Tuesday comes after a years-long quest to sell shares in New York and London.",
-   "link": "https://www.bbc.co.uk/news/articles/c3v0qrz7z25o?at_medium=RSS&at_campaign=rss",
-   "outlet": "BBC Business",
-   "feed_region": "uk",
-   "published": "2026-08-31T23:08:30+01:00"
-  },
-  {
-   "key": "japanincisbettingbigonindiaaschinarisksdeepen",
-   "title": "Japan Inc is betting big on India as China risks deepen",
-   "summary": "Japanese companies are doubling down on India amid a shrinking domestic market and rising risks in China.",
-   "link": "https://www.bbc.co.uk/news/articles/cz64955d56po?at_medium=RSS&at_campaign=rss",
-   "outlet": "BBC Business",
-   "feed_region": "uk",
-   "published": "2026-08-31T23:07:19+01:00"
-  },
-  {
-   "key": "galgadotdefendsstarringinmoviewithaisetsandlightingbecauseyouregoingto",
-   "title": "Gal Gadot Defends Starring in Movie With AI Sets and Lighting Because ‘You’re Going to Work With It or Be Out of the Game’; Lawyers Spent 6 Months Ensuring AI Would Not Alter Actors",
-   "summary": "Gal Gadot appeared on the “Happy Sad Confused” podcast to promote her Prime Video action movie “The Runner” and told host Josh Horowitz that she would likely not return as Wonder Woman if an opportunity to make a third movie came to be. “For me to go to do another Wonder Woman, I am not […]",
-   "link": "https://variety.com/2026/film/news/gal-gadot-defends-bitcoin-movie-ai-sets-lighting-1236847413/",
-   "outlet": "Variety",
-   "feed_region": "americas",
-   "published": "2026-08-31T23:05:08+01:00"
-  },
-  {
-   "key": "jmgosverybrightallinoneprojectorlooksidealforgamersandsports",
-   "title": "JMGO’s very bright all-in-one projector looks ideal for gamers and sports",
-   "summary": "JMGO's 4K 120Hz Iris Ultra Max all-in-one Google TV projector is now available outside China. It gets its name from a new dual-iris system that lets it produce an impressive 10,000:1 native contrast, according to JMGO. It boosts the contrast - always an issue with projectors - by placing two separate physical...",
-   "link": "https://www.theverge.com/tech/985986/jmgo-4k-gaming-projector-price-specs",
-   "outlet": "The Verge",
-   "feed_region": "global",
-   "published": "2026-08-31T23:00:00+01:00"
-  },
-  {
-   "key": "theslatetruckisaffordablebecauseyouhavetobringyourowntech",
-   "title": "The Slate Truck is affordable because you have to 'bring your own tech'",
-   "summary": "The Slate Truck is affordable because you have to 'bring your own tech'.",
-   "link": "https://www.engadget.com/2244162/the-slate-truck-is-affordable-because-you-have-to-bring-your-own-tech/",
-   "outlet": "Engadget",
-   "feed_region": "global",
-   "published": "2026-08-31T23:00:00+01:00"
-  },
-  {
-   "key": "everythingnewonstreaminginseptembernetflixhbomaxandmore",
-   "title": "Everything New on Streaming in September: Netflix, HBO Max and More",
-   "summary": "Welcome to fall, kids The post Everything New on Streaming in September: Netflix, HBO Max and More appeared first on TheWrap .",
-   "link": "https://www.thewrap.com/creative-content/what-to-watch/everything-new-on-streaming-september-2026/",
-   "outlet": "The Wrap",
-   "feed_region": "americas",
-   "published": "2026-08-31T23:00:00+01:00"
-  },
-  {
-   "key": "williamvarniernamedwdbjgeneralmanager",
-   "title": "William Varnier Named WDBJ General Manager",
-   "summary": "Gray moves him from KCTV Kansas City, Mo., to oversee its CBS affiliate in Roanoke, Va. The post William Varnier Named WDBJ General Manager appeared first on TV News Check .",
-   "link": "https://tvnewscheck.com/business/article/william-varnier-named-wdbj-general-manager/",
-   "outlet": "TVNewsCheck",
-   "feed_region": "americas",
-   "published": "2026-08-31T22:55:54+01:00"
-  },
-  {
-   "key": "gargoylesliveactionseriesnotmovingforwardatdisney",
-   "title": "‘Gargoyles’ Live-Action Series Not Moving Forward at Disney+",
-   "summary": "The live-action “Gargoyles” reboot has turned to stone. The project, which was in early development at Disney+, is no longer moving forward, a source confirms to Variety. It was announced in 2023 that the streamer was working with writer Gary Dauberman and James Wan’s Atomic Monster to develop a live-action version...",
-   "link": "https://variety.com/2026/tv/news/gargoyles-live-action-show-not-happening-disney-1236847780/",
-   "outlet": "Variety",
-   "feed_region": "americas",
-   "published": "2026-08-31T22:44:52+01:00"
-  },
-  {
-   "key": "amazonissuedbytheftcand22statesforsecretlyoverchargingadvertiserssince",
-   "title": "Amazon is sued by the FTC and 22 states for 'secretly' overcharging advertisers since 2019",
-   "summary": "The company's \"deception continues to this day,\" the lawsuit says.",
-   "link": "https://www.engadget.com/2248170/amazon-is-sued-by-the-ftc-and-22-states-for-secretly-overcharging-advertisers-since-2019/",
-   "outlet": "Engadget",
-   "feed_region": "global",
-   "published": "2026-08-31T22:42:39+01:00"
-  },
-  {
-   "key": "ftclawsuitallegesamazonhasbeensecretlyandsystematicallyoverchargingfor",
-   "title": "FTC lawsuit alleges Amazon has been ‘secretly and systematically’ overcharging for ads",
-   "summary": "The FTC and 22 state attorneys general are suing Amazon for allegedly using a \"secret ad surcharge\" to drive up prices for ads on its website and app. FTC chairman Andrew Ferguson claims in a blog post on the lawsuit that the higher advertising prices \"were largely passed on to American consumers.\" According to the […]",
-   "link": "https://www.theverge.com/tech/986982/amazon-advertising-prices-ftc-lawsuit",
-   "outlet": "The Verge",
-   "feed_region": "global",
-   "published": "2026-08-31T22:41:42+01:00"
-  },
-  {
-   "key": "supremecourtletstrumps400millionballroommoveforward",
-   "title": "Supreme Court Lets Trump’s $400 Million Ballroom Move Forward",
-   "summary": "\"Today’s decision is no victory for the separation of powers,” Chief Justice John Roberts says The post Supreme Court Lets Trump’s $400 Million Ballroom Move Forward appeared first on TheWrap .",
-   "link": "https://www.thewrap.com/industry-news/public-policy-legal/trump-ballroom-supreme-court-decision-move-forward/",
-   "outlet": "The Wrap",
-   "feed_region": "americas",
-   "published": "2026-08-31T22:40:23+01:00"
-  },
-  {
-   "key": "trumpescalateswaronpressthreatensfcccaseagainstnbcskristenwelker",
-   "title": "Trump Escalates War on Press, Threatens FCC Case Against NBC’s Kristen Welker",
-   "summary": "It's the most direct move yet to weaponize the agency against an individual journalist by name — and the facts don't back him up.",
-   "link": "https://www.hollywoodreporter.com/news/politics-news/donald-trump-kristen-welker-escalates-threatens-fcc-1236686109/",
-   "outlet": "Hollywood Reporter",
-   "feed_region": "americas",
-   "published": "2026-08-31T22:39:55+01:00"
-  },
-  {
-   "key": "amazonriggedbillionsinadpricinglawsuitfromstatesanduswatchdogalleges",
-   "title": "Amazon rigged billions in ad pricing, lawsuit from states and US watchdog alleges",
-   "summary": "Amazon responded to the lawsuit, arguing the US Federal Trade Commission \"misunderstands\" their ad market.",
-   "link": "https://www.bbc.co.uk/news/articles/cvgy91nvy27o?at_medium=RSS&at_campaign=rss",
-   "outlet": "BBC Technology",
-   "feed_region": "uk",
-   "published": "2026-08-31T22:28:49+01:00"
-  },
-  {
-   "key": "amazonrigged20bnworthofadpricesuslawsuitalleges",
-   "title": "Amazon rigged $20bn worth of ad prices, US lawsuit alleges",
-   "summary": "Amazon responded to the lawsuit, arguing the US Federal Trade Commission \"misunderstands\" their ad market.",
-   "link": "https://www.bbc.co.uk/news/articles/cvgy91nvy27o?at_medium=RSS&at_campaign=rss",
-   "outlet": "BBC Technology",
-   "feed_region": "uk",
-   "published": "2026-08-31T22:28:49+01:00"
-  },
-  {
-   "key": "trumpadminshelvescyclosporaresearchdespiterecordbreakingoutbreak",
-   "title": "Trump admin shelves Cyclospora research despite record-breaking outbreak",
-   "summary": "The CDC has tallied nearly 30,000 confirmed and probable cases this summer.",
-   "link": "https://arstechnica.com/health/2026/08/trump-admin-shelves-cyclospora-research-despite-record-breaking-outbreak/",
-   "outlet": "Ars Technica",
-   "feed_region": "global",
-   "published": "2026-08-31T22:23:09+01:00"
-  },
-  {
-   "key": "onimushawayoftheswordscrispcombatfitsinthesoulslikeerabutnoveltywaneso",
-   "title": "Onimusha: Way of the Sword’s Crisp Combat Fits in the Soulslike Era, but Novelty Wanes Over Endless Fights",
-   "summary": "Review: I wanted to love Onimusha’s return, but I got tired of engaging the same fight over and over again.",
-   "link": "https://www.cnet.com/tech/gaming/onimusha-way-of-the-swords-crisp-combat-fits-in-the-soulslike-era-but-novelty-wanes-over-endless-fights/",
-   "outlet": "CNET News",
-   "feed_region": "global",
-   "published": "2026-08-31T22:21:45+01:00"
-  },
-  {
-   "key": "iwenttotheloneliestbaseballgameonapplevisionpro",
-   "title": "I went to the loneliest baseball game on Apple Vision Pro",
-   "summary": "This weekend, I strapped on an Apple Vision Pro to watch a baseball game in immersive virtual reality for the first time. It was technically impressive, visually pretty remarkable, and also didn't make that much sense. Apple and Major League Baseball chose a classic match-up of the Boston Red Sox and the New York...",
-   "link": "https://www.theverge.com/tech/986967/apple-vision-pro-mlb-red-sox-yankees-immersive-game",
-   "outlet": "The Verge",
-   "feed_region": "global",
-   "published": "2026-08-31T22:18:27+01:00"
-  },
-  {
-   "key": "googlerollsout3newwaystobooktravelusingaimodeinsearch",
-   "title": "Google Rolls Out 3 New Ways to Book Travel Using AI Mode in Search",
-   "summary": "Just in time for Labor Day weekend, Google launches upgraded travel features to book flights, hotels and more.",
-   "link": "https://www.cnet.com/tech/services-and-software/google-rolls-out-3-new-ways-to-book-travel-using-ai-mode-in-search/",
-   "outlet": "CNET News",
-   "feed_region": "global",
-   "published": "2026-08-31T22:15:55+01:00"
   }
  ]
 }
