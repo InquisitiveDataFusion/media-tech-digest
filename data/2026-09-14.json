@@ -1,0 +1,357 @@
+{
+  "schema": 1,
+  "iso": "2026-09-14",
+  "headline": "ITV Mandates Subtitles and Paramount Schedules Settlement Conference Over Warner Merger",
+  "date_line": "Monday 14 September 2026 · covering Thu 10 Sep to Sun 13 Sep",
+  "footer_note": "Built from 21 cited articles across 13 outlets. Written by gemini-3.1-flash-lite, gemini-3.5-flash.",
+  "model": "gemini-3.1-flash-lite, gemini-3.5-flash",
+  "backfilled": false,
+  "generated_at": "2026-09-14T07:18:08+01:00",
+  "digest": {
+    "headline": "ITV Mandates Subtitles and Paramount Schedules Settlement Conference Over Warner Merger",
+    "lead": "ITV has announced that all advertisers must provide closed-caption subtitles by January 2027 to improve accessibility across its UK platforms. Meanwhile, Paramount and the California Attorney General have scheduled a late October settlement conference to address an ongoing antitrust lawsuit regarding the Warner Bros. Discovery merger in the United States.",
+    "glance": [
+      {
+        "text": "ITV is making closed-caption subtitling mandatory for all of its 2,000 advertisers by January 2027.",
+        "section": "regulation",
+        "refs": [
+          1
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "Culture secretary Lisa Nandy backed the BBC's plans for a sovereign streaming platform and promised government action on online prominence.",
+        "section": "regulation",
+        "refs": [
+          2
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "Sky Sports has extended its exclusive broadcast rights for the US Open tennis tournament in the UK until 2030.",
+        "section": "deals",
+        "refs": [
+          3
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "BBC Studios Digital Brands is launching two new Top Gear YouTube channels as part of its latest digital slate.",
+        "section": "audience",
+        "refs": [
+          4
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "Sky News has launched a paid subscription app called Defence Insider to offer specialist global affairs reporting.",
+        "section": "tech",
+        "refs": [
+          5
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "Cornwall-based broadband provider Wildanet has launched the UK's first TiVo-powered internet television service.",
+        "section": "tech",
+        "refs": [
+          6
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "Presenter Liza Tarbuck is leaving her weekly show on BBC Radio 2 to pursue other interests.",
+        "section": "radio",
+        "refs": [
+          7
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "Paramount and California's Attorney General will hold a two-day antitrust settlement conference in late October.",
+        "section": "regulation",
+        "refs": [
+          8,
+          9
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "Amazon has partnered with OpenAI to allow advertisers to use ChatGPT to target US users.",
+        "section": "tech",
+        "refs": [
+          10,
+          11
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "NBC Sports is changing its NFL viewership reporting by adopting Nielsen's standard ratings instead of blended metrics.",
+        "section": "audience",
+        "refs": [
+          12
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "The CRTC has ordered Canadian internet service providers to deliver the typical speeds they promise to consumers.",
+        "section": "regulation",
+        "refs": [
+          13
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "Roku has expanded its NFL Zone to Canada, offering a dedicated hub for American football programming.",
+        "section": "audience",
+        "refs": [
+          14
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "Blue Ant has licensed the Canadian comedy series Kim's Convenience to NBCUniversal's streaming service Peacock.",
+        "section": "deals",
+        "refs": [
+          15,
+          16
+        ],
+        "region": "americas"
+      }
+    ],
+    "sections": [
+      {
+        "id": "regulation",
+        "paragraphs": [
+          "ITV has announced a major accessibility push that will require all advertisers to include closed-caption subtitles on their commercials by January 2027. This mandate will apply across all ITV channels and its streaming platform ITVX, affecting around 2,000 advertisers including small and medium-sized enterprises.",
+          "Culture secretary Lisa Nandy has confirmed that the UK government will take action to guarantee online prominence for the BBC. Nandy expressed support for the public broadcaster's plans to develop a sovereign streaming platform to secure its digital future."
+        ],
+        "region": "uk"
+      },
+      {
+        "id": "deals",
+        "paragraphs": [
+          "Sky has secured a three-year extension to its US Open tennis broadcast rights. The agreement with the United States Tennis Association ensures that Sky Sports and the NOW streaming service remain the exclusive home of the tournament in the UK and Ireland until the end of 2030.",
+          "National Geographic and BBC Studios have partnered to co-produce a new multi-year natural history franchise focused on Africa. The seven-part event series was filmed over nearly four years across almost 30 countries."
+        ],
+        "region": "uk"
+      },
+      {
+        "id": "tech",
+        "paragraphs": [
+          "Cornish broadband provider Wildanet has partnered with TiVo to launch an internet-delivered television service. It is the first broadband provider in the United Kingdom to launch a service powered by TiVo, integrating live TV, catch-up and streaming platforms.",
+          "Sky News has introduced a new paid subscription app called Defence Insider. The application is designed to provide premium, specialist journalism covering global defence, security and international affairs."
+        ],
+        "region": "uk"
+      },
+      {
+        "id": "regulation",
+        "paragraphs": [
+          "Paramount has hit back at a multi-state antitrust lawsuit targeting its merger with Warner Bros. Discovery. Lawyers for Paramount argue that the legal challenge lacks sound economic analysis and that the states do not have the authority to regulate the merger.",
+          "A federal magistrate judge has scheduled a two-day settlement conference for late October. While the conference is a standard part of civil procedure, Paramount is preparing defenses for a potential trial next March."
+        ],
+        "region": "americas"
+      },
+      {
+        "id": "tech",
+        "paragraphs": [
+          "Amazon is collaborating with OpenAI to let advertisers integrate their campaigns into the ChatGPT answer engine. The partnership aims to help brands reach the artificial intelligence platform's US user base.",
+          "Google is quietly expanding a pay-per-use AI licensing scheme for publishers. However, critics argue the program serves more as a legal shield than a source of meaningful revenue for media companies."
+        ],
+        "region": "americas"
+      },
+      {
+        "id": "audience",
+        "paragraphs": [
+          "NBC Sports is altering its NFL viewership reporting. The broadcaster is abandoning its blended ratings system in favour of Nielsen's standard metrics.",
+          "In Canada, Roku has launched its NFL Zone destination. The hub centralises football programming as the streaming platform builds out its sports offerings for Canadian viewers."
+        ],
+        "region": "americas"
+      }
+    ],
+    "people_moves": [
+      {
+        "text": "Janelle Rodriguez, Executive Vice President of Programming, is leaving NBC News.",
+        "refs": [
+          17,
+          18,
+          19
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "Dan Weinberger, legal executive, is leaving Warner Bros. Discovery to join Disney as Deputy General Counsel.",
+        "refs": [
+          20
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "Frank Shaw, Chief Communications Officer, is leaving Microsoft after nearly 20 years as an employee.",
+        "refs": [
+          21
+        ],
+        "region": "americas"
+      }
+    ],
+    "coming_up": [
+      {
+        "date": "Jan 2027",
+        "text": "ITV's mandatory subtitling policy for all television commercials comes into effect",
+        "refs": [
+          1
+        ],
+        "region": "uk"
+      }
+    ]
+  },
+  "articles": [
+    {
+      "ref": 1,
+      "title": "ITV adding subtitles to all commercials",
+      "link": "https://www.advanced-television.com/2026/09/11/itv-adding-subtitles-to-all-commercials/",
+      "outlet": "Advanced Television",
+      "region": "uk"
+    },
+    {
+      "ref": 2,
+      "title": "UK government ‘will act’ to ensure online prominence for BBC, says Lisa Nandy",
+      "link": "https://www.c21media.net/news/uk-government-will-act-to-ensure-online-prominence-for-bbc-says-lisa-nandy/",
+      "outlet": "C21Media",
+      "region": "uk"
+    },
+    {
+      "ref": 3,
+      "title": "Sky Sports extends US Open rights to 2030",
+      "link": "https://www.advanced-television.com/2026/09/11/sky-sports-extends-us-open-rights-2030/",
+      "outlet": "Advanced Television",
+      "region": "uk"
+    },
+    {
+      "ref": 4,
+      "title": "BBC Studios launching two new Top Gear YouTube channels as latest digital slate revealed",
+      "link": "https://www.c21media.net/news/bbc-studios-launching-two-new-top-gear-youtube-channels-as-latest-digital-slate-revealed/",
+      "outlet": "C21Media",
+      "region": "uk"
+    },
+    {
+      "ref": 5,
+      "title": "Sky News launches paid Defence Insider app",
+      "link": "https://www.broadbandtvnews.com/2026/09/10/sky-news-launches-paid-defence-insider-app/",
+      "outlet": "Broadband TV News",
+      "region": "uk"
+    },
+    {
+      "ref": 6,
+      "title": "Wildanet becomes first UK broadband provider to launch TiVo-powered internet TV service",
+      "link": "https://www.broadbandtvnews.com/2026/09/10/wildanet-becomes-first-uk-broadband-provider-to-launch-tivo-powered-internet-tv-service/",
+      "outlet": "Broadband TV News",
+      "region": "uk"
+    },
+    {
+      "ref": 7,
+      "title": "‘I love a bit of mischief!’ Liza Tarbuck on why she’s swapping her Radio 2 mic for a potter’s wheel",
+      "link": "https://www.theguardian.com/tv-and-radio/2026/sep/12/liza-tarbuck-radio-2-great-celebrity-pottery-throwdown",
+      "outlet": "Guardian Media",
+      "region": "uk"
+    },
+    {
+      "ref": 8,
+      "title": "Paramount, California AG Rob Bonta to Hold Warner Bros. Merger Lawsuit Settlement Conference in Late October",
+      "link": "https://www.thewrap.com/industry-news/deals-ma/paramount-warner-bros-merger-rob-bonta-settlement-conference-october/",
+      "outlet": "The Wrap",
+      "region": "americas"
+    },
+    {
+      "ref": 9,
+      "title": "Court to Hold Paramount-Warner Bros. Settlement Conference in Late October",
+      "link": "https://variety.com/2026/film/news/paramount-warner-bros-settlement-conference-october-1236859028/",
+      "outlet": "Variety",
+      "region": "americas"
+    },
+    {
+      "ref": 10,
+      "title": "Amazon Lets Advertisers Use ChatGPT Via OpenAI Partnership",
+      "link": "https://www.mediapost.com/publications/article/417787/amazon-lets-advertisers-use-chatgpt-via-openai-par.html",
+      "outlet": "TVNewsCheck",
+      "region": "americas"
+    },
+    {
+      "ref": 11,
+      "title": "Amazon and OpenAI Team Up to Target ChatGPT’s US Users",
+      "link": "https://www.adweek.com/commerce/amazon-and-openai-team-up-to-target-chatgpts-us-users/",
+      "outlet": "Adweek",
+      "region": "americas"
+    },
+    {
+      "ref": 12,
+      "title": "NBC Sports Ditches Blended Ratings For Nielsen’s NFL Standard",
+      "link": "https://tvnewscheck.com/programming/article/nbc-sports-ditches-blended-ratings-for-nielsens-nfl-standard/",
+      "outlet": "TVNewsCheck",
+      "region": "americas"
+    },
+    {
+      "ref": 13,
+      "title": "CRTC orders ISPs to deliver “typical” internet speeds they promise",
+      "link": "https://cartt.ca/crtc-orders-isps-to-deliver-typical-internet-speeds-they-promise/",
+      "outlet": "Cartt.ca",
+      "region": "americas"
+    },
+    {
+      "ref": 14,
+      "title": "Roku brings NFL Zone to Canada",
+      "link": "https://mediaincanada.com/2026/09/11/roku-brings-nfl-zone-to-canada/",
+      "outlet": "Media in Canada",
+      "region": "americas"
+    },
+    {
+      "ref": 15,
+      "title": "Blue Ant licenses Kim’s Convenience to NBCUniversal’s Peacock",
+      "link": "https://cartt.ca/blue-ant-licenses-kims-convenience-to-nbcuniversals-peacock/",
+      "outlet": "Cartt.ca",
+      "region": "americas"
+    },
+    {
+      "ref": 16,
+      "title": "Peacock travels to Kim’s Convenience",
+      "link": "https://playbackonline.ca/2026/09/10/peacock-travels-to-kims-convenience/",
+      "outlet": "Playback",
+      "region": "americas"
+    },
+    {
+      "ref": 17,
+      "title": "Janelle Rodriguez To Exit NBC News As Programming EVP",
+      "link": "https://tvnewscheck.com/journalism/article/janelle-rodriguez-to-exit-nbc-news-as-programming-evp/",
+      "outlet": "TVNewsCheck",
+      "region": "americas"
+    },
+    {
+      "ref": 18,
+      "title": "Janelle Rodriguez to Exit NBC News as EVP of Programming",
+      "link": "https://www.thewrap.com/media-platforms/tv/janelle-rodriguez-to-exit-nbc-news/",
+      "outlet": "The Wrap",
+      "region": "americas"
+    },
+    {
+      "ref": 19,
+      "title": "Janelle Rodriguez, Who Helped Build NBC News’ Streaming Outlet, to Exit",
+      "link": "https://variety.com/2026/tv/news/janelle-rodriguez-nbc-news-exit-1236857830/",
+      "outlet": "Variety",
+      "region": "americas"
+    },
+    {
+      "ref": 20,
+      "title": "Warner Bros. Discovery Veteran Dan Weinberger to Join Disney as Deputy General Counsel",
+      "link": "https://www.hollywoodreporter.com/business/business-news/warner-bros-discovery-veteran-dan-weinberger-join-disney-deputy-general-counsel-1236698201/",
+      "outlet": "Hollywood Reporter",
+      "region": "americas"
+    },
+    {
+      "ref": 21,
+      "title": "Microsoft’s head of comms is leaving after almost 20 years",
+      "link": "https://www.theverge.com/news/993791/microsoft-frank-shaw-leaving-head-of-comms",
+      "outlet": "The Verge",
+      "region": "americas"
+    }
+  ]
+}
