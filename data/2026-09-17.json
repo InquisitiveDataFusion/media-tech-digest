@@ -1,0 +1,419 @@
+{
+  "schema": 1,
+  "iso": "2026-09-17",
+  "headline": "Channel 4 wins Paramount's three hundred million pound UK ad sales business",
+  "date_line": "Thursday 17 September 2026 · covering Mon 14 Sep to Wed 16 Sep",
+  "footer_note": "Built from 27 cited articles across 13 outlets. Written by gemini-3.5-flash.",
+  "model": "gemini-3.5-flash",
+  "backfilled": false,
+  "generated_at": "2026-09-17T07:10:15+01:00",
+  "digest": {
+    "headline": "Channel 4 wins Paramount's three hundred million pound UK ad sales business",
+    "lead": "Channel 4 has secured an exclusive long-term deal to handle advertising sales for Paramount's UK channels, including Channel 5, starting in 2027.",
+    "glance": [
+      {
+        "text": "Channel 4 will become the exclusive advertising sales partner for Paramount's UK channels, including Channel 5, from 2027.",
+        "section": "deals",
+        "refs": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "Sky Sports has extended its exclusive UK and Ireland broadcast rights for the US Open tennis tournament until 2030.",
+        "section": "deals",
+        "refs": [
+          6
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "One in five UK adults now uses artificial intelligence services to access news, according to Ofcom's latest annual report.",
+        "section": "audience",
+        "refs": [
+          7,
+          8
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "Tech giants face Ofcom regulation under proposed rules to protect access to internet radio on voice assistants.",
+        "section": "regulation",
+        "refs": [
+          9
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "ITV reality programming attracted over eight million monthly viewers in 2026, making it the second-largest genre on ITVX.",
+        "section": "audience",
+        "refs": [
+          10
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "The BBC has partnered with Birmingham City University to train students in broadcast technology at a new creative skills centre.",
+        "section": "tech",
+        "refs": [
+          11,
+          12
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "Ofcom plans to offer more FM and AM radio licences to expand local broadcasting across the United Kingdom.",
+        "section": "radio",
+        "refs": [
+          13
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "Paramount has warned California officials it is prepared to leave the state over antitrust opposition to its merger.",
+        "section": "deals",
+        "refs": [
+          14,
+          15
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "Amazon, Netflix and YouTube have formed a new lobbying group called the Streaming Access and Choice Alliance.",
+        "section": "regulation",
+        "refs": [
+          16
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "Apple TV dominated the Emmy Awards with 28 wins, led by its comedy series Widow's Bay.",
+        "section": "audience",
+        "refs": [
+          17
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "Rogers and Telus are challenging the CRTC in court over its crackdown on consumer fees.",
+        "section": "regulation",
+        "refs": [
+          18
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "OpenAI and Anthropic have held weeks of safety talks with Google DeepMind amid political pressure.",
+        "section": "tech",
+        "refs": [
+          19,
+          20
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "Amazon Prime Video is launching a five-service streaming bundle with Starz, AMC+ and others for $29.99.",
+        "section": "deals",
+        "refs": [
+          21,
+          22
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "Nielsen is accelerating its streaming ratings by releasing weekly Top 10 charts 11 days after tracking.",
+        "section": "audience",
+        "refs": [
+          23
+        ],
+        "region": "americas"
+      }
+    ],
+    "sections": [
+      {
+        "id": "deals",
+        "paragraphs": [
+          "Channel 4 Sales has won a major commercial partnership to represent Paramount's UK portfolio from 2027. The deal, valued at over £300 million, brings advertising for Channel 4 and Channel 5 under one roof for the first time.",
+          "Sky Sports has secured a three-year extension to its exclusive rights for the US Open. The agreement ensures the tennis tournament remains on the broadcaster's channels in the UK and Ireland until 2030."
+        ],
+        "region": "uk"
+      },
+      {
+        "id": "audience",
+        "paragraphs": [
+          "Ofcom's News Report 2026 reveals that 21 per cent of UK adults now use generative artificial intelligence to access news. Despite this shift, traditional broadcast news continues to cut through in a highly fragmented media landscape.",
+          "ITV reports that its reality TV portfolio, including Love Island and Big Brother, has generated over 450 million streams this year. The genre reaches more than eight million viewers monthly, making it the second-largest on ITVX."
+        ],
+        "region": "uk"
+      },
+      {
+        "id": "radio",
+        "paragraphs": [
+          "Voice assistants like Alexa, Siri and Google Assistant could face Ofcom enforcement under new rules designed to protect access to internet radio. Meanwhile, the regulator has concluded that the future of radio includes issuing more FM and AM licences.",
+          "Industry responses to a recent consultation have urged the BBC to share its national DAB+ capacity. Respondents argued that small-scale DAB needs more freedom, stronger coverage and quicker decisions from Ofcom."
+        ],
+        "region": "uk"
+      },
+      {
+        "id": "deals",
+        "paragraphs": [
+          "Paramount has informed California Attorney General Rob Bonta and Los Angeles Mayor Karen Bass of plans to leave the state. The move comes as state attorneys general fight the company's proposed 111 billion dollar merger with Warner Bros. Discovery. Paramount and Bonta have finalised dates for settlement talks ahead of an antitrust trial scheduled for March.",
+          "Amazon Prime Video is launching its first five-service streaming bundle. The package includes Starz, AMC+, BritBox, MGM+ and PBS Masterpiece for 29.99 dollars per month. This combined offering represents a saving of nearly 40 percent compared to subscribing to each service individually."
+        ],
+        "region": "americas"
+      },
+      {
+        "id": "regulation",
+        "paragraphs": [
+          "Amazon, Netflix and YouTube have established the Streaming Access and Choice Alliance to lobby in Washington. Led by tech trade group TechNet, the alliance aims to promote high-value entertainment experiences amid growing backlash over the cost of sports on streaming platforms.",
+          "In Canada, telecom giants Rogers and Telus are asking the courts to decide whether the CRTC is being unfair in its crackdown on fees. Meanwhile, the Television Bureau has urged the FCC to overturn expanded eligibility for political advertising discounts following a Supreme Court emergency stay."
+        ],
+        "region": "americas"
+      },
+      {
+        "id": "audience",
+        "paragraphs": [
+          "Apple TV broke the long-standing Emmy dominance of HBO and Netflix by taking home 28 trophies. The comedy series Widow's Bay led the sweep with 14 total awards. However, the overall Emmy Awards telecast on NBC saw early ratings dip by about 10 percent compared to the 2025 show.",
+          "The refurbished season debut of CBS newsmagazine 60 Minutes suffered a 19 percent ratings drop. The audience fell by 33 percent in the key 25 to 54 demographic, which may be linked to a weak NFL game lead-in. Conversely, Netflix drew 18.5 million US viewers for its live broadcast of the NFL game in Melbourne."
+        ],
+        "region": "americas"
+      },
+      {
+        "id": "tech",
+        "paragraphs": [
+          "OpenAI, Anthropic and Google DeepMind have engaged in weeks of discussions regarding AI safety. The labs are considering embedding independent safety evaluators inside their facilities. However, researchers warn that meaningful oversight will require true transparency and eventual regulation.",
+          "OpenAI has also acquired smartphone camera developer Glass Imaging for an estimated 300 million dollars. In Canada, Village Media has partnered with OpenAI to launch an AI-powered local information navigator called Open Door. Bell Canada is also pivoting its core business towards AI and sovereign data centres."
+        ],
+        "region": "americas"
+      }
+    ],
+    "people_moves": [
+      {
+        "text": "Mark Linsey and Angie Stephenson have left their roles at BBC Studios in Los Angeles, with Ryan O'Dowd promoted to lead the office.",
+        "refs": [
+          24
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "Juggy Sihota, appointed as chair of the Telus Fund",
+        "refs": [
+          25
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "Natalie Noury, appointed as San Jose Sharks host for NBC Sports California",
+        "refs": [
+          26
+        ],
+        "region": "americas"
+      }
+    ],
+    "coming_up": [
+      {
+        "date": "13 Oct 2026",
+        "text": "Grand Slam of Curling season opening event begins in Victoria, broadcasting on CBC and Sportsnet",
+        "refs": [
+          27
+        ],
+        "region": "americas"
+      }
+    ]
+  },
+  "articles": [
+    {
+      "ref": 1,
+      "title": "Channel 4 poaches Paramount’s £300m-plus TV ad sales business from Sky",
+      "link": "https://www.theguardian.com/media/2026/sep/15/channel-4-paramount-tv-ad-sales-sky",
+      "outlet": "Guardian Media",
+      "region": "uk"
+    },
+    {
+      "ref": 2,
+      "title": "Channel 4 to take over advertising sales for 5 and Paramount channels",
+      "link": "https://www.broadbandtvnews.com/2026/09/16/channel-4-to-take-over-advertising-sales-for-5-and-paramount-channels/",
+      "outlet": "Broadband TV News",
+      "region": "uk"
+    },
+    {
+      "ref": 3,
+      "title": "Channel 4 Sales to become Paramount’s UK ad sales partner",
+      "link": "https://www.advanced-television.com/2026/09/15/channel-4-sales-to-become-paramounts-uk-ad-sales-partner/",
+      "outlet": "Advanced Television",
+      "region": "uk"
+    },
+    {
+      "ref": 4,
+      "title": "UK’s Channel 4 and 5 strike exclusive pact bringing together advertising sales",
+      "link": "https://www.c21media.net/news/uks-channel-4-and-5-strike-exclusive-pact-bringing-together-advertising-sales/",
+      "outlet": "C21Media",
+      "region": "uk"
+    },
+    {
+      "ref": 5,
+      "title": "Channel 4 Sales to become exclusive partner for Paramount’s UK linear and digital brands",
+      "link": "https://uk.themedialeader.com/channel-4-sales-to-become-exclusive-partner-for-paramount-in-uk/?utm_source=rss&utm_medium=rss&utm_campaign=channel-4-sales-to-become-exclusive-partner-for-paramount-in-uk",
+      "outlet": "The Media Leader",
+      "region": "uk"
+    },
+    {
+      "ref": 6,
+      "title": "Sky Sports extends exclusive US Open rights until 2030",
+      "link": "https://www.broadbandtvnews.com/2026/09/14/sky-sports-extends-exclusive-us-open-rights-until-2030/",
+      "outlet": "Broadband TV News",
+      "region": "uk"
+    },
+    {
+      "ref": 7,
+      "title": "Ofcom: One in five UK adults use AI for news",
+      "link": "https://www.broadbandtvnews.com/2026/09/15/ofcom-one-in-five-uk-adults-use-ai-for-news/",
+      "outlet": "Broadband TV News",
+      "region": "uk"
+    },
+    {
+      "ref": 8,
+      "title": "Ofcom: Broadcast news continues to cut through",
+      "link": "https://www.advanced-television.com/2026/09/15/ofcom-news-content-increasingly-curated-by-online-gatekeepers/",
+      "outlet": "Advanced Television",
+      "region": "uk"
+    },
+    {
+      "ref": 9,
+      "title": "Voice assistants move closer to radio regulation",
+      "link": "https://radiotoday.co.uk/2026/09/voice-assistants-move-closer-to-radio-regulation/",
+      "outlet": "RadioToday",
+      "region": "uk"
+    },
+    {
+      "ref": 10,
+      "title": "ITV Reality reaching over 8m viewers per month",
+      "link": "https://www.advanced-television.com/2026/09/16/itv-reality-reaching-over-8m-viewers-per-month/",
+      "outlet": "Advanced Television",
+      "region": "uk"
+    },
+    {
+      "ref": 11,
+      "title": "BBC partners with Birmingham City University to support future of broadcast technology",
+      "link": "https://www.tvbeurope.com/business/bbc-partners-with-birmingham-city-university-to-support-future-of-broadcast-technology",
+      "outlet": "TVBEurope",
+      "region": "uk"
+    },
+    {
+      "ref": 12,
+      "title": "BBC teams up with Birmingham City University",
+      "link": "https://radiotoday.co.uk/2026/09/bbc-teams-up-with-birmingham-city-university/",
+      "outlet": "RadioToday",
+      "region": "uk"
+    },
+    {
+      "ref": 13,
+      "title": "Ofcom to offer more FM and AM radio licences",
+      "link": "https://radiotoday.co.uk/2026/09/ofcom-to-offer-more-fm-and-am-radio-licences/",
+      "outlet": "RadioToday",
+      "region": "uk"
+    },
+    {
+      "ref": 14,
+      "title": "Paramount Preps California Exit Amid State AGs’ Warner Bros. Merger Battle",
+      "link": "https://www.thewrap.com/industry-news/business/paramount-david-ellison-california-exit/",
+      "outlet": "The Wrap",
+      "region": "americas"
+    },
+    {
+      "ref": 15,
+      "title": "Paramount Sets California Exit Plans Over Antitrust Battle With Blue States & Stymied $111B WBD Merger",
+      "link": "https://tvnewscheck.com/business/article/paramount-sets-california-exit-plans-over-antitrust-battle-with-blue-states-stymied-111b-wbd-merger/",
+      "outlet": "TVNewsCheck",
+      "region": "americas"
+    },
+    {
+      "ref": 16,
+      "title": "Netflix, Amazon & YouTube Form D.C. Lobbying Group Amid Backlash Over Cost Of Sports On Streaming",
+      "link": "https://tvnewscheck.com/business/article/netflix-amazon-youtube-form-d-c-lobbying-group-amid-backlash-over-cost-of-sports-on-streaming/",
+      "outlet": "TVNewsCheck",
+      "region": "americas"
+    },
+    {
+      "ref": 17,
+      "title": "Apple TV Wins 28 Emmys Thanks to ‘Widow’s Bay’ Sweep, HBO Max Takes Second Place With Help From ‘The Pitt’ and ‘DTF St. Louis’",
+      "link": "https://variety.com/2026/tv/news/apple-tv-wins-emmys-widows-bay-hbo-max-1236861206/",
+      "outlet": "Variety",
+      "region": "americas"
+    },
+    {
+      "ref": 18,
+      "title": "Rogers, Telus want court to decide whether CRTC is being unfair in fees crackdown",
+      "link": "https://cartt.ca/rogers-telus-want-court-to-decide-whether-crtc-is-being-unfair-in-fees-crackdown/",
+      "outlet": "Cartt.ca",
+      "region": "americas"
+    },
+    {
+      "ref": 19,
+      "title": "OpenAI, Anthropic, Google have been in talks on AI safety for weeks",
+      "link": "https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/",
+      "outlet": "TechCrunch",
+      "region": "americas"
+    },
+    {
+      "ref": 20,
+      "title": "Inside Anthropic and OpenAI’s Move to Slow AI : Is It Really a Turning Point? | Analysis",
+      "link": "https://www.thewrap.com/industry-news/tech/anthropic-openai-ai-slowdown-reaction-analysis/",
+      "outlet": "The Wrap",
+      "region": "americas"
+    },
+    {
+      "ref": 21,
+      "title": "Prime Video Plans Mega Streaming Bundle With Starz, AMC+, BritBox, MGM+ & PBS Masterpiece",
+      "link": "https://tvnewscheck.com/business/article/prime-video-plans-mega-streaming-bundle-with-starz-amc-britbox-mgm-pbs-masterpiece/",
+      "outlet": "TVNewsCheck",
+      "region": "americas"
+    },
+    {
+      "ref": 22,
+      "title": "Prime Video Launches Bundle With Starz, AMC+, BritBox, MGM+ and PBS Masterpiece for $29.99",
+      "link": "https://www.thewrap.com/media-platforms/streaming/starz-amc-mgm-plus-britbox-pbs-masterpiece-bundle-prime-video/",
+      "outlet": "The Wrap",
+      "region": "americas"
+    },
+    {
+      "ref": 23,
+      "title": "Nielsen Is Speeding Up Its Streaming Ratings With Daily Data",
+      "link": "https://www.thewrap.com/media-platforms/streaming/nielsen-streaming-ratings-faster-daily-data/",
+      "outlet": "The Wrap",
+      "region": "americas"
+    },
+    {
+      "ref": 24,
+      "title": "Mark Linsey, Angie Stephenson exit as BBC Studios rejigs LA operation",
+      "link": "https://www.c21media.net/news/mark-linsey-angie-stephenson-exit-as-bbc-studios-rejigs-la-operation/",
+      "outlet": "C21Media",
+      "region": "uk"
+    },
+    {
+      "ref": 25,
+      "title": "Juggy Sihota appointed as chair of Telus Fund",
+      "link": "https://cartt.ca/juggy-sihota-appointed-as-chair-of-telus-fund/",
+      "outlet": "Cartt.ca",
+      "region": "americas"
+    },
+    {
+      "ref": 26,
+      "title": "NBC Sports California Names Natalie Noury Sharks Host",
+      "link": "https://tvnewscheck.com/journalism/article/nbc-sports-california-names-natalie-noury-sharks-host/",
+      "outlet": "TVNewsCheck",
+      "region": "americas"
+    },
+    {
+      "ref": 27,
+      "title": "Grand Slam of Curling unveils 2026 broadcast team for CBC and Sportsnet",
+      "link": "https://broadcastdialogue.com/grand-slam-of-curling-unveils-2026-broadcast-team-for-cbc-and-sportsnet/",
+      "outlet": "Broadcast Dialogue",
+      "region": "americas"
+    }
+  ]
+}
