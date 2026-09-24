@@ -1,0 +1,438 @@
+{
+  "schema": 1,
+  "iso": "2026-09-24",
+  "headline": "Paramount and Warner Bros. Discovery merger clears major legal hurdles",
+  "date_line": "Thursday 24 September 2026 · covering Mon 21 Sep to Wed 23 Sep",
+  "footer_note": "Built from 28 cited articles across 13 outlets. Written by gemini-3.1-flash-lite.",
+  "model": "gemini-3.1-flash-lite",
+  "backfilled": false,
+  "generated_at": "2026-09-24T07:11:36+01:00",
+  "digest": {
+    "headline": "Paramount and Warner Bros. Discovery merger clears major legal hurdles",
+    "lead": "The Paramount and Warner Bros. Discovery merger moves closer to completion following key legal settlements in North America. Meanwhile, UK broadcasters are navigating significant shifts in content strategy, technology integration, and regulatory scrutiny as the BBC prepares for its upcoming Charter review.",
+    "glance": [
+      {
+        "text": "Channel 4 has commissioned a new lifestyle series focused on the cost of living crisis.",
+        "section": "deals",
+        "refs": [
+          1
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "The BBC is integrating extended reality technology into its Match of the Day coverage.",
+        "section": "tech",
+        "refs": [
+          2
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "Sky Sports has extended its exclusive broadcast rights for Cricket South Africa.",
+        "section": "deals",
+        "refs": [
+          3
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "Channel 4 has appointed Barry John as its new technology director.",
+        "section": "people",
+        "refs": [
+          4
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "ITV reports that Big Brother streaming figures rose by 32 percent in its first week.",
+        "section": "results",
+        "refs": [
+          5
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "The BBC is exploring the future of AI at the upcoming Content London festival.",
+        "section": "tech",
+        "refs": [
+          6
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "Paramount settled antitrust lawsuits with 12 states and the WGA to advance its Warner Bros. Discovery merger.",
+        "section": "deals",
+        "refs": [
+          7,
+          8
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "Disney+ and Hulu increased subscription prices, with ad-free bundles now exceeding $21 per month.",
+        "section": "audience",
+        "refs": [
+          9,
+          10
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "News organisations including CBS and NPR filed for a restraining order against the Trump administration over press pool bans.",
+        "section": "regulation",
+        "refs": [
+          11,
+          12
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "CNN staff expressed concern over potential layoffs and future operations following the impending Paramount acquisition.",
+        "section": "people",
+        "refs": [
+          13
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "Corus Entertainment will cede 99 per cent control to debtholders following regulatory approval to manage its debt.",
+        "section": "deals",
+        "refs": [
+          14
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "Andreessen Horowitz launched an academy to connect young talent with startups like OpenAI and Meta.",
+        "section": "tech",
+        "refs": [
+          15
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "Publishers are scrutinising Google's new ad tech remedies as the platform battle shifts toward AI.",
+        "section": "tech",
+        "refs": [
+          16,
+          17
+        ],
+        "region": "americas"
+      }
+    ],
+    "sections": [
+      {
+        "id": "regulation",
+        "paragraphs": [
+          "The House of Lords Communications and Digital Committee has urged the government to ensure the upcoming BBC Charter review addresses the broadcaster's financial pressures and changing distribution methods [25].",
+          "Public service broadcasters are also debating the trade-offs between reach and control as they increase their presence on platforms like YouTube [26]."
+        ],
+        "region": "uk"
+      },
+      {
+        "id": "deals",
+        "paragraphs": [
+          "Channel 4 has acquired the Australian observational series Sydney Harbour Cops and partnered with Nivea for a branded YouTube format [64, 72].",
+          "Additionally, the broadcaster joined BBC Select and SBS in pre-buying the factual series The Land That Made Us [27]."
+        ],
+        "region": "uk"
+      },
+      {
+        "id": "tech",
+        "paragraphs": [
+          "The BBC has unveiled its Time-Addressable Data Store, an open and cloud-native API specification for managing timeline data [28].",
+          "Channel 4 has also strengthened its leadership team by appointing Barry John as technology director to oversee its commercial and ad-tech strategy [4]."
+        ],
+        "region": "uk"
+      },
+      {
+        "id": "deals",
+        "paragraphs": [
+          "Paramount reached a settlement with 12 state attorneys general and the WGA to clear its $110 billion acquisition of Warner Bros. Discovery. The deal includes commitments to maintain studio lots and invest $300 million annually in US film production.",
+          "David Ellison aims to close the merger in approximately two weeks. The combined entity faces significant challenges, including a debt load exceeding $77 billion. Reports suggest Paramount may seek equity investment from Elon Musk to bolster its financial position."
+        ],
+        "region": "americas"
+      },
+      {
+        "id": "audience",
+        "paragraphs": [
+          "Disney+ and Hulu have raised subscription prices again. Ad-free bundles now cost more than $21 per month, marking a 13 per cent increase for some users.",
+          "The price hikes occur as Disney explores new strategies to expand its streaming business beyond subscription fees. Streaming services continue to face inflationary pressures across the market."
+        ],
+        "region": "americas"
+      },
+      {
+        "id": "regulation",
+        "paragraphs": [
+          "Major news organisations, including CBS, Fox News, and NPR, filed for a restraining order to end a White House press ban. The legal action follows the exclusion of CNN, MS NOW, and Politico from the press pool.",
+          "NPR leadership condemned the bans as a direct assault on press freedom. The industry remains focused on the legal battle to restore access for all journalists."
+        ],
+        "region": "americas"
+      },
+      {
+        "id": "tech",
+        "paragraphs": [
+          "Microsoft refreshed its Surface Pro and Laptop lines with Qualcomm X2 Plus chips. Meanwhile, Motorola announced the Signature 27 phone featuring the Snapdragon 8 Elite Extreme chip.",
+          "Publishers are evaluating Google's new ad tech remedies as regulators attempt to curb the platform's market power. The industry is watching how AI integration affects the advertising stack."
+        ],
+        "region": "americas"
+      }
+    ],
+    "people_moves": [
+      {
+        "text": "Barry John, Technology Director, Channel 4",
+        "refs": [
+          4
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "Elizabeth Franco, Creative Executive for non-scripted, Amazon MGM Studios",
+        "refs": [
+          18
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "Karandeep Anand, Chief Technology Officer, Disney",
+        "refs": [
+          19,
+          20
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "Mark Thompson, Worldwide Chairman and CEO, CNN",
+        "refs": [
+          21,
+          22
+        ],
+        "region": "americas"
+      }
+    ],
+    "coming_up": [
+      {
+        "date": "2 Oct",
+        "text": "Karandeep Anand begins role as Disney CTO",
+        "refs": [
+          20
+        ],
+        "region": "uk"
+      },
+      {
+        "date": "3 Oct",
+        "text": "Lucky Dog debuts on CBS",
+        "refs": [
+          23
+        ],
+        "region": "uk"
+      },
+      {
+        "date": "24 Sep",
+        "text": "Court hearing to consider the Paramount-Warner Bros. settlement",
+        "refs": [
+          24
+        ],
+        "region": "americas"
+      }
+    ]
+  },
+  "articles": [
+    {
+      "ref": 1,
+      "title": "Channel 4 greenlights cost-of-living series Twice the Food, Half the Price",
+      "link": "https://www.c21media.net/news/channel-4-greenlights-cost-of-living-series-twice-the-food-half-the-price/",
+      "outlet": "C21Media",
+      "region": "uk"
+    },
+    {
+      "ref": 2,
+      "title": "BBC invests in extended reality volume for Match of the Day",
+      "link": "https://www.tvbeurope.com/virtual-production/bbc-invests-in-extended-reality-volume-for-match-of-the-day",
+      "outlet": "TVBEurope",
+      "region": "uk"
+    },
+    {
+      "ref": 3,
+      "title": "Sky Sports extends Cricket South Africa partnership",
+      "link": "https://www.advanced-television.com/2026/09/23/sky-sports-extends-cricket-south-africa-partnership/",
+      "outlet": "Advanced Television",
+      "region": "uk"
+    },
+    {
+      "ref": 4,
+      "title": "Channel 4 names Barry John as technology director",
+      "link": "https://www.tvbeurope.com/business/people/channel-4-names-barry-john-as-chief-technology-officer",
+      "outlet": "TVBEurope",
+      "region": "uk"
+    },
+    {
+      "ref": 5,
+      "title": "ITV: Big Brother streaming up 32%",
+      "link": "https://www.advanced-television.com/2026/09/22/itv-big-brother-streaming-up-32/",
+      "outlet": "Advanced Television",
+      "region": "uk"
+    },
+    {
+      "ref": 6,
+      "title": "BBC Studios, AIMICI, Utopai Studios and Argonon to explore AIâ€™s next chapter at AI Festival @ Content London",
+      "link": "https://www.c21media.net/department/marketing/bbc-studios-aimici-utopai-studios-and-argonon-to-explore-ais-next-chapter-at-ai-festival-content-london/",
+      "outlet": "C21Media",
+      "region": "uk"
+    },
+    {
+      "ref": 7,
+      "title": "Paramount settles lawsuit blocking $110 billion Warner Bros. merger",
+      "link": "https://www.theverge.com/entertainment/998302/paramount-warner-bros-discovery-merger-settlement",
+      "outlet": "The Verge",
+      "region": "americas"
+    },
+    {
+      "ref": 8,
+      "title": "WGA Settles Antitrust Lawsuit With Paramount Over Warner Bros. Discovery Merger",
+      "link": "https://variety.com/2026/film/news/wga-settles-lawsuit-paramount-skydance-warner-bros-merger-1236871354/",
+      "outlet": "Variety",
+      "region": "americas"
+    },
+    {
+      "ref": 9,
+      "title": "Disney+ & Hulu Raise Prices, With Ad-Free Plans Topping $21 Each",
+      "link": "https://tvnewscheck.com/business/article/disney-hulu-raise-prices-with-ad-free-plans-topping-21-each/",
+      "outlet": "TVNewsCheck",
+      "region": "americas"
+    },
+    {
+      "ref": 10,
+      "title": "Disney+ and Hulu Raise Prices Again, Ad-Free Plans Top $21 Per Month",
+      "link": "https://www.thewrap.com/industry-news/business/disney-plus-hulu-price-increase-when-plans-september-2026/",
+      "outlet": "The Wrap",
+      "region": "americas"
+    },
+    {
+      "ref": 11,
+      "title": "CBS, Fox News, NPR and Dozens More News Media Groups File for Restraining Order to End Trump Press Ban",
+      "link": "https://www.thewrap.com/industry-news/public-policy-legal/reporters-committee-media-organizations-file-restraining-order-to-end-trump-media-ban/",
+      "outlet": "The Wrap",
+      "region": "americas"
+    },
+    {
+      "ref": 12,
+      "title": "NPR Editor-in-Chief Condemns White House Press Bans",
+      "link": "https://radioink.com/2026/09/22/npr-editor-in-chief-condemns-white-house-press-bans/",
+      "outlet": "Radio Ink",
+      "region": "americas"
+    },
+    {
+      "ref": 13,
+      "title": "CNN Staffers Panic Over Paramount Merger As Layoffs Loom In Months Ahead: ‘Bloodbath Coming’",
+      "link": "https://tvnewscheck.com/business/article/cnn-staffers-panic-over-paramount-merger-as-layoffs-loom-in-months-ahead-bloodbath-coming/",
+      "outlet": "TVNewsCheck",
+      "region": "americas"
+    },
+    {
+      "ref": 14,
+      "title": "Corus debtholders to take 99% control following CRTC approval",
+      "link": "https://mediaincanada.com/2026/09/21/corus-debtholders-to-take-99-control-following-crtc-approval/",
+      "outlet": "Media in Canada",
+      "region": "americas"
+    },
+    {
+      "ref": 15,
+      "title": "Andreessen Horowitz is launching an ‘academy’ with no homework and partnerships with Palantir, Google, and Meta",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/998813/andreessen-horowitz-ai-academy",
+      "outlet": "The Verge",
+      "region": "americas"
+    },
+    {
+      "ref": 16,
+      "title": "Ad Tech Briefing: Google’s ad tech remedies arrive just as the platform battle moves to AI",
+      "link": "https://digiday.com/media-buying/ad-tech-briefing-googles-ad-tech-remedies-arrive-just-as-the-platform-battle-moves-to-ai/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+      "outlet": "Digiday",
+      "region": "americas"
+    },
+    {
+      "ref": 17,
+      "title": "Publishers’ scorecard on Google’s ad tech remedies: they’re progress, but far from a clean win",
+      "link": "https://digiday.com/media/publishers-scorecard-on-googles-ad-tech-remedies-theyre-progress-but-far-from-a-clean-win/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+      "outlet": "Digiday",
+      "region": "americas"
+    },
+    {
+      "ref": 18,
+      "title": "Elizabeth Franco leaves Netflix to join Amazon as creative exec for non-scripted",
+      "link": "https://www.c21media.net/news/elizabeth-franco-leaves-netflix-to-join-amazon-as-creative-exec-for-non-scripted/",
+      "outlet": "C21Media",
+      "region": "uk"
+    },
+    {
+      "ref": 19,
+      "title": "Disney appoints Character.AI chief as first CTO",
+      "link": "https://www.broadbandtvnews.com/2026/09/21/disney-appoints-character-ai-chief-as-first-cto/",
+      "outlet": "Broadband TV News",
+      "region": "uk"
+    },
+    {
+      "ref": 20,
+      "title": "Disney appoints Anand as Chief Technology Officer",
+      "link": "https://www.advanced-television.com/2026/09/21/disney-appoints-anand-as-chief-technology-officer/",
+      "outlet": "Advanced Television",
+      "region": "uk"
+    },
+    {
+      "ref": 21,
+      "title": "CNN Chief Says He’s ‘Enthusiastic’ About Staying Under Paramount, But Not Sure He Can",
+      "link": "https://tvnewscheck.com/journalism/article/cnn-chief-says-hes-enthusiastic-about-staying-under-paramount-but-not-sure-he-can/",
+      "outlet": "TVNewsCheck",
+      "region": "americas"
+    },
+    {
+      "ref": 22,
+      "title": "CNN Chief Mark Thompson Wants to Stay at Network ‘If Paramount Finds Me Useful’",
+      "link": "https://www.thewrap.com/media-platforms/journalism/mark-thompson-stay-cnn-paramount-takeover/",
+      "outlet": "The Wrap",
+      "region": "americas"
+    },
+    {
+      "ref": 23,
+      "title": "CBS, Hearst Media Production Group pair on Lucky Dog",
+      "link": "https://www.c21media.net/news/cbs-hearst-media-production-group-pair-on-lucky-dog/",
+      "outlet": "C21Media",
+      "region": "uk"
+    },
+    {
+      "ref": 24,
+      "title": "Paramount-Warner Bros. Settlement to Be Considered at Thursday Court Hearing",
+      "link": "https://www.hollywoodreporter.com/business/business-news/paramount-warner-bros-settlement-court-hearing-1236708046/",
+      "outlet": "Hollywood Reporter",
+      "region": "americas"
+    },
+    {
+      "ref": 25,
+      "title": "Lords: BBC Charter review should equip broadcaster for ‘changes in distribution and delivery of media’",
+      "link": "https://www.tvbeurope.com/business/mps-bbc-charter-review-should-equip-broadcaster-for-changes-in-distribution-and-delivery-of-media",
+      "outlet": "TVBEurope",
+      "region": "uk"
+    },
+    {
+      "ref": 26,
+      "title": "“A Trade-Off Between Reach and Control”: PSBs Discuss YouTube Distribution in BBC Charter Inquiry",
+      "link": "https://videoweek.com/2026/09/21/a-trade-off-between-reach-and-control-psbs-discuss-youtube-distribution-in-bbc-charter-inquiry/",
+      "outlet": "VideoWeek",
+      "region": "uk"
+    },
+    {
+      "ref": 27,
+      "title": "SBS, C4 and BBC Select pick up Alice Roberts series The Land That Made Us",
+      "link": "https://www.c21media.net/news/sbs-c4-and-bbc-select-pick-up-alice-roberts-series-the-land-that-made-us/",
+      "outlet": "C21Media",
+      "region": "uk"
+    },
+    {
+      "ref": 28,
+      "title": "BBC R&D unveils Time-Addressable Data Store",
+      "link": "https://www.tvbeurope.com/media-management/bbc-rd-unveils-time-addressable-data-store",
+      "outlet": "TVBEurope",
+      "region": "uk"
+    }
+  ]
+}
