@@ -1,6 +1,870 @@
 {
- "updated": "2026-09-23T22:47:03+01:00",
+ "updated": "2026-09-24T06:25:18+01:00",
  "items": [
+  {
+   "key": "whatyouneedtoknowabouttheopenaiaustraliangovernmenthack",
+   "title": "What you need to know about the OpenAI Australian government hack",
+   "summary": "The BBC’s North America technology correspondent Lily Jamali explains how the Medicare breach happened, and why it matters.",
+   "link": "https://www.bbc.co.uk/news/videos/cwe8ekyzdjvlo?at_medium=RSS&at_campaign=rss",
+   "outlet": "BBC Technology",
+   "feed_region": "uk",
+   "published": "2026-09-24T06:18:26+01:00"
+  },
+  {
+   "key": "risingfuelcostshittingbusinessesandcustomers",
+   "title": "Rising fuel costs hitting businesses and customers",
+   "summary": "Business owners say higher fuel costs are creating challenges on several fronts.",
+   "link": "https://www.bbc.co.uk/news/articles/cvn0j77dzjdko?at_medium=RSS&at_campaign=rss",
+   "outlet": "BBC Business",
+   "feed_region": "uk",
+   "published": "2026-09-24T06:10:25+01:00"
+  },
+  {
+   "key": "riseincommuterstudentsduetolivingcosts",
+   "title": "Rise in 'commuter students' due to living costs",
+   "summary": "Some young people are staying at home while attending university as they cannot afford to move.",
+   "link": "https://www.bbc.co.uk/news/articles/c670lknwqyxno?at_medium=RSS&at_campaign=rss",
+   "outlet": "BBC Business",
+   "feed_region": "uk",
+   "published": "2026-09-24T06:05:35+01:00"
+  },
+  {
+   "key": "seangunnsayshestoooldandretiredfromplayingrocketraccooninguardiansofth",
+   "title": "Sean Gunn Says He’s ‘Too Old’ and ‘Retired’ From Playing Rocket Raccoon in ‘Guardians of the Galaxy’: It ‘Hurts After a While’",
+   "summary": "Sean Gunn has proclaimed himself “retired” from doing the on-set motion capture for the fan-favorite “Guardians of the Galaxy” character Rocket Raccoon. The actor explained that he feels he’s aged out of standing in for the Marvel character due to the physical demands of contorting himself into the shape of the...",
+   "link": "https://variety.com/2026/film/news/sean-gunn-retired-rocket-raccoon-guardians-of-the-galaxy-1236873997/",
+   "outlet": "Variety",
+   "feed_region": "americas",
+   "published": "2026-09-24T05:51:31+01:00"
+  },
+  {
+   "key": "andreajacksonaddstalentstrategytoremitatplimsollstudios",
+   "title": "Andrea Jackson adds talent strategy to remit at Plimsoll Studios",
+   "summary": "Plimsoll Studios, the ITV Studios-owned production company, has expanded Andrea Jackson's role to creative director, entertainment and talent strategy. Jackson, previously creative director of entertai...",
+   "link": "https://www.c21media.net/news/andrea-jackson-adds-talent-strategy-to-remit-at-plimsoll-studios/",
+   "outlet": "C21Media",
+   "feed_region": "uk",
+   "published": "2026-09-24T05:20:37+01:00"
+  },
+  {
+   "key": "nooneachievesanythingaloneinsidevarietyspowerofwomeneventwithjenniferh",
+   "title": "‘No One Achieves Anything Alone’: Inside Variety’s Power of Women Event With Jennifer Hudson, Sharon Stone, Pearlena Igbokwe and Melissa McCarthy",
+   "summary": "Jennifer Hudson, Pearlena Igbokwe, Melissa McCarthy and Sharon Stone were the guests of honor at the starry Variety Power of Women presented by Lifetime event in Beverly Hills Wednesday night, during which the musician, executive and actresses were commended for both their outstanding accomplishments and their...",
+   "link": "https://variety.com/2026/scene/news/varietys-power-of-women-jennifer-hudson-sharon-stone-1236873980/",
+   "outlet": "Variety",
+   "feed_region": "americas",
+   "published": "2026-09-24T05:20:10+01:00"
+  },
+  {
+   "key": "issaraeisnevergoingtostopusingherpowerforgoodevenasmergersandaidisrupt",
+   "title": "Issa Rae Is ‘Never Going to Stop’ Using Her Power for Good, Even as Mergers and AI Disrupt Hollywood: ‘This Is All Men’s Fault’",
+   "summary": "Issa Rae received the Entertainment Entrepreneur of the Year Award at Variety’s L.A. Power of Women event on Wednesday in Beverly Hills. The award was presented by U.S. Bank senior executive vice president Courtney Kelso and honored the Emmy-nominated actress, writer, producer and entrepreneur. Rae created,...",
+   "link": "https://variety.com/2026/awards/news/issa-rae-entrepreneur-speech-1236873974/",
+   "outlet": "Variety",
+   "feed_region": "americas",
+   "published": "2026-09-24T05:11:06+01:00"
+  },
+  {
+   "key": "airtiesaddscybersecuritytoconnectivitymanagementplatform",
+   "title": "Airties adds cybersecurity to connectivity management platform",
+   "summary": "Airties has expanded its Connectivity Experience Management Platform with integrated cybersecurity capabilities designed to give broadband operators network-level protection across subscribers’ connected devices. The new functionality uses the broadband router […]",
+   "link": "https://www.broadbandtvnews.com/2026/09/24/airties-adds-cybersecurity-to-connectivity-management-platform/",
+   "outlet": "Broadband TV News",
+   "feed_region": "uk",
+   "published": "2026-09-24T05:01:00+01:00"
+  },
+  {
+   "key": "frombranddealstoequitydealscreatorswantastakenotjustafee",
+   "title": "From brand deals to equity deals: creators want a stake, not just a fee",
+   "summary": "The creator economy is moving into a new phase: creators getting into companies at the ground floor through sweat equity or angel investing.",
+   "link": "https://digiday.com/media/from-brand-deals-to-equity-deals-creators-want-a-stake-not-just-a-fee/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+   "outlet": "Digiday",
+   "feed_region": "americas",
+   "published": "2026-09-24T05:01:00+01:00"
+  },
+  {
+   "key": "whysephorareleasedabeautysetexclusivelyontiktokshop",
+   "title": "Why Sephora released a beauty set exclusively on TikTok Shop",
+   "summary": "TikTok Shop’s combination of eyeball-sucking entertainment and frictionless shopping have made it a legitimate competitor to beauty giants like the LVMH-owned Sephora.",
+   "link": "https://digiday.com/marketing/why-sephora-released-a-beauty-set-exclusively-on-tiktok-shop/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+   "outlet": "Digiday",
+   "feed_region": "americas",
+   "published": "2026-09-24T05:01:00+01:00"
+  },
+  {
+   "key": "mediabriefingpublishersquestionwhetherpersonalizationactuallypaysoff",
+   "title": "Media Briefing: Publishers question whether personalization actually pays off",
+   "summary": "Publishers are personalizing newsletters to get more value from readers, but questions remain over whether it's a meaningful differentiator.",
+   "link": "https://digiday.com/media/media-briefing-publishers-question-whether-personalization-actually-pays-off/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+   "outlet": "Digiday",
+   "feed_region": "americas",
+   "published": "2026-09-24T05:01:00+01:00"
+  },
+  {
+   "key": "imenamoredwiththexiaomi18promaxsrearsecondscreen",
+   "title": "I’m Enamored With the Xiaomi 18 Pro Max’s Rear Second Screen",
+   "summary": "With freshly unveiled Snapdragon 8 Elite chips, Xiaomi’s 18 Pro and 18 Pro Max represent a new generation of Android flagship devices.",
+   "link": "https://www.cnet.com/tech/mobile/xiaomi-18-pro-max-hands-on/",
+   "outlet": "CNET News",
+   "feed_region": "global",
+   "published": "2026-09-24T04:55:36+01:00"
+  },
+  {
+   "key": "intheageofinstantanswersplanningandstrategymattermorethanever",
+   "title": "In the age of instant answers, planning and strategy matter more than ever",
+   "summary": "The future of media will be won by asking better questions, connecting evidence with human behaviour and having the conviction to make fewer, more meaningful decisions, writes the IPA's Simon Frazier.",
+   "link": "https://uk.themedialeader.com/in-the-age-of-instant-answers-planning-and-strategy-matter-more-than-ever/?utm_source=rss&utm_medium=rss&utm_campaign=in-the-age-of-instant-answers-planning-and-strategy-matter-more-than-ever",
+   "outlet": "The Media Leader",
+   "feed_region": "uk",
+   "published": "2026-09-24T04:45:56+01:00"
+  },
+  {
+   "key": "contextiskeytomediacommunicationwheredeservestomatteragain",
+   "title": "Context is key to media communication: ‘Where’ deserves to matter again",
+   "summary": "Trust should be planned deliberately. The question for planners is not simply whether an environment is trusted, but what kind of trust or association the brand can benefit from.",
+   "link": "https://uk.themedialeader.com/context-is-key-to-media-communication-where-deserves-to-matter-again/?utm_source=rss&utm_medium=rss&utm_campaign=context-is-key-to-media-communication-where-deserves-to-matter-again",
+   "outlet": "The Media Leader",
+   "feed_region": "uk",
+   "published": "2026-09-24T04:37:43+01:00"
+  },
+  {
+   "key": "theartoftimingturningculturalcrescendosintomeasurableimpact",
+   "title": "The art of timing, turning ‘cultural crescendos’ into measurable impact",
+   "summary": "Ardmore Group shares its Visit Pennsylvania FIFA World Cup case study on planning around 'cultural crescendos'.",
+   "link": "https://uk.themedialeader.com/the-art-of-timing-turning-cultural-crescendos-into-measurable-impact/?utm_source=rss&utm_medium=rss&utm_campaign=the-art-of-timing-turning-cultural-crescendos-into-measurable-impact",
+   "outlet": "The Media Leader",
+   "feed_region": "uk",
+   "published": "2026-09-24T04:30:42+01:00"
+  },
+  {
+   "key": "isabelsandovaltriciatuttleelephantsinthefogproduceranuppoudeljoinqueer",
+   "title": "Isabel Sandoval, Tricia Tuttle, ‘Elephants in the Fog’ Producer Anup Poudel Join QueerFrames Mentor Lineup as Lab Unveils New Cohort, Southeast Asia Expansion (EXCLUSIVE)",
+   "summary": "QueerFrames Screenwriting Lab, a training initiative for emerging queer, trans and nonbinary filmmakers, is expanding into Southeast Asia for its fourth annual edition, bringing together storytellers from India, the Philippines, Vietnam, Singapore, Indonesia and the diaspora. The 2026 cohort features eight fiction...",
+   "link": "https://variety.com/2026/film/news/queerframes-lab-expands-southeast-asia-fourth-cohort-2-1236871948/",
+   "outlet": "Variety",
+   "feed_region": "americas",
+   "published": "2026-09-24T04:30:00+01:00"
+  },
+  {
+   "key": "openaiagentinfiltratedaustraliangovernmentwebsitepmsays",
+   "title": "OpenAI agent 'infiltrated' Australian government website, PM says",
+   "summary": "Albanese said he expressed \"concern\" to OpenAI founder Sam Altman, after authorities were informed three months after the breach in June.",
+   "link": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss",
+   "outlet": "BBC Technology",
+   "feed_region": "uk",
+   "published": "2026-09-24T04:22:54+01:00"
+  },
+  {
+   "key": "ryanmurphyrevealsarianagrandesscreamqueensroleinahsseason13thatneverha",
+   "title": "Ryan Murphy Reveals Ariana Grande’s ‘Scream Queens’ Role in ‘AHS’ Season 13 That Never Happened (Exclusive)",
+   "summary": "The singer was set to reprise her role as Chanel #2 in a planned crossover between Murphy’s 'American Horror Story' and 'Scream Queens,' but her tour prevented the appearance.",
+   "link": "https://www.hollywoodreporter.com/tv/tv-news/ryan-murphy-reveals-ariana-grande-scream-queens-role-ahs-13-1236709102/",
+   "outlet": "Hollywood Reporter",
+   "feed_region": "americas",
+   "published": "2026-09-24T04:11:19+01:00"
+  },
+  {
+   "key": "paigedesorboonhealingfromdomesticviolencewithherpetsometimesthethingth",
+   "title": "Paige DeSorbo on Healing From Domestic Violence With Her Pet: ‘Sometimes the Thing That Helps You Feel Safe Again Has Four Paws’",
+   "summary": "Paige DeSorbo was honored with the Variety Courage Award, presented by Purina, for using her platform to advocate for survivors of domestic violence. Following an introduction from Molly Sims, the former star of Bravo’s “Summer House” delivered an emotional acceptance speech reflecting on her experience with...",
+   "link": "https://variety.com/2026/awards/news/paige-desorbo-variety-courage-award-speech-1236873876/",
+   "outlet": "Variety",
+   "feed_region": "americas",
+   "published": "2026-09-24T04:07:29+01:00"
+  },
+  {
+   "key": "americasgottalentseason21winnerrevealedwhotookhomethe1millionprize",
+   "title": "‘America’s Got Talent’ Season 21 Winner Revealed: Who Took Home the $1 Million Prize?",
+   "summary": "Special guests for the two-night finale include Trisha Paytas, Lele Pons, Taylen Biggs, Rei Ami, Steve Aoki and Chloe Flower The post ‘America’s Got Talent’ Season 21 Winner Revealed: Who Took Home the $1 Million Prize? appeared first on TheWrap .",
+   "link": "https://www.thewrap.com/creative-content/tv-shows/americas-got-talent-season-21-winner-nene-royal/",
+   "outlet": "The Wrap",
+   "feed_region": "americas",
+   "published": "2026-09-24T03:59:41+01:00"
+  },
+  {
+   "key": "transformersthemovieextendstheatricalrunasapologytourrereleasesurgesat",
+   "title": "‘Transformers: The Movie’ Extends Theatrical Run as “Apology Tour” Rerelease Surges at Box Office",
+   "summary": "\"We're thrilled,\" Fathom's head of marketing tells The Hollywood Reporter about the 40th anniversary celebration for the 1986 animated cult favorite.",
+   "link": "https://www.hollywoodreporter.com/movies/movie-news/transformers-the-movie-40th-rerelease-extends-box-office-1236709056/",
+   "outlet": "Hollywood Reporter",
+   "feed_region": "americas",
+   "published": "2026-09-24T03:56:59+01:00"
+  },
+  {
+   "key": "ryanmurphysaysgleerebootscriptisfinishedoriginalcastisenthusiastic",
+   "title": "Ryan Murphy Says ‘Glee’ Reboot Script Is Finished, Original Cast Is ‘Enthusiastic’",
+   "summary": "\"I vowed to myself that I wanted to write a couple of them to see what people think,\" the TV creator and producer says The post Ryan Murphy Says ‘Glee’ Reboot Script Is Finished, Original Cast Is ‘Enthusiastic’ appeared first on TheWrap .",
+   "link": "https://www.thewrap.com/media-platforms/tv/ryan-murphy-glee-reboot-script-completed/",
+   "outlet": "The Wrap",
+   "feed_region": "americas",
+   "published": "2026-09-24T03:54:45+01:00"
+  },
+  {
+   "key": "submissionsopenfor2026broadcastdialoguecanadianradioawards",
+   "title": "Submissions open for 2026 Broadcast Dialogue Canadian Radio Awards",
+   "summary": "Submissions for the 2026 Broadcast Dialogue Canadian Radio Awards (BDCRAs) officially open on Monday, marking the return of the country’s only national, industry-judged awards program dedicated to recognizing excellence in […]",
+   "link": "https://broadcastdialogue.com/submissions-open-for-2026-broadcast-dialogue-canadian-radio-awards/",
+   "outlet": "Broadcast Dialogue",
+   "feed_region": "americas",
+   "published": "2026-09-24T03:47:33+01:00"
+  },
+  {
+   "key": "howmaconblairanddavefrancogotidiotsacrossthefinishline",
+   "title": "How Macon Blair and Dave Franco Got ‘Idiots’ Across the Finish Line",
+   "summary": "The R-rated comedy is now available to buy or rent on digital The post How Macon Blair and Dave Franco Got ‘Idiots’ Across the Finish Line appeared first on TheWrap .",
+   "link": "https://www.thewrap.com/creative-content/movies/idiots-macon-blair-dave-franco-interview/",
+   "outlet": "The Wrap",
+   "feed_region": "americas",
+   "published": "2026-09-24T03:21:35+01:00"
+  },
+  {
+   "key": "ryanmurphysayshejustfinishedthescriptforagleerebootandhasspokentotheor",
+   "title": "Ryan Murphy Says He ‘Just Finished the Script’ for a ‘Glee’ Reboot and Has Spoken to the Original Cast: ‘They All Were Very Enthusiastic’",
+   "summary": "It’s a good day to be a Gleek. Following long-swirling rumors of a potential “Glee” reboot, creator Ryan Murphy has officially weighed in and revealed that there’s a script. “Well, funny you ask, ’cause I just finished the script an hour ago,” Murphy told Entertainment Tonight on Wednesday. “So, we have a script....",
+   "link": "https://variety.com/2026/tv/news/ryan-murphy-glee-reboot-script-1236873863/",
+   "outlet": "Variety",
+   "feed_region": "americas",
+   "published": "2026-09-24T03:17:58+01:00"
+  },
+  {
+   "key": "nabascyberuniversity20toconvenebroadcastleadersoncybersecuritythreats",
+   "title": "NABA’s Cyber University 2.0 To Convene Broadcast Leaders On Cybersecurity Threats",
+   "summary": "The North American Broadcasters Association (NABA) will host a full-day cybersecurity summit next month in New York aimed at helping broadcasters defend against growing cyber threats. Cyber University 2.0 is … The post NABA’s Cyber University 2.0 To Convene Broadcast Leaders On Cybersecurity Threats appeared first...",
+   "link": "https://tvnewscheck.com/tech/article/nabas-cyber-university-2-0-to-convene-broadcast-leaders-on-cybersecurity-threats/",
+   "outlet": "TVNewsCheck",
+   "feed_region": "americas",
+   "published": "2026-09-24T03:07:17+01:00"
+  },
+  {
+   "key": "trumpselectioninterferencelawsuitagainstdesmoinesregistertossedbyiowaj",
+   "title": "Trump’s ‘Election Interference’ Lawsuit Against Des Moines Register Tossed by Iowa Judge",
+   "summary": "Judge Scott J. Beattie sided with the newspaper and pollster J. Ann Selzer over an inaccurate 2024 Iowa poll between Kamala Harris and Trump The post Trump’s ‘Election Interference’ Lawsuit Against Des Moines Register Tossed by Iowa Judge appeared first on TheWrap .",
+   "link": "https://www.thewrap.com/industry-news/public-policy-legal/trump-election-interference-lawsuit-against-des-moines-register-tossed-by-iowa-judge/",
+   "outlet": "The Wrap",
+   "feed_region": "americas",
+   "published": "2026-09-24T03:04:14+01:00"
+  },
+  {
+   "key": "hbcugosetssouthcarolinastatebethunecookmanmatchupforprimetime",
+   "title": "HBCU GO Sets South Carolina State-Bethune-Cookman Matchup For Primetime",
+   "summary": "South Carolina State University will travel to Daytona Beach on Saturday, Sept. 26, for a primetime matchup against Bethune-Cookman University on Allen Media Group’s HBCU GO. This is the network’s … The post HBCU GO Sets South Carolina State-Bethune-Cookman Matchup For Primetime appeared first on TV News Check .",
+   "link": "https://tvnewscheck.com/programming/article/hbcu-go-sets-south-carolina-state-bethune-cookman-matchup-for-primetime/",
+   "outlet": "TVNewsCheck",
+   "feed_region": "americas",
+   "published": "2026-09-24T03:00:22+01:00"
+  },
+  {
+   "key": "leighamcneiljoinskprchoustonasmorningtrafficanchor",
+   "title": "Leigha McNeil Joins KPRC Houston As Morning Traffic Anchor",
+   "summary": "The post Leigha McNeil Joins KPRC Houston As Morning Traffic Anchor appeared first on TV News Check .",
+   "link": "https://mikemcguff.blogspot.com/2026/09/leigha-mcneil-joins-kprc-2-houston-as.html",
+   "outlet": "TVNewsCheck",
+   "feed_region": "americas",
+   "published": "2026-09-24T02:55:05+01:00"
+  },
+  {
+   "key": "justinalatimerjoinswagaatlanta",
+   "title": "Justina Latimer Joins WAGA Atlanta",
+   "summary": "The post Justina Latimer Joins WAGA Atlanta appeared first on TV News Check .",
+   "link": "https://mikemcguff.blogspot.com/2026/09/justina-latimer-joins-fox-5-atlanta.html",
+   "outlet": "TVNewsCheck",
+   "feed_region": "americas",
+   "published": "2026-09-24T02:54:03+01:00"
+  },
+  {
+   "key": "leighwaldmanpromotedtocnncorrespondent",
+   "title": "Leigh Waldman Promoted To CNN Correspondent",
+   "summary": "The post Leigh Waldman Promoted To CNN Correspondent appeared first on TV News Check .",
+   "link": "https://mikemcguff.blogspot.com/2026/09/leigh-waldman-promoted-to-cnn.html",
+   "outlet": "TVNewsCheck",
+   "feed_region": "americas",
+   "published": "2026-09-24T02:52:43+01:00"
+  },
+  {
+   "key": "elizabethholmestobemovedfromprisontohalfwayhousein2027",
+   "title": "Elizabeth Holmes to Be Moved From Prison to Halfway House in 2027",
+   "summary": "The disgraced Theranos founder will be placed in an Austin-area facility in August 2027 as she serves out her reduced sentence for defrauding investors.",
+   "link": "https://www.hollywoodreporter.com/news/general-news/elizabeth-holmes-prison-release-halfway-house-2027-1236709066/",
+   "outlet": "Hollywood Reporter",
+   "feed_region": "americas",
+   "published": "2026-09-24T02:43:32+01:00"
+  },
+  {
+   "key": "miloreviewmarioncotillardcarriesasomberclassicallymadefrenchdramawithh",
+   "title": "‘Milo’ Review: Marion Cotillard Carries a Somber, Classically Made French Drama With Hints of Film Noir",
+   "summary": "Théodore Pellerin also stars in the latest feature by 80-year-old actress turned director Nicole Garcia ('My American Uncle'), which premiered in competition at San Sebastián.",
+   "link": "https://www.hollywoodreporter.com/movies/movie-reviews/milo-review-marion-cotillard-nicole-garcia-1236706349/",
+   "outlet": "Hollywood Reporter",
+   "feed_region": "americas",
+   "published": "2026-09-24T02:41:17+01:00"
+  },
+  {
+   "key": "rolfdeheernamedjurypresidentfortokyofilmfestival",
+   "title": "Rolf de Heer Named Jury President for Tokyo Film Festival",
+   "summary": "The Australian filmmaker behind ‘Bad Boy Bubby,’ ‘Ten Canoes’ and ‘Charlie’s Country’ will preside over the international competition jury at TIFF’s 39th edition.",
+   "link": "https://www.hollywoodreporter.com/movies/movie-news/rolf-de-heer-jury-president-tokyo-film-festival-1236709047/",
+   "outlet": "Hollywood Reporter",
+   "feed_region": "americas",
+   "published": "2026-09-24T02:38:45+01:00"
+  },
+  {
+   "key": "dynamicduofindsitsrobininmasonthamesaddsleepaceandstevebuscemi",
+   "title": "‘Dynamic Duo’ Finds Its Robin in Mason Thames, Adds Lee Pace and Steve Buscemi",
+   "summary": "The \"How to Train Your Dragon\" star plays Dick Grayson, while Logan Kim voices Jason Todd The post ‘Dynamic Duo’ Finds Its Robin in Mason Thames, Adds Lee Pace and Steve Buscemi appeared first on TheWrap .",
+   "link": "https://www.thewrap.com/creative-content/movies/dynamic-duo-cast-mason-thames-lee-pace-steve-buscemi/",
+   "outlet": "The Wrap",
+   "feed_region": "americas",
+   "published": "2026-09-24T02:25:55+01:00"
+  },
+  {
+   "key": "everythingnewcomingtometasaiagentmuse",
+   "title": "Everything new coming to Meta’s AI agent Muse",
+   "summary": "CEO Mark Zuckerberg kicked off the company’s annual Connect event in Menlo Park on Wednesday with a keynote that made one thing clear: Meta is going all-in on Muse. It's even coming to Meta's AI glasses.",
+   "link": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/",
+   "outlet": "TechCrunch",
+   "feed_region": "global",
+   "published": "2026-09-24T02:13:32+01:00"
+  },
+  {
+   "key": "blackworkersallegesystemicracismatteslaaslandmarkcaliforniatrialbegins",
+   "title": "Black Workers Allege Systemic Racism at Tesla as Landmark California Trial Begins",
+   "summary": "State regulators presented evidence of unaddressed discrimination, wage disparities and hostile conditions on the EV maker’s Fremont assembly line.",
+   "link": "https://www.cnet.com/news/tesla-civil-rights-trial-racism-black-workers-california/",
+   "outlet": "CNET News",
+   "feed_region": "global",
+   "published": "2026-09-24T02:02:46+01:00"
+  },
+  {
+   "key": "openaisastramodelwentforadriveandnoonedied",
+   "title": "OpenAI's Astra model went for a drive and no one died",
+   "summary": "First LLM to pass test did it in a parking lot at snail's pace, at considerable expense, but it still counts for something",
+   "link": "https://www.theregister.com/ai-and-ml/2026/09/24/openais-astra-model-went-for-a-drive-and-no-one-died/5298715",
+   "outlet": "The Register",
+   "feed_region": "global",
+   "published": "2026-09-24T01:54:18+01:00"
+  },
+  {
+   "key": "theywerelabelledpervertglasseswillacamerafreeversiontransformtheirimag",
+   "title": "They were labelled 'pervert glasses'. Will a camera-free version transform their image?",
+   "summary": "Meta has unveiled audio-only smart glasses, with some questioning whether it is a response to the backlash over privacy.",
+   "link": "https://www.bbc.co.uk/news/articles/cwp80l0my1x2o?at_medium=RSS&at_campaign=rss",
+   "outlet": "BBC Business",
+   "feed_region": "uk",
+   "published": "2026-09-24T01:50:24+01:00"
+  },
+  {
+   "key": "metamadeatamagotchilikewearableforitsmuseaiagent",
+   "title": "Meta made a Tamagotchi-like wearable for its Muse AI agent",
+   "summary": "The tiny hardware device creates another mobile home for its AI agent Muse.",
+   "link": "https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent/",
+   "outlet": "TechCrunch",
+   "feed_region": "global",
+   "published": "2026-09-24T01:46:17+01:00"
+  },
+  {
+   "key": "onaboxofficeweekendwithmultipleacclaimedfilmsavengersendgamecouldtopth",
+   "title": "On a Box Office Weekend With Multiple Acclaimed Films, ‘Avengers: Endgame’ Could Top Them All",
+   "summary": "Disney/Marvel's re-release is projected to top movies like Robert Pattinson's \"Primetime\" and Brad Pitt's \"Heart of the Beast\" The post On a Box Office Weekend With Multiple Acclaimed Films, ‘Avengers: Endgame’ Could Top Them All appeared first on TheWrap .",
+   "link": "https://www.thewrap.com/industry-news/business/on-a-box-office-weekend-with-multiple-acclaimed-films-avengers-endgame-could-top-them-all/",
+   "outlet": "The Wrap",
+   "feed_region": "americas",
+   "published": "2026-09-24T01:40:56+01:00"
+  },
+  {
+   "key": "discordintroducesalternativeageverificationtoolsafterpushback",
+   "title": "Discord Introduces Alternative Age Verification Tools After Pushback",
+   "summary": "Teenage users have options, but some appear safer than others. We pick the best options.",
+   "link": "https://www.cnet.com/news/privacy/discord-introduces-alternative-age-verification-tools-after-pushback/",
+   "outlet": "CNET News",
+   "feed_region": "global",
+   "published": "2026-09-24T01:26:19+01:00"
+  },
+  {
+   "key": "roseannebarrripscostarmichaelfishmanforsayingshewasrightfullycanceledy",
+   "title": "Roseanne Barr Rips Co-Star Michael Fishman for Saying She Was ‘Rightfully Canceled’: ‘You Little F–king Worm’",
+   "summary": "The former \"Roseanne\" star responds to her TV son's harsh words about her firing from the landmark sitcom The post Roseanne Barr Rips Co-Star Michael Fishman for Saying She Was ‘Rightfully Canceled’: ‘You Little F–king Worm’ appeared first on TheWrap .",
+   "link": "https://www.thewrap.com/creative-content/tv-shows/roseanne-barr-responds-michael-fishman-cancellation/",
+   "outlet": "The Wrap",
+   "feed_region": "americas",
+   "published": "2026-09-24T01:25:35+01:00"
+  },
+  {
+   "key": "metaismakingastandalonemuseaigadget",
+   "title": "Meta is making a standalone Muse AI gadget",
+   "summary": "Meta is building a dedicated hardware device for its new Muse AI agent. The product, called Muse Charm, was briefly shown off by Meta CEO Mark Zuckerberg at the end of tonight's Meta Connect presentation. It looks almost like a chunky smartwatch without the strap - just a big screen, plus a little lanyard for […]",
+   "link": "https://www.theverge.com/tech/999750/muse-charm-meta-ai-hardware",
+   "outlet": "The Verge",
+   "feed_region": "global",
+   "published": "2026-09-24T01:15:20+01:00"
+  },
+  {
+   "key": "thevisitatpasadenaplayhousereviewthe50sabsurdistcomedyistoosmuginitspe",
+   "title": "‘The Visit’ at Pasadena Playhouse Review: The ’50s Absurdist Comedy Is Too Smug in Its Peak-Bleak View of Venal Humanity, but Jefferson Mays and Melinda Page Hamilton Are Worth the Visit",
+   "summary": "When an “Amadeus” revival opened at Pasadena Playhouse in February, it was such a spectacular success on every level that you wouldn’t have minded if the keepers of the venerable San Gabriel Valley venue just turned over the keys to the place for a while to the two Tony winners most responsible for making it […]",
+   "link": "https://variety.com/2026/legit/reviews/the-visit-pasadena-playhouse-stage-review-absurdist-comedy-1236873818/",
+   "outlet": "Variety",
+   "feed_region": "americas",
+   "published": "2026-09-24T01:14:15+01:00"
+  },
+  {
+   "key": "dragracestaralyssaedwardsclapsbackatkenpaxtonforusinghertocampaignagai",
+   "title": "‘Drag Race’ Star Alyssa Edwards Claps Back at Ken Paxton for Using Her to Campaign Against James Talarico",
+   "summary": "\"Texas is big enough for all of us,\" the \"RuPaul's Drag Race Global All Stars\" winner says The post ‘Drag Race’ Star Alyssa Edwards Claps Back at Ken Paxton for Using Her to Campaign Against James Talarico appeared first on TheWrap .",
+   "link": "https://www.thewrap.com/media-platforms/politics/alyssa-edwards-drag-race-ken-paxton-letter-james-talarico-campaign/",
+   "outlet": "The Wrap",
+   "feed_region": "americas",
+   "published": "2026-09-24T01:07:41+01:00"
+  },
+  {
+   "key": "everythingannouncedatmetaconnect2026",
+   "title": "Everything announced at Meta Connect 2026",
+   "summary": "VR glasses, Aviator-style Ray-Ban Meta specs, Ace Attorney in virtual reality and much more.",
+   "link": "https://www.engadget.com/2267230/everything-announced-at-meta-connect-2026/",
+   "outlet": "Engadget",
+   "feed_region": "global",
+   "published": "2026-09-24T01:07:34+01:00"
+  },
+  {
+   "key": "fromdwtstodesignersarahjanenaderhitsanothermilestonewithfirsteverfashi",
+   "title": "From ‘DWTS’ to Designer: Sarah Jane Nader Hits Another Milestone With First-Ever Fashion Collab",
+   "summary": "Fresh off a historic 'Dancing With the Stars' pairing, the 'Love Thy Nader' star is bringing her signature style to market with a limited-edition fashion capsule co-designed alongside Express.",
+   "link": "https://www.hollywoodreporter.com/lifestyle/shopping/sarah-jane-nader-express-clothing-collab-2026-release-buy-1236708858/",
+   "outlet": "Hollywood Reporter",
+   "feed_region": "americas",
+   "published": "2026-09-24T01:05:18+01:00"
+  },
+  {
+   "key": "metaputmuseinatamagotchilikecharmdevice",
+   "title": "Meta put Muse in a Tamagotchi like 'Charm' device",
+   "summary": "Meta's Muse Charm is a Tamagotchi-like device with Muse AI.",
+   "link": "https://www.engadget.com/2267229/meta-put-muse-in-a-tamagotchi-like-charm-device/",
+   "outlet": "Engadget",
+   "feed_region": "global",
+   "published": "2026-09-24T01:05:03+01:00"
+  },
+  {
+   "key": "openaiagentsinfiltratedaustraliangovernmentwebsite",
+   "title": "OpenAI agents ‘infiltrated Australian government website’",
+   "summary": "Used generic unattended email to reveal incident, which may have spread to multiple agencies",
+   "link": "https://www.theregister.com/security/2026/09/24/openai-agents-infiltrated-australian-government-website/5298702",
+   "outlet": "The Register",
+   "feed_region": "global",
+   "published": "2026-09-24T01:03:03+01:00"
+  },
+  {
+   "key": "metawillstoptrainingitsaionvisualdatafromitssmartglassesifyouoptout",
+   "title": "Meta will stop training its AI on 'visual data' from its smart glasses — if you opt out",
+   "summary": "Somewhere, a contractor just breathed a sigh of relief.",
+   "link": "https://www.engadget.com/2267227/meta-will-stop-training-its-ai-on-visual-data-from-its-smart-glasses-if-you-opt-out/",
+   "outlet": "Engadget",
+   "feed_region": "global",
+   "published": "2026-09-24T01:00:44+01:00"
+  },
+  {
+   "key": "metaconnect2026the7biggestannouncements",
+   "title": "Meta Connect 2026: The 7 biggest announcements",
+   "summary": "Meta announced a slate of new wearables during its annual Meta Connect showcase on Wednesday. The star of the event was the new Meta VR Glasses, which pack virtual reality tech into a lightweight smart glasses-style frame with a tethered puck. Meta also announced new pairs of screen-free smart glasses, along with...",
+   "link": "https://www.theverge.com/tech/999593/meta-connect-2026-everything-announced",
+   "outlet": "The Verge",
+   "feed_region": "global",
+   "published": "2026-09-24T01:00:33+01:00"
+  },
+  {
+   "key": "troveofstolensensitivefbiemployeedataissignificantintelligencerisk",
+   "title": "Trove of Stolen Sensitive FBI Employee Data Is Significant Intelligence Risk",
+   "summary": "ShinyHunters has previously extorted companies and schools, but the sensitivity of this data makes this breach different.",
+   "link": "https://www.cnet.com/tech/services-and-software/stolen-sensitive-fbi-employee-data-significant-intelligence-risk/",
+   "outlet": "CNET News",
+   "feed_region": "global",
+   "published": "2026-09-24T01:00:22+01:00"
+  },
+  {
+   "key": "metavrglasseshandsonhandandeyetrackingissomuchbetterthanacontroller",
+   "title": "Meta VR Glasses hands-on: Hand and eye tracking is so much better than a controller",
+   "summary": "Instead of a new Quest headset, the company showed off a more portable but less immersive device today.",
+   "link": "https://www.engadget.com/2267222/meta-vr-glasses-hands-on-hand-tracking/",
+   "outlet": "Engadget",
+   "feed_region": "global",
+   "published": "2026-09-24T01:00:00+01:00"
+  },
+  {
+   "key": "rolfdeheernamedpresidentoftokyofilmfestivaljury",
+   "title": "Rolf de Heer Named President of Tokyo Film Festival Jury",
+   "summary": "The Tokyo International Film Festival has named Australian director Rolf de Heer president of the international competition jury for the festival’s 39th edition. De Heer has spent more than 40 years in Tasmania, Australia, directing, writing and producing films across a broad range of genres and subjects. His 1993...",
+   "link": "https://variety.com/2026/film/festivals/rolf-de-heer-president-tokyo-film-festival-jury-1236872048/",
+   "outlet": "Variety",
+   "feed_region": "americas",
+   "published": "2026-09-24T01:00:00+01:00"
+  },
+  {
+   "key": "apatentfiledbymicrosoftwouldletgamesuseaitorewritethemselves",
+   "title": "A Patent Filed by Microsoft Would Let Games Use AI to Rewrite Themselves",
+   "summary": "The new technology would consider how players explore the game and then rewrite the game to fit these interests.",
+   "link": "https://www.cnet.com/tech/new-microsoft-patent-rewrites-games-with-ai/",
+   "outlet": "CNET News",
+   "feed_region": "global",
+   "published": "2026-09-24T00:55:50+01:00"
+  },
+  {
+   "key": "metasnewholographicavatarsarehereandtheyresurprisinglyreal",
+   "title": "Meta's new holographic avatars are here and they're surprisingly real",
+   "summary": "They're a notable improvement over the company's earlier attempts at digital likeness.",
+   "link": "https://www.engadget.com/2267223/meta-holograph-avatar-for-ai-and-vr-glasses-update-hands-on/",
+   "outlet": "Engadget",
+   "feed_region": "global",
+   "published": "2026-09-24T00:53:01+01:00"
+  },
+  {
+   "key": "metaistryingvrglassesagainthistimewithmoreimax",
+   "title": "Meta is trying VR glasses (again), this time with more IMAX",
+   "summary": "Meta's return to the VR glasses realm comes with a promising combination of light weight form factor and enhanced entertainment options.",
+   "link": "https://techcrunch.com/2026/09/23/meta-is-trying-vr-glasses-again-this-time-with-more-imax/",
+   "outlet": "TechCrunch",
+   "feed_region": "global",
+   "published": "2026-09-24T00:47:35+01:00"
+  },
+  {
+   "key": "iworemetasnew1299vrglassesatinyquestorvisionprotogo",
+   "title": "I Wore Meta’s New $1,299 VR Glasses: A Tiny Quest, or Vision Pro to Go?",
+   "summary": "Meta’s not done with VR. Its sleek and expensive glasses-like VR device doesn’t need controllers, plays Quest games and is aiming to be your personal cinema too.",
+   "link": "https://www.cnet.com/tech/computing/meta-vr-glasses-debut-demo-hands-on/",
+   "outlet": "CNET News",
+   "feed_region": "global",
+   "published": "2026-09-24T00:47:00+01:00"
+  },
+  {
+   "key": "somanynewmetaglassesmuseaieverywhereandraybanswithoutacamera",
+   "title": "So Many New Meta Glasses: Muse AI Everywhere, and Ray-Bans Without a Camera",
+   "summary": "At Meta Connect, I tried out the AI agent, hearing enhancement and other features on all the new glasses. I was also disappointed at how little’s been done on the privacy front.",
+   "link": "https://www.cnet.com/tech/mobile/meta-connect-new-glasses-muse-ai-hearing-assistance-ray-bans-more/",
+   "outlet": "CNET News",
+   "feed_region": "global",
+   "published": "2026-09-24T00:46:00+01:00"
+  },
+  {
+   "key": "metaraybandisplaygettingfeatureupdatesincludingholographicavatarsuppor",
+   "title": "Meta Ray-Ban Display getting feature updates including holographic avatar support",
+   "summary": "The smart glasses are also arriving in five new markets this fall.",
+   "link": "https://www.engadget.com/2267220/meta-ray-ban-display-getting-feature-updates-including-holographic-avatar-support/",
+   "outlet": "Engadget",
+   "feed_region": "global",
+   "published": "2026-09-24T00:44:51+01:00"
+  },
+  {
+   "key": "metas1300vrglasseslooklikethevisionprosequelappleshouldbemaking",
+   "title": "Meta's $1,300 VR Glasses look like the Vision Pro sequel Apple should be making",
+   "summary": "Sorry Apple, it looks like Meta's VR Glasses are the real Vision Pro successor.",
+   "link": "https://www.engadget.com/2267218/meta-vr-glasses-price-specs-apple-vision-pro-comparison/",
+   "outlet": "Engadget",
+   "feed_region": "global",
+   "published": "2026-09-24T00:42:52+01:00"
+  },
+  {
+   "key": "metasnextvrdeviceisntaheadsetitsglasses",
+   "title": "Meta’s next VR device isn’t a headset — it’s glasses",
+   "summary": "Meta is launching new VR hardware: a pair of glasses. The new Meta VR Glasses sit on your ears like a typical pair of glasses instead of being strapped over your head, but they still have immersive displays for watching movies, playing games, and getting work done. Imagine a pair of hefty black sunglasses with […]",
+   "link": "https://www.theverge.com/tech/999517/meta-vr-glasses-connect-2026-hands-on",
+   "outlet": "The Verge",
+   "feed_region": "global",
+   "published": "2026-09-24T00:42:10+01:00"
+  },
+  {
+   "key": "museiscomingtometasmartglasses",
+   "title": "Muse is coming to Meta smart glasses",
+   "summary": "Just a couple of weeks after launching Muse, Meta announced that it's \"working on\" bringing the agent to its smart glasses, including the new glasses it unveiled at Meta Connect. Users will be able to activate Muse from their glasses by saying its name and ask it to handle tasks like guiding a workout, logging […]",
+   "link": "https://www.theverge.com/tech/999673/meta-connect-2026-muse-glasses-features",
+   "outlet": "The Verge",
+   "feed_region": "global",
+   "published": "2026-09-24T00:40:56+01:00"
+  },
+  {
+   "key": "metaintroducescamerafreeaiglasses",
+   "title": "Meta introduces camera-free AI glasses",
+   "summary": "Meta says the camera-free glasses will be lighter and have up to 12 hours battery life.",
+   "link": "https://techcrunch.com/2026/09/23/meta-introduces-camera-free-ai-glasses/",
+   "outlet": "TechCrunch",
+   "feed_region": "global",
+   "published": "2026-09-24T00:39:44+01:00"
+  },
+  {
+   "key": "metasnextsmartglassescollabiswithblackpinkslisa",
+   "title": "Meta's next smart glasses collab is with Blackpink's Lisa",
+   "summary": "Blackpink in your upper-facial area.",
+   "link": "https://www.engadget.com/2267215/meta-glasses-lisa-edition/",
+   "outlet": "Engadget",
+   "feed_region": "global",
+   "published": "2026-09-24T00:37:43+01:00"
+  },
+  {
+   "key": "metaditchesthecameraonitsnewestsmartglasses",
+   "title": "Meta ditches the camera on its newest smart glasses",
+   "summary": "Walking around Meta Connect 2026, everyone's sporting smart glasses in all sorts of shapes, colors, and sizes. It's a marked difference here, a tech bubble where \"pervert glasses\" are not a concern. Outside Connect, the public backlash against wearable surveillance tech - a catchall term that encompasses not just...",
+   "link": "https://www.theverge.com/tech/999281/ray-ban-meta-audio-glasses-meta-connect-2026",
+   "outlet": "The Verge",
+   "feed_region": "global",
+   "published": "2026-09-24T00:37:17+01:00"
+  },
+  {
+   "key": "raybanmetagen3handsonbetterbatterylifeandapricehike",
+   "title": "Ray-Ban Meta Gen 3 hands-on: Better battery life and a price hike",
+   "summary": "The latest lineup comes in two new frame styles: Aviator and Zena.",
+   "link": "https://www.engadget.com/2267213/ray-ban-meta-gen-3-hands-on-better-battery-life/",
+   "outlet": "Engadget",
+   "feed_region": "global",
+   "published": "2026-09-24T00:35:54+01:00"
+  },
+  {
+   "key": "voguesentrobotsdowntherunwayatvogueworldandpeoplewerenotimpressed",
+   "title": "Vogue sent robots down the runway at Vogue World, and people were not impressed",
+   "summary": "Nothing says Italian craftsmanship like a Chinese robot doing a lasso to \"L'Amour Toujours.\"",
+   "link": "https://techcrunch.com/2026/09/23/vogue-sent-robots-down-the-runway-at-vogue-world-and-people-were-not-impressed/",
+   "outlet": "TechCrunch",
+   "feed_region": "global",
+   "published": "2026-09-24T00:33:22+01:00"
+  },
+  {
+   "key": "metaannouncesraybanmetaaudioitsfirstsmartglasseswithoutacamera",
+   "title": "Meta announces Ray-Ban Meta Audio, its first smart glasses without a camera",
+   "summary": "That's one way to avoid the whole surreptitious recording issues.",
+   "link": "https://www.engadget.com/2267212/meta-announces-ray-ban-meta-audio-its-first-smart-glasses-without-a-camera/",
+   "outlet": "Engadget",
+   "feed_region": "global",
+   "published": "2026-09-24T00:33:00+01:00"
+  },
+  {
+   "key": "gamechangerhostsamreichonseason8s23contestant90minutenonchilissponsore",
+   "title": "‘Game Changer’ Host Sam Reich on Season 8’s 23-Contestant, 90-Minute, Non-Chili’s-Sponsored Finale and ‘Acid Trip’ Season 9 Episode Plans",
+   "summary": "SPOILER ALERT: This article contains spoilers for the Season 8 finale of “Game Changer,” now streaming on Dropout. “Game Changer” capped off its eighth season Monday with a finale episode that was not at all sponsored by Chili’s but ended with its winner taking home between $3,000 and $5,000 (host and Dropout CEO...",
+   "link": "https://variety.com/2026/tv/news/game-changer-finale-sam-reich-season-8-episodes-season-9-1236872466/",
+   "outlet": "Variety",
+   "feed_region": "americas",
+   "published": "2026-09-24T00:30:00+01:00"
+  },
+  {
+   "key": "metabringsfdaclearedhearingenhancementtoitssmartglasses",
+   "title": "Meta brings FDA-cleared hearing enhancement to its smart glasses",
+   "summary": "After a free trial it'll cost $150 to add on, or require a Meta One subscription.",
+   "link": "https://www.engadget.com/2267211/meta-brings-fda-cleared-hearing-enhancement-to-its-smart-glasses/",
+   "outlet": "Engadget",
+   "feed_region": "global",
+   "published": "2026-09-24T00:29:55+01:00"
+  },
+  {
+   "key": "metasmuseaiagentiscomingtoitsaiglasses",
+   "title": "Meta's Muse AI agent is coming to its AI glasses",
+   "summary": "Have your virtual assistant book a flight while you're jogging.",
+   "link": "https://www.engadget.com/2267210/meta-muse-ai-agent-smart-glasses/",
+   "outlet": "Engadget",
+   "feed_region": "global",
+   "published": "2026-09-24T00:28:12+01:00"
+  },
+  {
+   "key": "newyorktimessuedbyshareholdersoverantiisraelbias",
+   "title": "New York Times Sued by Shareholders Over Anti-Israel Bias",
+   "summary": "The Florida Retirement System Trust Fund demands documents related to how the publication handles coverage of the Israel-Hamas war.",
+   "link": "https://www.hollywoodreporter.com/business/business-news/new-york-times-sued-shareholders-anti-israel-bias-1236708966/",
+   "outlet": "Hollywood Reporter",
+   "feed_region": "americas",
+   "published": "2026-09-24T00:23:51+01:00"
+  },
+  {
+   "key": "someofsamsungsaifridgesbecamegiantcoolbricksafterbadupdate",
+   "title": "Some of Samsung’s AI Fridges Became Giant, Cool Bricks After Bad Update",
+   "summary": "Smart fridge, dumb update. The internet of broken things strikes again.",
+   "link": "https://www.cnet.com/home/smart-home/samsung-ai-fridges-bricked-korea-software-update/",
+   "outlet": "CNET News",
+   "feed_region": "global",
+   "published": "2026-09-24T00:23:27+01:00"
+  },
+  {
+   "key": "metaismakingmusemorepowerfulandwillletyouvideochatwithittoo",
+   "title": "Meta is making Muse more powerful and will let you video chat with it, too",
+   "summary": "Meta is quickly iterating on its new Muse AI agent, announcing a bunch of updates today that make the bot more capable and able to chat with you in more ways. Muse agents are getting their own email addresses that they can use for accomplishing tasks. You'll also be able to communicate with your Muse […]",
+   "link": "https://www.theverge.com/tech/999454/meta-muse-ai-agent-video-chat-connect-2026",
+   "outlet": "The Verge",
+   "feed_region": "global",
+   "published": "2026-09-24T00:19:42+01:00"
+  },
+  {
+   "key": "elizabethholmestobereleasedfromprisonandsenttohalfwayhousenextyear",
+   "title": "Elizabeth Holmes to Be Released From Prison and Sent to Halfway House Next Year",
+   "summary": "The disgraced Theranos founder was originally sentenced to 11 years for defrauding her medtech company's investors The post Elizabeth Holmes to Be Released From Prison and Sent to Halfway House Next Year appeared first on TheWrap .",
+   "link": "https://www.thewrap.com/industry-news/public-policy-legal/elizabeth-holmes-prison-release-halfway-house-transfer/",
+   "outlet": "The Wrap",
+   "feed_region": "americas",
+   "published": "2026-09-24T00:16:22+01:00"
+  },
+  {
+   "key": "indiansarediscoveringthethrillofshoppingwithoutpaying",
+   "title": "Indians are discovering the thrill of shopping without paying",
+   "summary": "Dopamine sites mimic shopping’s thrill without the spending, turning the ritual of consumption into a digital game.",
+   "link": "https://www.bbc.co.uk/news/articles/cwn741v5rdpxo?at_medium=RSS&at_campaign=rss",
+   "outlet": "BBC Technology",
+   "feed_region": "uk",
+   "published": "2026-09-24T00:14:10+01:00"
+  },
+  {
+   "key": "gremlins3delayedto2028bywarnerbros",
+   "title": "‘Gremlins 3’ Delayed to 2028 by Warner Bros.",
+   "summary": "Warner Bros. has delayed “Gremlins 3” from Nov. 19, 2027, to Oct. 6. 2028. David Zaslav, the CEO and president of Warner Bros. Discovery, first revealed the project during an investor call in 2025. Steven Spielberg is returning as executive producer alongside Maiden Voyage’s Eleanor Columbus. “Harry Potter”...",
+   "link": "https://variety.com/2026/film/news/gremlins-3-release-date-delayed-warner-bros-1236873796/",
+   "outlet": "Variety",
+   "feed_region": "americas",
+   "published": "2026-09-24T00:12:46+01:00"
+  },
+  {
+   "key": "howtheoilcapitaloftheuswelcomedasolarpowerboom",
+   "title": "How the oil capital of the US welcomed a solar power boom",
+   "summary": "Texas is now the country's biggest producer of solar-farmed electricity.",
+   "link": "https://www.bbc.co.uk/news/articles/cmx2zxv6936zo?at_medium=RSS&at_campaign=rss",
+   "outlet": "BBC Business",
+   "feed_region": "uk",
+   "published": "2026-09-24T00:12:22+01:00"
+  },
+  {
+   "key": "proteinflationmeetthepeoplepayingupto100forabagofprotein",
+   "title": "'Proteinflation': Meet the people paying up to £100 for a bag of protein",
+   "summary": "Consumers are feeling the squeeze from the rising price of protein.",
+   "link": "https://www.bbc.co.uk/news/articles/cm93e2gz8y41o?at_medium=RSS&at_campaign=rss",
+   "outlet": "BBC Business",
+   "feed_region": "uk",
+   "published": "2026-09-24T00:12:01+01:00"
+  },
+  {
+   "key": "mariskahargitayteaseschristophermelonislawordersvureturnfor600thepisod",
+   "title": "Mariska Hargitay Teases Christopher Meloni’s ‘Law & Order: SVU’ Return for 600th Episode",
+   "summary": "An original star of the series, Meloni appeared on the 'Law & Order' spinoff from 1999-2011, and has since popped up in numerous cameo appearances.",
+   "link": "https://www.hollywoodreporter.com/tv/tv-news/mariska-hargitay-christopher-meloni-law-order-svu-return-1236708909/",
+   "outlet": "Hollywood Reporter",
+   "feed_region": "americas",
+   "published": "2026-09-24T00:08:06+01:00"
+  },
+  {
+   "key": "gremlins3warnerbrospusheschristophercolumbussequelbackayeartofall2028",
+   "title": "‘Gremlins 3’: Warner Bros. Pushes Christopher Columbus Sequel Back a Year to Fall 2028",
+   "summary": "DC Studios' \"Dynamic Duo\" also moves back three months to September of that year The post ‘Gremlins 3’: Warner Bros. Pushes Christopher Columbus Sequel Back a Year to Fall 2028 appeared first on TheWrap .",
+   "link": "https://www.thewrap.com/industry-news/business/gremlins-3-new-release-date-warner-bros/",
+   "outlet": "The Wrap",
+   "feed_region": "americas",
+   "published": "2026-09-24T00:00:53+01:00"
+  },
+  {
+   "key": "warnerbrospushesgremlinsmovienearlyayearmovesdcsdynamicduoback3months",
+   "title": "Warner Bros. Pushes ‘Gremlins’ Movie Nearly a Year, Moves DC’s ‘Dynamic Duo’ Back 3 Months",
+   "summary": "'Gremlins' has original writer Chris Columbus in the director's chair.",
+   "link": "https://www.hollywoodreporter.com/movies/movie-news/warners-pushes-gremlins-movie-nearly-a-year-dynamic-duo-1236708934/",
+   "outlet": "Hollywood Reporter",
+   "feed_region": "americas",
+   "published": "2026-09-24T00:00:35+01:00"
+  },
+  {
+   "key": "thepurposeofthetrianglesymbolonyoursamsunggalaxyphone",
+   "title": "The purpose of the triangle symbol on your Samsung Galaxy phone",
+   "summary": "Samsung phones have a few different triangle symbols that can display in the status bar in different scenarios. This is how to tell what they mean.",
+   "link": "https://www.engadget.com/2265257/triangle-symbol-samsung-galaxy-phone-meaning-data-saver-setting/",
+   "outlet": "Engadget",
+   "feed_region": "global",
+   "published": "2026-09-24T00:00:00+01:00"
+  },
+  {
+   "key": "woveopartnerswithbdconbusinessmicrolendingprogram",
+   "title": "Woveo partners with BDC on business microlending program",
+   "summary": "The $10-million project aims to expand capital access for small and medium-sized businesses. The post Woveo partners with BDC on business microlending program first appeared on BetaKit .",
+   "link": "https://betakit.com/woveo-partners-with-bdc-on-business-microlending-program/",
+   "outlet": "BetaKit",
+   "feed_region": "americas",
+   "published": "2026-09-24T00:00:00+01:00"
+  },
+  {
+   "key": "metaconnect2026thebiggestnewsandannouncements",
+   "title": "Meta Connect 2026: The biggest news and announcements",
+   "summary": "It’s about time for Meta Connect, the company’s annual product launch event. This year, given the company’s major focus on AI and wearables like smart glasses, it seems likely that we’ll see updates from CEO Mark Zuckerberg and his team on those categories. The company has been facing significant scrutiny because...",
+   "link": "https://www.theverge.com/tech/998480/meta-connect-2026-biggest-news-announcements",
+   "outlet": "The Verge",
+   "feed_region": "global",
+   "published": "2026-09-23T23:45:00+01:00"
+  },
+  {
+   "key": "barrydillerdrops18billionmgmresortstakeoverplan",
+   "title": "Barry Diller Drops $18 Billion MGM Resorts Takeover Plan",
+   "summary": "The mogul's People Inc had proposed to buy all shares in the Las Vegas casino giant that it didn't currently own.",
+   "link": "https://www.hollywoodreporter.com/business/business-news/barry-diller-drops-18-billion-mgm-resorts-takeover-plan-1236708925/",
+   "outlet": "Hollywood Reporter",
+   "feed_region": "americas",
+   "published": "2026-09-23T23:43:16+01:00"
+  },
+  {
+   "key": "usrejectspleasfromopenaianthropicforglobalaistandards",
+   "title": "US rejects pleas from OpenAI, Anthropic for global AI standards",
+   "summary": "OpenAI's Sam Altman has called for risk evaluation standards, as have Anthropic's Dario Amodei and Hugging Face's Clement Delangue.",
+   "link": "https://www.bbc.co.uk/news/articles/ck87v27vdn1po?at_medium=RSS&at_campaign=rss",
+   "outlet": "BBC Technology",
+   "feed_region": "uk",
+   "published": "2026-09-23T23:35:14+01:00"
+  },
+  {
+   "key": "metaconnect2026liveblogonthegroundatmarkzuckerbergsnextbigproductlaunc",
+   "title": "Meta Connect 2026 live blog: On the ground at Mark Zuckerberg’s next big product launch",
+   "summary": "It's time once again for Meta's annual September product launch event, and The Verge is on the ground in Menlo Park to cover the show live. Meta says that today's keynote by Mark Zuckerberg will be about how \"Meta is building a future for everyone\" - something he wrote at length about in a recent […]",
+   "link": "https://www.theverge.com/tech/998457/meta-connect-2026-live-blog-mark-zuckerberg-keynote",
+   "outlet": "The Verge",
+   "feed_region": "global",
+   "published": "2026-09-23T23:30:00+01:00"
+  },
+  {
+   "key": "anthropicsaysitsbiologylabhasalreadyfoundsomethingbig",
+   "title": "Anthropic says its biology lab has already found something big",
+   "summary": "But maybe the biggest reveal is that Anthropic has not let Claude run loose in its biology lab. Humans are still, so far, in the loop.",
+   "link": "https://techcrunch.com/2026/09/23/anthropic-says-its-biology-lab-has-already-found-something-big/",
+   "outlet": "TechCrunch",
+   "feed_region": "global",
+   "published": "2026-09-23T23:17:39+01:00"
+  },
+  {
+   "key": "rfkjrscdcisntlettingstatesordercovid19shotsforkidsblockingaccess",
+   "title": "RFK Jr.'s CDC isn’t letting states order COVID-19 shots for kids, blocking access",
+   "summary": "US health deptartment said it wants to ensure the vaccine orders are \"appropriate.\"",
+   "link": "https://arstechnica.com/health/2026/09/rfk-jr-s-cdc-isnt-letting-states-order-covid-19-shots-for-kids-blocking-access/",
+   "outlet": "Ars Technica",
+   "feed_region": "global",
+   "published": "2026-09-23T23:17:25+01:00"
+  },
+  {
+   "key": "judgeseemsinclinedtosidewithmediaoutletswhowerebannedfromwhitehouseinl",
+   "title": "Judge seems inclined to side with media outlets who were banned from White House in lawsuit",
+   "summary": "Due process was not followed, said judge, when CNN, MS Now and Politico were banned from White House A US district judge on Wednesday heard arguments in the extraordinary showdown between Donald Trump and CNN, MS Now and Politico, suggesting in comments that he was more inclined to side with the media plaintiffs...",
+   "link": "https://www.theguardian.com/media/2026/sep/23/white-house-media-ban-lawsuit",
+   "outlet": "Guardian Media",
+   "feed_region": "uk",
+   "published": "2026-09-23T23:16:36+01:00"
+  },
+  {
+   "key": "judgedismissestrumpsextraordinarylawsuitagainstiowanewspaperandpollste",
+   "title": "Judge dismisses Trump’s ‘extraordinary’ lawsuit against Iowa newspaper and pollster",
+   "summary": "Trump had accused Des Moines Register of fraudulently publishing inaccurate poll results to damage him A judge on Wednesday dismissed Donald Trump’s lawsuit accusing the Des Moines Register and its former pollster of misrepresenting the state of the 2024 presidential race, rejecting the president’s claim that the...",
+   "link": "https://www.theguardian.com/us-news/2026/sep/23/des-moines-register-trump-lawsuit-dismissed",
+   "outlet": "Guardian Media",
+   "feed_region": "uk",
+   "published": "2026-09-23T23:11:48+01:00"
+  },
+  {
+   "key": "aisuperpowerambitionstakecentrestageastrumpandximeet",
+   "title": "AI superpower ambitions take centre stage as Trump and Xi meet",
+   "summary": "The US and China are vying for AI supremacy while seeking to keep it under human control.",
+   "link": "https://www.bbc.co.uk/news/articles/c6gqdgg8w59xo?at_medium=RSS&at_campaign=rss",
+   "outlet": "BBC Business",
+   "feed_region": "uk",
+   "published": "2026-09-23T23:01:17+01:00"
+  },
+  {
+   "key": "fbirushestoinvestigateifshinyhuntershackofthousandsofemployeesisreal",
+   "title": "FBI rushes to investigate if ShinyHunters hack of thousands of employees is real",
+   "summary": "It's unclear what will happen if FBI misses ShinyHunters' deadline.",
+   "link": "https://arstechnica.com/tech-policy/2026/09/fbi-rushes-to-investigate-if-shinyhunters-hack-of-thousands-of-employees-is-real/",
+   "outlet": "Ars Technica",
+   "feed_region": "global",
+   "published": "2026-09-23T22:46:36+01:00"
+  },
   {
    "key": "neiljordanontomcruisesinterviewwiththevampirecastingcontroversyheliked",
    "title": "Neil Jordan on Tom Cruise’s ‘Interview with the Vampire’ Casting Controversy: “He Liked the Challenge of Proving Them Wrong”",
@@ -38,6 +902,15 @@
    "published": "2026-09-23T22:33:02+01:00"
   },
   {
+   "key": "iphone18provsiphoneduocomparingapplesnewprophoneagainstitsfirstfoldabl",
+   "title": "iPhone 18 Pro vs. iPhone Duo: Comparing Apple’s New Pro Phone Against Its First Foldable",
+   "summary": "Apple’s iPhone 18 Pro includes a heck of a camera that sets it apart, but the iPhone Duo’s ability to unfold from small phone to tablet could offer new ways to use an iPhone.",
+   "link": "https://www.cnet.com/tech/mobile/apple-iphone-18-pro-vs-iphone-duo/",
+   "outlet": "CNET News",
+   "feed_region": "global",
+   "published": "2026-09-23T22:29:38+01:00"
+  },
+  {
    "key": "lidlbannedfromsellingcopycatbirkenstocksandalsdutchcourtrules",
    "title": "Lidl banned from selling copycat Birkenstock sandals, Dutch court rules",
    "summary": "Lidl must also compensate Birkenstock and pay its legal fees, according to the court ruling",
@@ -63,6 +936,15 @@
    "outlet": "TechCrunch",
    "feed_region": "global",
    "published": "2026-09-23T22:21:33+01:00"
+  },
+  {
+   "key": "disneyandhuluraisepricesbyupto13percentafterdoublingprofits",
+   "title": "Disney+ and Hulu raise prices by up to 13 percent after doubling profits",
+   "summary": "The Disney+ ad-free plan is now more expensive than Netflix's.",
+   "link": "https://arstechnica.com/gadgets/2026/09/disney-and-hulu-raise-prices-by-up-to-13-percent-after-doubling-profits/",
+   "outlet": "Ars Technica",
+   "feed_region": "global",
+   "published": "2026-09-23T22:18:53+01:00"
   },
   {
    "key": "shinyhuntershackersclaimtohave23tbofsensitiveinformationaboutfbiemploy",
@@ -92,6 +974,15 @@
    "published": "2026-09-23T22:11:20+01:00"
   },
   {
+   "key": "heresthetorcalthefirstfullyelectricbentley",
+   "title": "Here's the Torcal, the first fully electric Bentley",
+   "summary": "It sounds like a V8, rides like a Flying Spur, but handles like a Continental GT.",
+   "link": "https://arstechnica.com/cars/2026/09/heres-the-torcal-the-first-fully-electric-bentley/",
+   "outlet": "Ars Technica",
+   "feed_region": "global",
+   "published": "2026-09-23T22:06:07+01:00"
+  },
+  {
    "key": "richardharrisonstarofspaghettiwesternsandswordandsandalflicksdiesat90",
    "title": "Richard Harrison, Star of Spaghetti Westerns and Sword-and-Sandal Flicks, Dies at 90",
    "summary": "The Salt Lake City native left Hollywood for Italy in the early 1960s and built a thriving B-movie career away from home.",
@@ -108,6 +999,15 @@
    "outlet": "TVNewsCheck",
    "feed_region": "americas",
    "published": "2026-09-23T22:04:52+01:00"
+  },
+  {
+   "key": "torieswouldpreventlongtermjoblessspendingbenefitsonalcoholandcigarette",
+   "title": "Tories would prevent long-term jobless spending benefits on alcohol and cigarettes",
+   "summary": "The proposals would also see benefits cut for people who are able to work but have failed to hold down a job.",
+   "link": "https://www.bbc.co.uk/news/articles/c920vy2jxle8o?at_medium=RSS&at_campaign=rss",
+   "outlet": "BBC Business",
+   "feed_region": "uk",
+   "published": "2026-09-23T22:01:55+01:00"
   },
   {
    "key": "creatorverseyoutubewantstobewaymorethanthenexthollywood",
@@ -153,6 +1053,15 @@
    "outlet": "Hollywood Reporter",
    "feed_region": "americas",
    "published": "2026-09-23T21:55:03+01:00"
+  },
+  {
+   "key": "trumpschinarivalryandairacedelusionmayendangerusexpertssay",
+   "title": "Trump’s China rivalry and “AI race” delusion may endanger US, experts say",
+   "summary": "Trump focus on winning “AI race” may deter China from sharing safety intel.",
+   "link": "https://arstechnica.com/tech-policy/2026/09/china-silent-as-us-touts-plan-for-ai-safety-alerts-that-omits-tech-experts/",
+   "outlet": "Ars Technica",
+   "feed_region": "global",
+   "published": "2026-09-23T21:52:28+01:00"
   },
   {
    "key": "jeffgarlinsaysundiagnosedbipolarmadehimmeanonthegoldbergssetwendimclen",
@@ -602,6 +1511,15 @@
    "link": "https://www.theverge.com/ai-artificial-intelligence/999526/meta-muse-ai-agent-hands-on-shopping",
    "outlet": "The Verge",
    "feed_region": "global",
+   "published": "2026-09-23T20:00:00+01:00"
+  },
+  {
+   "key": "palantirsquiettakeoverofmediasdatastack",
+   "title": "Palantir’s Quiet Takeover of Media’s Data Stack",
+   "summary": "From newsroom automation to audience monetization, here's what's drawn companies to the intelligence firm.",
+   "link": "https://www.adweek.com/media/palantir-media-marketing-partnership-push/",
+   "outlet": "Adweek",
+   "feed_region": "americas",
    "published": "2026-09-23T20:00:00+01:00"
   },
   {
@@ -30654,654 +31572,6 @@
    "outlet": "Adweek",
    "feed_region": "americas",
    "published": "2026-09-14T07:00:00+01:00"
-  },
-  {
-   "key": "research3in4americansusephoneswhilewatchingtv",
-   "title": "Research: 3 in 4 Americans use phones while watching TV",
-   "summary": "The TV may still be the biggest screen in the room, but it no longer commands the room. Omdia consumer research unveiled by María Rúa Aguete, Global Head of Media & Entertainment at Omdia, at IBC reveals how smartphones are competing with TVs for attention in living rooms. Around three in four US TV viewers […]",
-   "link": "https://www.advanced-television.com/2026/09/14/research-3-in-4-americans-use-phones-while-watching-tv/",
-   "outlet": "Advanced Television",
-   "feed_region": "uk",
-   "published": "2026-09-14T06:17:12+01:00"
-  },
-  {
-   "key": "aianditsmainpromotersarenotenterprisereadysaysgartner",
-   "title": "AI and its main promoters are not enterprise-ready, says Gartner",
-   "summary": "Model-makers move too fast and don’t care when they break things",
-   "link": "https://www.theregister.com/ai-and-ml/2026/09/14/ai-and-its-main-promoters-are-not-enterprise-ready-says-gartner/5296074",
-   "outlet": "The Register",
-   "feed_region": "global",
-   "published": "2026-09-14T06:11:19+01:00"
-  },
-  {
-   "key": "jackthornewarnssomefellowscriptwritersareusingaitocheat",
-   "title": "Jack Thorne warns some fellow scriptwriters are using AI ‘to cheat’",
-   "summary": "Adolescence co-writer criticises government inaction and calls for laws banning secret use of AI to generate scripts Jack Thorne, one of Britain’s most successful screen and stage writers, has warned that some people in his profession are using AI “to cheat”, as he called for laws banning the secret use of the...",
-   "link": "https://www.theguardian.com/stage/2026/sep/14/jack-thorne-scriptwriters-ai-artificial-intelligence",
-   "outlet": "Guardian Media",
-   "feed_region": "uk",
-   "published": "2026-09-14T06:00:26+01:00"
-  },
-  {
-   "key": "foodredistributionwarehouseopensineastlondon",
-   "title": "Food redistribution warehouse opens in east London",
-   "summary": "The Big Heart Food Hub in Barking aims to deliver 10 tonnes of food to charities each week.",
-   "link": "https://www.bbc.co.uk/news/articles/c87vywld028o?at_medium=RSS&at_campaign=rss",
-   "outlet": "BBC Business",
-   "feed_region": "uk",
-   "published": "2026-09-14T05:56:54+01:00"
-  },
-  {
-   "key": "thelifeanddeathsofwilsonsheddreviewamandaseyfriedandscootmcnairyarewre",
-   "title": "‘The Life and Deaths of Wilson Shedd’ Review: Amanda Seyfried and Scoot McNairy Are Wrenching in Bold Drama",
-   "summary": "Toronto Film Festival: Tim Blake Nelson's crime drama, inspired by a real incident, doesn't let characters or viewers off the hook The post ‘The Life and Deaths of Wilson Shedd’ Review: Amanda Seyfried and Scoot McNairy Are Wrenching in Bold Drama appeared first on TheWrap .",
-   "link": "https://www.thewrap.com/creative-content/movies/the-life-and-deaths-of-wilson-shedd-review-amanda-seyfried/",
-   "outlet": "The Wrap",
-   "feed_region": "americas",
-   "published": "2026-09-14T05:40:46+01:00"
-  },
-  {
-   "key": "zacksnydersthelastphotographfirstreactions",
-   "title": "Zack Snyder’s ‘The Last Photograph’: First Reactions",
-   "summary": "The film, Snyder's first indie production, debuted at the Toronto Film Festival.",
-   "link": "https://www.hollywoodreporter.com/movies/movie-news/zack-snyder-the-last-photograph-first-reactions-1236700218/",
-   "outlet": "Hollywood Reporter",
-   "feed_region": "americas",
-   "published": "2026-09-14T05:10:29+01:00"
-  },
-  {
-   "key": "koreagrappleswithfinancialfalloutofkdramaboom",
-   "title": "Korea grapples with financial fall-out of K-drama boom",
-   "summary": "BCWW: As the global television industry descends on Seoul for the annual BCWW conference and trade fair, the mood shifting through the halls of the Coex convention centre is likely to be vastly differe...",
-   "link": "https://www.c21media.net/perspective/korea-grapples-with-financial-fall-out-of-k-drama-boom/",
-   "outlet": "C21Media",
-   "feed_region": "uk",
-   "published": "2026-09-14T05:03:32+01:00"
-  },
-  {
-   "key": "mediabuyingbriefinghowpubliciskeepswinningclientswithoutpitches",
-   "title": "Media Buying Briefing: How Publicis keeps winning clients without pitches",
-   "summary": "PepsiCo and LVMH wins show Publicis has deliberately cultivated a habit of winning major media accounts outside the traditional review process.",
-   "link": "https://digiday.com/media-buying/media-buying-briefing-how-publicis-keeps-winning-clients-without-pitches/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
-   "outlet": "Digiday",
-   "feed_region": "americas",
-   "published": "2026-09-14T05:01:00+01:00"
-  },
-  {
-   "key": "openaisnextchatgptadformatclicktochatnottosite",
-   "title": "OpenAI’s next ChatGPT ad format: click to chat, not to site",
-   "summary": "The new format lets brands turn an ad click into a conversation with an AI agent inside ChatGPT, rather than sending users to their websites.",
-   "link": "https://digiday.com/marketing/openais-next-chatgpt-ad-format-click-to-chat-not-to-site/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
-   "outlet": "Digiday",
-   "feed_region": "americas",
-   "published": "2026-09-14T05:01:00+01:00"
-  },
-  {
-   "key": "asgooglesadtechcasenearsitsendtheantitrustfightmovestoai",
-   "title": "As Google’s ad tech case nears its end, the antitrust fight moves to AI",
-   "summary": "Google avoided breakups in antitrust cases as AI ads and CTV draw scrutiny; see what regulators may target next.",
-   "link": "https://digiday.com/marketing/as-googles-ad-tech-case-nears-its-end-the-antitrust-fight-moves-to-ai/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
-   "outlet": "Digiday",
-   "feed_region": "americas",
-   "published": "2026-09-14T05:01:00+01:00"
-  },
-  {
-   "key": "googlerollsoutpayperuseailicensingprogramtopublishers",
-   "title": "Google rolls out pay-per-use AI licensing program to publishers",
-   "summary": "Google has been quietly scaling a pay-per-use AI licensing scheme for publishers. But critics say the program looks less like a meaningful payout and more like a legal fig leaf.",
-   "link": "https://digiday.com/media/google-rolls-out-pay-per-use-ai-licensing-program-to-publishers/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
-   "outlet": "Digiday",
-   "feed_region": "americas",
-   "published": "2026-09-14T05:01:00+01:00"
-  },
-  {
-   "key": "whatwevelearnedfromthecreatorsnafusatthisyearsusopen",
-   "title": "What we’ve learned from the creator snafus at this year’s US Open",
-   "summary": "Everyone's hating on creators at the US Open, but they're here to stay in the tennis world, just perhaps with some adjustments.",
-   "link": "https://digiday.com/media/what-weve-learned-from-the-creator-snafus-at-this-years-us-open/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
-   "outlet": "Digiday",
-   "feed_region": "americas",
-   "published": "2026-09-14T05:01:00+01:00"
-  },
-  {
-   "key": "googlerollsoutpaypervalueailicensingprogramtopublishers",
-   "title": "Google rolls out pay-per-value AI licensing program to publishers",
-   "summary": "Google has been quietly scaling a pay-per-value AI licensing scheme for publishers. But critics say the program looks less like a meaningful payout and more like a legal fig leaf.",
-   "link": "https://digiday.com/media/google-rolls-out-pay-value-ai-licensing-program-to-publishers/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
-   "outlet": "Digiday",
-   "feed_region": "americas",
-   "published": "2026-09-14T05:01:00+01:00"
-  },
-  {
-   "key": "navigatingthenascentworldofgeowithhavasamybanks",
-   "title": "Navigating the nascent world of GEO – with Havas’ Amy Banks",
-   "summary": "Havas Media Network's head of SEO and GEO talks GEO strategies and who the early winners and losers are in the developing AI search market.",
-   "link": "https://uk.themedialeader.com/navigating-the-nascent-world-of-geo-with-havas-amy-banks/?utm_source=rss&utm_medium=rss&utm_campaign=navigating-the-nascent-world-of-geo-with-havas-amy-banks",
-   "outlet": "The Media Leader",
-   "feed_region": "uk",
-   "published": "2026-09-14T05:00:39+01:00"
-  },
-  {
-   "key": "mediaforplannerswhogiveashit",
-   "title": "Media for planners who give a shit",
-   "summary": "Craft Media is planning a get-together for like-minded media planners this autumn. Haydn Millar explains the thinking behind it.",
-   "link": "https://uk.themedialeader.com/media-for-planners-who-give-a-shit/?utm_source=rss&utm_medium=rss&utm_campaign=media-for-planners-who-give-a-shit",
-   "outlet": "The Media Leader",
-   "feed_region": "uk",
-   "published": "2026-09-14T04:42:22+01:00"
-  },
-  {
-   "key": "allthatshewantsreviewanniemurphyandcooperraiffarewellmatchedinagenerat",
-   "title": "‘All That She Wants’ Review: Annie Murphy and Cooper Raiff Are Well-Matched in a Generation-Gap Romcom",
-   "summary": "Millennials get their Mrs. Robinson moment with “All That She Wants,” an age-gap romcom titled after the 1992 Ace of Base hit. If you remember listening to that song on a cassingle, it’s time to ask your doctor about perimenopause. Professional dancer Emma (Annie Murphy) isn’t quite there yet, but in her early...",
-   "link": "https://variety.com/2026/film/reviews/all-that-she-wants-review-1236860677/",
-   "outlet": "Variety",
-   "feed_region": "americas",
-   "published": "2026-09-14T04:30:00+01:00"
-  },
-  {
-   "key": "allthatshewantsreviewanniemurphyisallthatinafizzyromcomthatworksbestwh",
-   "title": "‘All That She Wants’ Review: Annie Murphy Is All That in a Fizzy Rom-Com That Works Best When It Isn’t Trying Too Hard",
-   "summary": "Toplining a feature for the first time, the ‘Schitt’s Creek’ star plays a 30-something who’s ready for motherhood, if not a relationship, in a comedy that also stars Zosia Mamet, Cooper Raiff and Christine Baranski.",
-   "link": "https://www.hollywoodreporter.com/movies/movie-reviews/all-that-she-wants-review-annie-murphy-cooper-raiff-1236698118/",
-   "outlet": "Hollywood Reporter",
-   "feed_region": "americas",
-   "published": "2026-09-14T04:30:00+01:00"
-  },
-  {
-   "key": "australiasnetwork10launcheskcontentstreaminghubwithcjenm",
-   "title": "Australia’s Network 10 launches K-content streaming hub with CJ ENM",
-   "summary": "BCWW: Paramount Skydance-owned Australian commercial broadcaster Network 10 has launched a streaming hub dedicated to K-content after a licensing deal signed with South Korean content company CJ ENM. U...",
-   "link": "https://www.c21media.net/news/cj-enm-brings-k-content-to-australia-through-network-10/",
-   "outlet": "C21Media",
-   "feed_region": "uk",
-   "published": "2026-09-14T04:29:23+01:00"
-  },
-  {
-   "key": "committeecallsforbilltoaddressaithreattohumanrights",
-   "title": "Committee calls for bill to address AI threat to human rights",
-   "summary": "A cross-party group of MPs and peers identifies human rights risks that existing laws appear not to cover.",
-   "link": "https://www.bbc.co.uk/news/articles/cwyzvgj70y4o?at_medium=RSS&at_campaign=rss",
-   "outlet": "BBC Business",
-   "feed_region": "uk",
-   "published": "2026-09-14T04:23:54+01:00"
-  },
-  {
-   "key": "lemonadereviewnewcomerlewisbrophyandbarrykeoghanleadapaintbynumbersiri",
-   "title": "‘Lemonade’ Review: Newcomer Lewis Brophy and Barry Keoghan Lead a Paint-by-Numbers Irish Drama About a Teen Caught in the System",
-   "summary": "Kim Bartley's TIFF-bowing film revolves around an Irish teenager navigating a multitude of problems all at once.",
-   "link": "https://www.hollywoodreporter.com/movies/movie-reviews/lemonade-review-barry-keoghan-1236697925/",
-   "outlet": "Hollywood Reporter",
-   "feed_region": "americas",
-   "published": "2026-09-14T03:58:42+01:00"
-  },
-  {
-   "key": "sethrogensurprisedbytorontocareerachievementawardat44yougotaletterfrom",
-   "title": "Seth Rogen Surprised By Toronto Career Achievement Award at 44: “You Got a Letter From My Doctors?”",
-   "summary": "Helen Mirren, Penelope Cruz and Isabelle Huppert were also honored at the Tribute Awards on Sunday night at the Toronto Film Festival.",
-   "link": "https://www.hollywoodreporter.com/movies/movie-news/2026-toronto-film-festival-tribute-awards-winners-list-1236700159/",
-   "outlet": "Hollywood Reporter",
-   "feed_region": "americas",
-   "published": "2026-09-14T03:54:49+01:00"
-  },
-  {
-   "key": "amazonpausesworkwithcargofirmafterfatalcrash",
-   "title": "Amazon pauses work with cargo firm after fatal crash",
-   "summary": "The 21 Air-operated jet overshot a runway at Miami International Airport and hit several vehicles.",
-   "link": "https://www.bbc.co.uk/news/articles/cx2zg554w9ko?at_medium=RSS&at_campaign=rss",
-   "outlet": "BBC Business",
-   "feed_region": "uk",
-   "published": "2026-09-14T03:40:06+01:00"
-  },
-  {
-   "key": "itsnothowbigyourdataisitswhatyoudowithit",
-   "title": "It’s not how big your data is, it’s what you do with it",
-   "summary": "WPP offers a practical overview of how to turn data from a vast resource into a clear driver of growth.",
-   "link": "https://uk.themedialeader.com/its-not-how-big-your-data-is-its-what-you-do-with-it/?utm_source=rss&utm_medium=rss&utm_campaign=its-not-how-big-your-data-is-its-what-you-do-with-it",
-   "outlet": "The Media Leader",
-   "feed_region": "uk",
-   "published": "2026-09-14T03:28:14+01:00"
-  },
-  {
-   "key": "oscarsphilippinespicksrafaelmanuelsfilipianaasbestinternationalfeature",
-   "title": "Oscars: Philippines Picks Rafael Manuel’s ‘Filipiñana’ as Best International Feature Selection",
-   "summary": "The Sundance-winning debut is a sly class satire set inside an elite country club in Manila.",
-   "link": "https://www.hollywoodreporter.com/movies/movie-news/philippines-rafael-manuel-filipinana-2027-oscars-1236700190/",
-   "outlet": "Hollywood Reporter",
-   "feed_region": "americas",
-   "published": "2026-09-14T03:14:27+01:00"
-  },
-  {
-   "key": "60minuteschangeditslooknotitsformulaanalysis",
-   "title": "’60 Minutes’ Changed Its Look, Not Its Formula | Analysis",
-   "summary": "The CBS newsmagazine kept its investigative muscle in the Season 59 premiere, while Pentagon access tested its independence The post ’60 Minutes’ Changed Its Look, Not Its Formula | Analysis appeared first on TheWrap .",
-   "link": "https://www.thewrap.com/media-platforms/journalism/60-minutes-season-59-episode-1-review-analysis/",
-   "outlet": "The Wrap",
-   "feed_region": "americas",
-   "published": "2026-09-14T03:00:26+01:00"
-  },
-  {
-   "key": "lanternsstarpoornajagannathanbreaksdownzoesbrutalepisode5itsafaustianp",
-   "title": "‘Lanterns’ Star Poorna Jagannathan Breaks Down Zoe’s Brutal Episode 5: ‘It’s a Faustian Play She Makes’",
-   "summary": "SPOILER ALERT: This article contains spoilers for “Lanterns” Episode 5, titled “Lights Out,” now streaming on HBO Max. This week’s episode of “Lanterns” finally unmasks the Manhunter, who’s been at the heart of the mystery in Rushville throughout the season. As revealed at the end of Episode 4, the Manhunter is in...",
-   "link": "https://variety.com/2026/tv/news/lanterns-episode-5-zoe-manhunter-john-kills-zoe-1236858961/",
-   "outlet": "Variety",
-   "feed_region": "americas",
-   "published": "2026-09-14T03:00:00+01:00"
-  },
-  {
-   "key": "lanternsburnsitalldownepisode5directorexplainsjohnstewartsshockingdeci",
-   "title": "‘Lanterns’ Burns It All Down: Episode 5 Director Explains John Stewart’s Shocking Decision",
-   "summary": "Geeta Vasant Patel tells TheWrap about staging the DC Studios show's biggest fight scenes yet The post ‘Lanterns’ Burns It All Down: Episode 5 Director Explains John Stewart’s Shocking Decision appeared first on TheWrap .",
-   "link": "https://www.thewrap.com/creative-content/tv-shows/lanterns-episode-5-is-john-stewart-still-green-lantern-director-interview/",
-   "outlet": "The Wrap",
-   "feed_region": "americas",
-   "published": "2026-09-14T03:00:00+01:00"
-  },
-  {
-   "key": "lucydacusonclosingouttheforeverisafeelingchapterfindingfandomboundarie",
-   "title": "Lucy Dacus on Closing Out the ‘Forever Is a Feeling’ Chapter, Finding Fandom Boundaries and What’s Next",
-   "summary": "The 31-year-old singer-songwriter is set to play her final show for the album with the Hollywood Bowl Orchestra.",
-   "link": "https://www.hollywoodreporter.com/music/music-features/lucy-dacus-forever-is-a-feeling-hollywood-bowl-interview-1236699997/",
-   "outlet": "Hollywood Reporter",
-   "feed_region": "americas",
-   "published": "2026-09-14T02:58:41+01:00"
-  },
-  {
-   "key": "podcastweekkicksoffinnyc",
-   "title": "Podcast Week kicks off in NYC",
-   "summary": "A week of events focuses on podcasting. Sponsored by The Podglomerate. Ready to turn your downloads into dollars? Get The Podglomerate’s free guide to podcast monetization, including ad revenue calculations, sponsorship strategy, subscriptions, and more. https://podnews.net/cc/3692 Visit...",
-   "link": "https://podnews.net/update/podcast-week-nyc-2026",
-   "outlet": "Podnews",
-   "feed_region": "global",
-   "published": "2026-09-14T02:57:43+01:00"
-  },
-  {
-   "key": "cbswarnshumanitymayhaveanarrowwindowtoavoidaicalamityrightafterchatgpt",
-   "title": "CBS Warns Humanity May Have a “Narrow Window” to Avoid AI Calamity, Right After ChatGPT Sponsors Its NFL Broadcast",
-   "summary": "ChatGPT was revealed as a surprise presenting sponsor of the 'NFL on CBS,' which was followed by '60 Minutes,' where one of its correspondents outlined a stark warning about the future if the technology remains unchecked.",
-   "link": "https://www.hollywoodreporter.com/tv/tv-news/chatgpt-cbs-nfl-ads-60-minutes-warning-1236700161/",
-   "outlet": "Hollywood Reporter",
-   "feed_region": "americas",
-   "published": "2026-09-14T02:41:00+01:00"
-  },
-  {
-   "key": "bigaisetsoutitstermsforregulatorycaptureandcallsitpacethefrontier",
-   "title": "Big AI sets out its terms for regulatory capture and calls it ‘Pace the frontier’",
-   "summary": "Amodei, Altman, Nadella and Musk agree on how government can tame the monster they created",
-   "link": "https://www.theregister.com/ai-and-ml/2026/09/14/big-ai-sets-out-its-terms-for-regulatory-capture-and-calls-it-pace-the-frontier/5296067",
-   "outlet": "The Register",
-   "feed_region": "global",
-   "published": "2026-09-14T02:15:16+01:00"
-  },
-  {
-   "key": "laseydouxwasworriedshewasntgoingtogethiredforgentlemonster",
-   "title": "Léa Seydoux Was Worried She Wasn’t Going to Get Hired for ‘Gentle Monster’",
-   "summary": "TIFF 2026: The actress talks about postponing her initial call with filmmaker Else Kühn and their candid discussions about nude scenes The post Léa Seydoux Was Worried She Wasn’t Going to Get Hired for ‘Gentle Monster’ appeared first on TheWrap .",
-   "link": "https://www.thewrap.com/creative-content/movies/gentle-monster-lea-seydoux-interview-tiff-2026/",
-   "outlet": "The Wrap",
-   "feed_region": "americas",
-   "published": "2026-09-14T02:14:08+01:00"
-  },
-  {
-   "key": "60minuteskicksoffmuchscrutinized59thseasonwitholdtickstricks",
-   "title": "’60 Minutes’ Kicks Off Much-Scrutinized 59th Season With Old Ticks, Tricks",
-   "summary": "CBS News says it needs to push “60 Minutes” into the future if the show is to survive, but the first telecast of the 59th season following a shocking overhaul of its on-air and behind-the-camera staff in May and June relied on many elements from the program’s past. The new season of “60 Minutes” burnished […]",
-   "link": "https://variety.com/2026/tv/news/60-minutes-season-59-launch-cbs-news-old-tricks-ticks-1236860783/",
-   "outlet": "Variety",
-   "feed_region": "americas",
-   "published": "2026-09-14T02:11:14+01:00"
-  },
-  {
-   "key": "newpresidentandceoappointedforsouthkoreanpubcastermbc",
-   "title": "New president and CEO appointed for South Korean pubcaster MBC",
-   "summary": "The Foundation for Broadcast Culture, the majority shareholder of South Korean public broadcaster MBC, has appointed Lee Sung-joo as the TV company's new president and chief executive officer, with the...",
-   "link": "https://www.c21media.net/news/new-president-and-ceo-for-south-korean-pubcaster-mbc-appointed/",
-   "outlet": "C21Media",
-   "feed_region": "uk",
-   "published": "2026-09-14T02:06:24+01:00"
-  },
-  {
-   "key": "cynthiaerivosrivetingprimafacieperformanceearnstiffstandingovation",
-   "title": "Cynthia Erivo’s Riveting ‘Prima Facie’ Performance Earns TIFF Standing Ovation",
-   "summary": "Cynthia Erivo already earned two best actress Oscar nominations for portraying Harriet Tubman and the green-skinned Elphaba in “Wicked” — not to mention her Tony-winning work in “The Color Purple” — but her latest film, “Prima Facie,” might be her most challenging high-wire act yet. She pulled it off, according to...",
-   "link": "https://variety.com/2026/film/news/cynthia-erivo-prima-facie-tiff-standing-ovation-1236860782/",
-   "outlet": "Variety",
-   "feed_region": "americas",
-   "published": "2026-09-14T02:00:18+01:00"
-  },
-  {
-   "key": "onwardsandsidewaysreviewlauralinneyandrhysifansaredevastatinglygreatin",
-   "title": "‘Onwards and Sideways’ Review: Laura Linney and Rhys Ifans Are Devastatingly Great in Parkinson’s Disease Tearjerker",
-   "summary": "TIFF 2026: Director John Madden's latest is an affecting look at Parkinson's disease through the eyes of two people living with it at the same time The post ‘Onwards and Sideways’ Review: Laura Linney and Rhys Ifans Are Devastatingly Great in Parkinson’s Disease Tearjerker appeared first on TheWrap .",
-   "link": "https://www.thewrap.com/creative-content/movies/onwards-and-sideways-review-laura-linney-rhys-ifans/",
-   "outlet": "The Wrap",
-   "feed_region": "americas",
-   "published": "2026-09-14T01:52:51+01:00"
-  },
-  {
-   "key": "sphereabacusacquiresrocketrightsrightsbooster",
-   "title": "Sphere Abacus acquires Rocket Rights/Rights Booster",
-   "summary": "International distributor Sphere Abacus, a Bell Media company, has acquired 100 per cent of digital distribution rights experts Rocket Rights/Rights Booster which will now become Rocket Booster, a Sphere Abacus company. Rocket Booster will spearhead the expansion of all multi-platform digital and social media...",
-   "link": "https://www.advanced-television.com/2026/09/14/sphere-abacus-acquires-rocket-rights-rights-booster/",
-   "outlet": "Advanced Television",
-   "feed_region": "uk",
-   "published": "2026-09-14T01:44:42+01:00"
-  },
-  {
-   "key": "jjwattprovestobeasolidreplacementfortonyromoascbssno1analyst",
-   "title": "JJ Watt proves to be a solid replacement for Tony Romo as CBS’s No 1 analyst",
-   "summary": "With the former Dallas Cowboys quarterback on leave after his arrest in July, CBS brought a dependable presence into the booth with Jim Nantz If you were looking for insight from the CBS team broadcasting Minnesota’s 39-22 comeback win over Green Bay on Sunday afternoon, you were rewarded even before the first...",
-   "link": "https://www.theguardian.com/sport/2026/sep/13/jj-watt-tony-romo-cbs-nfl-analysts",
-   "outlet": "Guardian Media",
-   "feed_region": "uk",
-   "published": "2026-09-14T01:33:44+01:00"
-  },
-  {
-   "key": "magsafevsusbcwhichisbetterforchargingyourmacbook",
-   "title": "MagSafe vs. USB-C: Which is better for charging your MacBook?",
-   "summary": "Modern MacBooks can use two different types of cables to charge, but is USB-C or MagSafe a better option overall?",
-   "link": "https://www.engadget.com/2252867/usb-c-vs-magsafe-best-macbook-charging-option/",
-   "outlet": "Engadget",
-   "feed_region": "global",
-   "published": "2026-09-14T01:30:00+01:00"
-  },
-  {
-   "key": "coupangchasesnetflixforkoreasottcrowntvingandwavvemergerstalls",
-   "title": "Coupang chases Netflix for Korea’s OTT crown; TVing and Wavve merger stalls",
-   "summary": "BCWW: Netflix has further cemented its dominant position at the top of South Korea's highly competitive OTT streaming sector, capitalising on a deeply fragmented local market and corporate inertia amon...",
-   "link": "https://www.c21media.net/news/coupang-chases-market-leader-netflix-for-koreas-ott-crown-tving-and-wavve-merger-stalls/",
-   "outlet": "C21Media",
-   "feed_region": "uk",
-   "published": "2026-09-14T01:25:36+01:00"
-  },
-  {
-   "key": "attbosscoolsonstarlink",
-   "title": "AT&T boss cools on Starlink",
-   "summary": "It wasn’t so long ago that AT&T chairman John Stankey was an enthusiastic supporter of SpaceX’s Starlink broadband and Direct-to-Consumer (D2C) services. Now, it seems, his endorsement has cooled. Stankey now says that any new broadband player will have to play “catch up”. While he agrees that there would be a...",
-   "link": "https://www.advanced-television.com/2026/09/14/att-boss-cools-on-starlink/",
-   "outlet": "Advanced Television",
-   "feed_region": "uk",
-   "published": "2026-09-14T01:23:29+01:00"
-  },
-  {
-   "key": "carriecreatormikeflanaganalsowasntsureaboutthestreamingseries",
-   "title": "‘Carrie’ Creator Mike Flanagan Also Wasn’t Sure About the Streaming Series",
-   "summary": "TIFF 2026: The first two episodes of the new adaptation of Stephen King’s classic were unveiled at the festival The post ‘Carrie’ Creator Mike Flanagan Also Wasn’t Sure About the Streaming Series appeared first on TheWrap .",
-   "link": "https://www.thewrap.com/creative-content/tv-shows/carrie-mike-flanagan-asked-stephen-king-approval/",
-   "outlet": "The Wrap",
-   "feed_region": "americas",
-   "published": "2026-09-14T01:16:33+01:00"
-  },
-  {
-   "key": "atwhatlengthdoethernetcablesdroptolowerspeeds",
-   "title": "At what length do Ethernet cables drop to lower speeds?",
-   "summary": "Running an Ethernet cable can provide faster speeds than Wi-Fi in many cases, but the length and type of cable make a difference.",
-   "link": "https://www.engadget.com/2252864/ethernet-cable-length-drops-lower-speeds/",
-   "outlet": "Engadget",
-   "feed_region": "global",
-   "published": "2026-09-14T01:00:00+01:00"
-  },
-  {
-   "key": "dataaislophits500mimpressionsinh12026",
-   "title": "Data: AI slop hits 500m+ impressions in H1 2026",
-   "summary": "DoubleVerify (DV) has detected more than half a billion impressions of low-quality AI-generated content – or ‘AI slop’ – during the first half of 2026, offering a new indication of its scale across the internet. The figure includes AI slop impressions identified through DV’s technology, as well as whether they were...",
-   "link": "https://www.advanced-television.com/2026/09/14/data-ai-slop-hits-500m-impressions-in-h1-2026/",
-   "outlet": "Advanced Television",
-   "feed_region": "uk",
-   "published": "2026-09-14T00:49:48+01:00"
-  },
-  {
-   "key": "technetixappointsmillsassvpglobaloperations",
-   "title": "Technetix appoints Mills as SVP, Global Operations",
-   "summary": "Technetix has hired Huw Mills as Senior Vice President, Global Operations, effective immediately. Mills brings more than 30 years of manufacturing and operations experience. He joins Technetix from Nidec Drives, where, as Vice President, Global Operations, he led more than 1,000 people across the Americas, Europe,...",
-   "link": "https://www.advanced-television.com/2026/09/14/technetix-appoints-mills-as-svp-global-operations/",
-   "outlet": "Advanced Television",
-   "feed_region": "uk",
-   "published": "2026-09-14T00:48:21+01:00"
-  },
-  {
-   "key": "britishcanadagovernmentssigncoproductiontreaty",
-   "title": "British, Canada governments sign Co-Production Treaty",
-   "summary": "British filmmakers are set to benefit from a new agreement between the UK and Canadian governments that seeks to boost cooperation in the film and TV industries. Collaboration between the screen sectors in both countries will be boosted by a modernised treaty, which allows companies to co-produce films and TV shows...",
-   "link": "https://www.advanced-television.com/2026/09/14/british-canada-governments-sign-co-production-treaty/",
-   "outlet": "Advanced Television",
-   "feed_region": "uk",
-   "published": "2026-09-14T00:47:50+01:00"
-  },
-  {
-   "key": "fifaaseancup2026partnerswithimg",
-   "title": "FIFA ASEAN Cup 2026 partners with IMG",
-   "summary": "Sports marketing agency IMG and the FIFA ASEAN Cup 2026 have announced a partnership to launch the inaugural Southeast Asian men’s tournament and boost the development of football in the region. IMG is supporting delivery of the tournament, which takes place in Indonesia and Hong Kong from September 24th to October...",
-   "link": "https://www.advanced-television.com/2026/09/14/fifa-asean-cup-2026-partners-with-img/",
-   "outlet": "Advanced Television",
-   "feed_region": "uk",
-   "published": "2026-09-14T00:45:33+01:00"
-  },
-  {
-   "key": "primafaciereviewcynthiaerivostarsasalawyerwhobecomesarapevictiminthism",
-   "title": "‘Prima Facie’ Review: Cynthia Erivo Stars as a Lawyer Who Becomes a Rape Victim in This Misfire of an Adaptation",
-   "summary": "The Oscar nominee tackles the role originated by Jodie Comer on the West End and Broadway in Susanna White's film version of Suzie Miller's award-winning play.",
-   "link": "https://www.hollywoodreporter.com/movies/movie-reviews/prima-facie-review-cynthia-erivo-1236696972/",
-   "outlet": "Hollywood Reporter",
-   "feed_region": "americas",
-   "published": "2026-09-14T00:45:00+01:00"
-  },
-  {
-   "key": "howtoprotectyourlaptopphoneandbikefromthievesatuni",
-   "title": "How to protect your laptop, phone and bike from thieves at uni",
-   "summary": "What should new students consider to keep your belongings safe and covered by insurance?",
-   "link": "https://www.bbc.co.uk/news/articles/czezwd6xw0zo?at_medium=RSS&at_campaign=rss",
-   "outlet": "BBC Business",
-   "feed_region": "uk",
-   "published": "2026-09-14T00:39:32+01:00"
-  },
-  {
-   "key": "primafaciereviewcynthiaerivoleadsacomplexfascinatingadaptationofthepow",
-   "title": "‘Prima Facie’ Review: Cynthia Erivo Leads a Complex, Fascinating Adaptation of the Powerful One-Woman Show",
-   "summary": "TIFF 2026: The \"Wicked\" star plays a barrister who becomes the plaintiff in a strong, but incredibly different take on Suzie Miller’s award-winning play The post ‘Prima Facie’ Review: Cynthia Erivo Leads a Complex, Fascinating Adaptation of the Powerful One-Woman Show appeared first on TheWrap .",
-   "link": "https://www.thewrap.com/creative-content/movies/prima-facie-review-cynthia-erivo/",
-   "outlet": "The Wrap",
-   "feed_region": "americas",
-   "published": "2026-09-14T00:35:00+01:00"
-  },
-  {
-   "key": "sethgreensayshewasneverinvitedbackforthecanceledbuffythevampireslayerr",
-   "title": "Seth Green Says He Was Never Invited Back for the Canceled ‘Buffy the Vampire Slayer’ Reboot",
-   "summary": "Seth Green revealed in the Sept. 8 episode of “The McBride Rewind” podcast that he was not involved in any discussion of reprising his role as the werewolf guitarist Oz in Hulu’s canceled “Buffy the Vampire Slayer” reboot. “I was not part of those talks,” he said in the episode. While he was not involved, […]",
-   "link": "https://variety.com/2026/tv/actors/seth-green-canceled-buffy-the-vampire-slayer-reboot-1236860816/",
-   "outlet": "Variety",
-   "feed_region": "americas",
-   "published": "2026-09-14T00:30:51+01:00"
-  },
-  {
-   "key": "makelongdriveseasierwiththisandroidautofeature",
-   "title": "Make long drives easier with this Android Auto feature",
-   "summary": "Android Auto added a new capability recently that upgrades the infotainment screen in a big way. Let's activate it.",
-   "link": "https://www.engadget.com/2252861/android-auto-feature-easier-long-drive/",
-   "outlet": "Engadget",
-   "feed_region": "global",
-   "published": "2026-09-14T00:30:00+01:00"
-  },
-  {
-   "key": "chrisrockrevealspaulthomasandersongavenotesonmistygreenatweakhereorthe",
-   "title": "Chris Rock Reveals Paul Thomas Anderson Gave Notes on ‘Misty Green’: “A Tweak Here or There”",
-   "summary": "\"What's the use of having a friend like you who can't help me?” the comedian said.",
-   "link": "https://www.hollywoodreporter.com/movies/movie-news/chris-rock-paul-thomas-anderson-gave-notes-misty-green-1236700084/",
-   "outlet": "Hollywood Reporter",
-   "feed_region": "americas",
-   "published": "2026-09-14T00:28:27+01:00"
-  },
-  {
-   "key": "rebamcentireexpectedtoperformtributetodollypartonat2026emmys",
-   "title": "Reba McEntire Expected to Perform Tribute to Dolly Parton at 2026 Emmys",
-   "summary": "New York Knicks point guard Jalen Brunson is also expected to make a guest appearance during the Monday night ceremony.",
-   "link": "https://www.hollywoodreporter.com/tv/tv-news/reba-mcentire-perform-tribute-dolly-parton-2026-emmys-1236700040/",
-   "outlet": "Hollywood Reporter",
-   "feed_region": "americas",
-   "published": "2026-09-14T00:19:27+01:00"
-  },
-  {
-   "key": "israelsministerofculturethreatenstorevokeisraelicitizenshipsofnazafilm",
-   "title": "Israel’s Minister of Culture Threatens to Revoke Israeli Citizenships of ‘NAZA’ Filmmakers",
-   "summary": "Israel’s Minister of Culture Miki Zohar threatened to revoke the Israeli citizenships of “NAZA” co-directors Yuval Abraham and Rachel Szor. He called the documentary “shocking” and accused the filmmakers of “betraying the state.” “The self-loathing that burns in the creators, who are willing to harm their homeland...",
-   "link": "https://variety.com/2026/film/news/israels-minister-culture-revoke-citizenships-naza-directors-1236860821/",
-   "outlet": "Variety",
-   "feed_region": "americas",
-   "published": "2026-09-14T00:09:08+01:00"
-  },
-  {
-   "key": "gloomyforecastfortenantsasrentrisessettospeedup",
-   "title": "Gloomy forecast for tenants as rent rises set to speed up",
-   "summary": "The cost of renting is expected to rise by 4% or 5% a year by December, according to property website Zoopla.",
-   "link": "https://www.bbc.co.uk/news/articles/c4gqjv476qeo?at_medium=RSS&at_campaign=rss",
-   "outlet": "BBC Business",
-   "feed_region": "uk",
-   "published": "2026-09-14T00:05:45+01:00"
-  },
-  {
-   "key": "rentrisessettospeedupingloomyforecastfortenants",
-   "title": "Rent rises set to speed up in gloomy forecast for tenants",
-   "summary": "The cost of renting is expected to rise by 4% or 5% a year by December, says property website Zoopla.",
-   "link": "https://www.bbc.co.uk/news/articles/c4gqjv476qeo?at_medium=RSS&at_campaign=rss",
-   "outlet": "BBC Business",
-   "feed_region": "uk",
-   "published": "2026-09-14T00:05:45+01:00"
-  },
-  {
-   "key": "carneygamblesontheworldsbiggestinvestorsbettingoncanada",
-   "title": "Carney gambles on the world's biggest investors betting on Canada",
-   "summary": "In the midst of a trade war with the US, the prime minister leveraged his connections in global finance to invite some of the world's biggest investors to Canada.",
-   "link": "https://www.bbc.co.uk/news/articles/c0m3neyyzm7o?at_medium=RSS&at_campaign=rss",
-   "outlet": "BBC Business",
-   "feed_region": "uk",
-   "published": "2026-09-14T00:03:06+01:00"
-  },
-  {
-   "key": "canallaligapartnertocombatpiracy",
-   "title": "Canal+, LaLiga partner to combat piracy",
-   "summary": "Canal+ and LaLiga have announced they will combine their expertise, technologies and enforcement capabilities in the fight against piracy. The two partners said they are “taking their efforts to the next level” to protect the sports ecosystem and its funding model, while continuing to deliver football experiences...",
-   "link": "https://www.advanced-television.com/2026/09/14/canal-laliga-partner-to-combat-piracy/",
-   "outlet": "Advanced Television",
-   "feed_region": "uk",
-   "published": "2026-09-14T00:02:54+01:00"
-  },
-  {
-   "key": "mainstreamingjoinsdtg",
-   "title": "MainStreaming joins DTG",
-   "summary": "The DTG has announced MainStreaming as its latest full member, with the agreement officially signed at IBC. Through its membership, MainStreaming will bring its expertise in broadcast-grade live and on-demand video delivery to the DTG’s work addressing the technical and practical challenges of that transition....",
-   "link": "https://www.advanced-television.com/2026/09/14/mainstreaming-joins-dtg/",
-   "outlet": "Advanced Television",
-   "feed_region": "uk",
-   "published": "2026-09-14T00:01:15+01:00"
-  },
-  {
-   "key": "nagravisionsecuresf1contentforrtlcroatiaproplusslovenia",
-   "title": "Nagravision secures F1 content for RTL Croatia, Pro Plus Slovenia",
-   "summary": "Nagravision, a Kudelski Group company and independent provider of content protection and media and entertainment solutions, has announced that regional commercial broadcasters RTL Croatia and PRO PLUS Slovenia, have deployed Nagra Venturi to securely distribute Formula 1 content to their subscribers across the...",
-   "link": "https://www.advanced-television.com/2026/09/14/nagravision-secures-f1-content-for-rtl-croatia-pro-plus-slovenia/",
-   "outlet": "Advanced Television",
-   "feed_region": "uk",
-   "published": "2026-09-14T00:00:45+01:00"
-  },
-  {
-   "key": "howtousegpt6astrawhenitrollsouttoyou",
-   "title": "How to use GPT-6 Astra when it rolls out to you",
-   "summary": "OpenAI's new model, GPT-6 Astra, has begun rolling out to users. Here's how you can get it and pitfalls to avoid.",
-   "link": "https://www.engadget.com/2252859/how-to-use-gpt-6-astra-rollout-schedule/",
-   "outlet": "Engadget",
-   "feed_region": "global",
-   "published": "2026-09-14T00:00:00+01:00"
-  },
-  {
-   "key": "insidethrandsagaftrasemmynomineesnightpartywithtoptvstarsphotos",
-   "title": "Inside THR and SAG-AFTRA’s Emmy Nominees Night Party With Top TV Stars (Photos)",
-   "summary": "Top TV talent from shows including 'The Pitt,' 'Widow’s Bay,' 'Pluribus,' 'Hacks,' 'Abbott Elementary' and more attended The Hollywood Reporter and SAG-AFTRA's bash, presented by Snapchat and Waymo, on Sept. 12 at Chateau Marmont on September 12 in Los Angeles.",
-   "link": "https://www.hollywoodreporter.com/gallery/thr-sag-aftra-emmy-nominees-night-party-stars-photos-1236699892/",
-   "outlet": "Hollywood Reporter",
-   "feed_region": "americas",
-   "published": "2026-09-13T23:59:41+01:00"
-  },
-  {
-   "key": "closingnightreviewaferocioussarahpaulsonbuoyscodyfernsdirectorialdebut",
-   "title": "‘Closing Night’ Review: A Ferocious Sarah Paulson Buoys Cody Fern’s Directorial Debut",
-   "summary": "TIFF 2026: This drama about an unraveling family aims for sincerity but ends up in melodrama The post ‘Closing Night’ Review: A Ferocious Sarah Paulson Buoys Cody Fern’s Directorial Debut appeared first on TheWrap .",
-   "link": "https://www.thewrap.com/creative-content/movies/closing-night-review-sarah-paulson-cody-fern/",
-   "outlet": "The Wrap",
-   "feed_region": "americas",
-   "published": "2026-09-13T23:51:20+01:00"
-  },
-  {
-   "key": "israelscultureministerthreatenstorevokethecitizenshipofnazafilmmakers",
-   "title": "Israel’s Culture Minister Threatens to Revoke the Citizenship of ‘NAZA’ Filmmakers",
-   "summary": "Culture minister Miki Zohar said Yuval Abraham and Rachel Szor's documentary, which details the IDF's alleged systematic targeting and killing of civilians in Gaza, “constitutes treason.”",
-   "link": "https://www.hollywoodreporter.com/movies/movie-news/israeli-culture-minister-threatens-naza-filmmakers-1236700077/",
-   "outlet": "Hollywood Reporter",
-   "feed_region": "americas",
-   "published": "2026-09-13T23:40:32+01:00"
-  },
-  {
-   "key": "deadboysguitaristcheetahchromediesat71",
-   "title": "Dead Boys Guitarist Cheetah Chrome Dies at 71",
-   "summary": "Eugene Richard O’Connor, the punk rocker known as Cheetah Chrome and guitarist of the Dead Boys, died Sunday, his bandmates confirmed on Instagram. He was 71. “We are incredibly sad to announce the news of the passing of our beloved friend and bandmate Cheetah Chrome,” the band wrote in the post. “Cheetah was a...",
-   "link": "https://variety.com/2026/music/people-news/cheetah-chrome-dead-punk-guitarist-dead-boys-1236860807/",
-   "outlet": "Variety",
-   "feed_region": "americas",
-   "published": "2026-09-13T23:33:43+01:00"
-  },
-  {
-   "key": "israelicultureministervowstorevokecitizenshipofnazadirectorsaftervenic",
-   "title": "Israeli Culture Minister Vows to Revoke Citizenship of ‘NAZA’ Directors After Venice Win",
-   "summary": "The culture minister says the documentary filmmakers' work commits \"treason against the state\" The post Israeli Culture Minister Vows to Revoke Citizenship of ‘NAZA’ Directors After Venice Win appeared first on TheWrap .",
-   "link": "https://www.thewrap.com/creative-content/movies/israel-culture-minister-vows-revoke-naza-directors-citizenship/",
-   "outlet": "The Wrap",
-   "feed_region": "americas",
-   "published": "2026-09-13T23:30:44+01:00"
-  },
-  {
-   "key": "howtofiximessagenotdeliverederroroniphones",
-   "title": "How to fix iMessage \"Not Delivered\" error on iPhones",
-   "summary": "iMessage is simple, and even RCS and SMS are usually reliable. But when your iPhone won't sent a message, you can coax it into working again.",
-   "link": "https://www.engadget.com/2252858/how-to-fix-imessage-not-delivered-on-iphone/",
-   "outlet": "Engadget",
-   "feed_region": "global",
-   "published": "2026-09-13T23:30:00+01:00"
-  },
-  {
-   "key": "whyareimaxcamerassonotoriouslyloud",
-   "title": "Why are IMAX cameras so notoriously loud?",
-   "summary": "Shooting a movie on IMAX 15/70 cameras can produce incredible film, but one of the major tradeoffs for filmmakers is how loud they can get when rolling.",
-   "link": "https://www.engadget.com/2252857/why-are-imax-cameras-so-loud-explained/",
-   "outlet": "Engadget",
-   "feed_region": "global",
-   "published": "2026-09-13T23:00:00+01:00"
-  },
-  {
-   "key": "wavingtheaibubbleredflags",
-   "title": "Waving the AI bubble red flags",
-   "summary": "Circular financing! Rogue AI agents! A lack of Situational Awareness! What behaviour is driving the current AI bubble—and when might it burst? The post Waving the AI bubble red flags first appeared on BetaKit .",
-   "link": "https://betakit.com/waving-the-ai-bubble-red-flags/",
-   "outlet": "BetaKit",
-   "feed_region": "americas",
-   "published": "2026-09-13T22:57:43+01:00"
-  },
-  {
-   "key": "unvaccinatedpennsylvaniawomandiedofmeaslescomplicationscoronersays",
-   "title": "Unvaccinated Pennsylvania woman died of measles complications, coroner says",
-   "summary": "The 40-year-old unvaccinated woman reportedly had underlying health conditions.",
-   "link": "https://arstechnica.com/health/2026/09/unvaccinated-pennsylvania-woman-died-of-measles-complications-coroner-says/",
-   "outlet": "Ars Technica",
-   "feed_region": "global",
-   "published": "2026-09-13T22:56:52+01:00"
-  },
-  {
-   "key": "helenmirrensaysripleyauthorpatriciahighsmithisthemostdifficultrealpers",
-   "title": "Helen Mirren Says ‘Ripley’ Author Patricia Highsmith Is ‘The Most Difficult’ Real Person She’s Played: “Very Abrasive”",
-   "summary": "The Oscar winner has previously played several real-life characters, including Queen Elizabeth II and Cleopatra.",
-   "link": "https://www.hollywoodreporter.com/movies/movie-news/helen-mirren-patricia-highsmith-most-difficult-person-tiff-1236700057/",
-   "outlet": "Hollywood Reporter",
-   "feed_region": "americas",
-   "published": "2026-09-13T22:47:52+01:00"
   }
  ]
 }
