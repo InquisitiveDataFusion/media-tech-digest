@@ -1,0 +1,621 @@
+{
+  "schema": 1,
+  "iso": "2026-09-28",
+  "headline": "Media giants face major restructuring as BBC cuts and merger delays loom",
+  "date_line": "Monday 28 September 2026 · covering Thu 24 Sep to Sun 27 Sep",
+  "footer_note": "Built from 40 cited articles across 15 outlets. Written by gemini-3-flash-preview, gemini-3.1-flash-lite.",
+  "model": "gemini-3-flash-preview, gemini-3.1-flash-lite",
+  "backfilled": false,
+  "generated_at": "2026-09-28T07:55:46+01:00",
+  "digest": {
+    "headline": "Media giants face major restructuring as BBC cuts and merger delays loom",
+    "lead": "The BBC faces service closures to meet savings targets while the Paramount and Warner Bros Discovery merger encounters legal hurdles in North America. These developments highlight a period of significant industry change as major broadcasters and streaming entities navigate financial pressures and regulatory scrutiny across the United Kingdom, the United States and Canada.",
+    "glance": [
+      {
+        "text": "BBC Three faces renewed closure threats as the corporation seeks £500 million in savings.",
+        "section": "regulation",
+        "refs": [
+          1,
+          2
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "Netflix held its first UK Upfront, announcing new commissions from Charlie Brooker and Sarah Lancashire.",
+        "section": "deals",
+        "refs": [
+          3,
+          4
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "Channel 5 will replace 5Select with a dedicated drama channel, 5Drama, on October 21.",
+        "section": "deals",
+        "refs": [
+          5,
+          6
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "Ofcom reports that consumers hold mixed views on the use of AI in customer services.",
+        "section": "regulation",
+        "refs": [
+          7
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "TikTok has dropped its appeal against a £12.7 million fine from the UK data watchdog.",
+        "section": "regulation",
+        "refs": [
+          8
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "Sky Sports has renewed its exclusive rights deal for international cricket in South Africa.",
+        "section": "deals",
+        "refs": [
+          9
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "BBC Children's is seeking pitches for a reboot of the classic series Play School.",
+        "section": "deals",
+        "refs": [
+          10,
+          11
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "A federal judge delayed the Paramount and Warner Bros. Discovery merger settlement to address concerns from Senator Cory Booker.",
+        "section": "deals",
+        "refs": [
+          12,
+          13
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "Meta introduced new VR glasses featuring integrated access to major streaming services including Disney Plus and HBO Max.",
+        "section": "tech",
+        "refs": [
+          14
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "Disney warned employees of upcoming layoffs and a smaller organisation as it automates workflows using new technologies.",
+        "section": "people",
+        "refs": [
+          15
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "Google is launching an experimental satellite to test the feasibility of running AI data centres in outer space.",
+        "section": "tech",
+        "refs": [
+          16,
+          17
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "A24 and The New York Times are reportedly competing to acquire the social film platform Letterboxd for over $300 million.",
+        "section": "deals",
+        "refs": [
+          18
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "The White House briefly barred CNN and MS NOW reporters from a state dinner before a court ordered their access restored.",
+        "section": "regulation",
+        "refs": [
+          19,
+          20,
+          21
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "Corus Entertainment claims Telus owes $32.5 million due to the underpayment of channel distribution fees.",
+        "section": "deals",
+        "refs": [
+          22
+        ],
+        "region": "americas"
+      }
+    ],
+    "sections": [
+      {
+        "id": "regulation",
+        "paragraphs": [
+          "The BBC faces a potential funding overhaul, with reports suggesting the licence fee could be replaced by a broadband levy. Meanwhile, the corporation is preparing to cut various TV and radio services to achieve £500 million in savings, with BBC Three again at risk.",
+          "Ofcom has published findings showing that consumers and small businesses have mixed feelings about the use of AI in customer services. Additionally, TikTok has officially dropped its appeal against a £12.7 million fine issued by the UK data watchdog for failing to protect underage users."
+        ],
+        "region": "uk"
+      },
+      {
+        "id": "deals",
+        "paragraphs": [
+          "Netflix has ramped up its UK strategy, hosting its first Upfront event in London to pitch to advertisers. The streamer also unveiled a new slate of local commissions, including projects with Charlie Brooker and Sarah Lancashire.",
+          "Channel 5 is reshaping its portfolio by launching 5Drama to replace 5Select. Elsewhere, Sky Sports has secured a renewal for exclusive UK and Ireland coverage of international cricket from South Africa for the 2026/27 season."
+        ],
+        "region": "uk"
+      },
+      {
+        "id": "radio",
+        "paragraphs": [
+          "BBC Local Radio is set to share its late show with BBC Radio 5 Live. This move is part of the broader operational changes occurring within the corporation.",
+          "Boom Radio is closing its Boom Rock station at the end of September. The parent company is instead investing £1 million into a listener-led campaign for its main station."
+        ],
+        "region": "uk"
+      },
+      {
+        "id": "deals",
+        "paragraphs": [
+          "Paramount Skydance is preparing to close its $111 billion merger with Warner Bros. Discovery despite ongoing legal challenges. The company has set a target date of 5 October to issue shareholder warrants tied to the deal. However, the board noted that the exact timing for the close is not yet certain.",
+          "A coalition of advocacy groups has filed legal requests to block the merger. They submitted an amicus brief asking the court to reject the settlement Paramount reached with twelve state attorneys general. Internal morale at Warner Bros. remains low as staff wait for the brand to survive the transition."
+        ],
+        "region": "americas"
+      },
+      {
+        "id": "tech",
+        "paragraphs": [
+          "Meta is launching new VR glasses that provide a cinema experience with access to services like Prime Video and Peacock. The device will offer virtual and 3D enhancements for sports content from the NBA and MLB. This move aims to consolidate various streaming platforms into a single wearable device.",
+          "Google is expanding its infrastructure into orbit with the Suncatcher orbital data centre test. The experimental satellite will use Tensor Processing Units to handle AI queries for short bursts in space. This project evaluates if sensitive computing equipment can survive the rigours of a rocket launch."
+        ],
+        "region": "americas"
+      },
+      {
+        "id": "audience",
+        "paragraphs": [
+          "The Traitors: New Blood delivered the strongest unscripted premiere for NBC in six years. The civilian version of the show reached over five million new viewers across Peacock and linear platforms. In the streaming charts, Reacher maintained its lead by topping one billion viewing minutes for five consecutive weeks.",
+          "Middle school students have started using the comment sections of NPR podcasts on Spotify as makeshift group chats. Staff discovered the trend after noticing unusual activity that they initially mistook for automated bots. The phenomenon highlights how younger users find workarounds when blocked from traditional social media apps."
+        ],
+        "region": "americas"
+      },
+      {
+        "id": "regulation",
+        "paragraphs": [
+          "A federal judge issued a temporary restraining order against the White House to restore press credentials for several news outlets. Journalists from CNN, MS NOW and Politico were initially excluded from a state dinner for the Chinese President. The court ruled that the ban must be lifted immediately.",
+          "Broadcasters face a deadline for FCC regulatory fees with no further relief for AM and FM stations. Payments must be submitted through the CORES system by midnight to avoid a 25 percent penalty. The FCC is also preparing to vote on new rules for satellite spectrum and ultra-wideband devices."
+        ],
+        "region": "americas"
+      }
+    ],
+    "people_moves": [
+      {
+        "text": "Sally Habbershaw, President of Global Distribution, BBC Studios",
+        "refs": [
+          23,
+          24
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "Andrea Jackson, Creative Director, Entertainment and Talent Strategy, Plimsoll Studios",
+        "refs": [
+          25
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "David Ellison, CEO of Paramount Skydance, attended a White House state dinner for the Chinese President",
+        "refs": [
+          19,
+          26
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "Kara Swisher, confirmed exit from CNN once the Paramount and Warner Bros. Discovery merger completes",
+        "refs": [
+          27
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "Larry Kudlow, assigned to anchor Sunday Morning Futures on Fox News through the midterm elections",
+        "refs": [
+          28
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "Brent Bambury, retiring from CBC after a career spanning more than forty years",
+        "refs": [
+          29
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "Brad Smith, appointed to oversee communications at Microsoft as the department moves into the legal affairs organisation",
+        "refs": [
+          30
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "Leigh Waldman, promoted to the role of correspondent at CNN",
+        "refs": [
+          31
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "Race Taylor, exited the morning drive shift at WCBS-FM in New York",
+        "refs": [
+          32
+        ],
+        "region": "americas"
+      }
+    ],
+    "coming_up": [
+      {
+        "date": "21 Oct",
+        "text": "5Drama launches on terrestrial television",
+        "refs": [
+          5,
+          6
+        ],
+        "region": "uk"
+      },
+      {
+        "date": "Nov",
+        "text": "Disney+ launches ad-supported tier in Poland and Austria",
+        "refs": [
+          33,
+          34
+        ],
+        "region": "uk"
+      },
+      {
+        "date": "11 Dec",
+        "text": "Fury vs Joshua boxing match streams on Netflix",
+        "refs": [
+          35
+        ],
+        "region": "uk"
+      },
+      {
+        "date": "1 Mar 2027",
+        "text": "Netflix expands ad-supported plan to nine more EMEA markets",
+        "refs": [
+          36
+        ],
+        "region": "uk"
+      },
+      {
+        "date": "28 Sep 2026",
+        "text": "Deadline for parties to respond to Senator Cory Booker regarding the Paramount merger settlement",
+        "refs": [
+          12,
+          37
+        ],
+        "region": "americas"
+      },
+      {
+        "date": "30 Sep 2026",
+        "text": "FCC commissioners to vote on satellite spectrum and unlicensed ultra-wideband devices",
+        "refs": [
+          38
+        ],
+        "region": "americas"
+      },
+      {
+        "date": "01 Oct 2026",
+        "text": "Google scheduled to launch its first Suncatcher orbital data centre test",
+        "refs": [
+          17
+        ],
+        "region": "americas"
+      },
+      {
+        "date": "05 Oct 2026",
+        "text": "Target date for Paramount to issue shareholder warrants related to the Warner Bros. Discovery merger",
+        "refs": [
+          39,
+          40
+        ],
+        "region": "americas"
+      },
+      {
+        "date": "08 Nov 2026",
+        "text": "Larry Kudlow to conclude his temporary anchoring stint on Fox News following the midterm elections",
+        "refs": [
+          28
+        ],
+        "region": "americas"
+      }
+    ]
+  },
+  "articles": [
+    {
+      "ref": 1,
+      "title": "BBC Three faces new closure threat in £500m savings drive",
+      "link": "https://www.broadbandtvnews.com/2026/09/24/bbc-three-faces-new-closure-threat-in-500m-savings-drive/",
+      "outlet": "Broadband TV News",
+      "region": "uk"
+    },
+    {
+      "ref": 2,
+      "title": "BBC Three to be axed again?",
+      "link": "https://www.advanced-television.com/2026/09/24/bbc-three-to-be-axed-again/",
+      "outlet": "Advanced Television",
+      "region": "uk"
+    },
+    {
+      "ref": 3,
+      "title": "Week in Review: Netflix Ads Expands in Europe, Higgsfield On Track for $1 Billion Run Rate, and TVs Account for Half of UK YouTube Viewing",
+      "link": "https://videoweek.com/2026/09/25/week-in-review-netflix-ads-expands-in-europe-higgsfield-on-track-for-1-billion-run-rate-and-tvs-account-for-half-of-uk-youtube-viewing/",
+      "outlet": "VideoWeek",
+      "region": "uk"
+    },
+    {
+      "ref": 4,
+      "title": "Netflix unveils raft of UK commissions including projects with Charlie Brooker, Bob Mortimer and Sarah Lancashire",
+      "link": "https://www.c21media.net/news/netflix-unveils-raft-of-uk-commissions-including-projects-with-charlie-brooker-bob-mortimer-and-sarah-lancashire/",
+      "outlet": "C21Media",
+      "region": "uk"
+    },
+    {
+      "ref": 5,
+      "title": "Paramount’s 5 to launch dedicated original drama channel to replace 5Select",
+      "link": "https://www.c21media.net/news/paramounts-5-to-launch-dedicated-original-drama-channel-to-replace-5select/",
+      "outlet": "C21Media",
+      "region": "uk"
+    },
+    {
+      "ref": 6,
+      "title": "5 to replace 5Select with new drama channel",
+      "link": "https://www.broadbandtvnews.com/2026/09/24/5-to-replace-5select-with-new-drama-channel/",
+      "outlet": "Broadband TV News",
+      "region": "uk"
+    },
+    {
+      "ref": 7,
+      "title": "Ofcom: Brits have mixed feelings about AI customer services",
+      "link": "https://www.advanced-television.com/2026/09/25/ofcom-brits-have-mixed-feelings-about-ai-customer-services/",
+      "outlet": "Advanced Television",
+      "region": "uk"
+    },
+    {
+      "ref": 8,
+      "title": "TikTok drops appeal against £12.7m fine for not keeping under-13s off platform",
+      "link": "https://www.theguardian.com/technology/2026/sep/24/tiktok-drops-appeal-over-fine-for-not-keeping-under-13s-off-platform",
+      "outlet": "Guardian Media",
+      "region": "uk"
+    },
+    {
+      "ref": 9,
+      "title": "Sky Sports extends Cricket South Africa rights deal",
+      "link": "https://www.broadbandtvnews.com/2026/09/24/sky-sports-extends-cricket-south-africa-rights-deal/",
+      "outlet": "Broadband TV News",
+      "region": "uk"
+    },
+    {
+      "ref": 10,
+      "title": "BBC Childrenâ€™s calls for pitches for reboot of classic preschool show Play School",
+      "link": "https://www.c21media.net/news/bbc-childrens-calls-for-pitches-for-reboot-of-classic-preschool-show-play-school/",
+      "outlet": "C21Media",
+      "region": "uk"
+    },
+    {
+      "ref": 11,
+      "title": "Ready to knock? Play School returns as BBC pushes quality children’s programming",
+      "link": "https://www.theguardian.com/media/2026/sep/24/play-school-returns-as-bbc-pushes-quality-childrens-programmes",
+      "outlet": "Guardian Media",
+      "region": "uk"
+    },
+    {
+      "ref": 12,
+      "title": "Judge Holds Off on Paramount-Warner Bros. Merger Settlement Ruling",
+      "link": "https://www.thewrap.com/industry-news/deals-ma/paramount-warner-bros-merger-state-ag-settlement-ruling-delayed/",
+      "outlet": "The Wrap",
+      "region": "americas"
+    },
+    {
+      "ref": 13,
+      "title": "Cynopsis 9/25/2026: Paramount’s Merger Plans Face Further Delays",
+      "link": "https://www.cynopsis.com/cynopsis-9-25-2026-paramounts-merger-plans-face-further-delays/",
+      "outlet": "Cynopsis",
+      "region": "americas"
+    },
+    {
+      "ref": 14,
+      "title": "Meta Introduces New VR Glasses With Access To Content From YouTube, Prime Video, HBO Max, Disney+ & More",
+      "link": "https://tvnewscheck.com/uncategorized/article/meta-introduces-new-vr-glasses-with-access-to-content-from-youtube-prime-video-hbo-max-disney-more/",
+      "outlet": "TVNewsCheck",
+      "region": "americas"
+    },
+    {
+      "ref": 15,
+      "title": "Disney Legal Chief Warns Of ‘Hard Choices’ & ‘Much Smaller Organization’ Coming As Company Layoffs Loom",
+      "link": "https://tvnewscheck.com/business/article/disney-legal-chief-warns-of-hard-choices-much-smaller-organization-coming-as-company-layoffs-loom/",
+      "outlet": "TVNewsCheck",
+      "region": "americas"
+    },
+    {
+      "ref": 16,
+      "title": "Google Takes The AI Data Center Race To Outer Space",
+      "link": "https://tvnewscheck.com/ai/article/google-takes-the-ai-data-center-race-to-outer-space/",
+      "outlet": "TVNewsCheck",
+      "region": "americas"
+    },
+    {
+      "ref": 17,
+      "title": "Google's first Suncatcher orbital data center test launches October 1",
+      "link": "https://arstechnica.com/google/2026/09/googles-first-suncatcher-orbital-data-center-test-launches-october-1/",
+      "outlet": "Ars Technica",
+      "region": "americas"
+    },
+    {
+      "ref": 18,
+      "title": "A24, New York Times Enter The Fray To Buy Letterboxd For Over $300M",
+      "link": "https://tvnewscheck.com/digital/article/a24-new-york-times-enter-the-fray-to-buy-letterboxd-for-over-300m/",
+      "outlet": "TVNewsCheck",
+      "region": "americas"
+    },
+    {
+      "ref": 19,
+      "title": "Paramount’s David Ellison Attends Trump White House State Dinner for Chinese President; CNN and MS NOW Reporters Barred From Event",
+      "link": "https://variety.com/2026/film/news/david-ellison-trump-white-house-state-dinner-chinese-president-cnn-1236875329/",
+      "outlet": "Variety",
+      "region": "americas"
+    },
+    {
+      "ref": 20,
+      "title": "CNN, MS NOW & Politico Back At The White House After Judge Ordered Trump To Lift Ban",
+      "link": "https://tvnewscheck.com/journalism/article/cnn-ms-now-politico-back-at-the-white-house-after-judge-ordered-trump-to-lift-ban/",
+      "outlet": "TVNewsCheck",
+      "region": "americas"
+    },
+    {
+      "ref": 21,
+      "title": "Judge Blocks Trump’s White House Ban On CNN, MS NOW & Politico",
+      "link": "https://tvnewscheck.com/journalism/article/judge-blocks-trumps-white-house-ban-on-cnn-ms-now-politico/",
+      "outlet": "TVNewsCheck",
+      "region": "americas"
+    },
+    {
+      "ref": 22,
+      "title": "Corus claims Telus owes it $32.5 million for channel distribution underpayment",
+      "link": "https://cartt.ca/corus-claims-telus-owes-it-32-5-million-for-channel-distribution-underpayment/",
+      "outlet": "Cartt.ca",
+      "region": "americas"
+    },
+    {
+      "ref": 23,
+      "title": "Sally Habbershaw appointed President of Global Distribution at BBC Studios",
+      "link": "https://www.broadbandtvnews.com/2026/09/25/sally-habbershaw-appointed-president-of-global-distribution-at-bbc-studios/",
+      "outlet": "Broadband TV News",
+      "region": "uk"
+    },
+    {
+      "ref": 24,
+      "title": "BBC Studios appoints Sally Habbershaw as president of global distribution",
+      "link": "https://www.c21media.net/news/bbc-studios-appoints-sally-habbershaw-as-president-of-global-distribution/",
+      "outlet": "C21Media",
+      "region": "uk"
+    },
+    {
+      "ref": 25,
+      "title": "Andrea Jackson adds talent strategy to remit at Plimsoll Studios",
+      "link": "https://www.c21media.net/news/andrea-jackson-adds-talent-strategy-to-remit-at-plimsoll-studios/",
+      "outlet": "C21Media",
+      "region": "uk"
+    },
+    {
+      "ref": 26,
+      "title": "David Ellison Joins Trump at White House Dinner for Xi Jinping as CNN Barred Entry",
+      "link": "https://www.thewrap.com/media-platforms/politics/david-ellison-trump-white-house-dinner-xi-jinping/",
+      "outlet": "The Wrap",
+      "region": "americas"
+    },
+    {
+      "ref": 27,
+      "title": "Ticker: Kara Swisher Confirms CNN Exit After Paramount-WBD Merger Is Complete",
+      "link": "https://www.adweek.com/tvnewser/ticker-kara-swisher-confirms-cnn-exit-after-paramount-wbd-merger-is-complete/",
+      "outlet": "Adweek",
+      "region": "americas"
+    },
+    {
+      "ref": 28,
+      "title": "Fox News Assigns Larry Kudlow To Anchor Maria Bartiromo’s ‘Sunday Morning Futures’ Through Midterms",
+      "link": "https://tvnewscheck.com/journalism/article/fox-news-assigns-larry-kudlow-to-anchor-maria-bartiromos-sunday-morning-futures-through-midterms/",
+      "outlet": "TVNewsCheck",
+      "region": "americas"
+    },
+    {
+      "ref": 29,
+      "title": "Brent Bambury retiring from CBC after more than four-decade career",
+      "link": "https://broadcastdialogue.com/brent-bambury-retiring-from-cbc-after-more-than-four-decade-career/",
+      "outlet": "Broadcast Dialogue",
+      "region": "americas"
+    },
+    {
+      "ref": 30,
+      "title": "Microsoft puts Brad Smith in charge of communications",
+      "link": "https://www.theverge.com/news/1000374/microsoft-comms-pr-brad-smith-cela",
+      "outlet": "The Verge",
+      "region": "americas"
+    },
+    {
+      "ref": 31,
+      "title": "Leigh Waldman Promoted To CNN Correspondent",
+      "link": "https://mikemcguff.blogspot.com/2026/09/leigh-waldman-promoted-to-cnn.html",
+      "outlet": "TVNewsCheck",
+      "region": "americas"
+    },
+    {
+      "ref": 32,
+      "title": "Race Taylor Exits Mornings at Audacy New York’s 101.1 CBS-FM",
+      "link": "https://radioink.com/2026/09/25/race-taylor-exits-mornings-at-new-yorks-101-1-cbs-fm/",
+      "outlet": "Radio Ink",
+      "region": "americas"
+    },
+    {
+      "ref": 33,
+      "title": "Disney+ to launch advertising tier in Poland",
+      "link": "https://www.broadbandtvnews.com/2026/09/25/disney-to-launch-advertising-tier-in-poland/",
+      "outlet": "Broadband TV News",
+      "region": "uk"
+    },
+    {
+      "ref": 34,
+      "title": "Disney+ launching ad-plan in Austria, Poland",
+      "link": "https://www.advanced-television.com/2026/09/25/disney-launching-ad-plan-in-austria-poland/",
+      "outlet": "Advanced Television",
+      "region": "uk"
+    },
+    {
+      "ref": 35,
+      "title": "Fury vs Joshua to stream live on Netflix",
+      "link": "https://www.advanced-television.com/2026/09/25/fury-vs-joshua-to-stream-live-on-netflix/",
+      "outlet": "Advanced Television",
+      "region": "uk"
+    },
+    {
+      "ref": 36,
+      "title": "Netflix expands ad-supported plan to nine more EMEA markets",
+      "link": "https://www.broadbandtvnews.com/2026/09/25/netflix-expands-ad-supported-plan-to-nine-more-emea-markets/",
+      "outlet": "Broadband TV News",
+      "region": "uk"
+    },
+    {
+      "ref": 37,
+      "title": "Judge Holds Off On Paramount-WB Merger Settlement Ruling",
+      "link": "https://tvnewscheck.com/business/article/judge-holds-off-on-paramount-wb-merger-settlement-ruling/",
+      "outlet": "TVNewsCheck",
+      "region": "americas"
+    },
+    {
+      "ref": 38,
+      "title": "FCC To Vote On Satellite Spectrum, Unlicensed Ultra-Wideband Devices",
+      "link": "https://tvnewscheck.com/regulation/article/fcc-to-vote-on-satellite-spectrum-unlicensed-ultra-wideband-devices/",
+      "outlet": "TVNewsCheck",
+      "region": "americas"
+    },
+    {
+      "ref": 39,
+      "title": "Paramount Says Timing for Warner Bros. Deal Close ‘If Any, Is Not Yet Certain’ but Targets Oct. 5 Date to Issue Shareholders Warrants Tied to WBD Merger",
+      "link": "https://variety.com/2026/film/news/paramount-warner-bros-deal-close-not-yet-certain-warrants-issue-date-1236876018/",
+      "outlet": "Variety",
+      "region": "americas"
+    },
+    {
+      "ref": 40,
+      "title": "Paramount Says Timing for Warner Bros. Deal Close ‘If Any’ Is ‘Not Yet Certain’ but Pencils In Oct. 5 Date to Issue PSKY Shareholders Warrants Tied to WBD Merger",
+      "link": "https://variety.com/2026/film/news/paramount-warner-bros-deal-close-not-yet-certain-warrants-issue-date-1236876018/",
+      "outlet": "Variety",
+      "region": "americas"
+    }
+  ]
+}
