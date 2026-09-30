@@ -1,6 +1,591 @@
 {
- "updated": "2026-09-29T23:35:59+01:00",
+ "updated": "2026-09-30T06:58:30+01:00",
  "items": [
+  {
+   "key": "householdenergybillsforecasttoseebiggestriseinfouryears",
+   "title": "Household energy bills forecast to see biggest rise in four years",
+   "summary": "A typical household faces an annual gas and electricity bill of £1,999 from January, based on a key forecast.",
+   "link": "https://www.bbc.co.uk/news/articles/cwz0zvj4m1myo?at_medium=RSS&at_campaign=rss",
+   "outlet": "BBC Business",
+   "feed_region": "uk",
+   "published": "2026-09-30T06:27:23+01:00"
+  },
+  {
+   "key": "dropindonationsputscommunitypantryatrisk",
+   "title": "Drop in donations puts community pantry at risk",
+   "summary": "St Paul's Pantry in Norton Lees say things are looking \"pretty grim\" without support.",
+   "link": "https://www.bbc.co.uk/news/articles/cme30d4qkj3eo?at_medium=RSS&at_campaign=rss",
+   "outlet": "BBC Business",
+   "feed_region": "uk",
+   "published": "2026-09-30T06:25:52+01:00"
+  },
+  {
+   "key": "openaiunveilsaiassistantdotswhilesafetyworriesdelaynewmodel",
+   "title": "OpenAI unveils AI assistant 'dots' while safety worries delay new model",
+   "summary": "Sam Altman spoke in San Francisco during OpenAI’s annual event for tech developers.",
+   "link": "https://www.bbc.co.uk/news/articles/cw7v42rp083eo?at_medium=RSS&at_campaign=rss",
+   "outlet": "BBC Technology",
+   "feed_region": "uk",
+   "published": "2026-09-30T06:18:13+01:00"
+  },
+  {
+   "key": "risksbeingtakenwithheatingoilordersfirmsays",
+   "title": "Risks being taken with heating oil orders, firm says",
+   "summary": "Customers in Berkshire and Hampshire are leaving it late to refill their tanks, an oil firm says.",
+   "link": "https://www.bbc.co.uk/news/articles/crd68d96zeq8o?at_medium=RSS&at_campaign=rss",
+   "outlet": "BBC Business",
+   "feed_region": "uk",
+   "published": "2026-09-30T06:08:19+01:00"
+  },
+  {
+   "key": "jimmykimmelripstrumpspushtorenameaisuperintelligenceopenaimustbeveryex",
+   "title": "Jimmy Kimmel Rips Trump’s Push to Rename AI ‘Super Intelligence’: OpenAI Must Be ‘Very Excited’",
+   "summary": "\"He's obsessed with changing the names of things,\" the late night host adds The post Jimmy Kimmel Rips Trump’s Push to Rename AI ‘Super Intelligence’: OpenAI Must Be ‘Very Excited’ appeared first on TheWrap .",
+   "link": "https://www.thewrap.com/creative-content/tv-shows/jimmy-kimmel-reacts-trump-claim-tech-leaders-love-ai-super-intelligence-rebrand/",
+   "outlet": "The Wrap",
+   "feed_region": "americas",
+   "published": "2026-09-30T06:01:27+01:00"
+  },
+  {
+   "key": "studyusadvertisersstartingholidaycampaignsearlier",
+   "title": "Study: US advertisers starting holiday campaigns earlier",
+   "summary": "The holiday advertising season is already underway. Research from Yahoo DSP finds that US advertisers are moving their holiday campaigns earlier, increasing budgets and prioritising deals and value as they compete for consumer spending. According to the study, pre-Labor Day campaign launches nearly doubled year...",
+   "link": "https://www.advanced-television.com/2026/09/30/study-us-advertisers-starting-holiday-campaigns-earlier/",
+   "outlet": "Advanced Television",
+   "feed_region": "uk",
+   "published": "2026-09-30T06:00:24+01:00"
+  },
+  {
+   "key": "nandysayschildrenssocialmediabanonlystagingpostinonlinesafetydrive",
+   "title": "Nandy says children’s social media ban only ‘staging post’ in online safety drive",
+   "summary": "Exclusive: Culture secretary says UK will crack down further and be ‘pioneer of tech as a force for good’ Lisa Nandy has warned technology firms that the government’s online safety crackdown is not finished, saying that banning under-16s from social media platforms is only a “staging post”. Earlier this year the...",
+   "link": "https://www.theguardian.com/technology/2026/sep/30/lisa-nandy-social-media-ban-online-safety-culture-secretary",
+   "outlet": "Guardian Media",
+   "feed_region": "uk",
+   "published": "2026-09-30T06:00:12+01:00"
+  },
+  {
+   "key": "florencepughcreditstomhollandforspidermanbrandnewdayrolethisallhappene",
+   "title": "Florence Pugh Credits Tom Holland for ‘Spider-Man: Brand New Day’ Role: ‘This All Happened Because of Tom’",
+   "summary": "Florence Pugh appeared on “The Tonight Show Starring Jimmy Fallon” Monday night and revealed that fans of her Marvel character, Yelena Belova, really have Tom Holland to thank for her appearance in “Spider-Man: Brand New Day.” “This all happened because of Tom,” said Pugh. “Years ago, when I just started my...",
+   "link": "https://variety.com/2026/film/news/florence-pugh-credits-tom-holland-spider-man-brand-new-day-1236887794/",
+   "outlet": "Variety",
+   "feed_region": "americas",
+   "published": "2026-09-30T05:57:01+01:00"
+  },
+  {
+   "key": "facingthefuturewithoutthebankofmumanddad",
+   "title": "Facing the future without the 'bank of mum and dad'",
+   "summary": "Young people struggling to make ends meet respond to the government's Your First Home scheme.",
+   "link": "https://www.bbc.co.uk/news/articles/ck7902ejw10vo?at_medium=RSS&at_campaign=rss",
+   "outlet": "BBC Business",
+   "feed_region": "uk",
+   "published": "2026-09-30T05:56:57+01:00"
+  },
+  {
+   "key": "gmaanchorwillreeveopensupabouttesticularcancerbattlefortunatethaticaug",
+   "title": "‘GMA’ Anchor Will Reeve Opens Up About Testicular Cancer Battle: “Fortunate That I Caught This Early”",
+   "summary": "Will Reeve said he was inspired to share his story after watching his parents, the late Christopher Reeve and Dana Reeve, \"take the adversity they faced in their lives and repurpose it into something hopeful.\"",
+   "link": "https://www.hollywoodreporter.com/lifestyle/lifestyle-news/gma-anchor-will-reeve-testicular-cancer-diagnosis-1236716787/",
+   "outlet": "Hollywood Reporter",
+   "feed_region": "americas",
+   "published": "2026-09-30T05:52:41+01:00"
+  },
+  {
+   "key": "aaronsorkinsayssocialreckoningreshootshadnothingtodowithtrailerbacklas",
+   "title": "Aaron Sorkin Says ‘Social Reckoning’ Reshoots Had Nothing to Do With Trailer Backlash, Explains Why Trump Isn’t Named: It’s ‘Not a Red-Blue Thing’",
+   "summary": "Ahead of the release of “The Social Reckoning” on Oct. 9, director Aaron Sorkin is telling all on the film’s much-discussed reshoots, limited test screenings and why Trump is never named explicitly, despite the January 6 riot playing a part in the plot. In a recent interview with Vanity Fair, Sorkin explained that...",
+   "link": "https://variety.com/2026/film/news/aaron-sorkin-social-reckoning-reshoots-trailer-backlash-trump-1236879892/",
+   "outlet": "Variety",
+   "feed_region": "americas",
+   "published": "2026-09-30T05:09:25+01:00"
+  },
+  {
+   "key": "applepayfinallylaunchesinindiaafteryearsonthesidelines",
+   "title": "Apple Pay finally launches in India after years on the sidelines",
+   "summary": "Some of India's largest banks are holding off on supporting Apple Pay initially.",
+   "link": "https://techcrunch.com/2026/09/29/apple-pay-set-to-launch-in-india-with-axis-bank-today-sources-say/",
+   "outlet": "TechCrunch",
+   "feed_region": "global",
+   "published": "2026-09-30T05:08:00+01:00"
+  },
+  {
+   "key": "threetakeawaysfromtrumpssuperintelligencesummit",
+   "title": "Three takeaways from Trump's 'Super Intelligence' summit",
+   "summary": "The meeting at the White House came as some tech bosses and experts have called for tighter rules around AI.",
+   "link": "https://www.bbc.co.uk/news/articles/cme30dz5vkzko?at_medium=RSS&at_campaign=rss",
+   "outlet": "BBC Technology",
+   "feed_region": "uk",
+   "published": "2026-09-30T05:01:52+01:00"
+  },
+  {
+   "key": "futureoftvbriefingtvadindustrysmeasurementcurrencyfrustrationshitanoth",
+   "title": "Future of TV Briefing: TV ad industry’s measurement currency frustrations hit (another) boiling point",
+   "summary": "This week’s Future of TV Briefing looks at a new task force being formed by the Coalition for Innovative Media Measurement to tackle the TV ad industry’s measurement currency conundrum.",
+   "link": "https://digiday.com/future-of-tv/future-of-tv-briefing-tv-ad-industrys-measurement-currency-frustrations-hit-another-boiling-point/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+   "outlet": "Digiday",
+   "feed_region": "americas",
+   "published": "2026-09-30T05:01:00+01:00"
+  },
+  {
+   "key": "howkrogergianteagleanddoordasharebuildingtheiragenticaiassistants",
+   "title": "How Kroger, Giant Eagle and DoorDash are building their agentic AI assistants",
+   "summary": "Companies are finding that they must deploy practical AI tools that bridge the gap between physical stores and online ordering.",
+   "link": "https://digiday.com/marketing/how-kroger-giant-eagle-and-doordash-are-building-their-agentic-ai-assistants/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+   "outlet": "Digiday",
+   "feed_region": "americas",
+   "published": "2026-09-30T05:01:00+01:00"
+  },
+  {
+   "key": "howshiralazargrewsocialaccountwhatstrendingtosevenfiguresinrevenue",
+   "title": "How Shira Lazar grew social account ‘What’s Trending’ to seven figures in revenue",
+   "summary": "Shira Lazar saw that creator-led media brands were the future 15 years ago, and now the entire industry has caught on.",
+   "link": "https://digiday.com/media/how-shira-lazar-grew-social-account-whats-trending-to-seven-figures-in-revenue/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+   "outlet": "Digiday",
+   "feed_region": "americas",
+   "published": "2026-09-30T05:01:00+01:00"
+  },
+  {
+   "key": "beautybrandcakeswantstoturnitstiktokviralityintoanownedmediastrategy",
+   "title": "Beauty brand Cakes wants to turn its TikTok virality into an owned media strategy",
+   "summary": "Cakes is launching Cakes Media to shift from paid TikTok views to a permanent, brand-owned audience as ad costs climb.",
+   "link": "https://digiday.com/marketing/beauty-brand-cakes-wants-to-turn-its-tiktok-virality-into-an-owned-media-strategy/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+   "outlet": "Digiday",
+   "feed_region": "americas",
+   "published": "2026-09-30T05:01:00+01:00"
+  },
+  {
+   "key": "howtogetthemostoutofauniversalbbclicencefee",
+   "title": "How to get the most out of a universal BBC licence fee",
+   "summary": "There should be proper discussion about where BBC cuts should fall, rather than well-loved personalities and programmes simply disappearing without a trace.",
+   "link": "https://uk.themedialeader.com/how-to-get-the-most-out-of-a-universal-bbc-licence-fee/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-get-the-most-out-of-a-universal-bbc-licence-fee",
+   "outlet": "The Media Leader",
+   "feed_region": "uk",
+   "published": "2026-09-30T04:50:09+01:00"
+  },
+  {
+   "key": "fionalowedaughterofchadloweandkimpainterdiesat13",
+   "title": "Fiona Lowe, Daughter of Chad Lowe and Kim Painter, Dies at 13",
+   "summary": "Fiona Hepler Lowe, the daughter of actor Chad Lowe and Kim Painter, has died. She was 13. Fiona’s death was confirmed to People on Tuesday by the Lowe family, who wrote “We are deeply heartbroken by the loss of our beloved Fiona” in a statement. Fiona was described by her family as “a loving young […]",
+   "link": "https://variety.com/2026/digital/people-news/fiona-hepler-lowe-chad-lowe-daughter-dies-1236885914/",
+   "outlet": "Variety",
+   "feed_region": "americas",
+   "published": "2026-09-30T04:41:44+01:00"
+  },
+  {
+   "key": "chadloweandkimpaintersdaughterfionadiesat13wearedeeplyheartbroken",
+   "title": "Chad Lowe and Kim Painter’s Daughter Fiona Dies at 13: ‘We Are Deeply Heartbroken’",
+   "summary": "\"Her passing is devastating for our entire family and we ask for prayers and privacy at this time,\" the couple writes The post Chad Lowe and Kim Painter’s Daughter Fiona Dies at 13: ‘We Are Deeply Heartbroken’ appeared first on TheWrap .",
+   "link": "https://www.thewrap.com/culture-lifestyle/culture/chad-lowe-kim-painter-daughter-fiona-dies-at-13/",
+   "outlet": "The Wrap",
+   "feed_region": "americas",
+   "published": "2026-09-30T04:30:11+01:00"
+  },
+  {
+   "key": "abcfinancejournalistalankohlertoretireafterthreedecadesasjimchalmerssa",
+   "title": "ABC finance journalist Alan Kohler to retire after three decades as Jim Chalmers says he will be ‘really missed’",
+   "summary": "The 74-year-old says he is leaving to spend more time with his family, including his six grandchildren Follow our Australia news live blog for latest updates Sign up for Guardian Australia’s free weekly media newsletter here Financial journalist Alan Kohler, a familiar face on the ABC’s 7pm news bulletin, will...",
+   "link": "https://www.theguardian.com/media/2026/sep/30/abc-finance-journalist-alan-kohler-to-retire-after-three-decades-as-jim-chalmers-says-he-will-be-really-missed",
+   "outlet": "Guardian Media",
+   "feed_region": "uk",
+   "published": "2026-09-30T04:28:23+01:00"
+  },
+  {
+   "key": "tomcruisedustsoffriskybusinessdancemovesforpackedjenniferhudsonshowspi",
+   "title": "Tom Cruise Dusts Off ‘Risky Business’ Dance Moves for Packed ‘Jennifer Hudson Show’ Spirit Tunnel",
+   "summary": "\"I have never seen so many people in this hallway,\" one fan notes in response The post Tom Cruise Dusts Off ‘Risky Business’ Dance Moves for Packed ‘Jennifer Hudson Show’ Spirit Tunnel appeared first on TheWrap .",
+   "link": "https://www.thewrap.com/creative-content/tv-shows/tom-cruise-jennifer-hudson-show-spirit-tunnel-video/",
+   "outlet": "The Wrap",
+   "feed_region": "americas",
+   "published": "2026-09-30T04:13:19+01:00"
+  },
+  {
+   "key": "citiesamovingtargetforplanners",
+   "title": "Cities: A moving target for planners",
+   "summary": "The Six Nations returns to Edinburgh in February, bringing rugby fans and advertising opportunities galore. Ruth Chalisey looks at Route data with the city’s major events and ever-changing population in mind.",
+   "link": "https://uk.themedialeader.com/cities-a-moving-target-for-planners/?utm_source=rss&utm_medium=rss&utm_campaign=cities-a-moving-target-for-planners",
+   "outlet": "The Media Leader",
+   "feed_region": "uk",
+   "published": "2026-09-30T04:10:32+01:00"
+  },
+  {
+   "key": "lastyearsunexpectedhitpumpkinspice5hourenergyisbackbypopulardemand",
+   "title": "Last Year’s Unexpected Hit, Pumpkin Spice 5-Hour Energy, Is Back by Popular Demand",
+   "summary": "The unusual pairing took social media by storm. Now, it returns for round two.",
+   "link": "https://www.hollywoodreporter.com/lifestyle/shopping/viral-pumpkin-spice-5-hour-energy-drink-fall-2026-relaunch-1236715162/",
+   "outlet": "Hollywood Reporter",
+   "feed_region": "americas",
+   "published": "2026-09-30T04:08:57+01:00"
+  },
+  {
+   "key": "thecampaignislivebutisittheoneyouapproved",
+   "title": "The campaign is live, but is it the one you approved?",
+   "summary": "The CEO of adnomaly explains why automated advertising needs continuous governance.",
+   "link": "https://uk.themedialeader.com/the-campaign-is-live-but-is-it-the-one-you-approved/?utm_source=rss&utm_medium=rss&utm_campaign=the-campaign-is-live-but-is-it-the-one-you-approved",
+   "outlet": "The Media Leader",
+   "feed_region": "uk",
+   "published": "2026-09-30T04:03:12+01:00"
+  },
+  {
+   "key": "chadlowesdaughterfionadiesat13shewasthelightofourlives",
+   "title": "Chad Lowe’s Daughter Fiona Dies at 13: “She Was the Light of Our Lives”",
+   "summary": "\"We are deeply heartbroken by the loss of our beloved Fiona,\" her family added in a statement.",
+   "link": "https://www.hollywoodreporter.com/news/general-news/chad-lowe-daughter-fiona-dead-1236716759/",
+   "outlet": "Hollywood Reporter",
+   "feed_region": "americas",
+   "published": "2026-09-30T04:00:51+01:00"
+  },
+  {
+   "key": "jkmediamakesmicrodramadebutwithtwousmadeprojectsforvixmicro",
+   "title": "JK Media makes microdrama debut with two US-made projects for ViXMicro",
+   "summary": "LA-based JK Media Group is producing two Spanish-language microdramas for TelevisaUnivision's ViXMicrO, among the first US-produced series for the platform. Encerrada con el enemigo (Trapped with the E...",
+   "link": "https://www.c21media.net/news/jk-media-makes-microdrama-debut-with-two-us-made-projects-for-vixmicro/",
+   "outlet": "C21Media",
+   "feed_region": "uk",
+   "published": "2026-09-30T03:51:34+01:00"
+  },
+  {
+   "key": "finalpaymentzoominzoomoutwinbigatpingyaocongoboytakesrosselliniprize",
+   "title": "‘Final Payment,’ ‘Zoom In, Zoom Out’ Win Big at Pingyao; ‘Congo Boy’ Takes Rossellini Prize",
+   "summary": "Niu Niu’s “Final Payment” and Dong Jie’s “Zoom In, Zoom Out” each won two prizes at the 10th Pingyao Crouching Tiger Hidden Dragon International Film Festival in China. “Final Payment,” from Shanxi-born Niu, won the Fei Mu Award for best film, along with best actor for Niu’s father, Niu Jianrong. “Zoom In, Zoom...",
+   "link": "https://variety.com/2026/film/festivals/final-payment-zoom-in-zoom-out-pingyao-winners-2026-1236883571/",
+   "outlet": "Variety",
+   "feed_region": "americas",
+   "published": "2026-09-30T03:46:57+01:00"
+  },
+  {
+   "key": "thedailyshowmockstrumpadministrationfordenyingrepurposedadisacampaigns",
+   "title": "‘The Daily Show’ Mocks Trump Administration for Denying Repurposed Ad Is a Campaign Spot: ‘Exact Same Footage’",
+   "summary": "\"There is one other thing that makes me think this is a campaign ad, which is that this is literally a campaign ad,\" host Jordan Klepper adds The post ‘The Daily Show’ Mocks Trump Administration for Denying Repurposed Ad Is a Campaign Spot: ‘Exact Same Footage’ appeared first on TheWrap .",
+   "link": "https://www.thewrap.com/creative-content/tv-shows/the-daily-show-reacts-trump-administration-denying-campaign-ad/",
+   "outlet": "The Wrap",
+   "feed_region": "americas",
+   "published": "2026-09-30T03:42:56+01:00"
+  },
+  {
+   "key": "heatedrivalryproducerslaunchareallifeirinafoundation",
+   "title": "‘Heated Rivalry’ Producers Launch a Real-Life Irina Foundation",
+   "summary": "The foundation dedicated to championing inclusivity and mental well-being through sports and arts programs is named after the foundation 'Heated Rivalry' characters Shane and Ilya start in Rachel Reid's books.",
+   "link": "https://www.hollywoodreporter.com/tv/tv-news/heated-rivalry-producers-launch-irina-foundation-1236716737/",
+   "outlet": "Hollywood Reporter",
+   "feed_region": "americas",
+   "published": "2026-09-30T03:41:09+01:00"
+  },
+  {
+   "key": "svustarmariskahargitayspeaksoutoncornellrapecasesaysuniversityfailedto",
+   "title": "‘SVU’ Star Mariska Hargitay Speaks Out on Cornell Rape Case, Says University “Failed to Protect Its Students”",
+   "summary": "A former Cornell University student has accused seven Chi Phi fraternity members of drugging and raping her in October 2024.",
+   "link": "https://www.hollywoodreporter.com/news/general-news/svu-mariska-hargitay-speaks-out-cornell-rape-case-1236716722/",
+   "outlet": "Hollywood Reporter",
+   "feed_region": "americas",
+   "published": "2026-09-30T03:38:47+01:00"
+  },
+  {
+   "key": "cindyhollandexitingpskycaseybloyssettoleadd2cfollowingwbdmerger",
+   "title": "Cindy Holland exiting PSKY, Casey Bloys set to lead D2C following WBD merger",
+   "summary": "Cindy Holland is leaving her role as chairman of direct-to-consumer (D2C) at Paramount Skydance (PSKY) ahead of its merger with Warner Bros Discovery (WBD), with HBO boss Casey Bloys set to run the str...",
+   "link": "https://www.c21media.net/news/cindy-holland-exiting-psky-casey-bloys-set-to-lead-d2c-following-wbd-merger/",
+   "outlet": "C21Media",
+   "feed_region": "uk",
+   "published": "2026-09-30T03:27:41+01:00"
+  },
+  {
+   "key": "2026dgcawardsfilmnomineesledbyreadyornot2",
+   "title": "2026 DGC Awards film nominees led by ‘Ready or Not 2’",
+   "summary": "The DGC has unveiled the nominees for the 2026 DGC Awards for Feature Film, Documentary and Short Film. By film, comedy-horror sequel Ready or Not 2: Here I Come, leads […]",
+   "link": "https://broadcastdialogue.com/2026-dgc-awards-film-nominees-led-by-ready-or-not-2/",
+   "outlet": "Broadcast Dialogue",
+   "feed_region": "americas",
+   "published": "2026-09-30T03:20:53+01:00"
+  },
+  {
+   "key": "trumpadministrationgetsbigtechtosignweaknonbindingairegulations",
+   "title": "Trump administration gets Big Tech to sign weak, non-binding, AI regulations",
+   "summary": "Also requires name change to 'Superintelligence'",
+   "link": "https://www.theregister.com/ai-and-ml/2026/09/30/trump-administration-gets-big-tech-to-sign-weak-non-binding-ai-regulations/5299955",
+   "outlet": "The Register",
+   "feed_region": "global",
+   "published": "2026-09-30T03:11:23+01:00"
+  },
+  {
+   "key": "christycarlsonromanosayssheandevenstevenscostarshialabeoufwerelikeoila",
+   "title": "Christy Carlson Romano Says She and ‘Even Stevens’ Co-Star Shia LaBeouf Were ‘Like Oil and Water’ While Filming the Disney Channel Show",
+   "summary": "Christy Carlson Romano, who first broke out on the Disney Channel sitcom “Even Stevens,” is opening up about her experience working alongside co-star Shia LaBeouf. Speaking with Amanda Hirsch of the Not Skinny But Not Fat podcast on Tuesday, Romano said that she and LaBeouf were “like oil and water,” despite being...",
+   "link": "https://variety.com/2026/tv/news/christy-carlson-romano-shia-labeouf-even-stevens-1236878716/",
+   "outlet": "Variety",
+   "feed_region": "americas",
+   "published": "2026-09-30T03:09:17+01:00"
+  },
+  {
+   "key": "markpennwereitintermsofafourthalternative",
+   "title": "Mark Penn: ‘We’re it in terms of a fourth alternative’",
+   "summary": "Stagwell CEO Mark Penn discusses why he's bullish about AI, the ad market, and the challenger holding group's positioning against the Big Three.",
+   "link": "https://uk.themedialeader.com/mark-penn-stagwell-is-entering-its-teen-years-by-embracing-digital-transformation/?utm_source=rss&utm_medium=rss&utm_campaign=mark-penn-stagwell-is-entering-its-teen-years-by-embracing-digital-transformation",
+   "outlet": "The Media Leader",
+   "feed_region": "uk",
+   "published": "2026-09-30T03:05:44+01:00"
+  },
+  {
+   "key": "tomcruisepullsoutriskybusinessdancemovesforjenniferhudsonshowspirittun",
+   "title": "Tom Cruise Pulls Out ‘Risky Business’ Dance Moves for ‘Jennifer Hudson Show’ Spirit Tunnel",
+   "summary": "Tom Cruise pulled out his “Risky Business” dance moves (and those black Ray-Ban sunglasses) for his much-anticipated walk down “The Jennifer Hudson Show’s” Spirit Tunnel. The talk show appearance is Cruise’s latest stop on the press tour for “Digger,” directed by two-time Academy Award-winning filmmaker Alejandro...",
+   "link": "https://variety.com/2026/film/news/tom-cruise-jennifer-hudson-show-spirit-tunnel-risky-business-1236881300/",
+   "outlet": "Variety",
+   "feed_region": "americas",
+   "published": "2026-09-30T03:04:32+01:00"
+  },
+  {
+   "key": "wolfblitzermakesarallyingcalltoprotectfreepressduringhalloffamespeechi",
+   "title": "Wolf Blitzer Makes a Rallying Call to Protect Free Press During Hall of Fame Speech: ‘It Is Vital to Our Democracy’",
+   "summary": "“All of us must do everything we can to protect our constitutional right to a free press,” the CNN anchor adds The post Wolf Blitzer Makes a Rallying Call to Protect Free Press During Hall of Fame Speech: ‘It Is Vital to Our Democracy’ appeared first on TheWrap .",
+   "link": "https://www.thewrap.com/media-platforms/journalism/wolf-blitzer-broadcasting-cable-hall-of-fame-speech/",
+   "outlet": "The Wrap",
+   "feed_region": "americas",
+   "published": "2026-09-30T02:43:45+01:00"
+  },
+  {
+   "key": "creatorsaiisthefutureweneedtobetransparentaboutusingit",
+   "title": "Creators: AI Is the Future. We Need to Be Transparent About Using It",
+   "summary": "AI Creator Day: One of the key themes of the event was the sense of the technology's inevitability The post Creators: AI Is the Future. We Need to Be Transparent About Using It appeared first on TheWrap .",
+   "link": "https://www.thewrap.com/industry-news/tech/creators-ai-is-the-future-we-need-to-be-transparent-about-using-it/",
+   "outlet": "The Wrap",
+   "feed_region": "americas",
+   "published": "2026-09-30T02:30:19+01:00"
+  },
+  {
+   "key": "aicreatorswantyoutoknowaifilmmakingisstillfkinghard",
+   "title": "AI Creators Want You to Know AI Filmmaking Is Still ‘F–king Hard’",
+   "summary": "AI Creator Day: David Bianchi and the heads of Fairground and pocket.watch say \"the studios can't look away\" from YouTube hits The post AI Creators Want You to Know AI Filmmaking Is Still ‘F–king Hard’ appeared first on TheWrap .",
+   "link": "https://www.thewrap.com/industry-news/tech/ai-creator-ai-filmmaking-still-f-king-hard/",
+   "outlet": "The Wrap",
+   "feed_region": "americas",
+   "published": "2026-09-30T01:39:26+01:00"
+  },
+  {
+   "key": "makingmarieantoinetteamotherslovelettertosofiacoppolasgeniuscharmsnyff",
+   "title": "‘Making Marie Antoinette’: A Mother’s Love Letter to Sofia Coppola’s Genius Charms NYFF",
+   "summary": "“I enjoyed it, but I’m never doing this again.” Sofia Coppola utters those words toward the end of “Making Marie Antoinette,” a feature documentary about the making of her 2006 film “Marie Antoinette” from her late mother, Eleanor Coppola. Playing in the Spotlight section of the New York Film Festival, the...",
+   "link": "https://variety.com/2026/film/news/making-marie-antoinette-sofia-coppola-mother-kirsten-dunst-nyff-1236878756/",
+   "outlet": "Variety",
+   "feed_region": "americas",
+   "published": "2026-09-30T01:38:14+01:00"
+  },
+  {
+   "key": "whatremainsreviewapensivebutstirringdramafindspoetryinthelandscapesofr",
+   "title": "‘What Remains’ Review: A Pensive but Stirring Drama Finds Poetry in the Landscapes of Rural Turkey",
+   "summary": "If you love something, let it go, the adage advises, and maybe it will come back to you. Maybe, however, it will go and go and go and never come back, and that, so Yeşim Ustaoğlu’s increasingly lyrical and persuasive “What Remains” would have it, might be its own sort of reclamation. The slowly built, […]",
+   "link": "https://variety.com/2026/film/reviews/what-remains-review-1236876765/",
+   "outlet": "Variety",
+   "feed_region": "americas",
+   "published": "2026-09-30T01:21:36+01:00"
+  },
+  {
+   "key": "samaltmansaysopenaiwontgopublicuntilitsmodelsaresafe",
+   "title": "Sam Altman says OpenAI won’t go public until its models are safe",
+   "summary": "For months, people have wondered when OpenAI will go public. CEO Sam Altman says it won't happen until the company can make better promises about model safety, with no firm timeline in sight. \"We intend to continue with AI progress … but as the models have had this surge forward in capability, and we see […]",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1002505/sam-altman-openai-ipo-devday-ai-safety",
+   "outlet": "The Verge",
+   "feed_region": "global",
+   "published": "2026-09-30T01:19:13+01:00"
+  },
+  {
+   "key": "residentevilstaraustinabramsunderstandsthefanbacklash",
+   "title": "‘Resident Evil’ Star Austin Abrams Understands the Fan Backlash",
+   "summary": "The Zach Cregger film, now in theaters, has come under fire for not directly adapting the games The post ‘Resident Evil’ Star Austin Abrams Understands the Fan Backlash appeared first on TheWrap .",
+   "link": "https://www.thewrap.com/creative-content/movies/austin-abrams-resident-evil-interview/",
+   "outlet": "The Wrap",
+   "feed_region": "americas",
+   "published": "2026-09-30T01:09:26+01:00"
+  },
+  {
+   "key": "johngoforthnamedpresidentofhubbardsgamutnetwork",
+   "title": "John Goforth Named President of Hubbard’s Gamut Network",
+   "summary": "John Goforth, who has run Hubbard Media That Connects' Gamut Podcast Network since joining the company in 2024, has been elevated to President. Hubbard says the new title places Gamut alongside its other media and entertainment companies.",
+   "link": "https://radioink.com/2026/09/29/john-goforth-named-president-of-hubbards-gamut-network/",
+   "outlet": "Radio Ink",
+   "feed_region": "americas",
+   "published": "2026-09-30T01:05:35+01:00"
+  },
+  {
+   "key": "dontthrowawayyouroldrouterdothisinstead",
+   "title": "Don't throw away your old router — Do this instead",
+   "summary": "Your old router shouldn't be destined for the recycling bin. You can repurpose it to extend your current network and much more.",
+   "link": "https://www.engadget.com/2271811/dont-throw-away-old-router-do-this-instead/",
+   "outlet": "Engadget",
+   "feed_region": "global",
+   "published": "2026-09-30T01:00:00+01:00"
+  },
+  {
+   "key": "dancingwiththestarscapsyachtrocknightwithashockeliminationseethescores",
+   "title": "‘Dancing With the Stars’ Caps Yacht Rock Night With a Shock Elimination: See the Scores, Who Went Home",
+   "summary": "The couples performed dance numbers to classic songs including “You Make My Dreams (Come True)” and “Just the Two of Us.”",
+   "link": "https://www.hollywoodreporter.com/tv/tv-news/dwts-season-35-yacht-rock-week-3-recap-scores-elimination-1236714613/",
+   "outlet": "Hollywood Reporter",
+   "feed_region": "americas",
+   "published": "2026-09-30T00:58:00+01:00"
+  },
+  {
+   "key": "amypoehlerhilariouslypressesandrewgarfieldonwhetherhesactuallyamethoda",
+   "title": "Amy Poehler Hilariously Presses Andrew Garfield on Whether He’s Actually a Method Actor: ‘I Mean, Are You Though?’",
+   "summary": "\"You're looking for the clickbait head. You're like, 'Is he going to give me the juice?'\" the \"Uprising\" actor responds coyly The post Amy Poehler Hilariously Presses Andrew Garfield on Whether He’s Actually a Method Actor: ‘I Mean, Are You Though?’ appeared first on TheWrap .",
+   "link": "https://www.thewrap.com/industry-news/business/amy-poehler-presses-andrew-garfield-on-method-acting/",
+   "outlet": "The Wrap",
+   "feed_region": "americas",
+   "published": "2026-09-30T00:50:44+01:00"
+  },
+  {
+   "key": "aihasalreadyimpactedhowcreativesarepitchingfilmsaccordingtofoxnxthead",
+   "title": "AI Has Already Impacted How Creatives Are Pitching Films, According to FoxNXT Head",
+   "summary": "AI Creator Day: Jon Flynn says AI tools can, on average, save 20% in costs The post AI Has Already Impacted How Creatives Are Pitching Films, According to FoxNXT Head appeared first on TheWrap .",
+   "link": "https://www.thewrap.com/industry-news/tech/ai-creator-day-fox-entertainment-foxnxt/",
+   "outlet": "The Wrap",
+   "feed_region": "americas",
+   "published": "2026-09-30T00:36:35+01:00"
+  },
+  {
+   "key": "whatsnewonnetflixinoctober2026",
+   "title": "What’s New on Netflix in October 2026",
+   "summary": "Halloween has arrived on Netflix! The streaming service is kicking off All Hallows’ Eve with a fresh slate of horror favorites, including classics such as “Dracula,” “Mary Shelley’s Frankenstein,” “Friday the 13th” and “Psycho.” Fresh scares such as “Ouija,” “The Strangers” and “Evil Dead Rise” will also be added....",
+   "link": "https://variety.com/feature/whats-on-netflix-movies-shows-1203517873/",
+   "outlet": "Variety",
+   "feed_region": "americas",
+   "published": "2026-09-30T00:35:00+01:00"
+  },
+  {
+   "key": "uschamberdigitalpiracyhasoutgrownoldpolicyassumptions",
+   "title": "US Chamber: Digital piracy has outgrown old policy assumptions",
+   "summary": "At the US Chamber of Commerce’s recent Digital Piracy Symposium, leaders agreed that digital piracy has evolved into a broader threat to consumers, businesses, and national security. Writing on the Chamber’s website, Jaci McDole, Executive Director, Copyright and Creativity, Global Innovation Policy Center, at the...",
+   "link": "https://www.advanced-television.com/2026/09/30/us-chamber-digital-piracy-has-outgrown-old-policy-assumptions/",
+   "outlet": "Advanced Television",
+   "feed_region": "uk",
+   "published": "2026-09-30T00:30:59+01:00"
+  },
+  {
+   "key": "americagovgetsreallyweirdwhenyouaskitaboutminecraftbutitsnotaglitch",
+   "title": "America.gov gets really weird when you ask it about Minecraft, but it’s not a glitch",
+   "summary": "For the sake of national security, it's a relief to learn that America.gov is not hallucinating to the point that it's penning lengthy poetry.",
+   "link": "https://techcrunch.com/2026/09/29/america-gov-gets-really-weird-when-you-ask-it-about-minecraft-but-its-not-a-glitch/",
+   "outlet": "TechCrunch",
+   "feed_region": "global",
+   "published": "2026-09-30T00:30:55+01:00"
+  },
+  {
+   "key": "theaiindustrywantsmodelstoassistinlegalbattlesbutwilltheyhelp",
+   "title": "The AI industry wants models to assist in legal battles, but will they help?",
+   "summary": "After lawyers were fined for submitting AI filings packed with fictitious case law, AI companies are releasing new tools to ensure that doesn't happen again.",
+   "link": "https://www.engadget.com/2271692/ai-industry-want-use-models-legal-battle-law-assistance/",
+   "outlet": "Engadget",
+   "feed_region": "global",
+   "published": "2026-09-30T00:30:00+01:00"
+  },
+  {
+   "key": "whattowatchondisneyinoctober2026",
+   "title": "What to Watch on Disney+ in October 2026",
+   "summary": "Spooky season is officially here and Disney+ just made your Halloween streaming selections that much easier. For the month of October, Disney+ will offer a Halloween collection featuring a curated assortment of movies, series and specials. One standout series joining Disney+ this month is “Coven Academy,” the...",
+   "link": "https://variety.com/feature/whats-on-disney-plus-new-shows-movies-1203517920/",
+   "outlet": "Variety",
+   "feed_region": "americas",
+   "published": "2026-09-30T00:20:00+01:00"
+  },
+  {
+   "key": "chineseaitooltoldresearchershowtomakebioweapons",
+   "title": "Chinese AI tool told researchers how to make bioweapons",
+   "summary": "Mindgard said it discovered in July that Kimi models K2.6 and K3 Swarm could evade developer's safety limits.",
+   "link": "https://www.bbc.co.uk/news/articles/cmrergq3j7lgo?at_medium=RSS&at_campaign=rss",
+   "outlet": "BBC Technology",
+   "feed_region": "uk",
+   "published": "2026-09-30T00:15:29+01:00"
+  },
+  {
+   "key": "marytylermooresmostfamousfitsinspireanewcollectionbenefitingdiabetesre",
+   "title": "Mary Tyler Moore’s Most Famous Fits Inspire a New Collection Benefiting Diabetes Research",
+   "summary": "In collaboration with Frances Valentine, the 20-piece drop includes clothing and accessories, with a portion of the profits going to help people living with the chronic condition.",
+   "link": "https://www.hollywoodreporter.com/lifestyle/shopping/mary-tyler-moore-frances-valentine-clothing-collection-2026-1236714592/",
+   "outlet": "Hollywood Reporter",
+   "feed_region": "americas",
+   "published": "2026-09-30T00:13:32+01:00"
+  },
+  {
+   "key": "cindyhollandtoexitparamountaswarnerbrosdiscoverydeallooms",
+   "title": "Cindy Holland to Exit Paramount as Warner Bros. Discovery Deal Looms",
+   "summary": "Holland's exit sets up Casey Bloys as the likely leader of the company's combined streaming efforts.",
+   "link": "https://www.hollywoodreporter.com/business/business-news/cindy-holland-exit-paramount-casey-bloys-hbo-max-1236716640/",
+   "outlet": "Hollywood Reporter",
+   "feed_region": "americas",
+   "published": "2026-09-30T00:12:14+01:00"
+  },
+  {
+   "key": "thestartupshopingtoreturnbatterymakingtotheus",
+   "title": "The start-ups hoping to return battery making to the US",
+   "summary": "Batteries based on sodium-ion technology could be made in the US with locally sourced materials.",
+   "link": "https://www.bbc.co.uk/news/articles/cvgyexx4g8ro?at_medium=RSS&at_campaign=rss",
+   "outlet": "BBC Technology",
+   "feed_region": "uk",
+   "published": "2026-09-30T00:06:50+01:00"
+  },
+  {
+   "key": "ilikeprovingpeoplewrongthewomentakingupdiyandplumbing",
+   "title": "'I like proving people wrong': The women taking up DIY and plumbing",
+   "summary": "Female DIY experts and tradeswomen talk about their experiences of a traditionally male-dominated domain.",
+   "link": "https://www.bbc.co.uk/news/articles/cm89jkn232xxo?at_medium=RSS&at_campaign=rss",
+   "outlet": "BBC Business",
+   "feed_region": "uk",
+   "published": "2026-09-30T00:06:14+01:00"
+  },
+  {
+   "key": "hueladbannedforsuggestingitsproductscouldreplaceallconventionalfood",
+   "title": "Huel ad banned for suggesting its products could replace all conventional food",
+   "summary": "The advertising watchdog said that viewers could assume from the ad that replacing all normal food with Huel was \"nutritionally appropriate\".",
+   "link": "https://www.bbc.co.uk/news/articles/c920v3y1gjgpo?at_medium=RSS&at_campaign=rss",
+   "outlet": "BBC Business",
+   "feed_region": "uk",
+   "published": "2026-09-30T00:06:06+01:00"
+  },
+  {
+   "key": "cindyhollandleavingparamountaheadofwbdmerger",
+   "title": "Cindy Holland Leaving Paramount Ahead Of WBD Merger",
+   "summary": "Cindy Holland is leaving Paramount where she was chair of direct-to-consumer since the close of the Skydance-Paramount merger, having served as an adviser to Skydance CEO David Ellison prior to that. She announced her departure in a company memo Tuesday. The post Cindy Holland Leaving Paramount Ahead Of WBD Merger...",
+   "link": "https://tvnewscheck.com/business/article/cindy-holland-leaving-paramount-ahead-of-wbd-merger/",
+   "outlet": "TVNewsCheck",
+   "feed_region": "americas",
+   "published": "2026-09-30T00:02:13+01:00"
+  },
+  {
+   "key": "canyoustilluseyourrouterifitdoesntgetfirmwareupdates",
+   "title": "Can you still use your router if it doesn't get firmware updates?",
+   "summary": "Internet router manufacturers often do a good job of keeping their devices updated, but what should you do once they cease support? Here are some simple tips.",
+   "link": "https://www.engadget.com/2271679/router-no-firmware-updates-can-still-use/",
+   "outlet": "Engadget",
+   "feed_region": "global",
+   "published": "2026-09-30T00:00:00+01:00"
+  },
+  {
+   "key": "knbckveatohostlivelosangelesmayoraldebate",
+   "title": "KNBC & KVEA To Host Live Los Angeles Mayoral Debate",
+   "summary": "KNBC (NBC4) and KVEA (Telemundo 52) will host a live one-hour debate for the 2026 Los Angeles mayoral race on Oct. 13, with incumbent Mayor Karen Bass and Councilmember Nithya … The post KNBC & KVEA To Host Live Los Angeles Mayoral Debate appeared first on TV News Check .",
+   "link": "https://tvnewscheck.com/journalism/article/knbc-kvea-to-host-live-los-angeles-mayoral-debate-2/",
+   "outlet": "TVNewsCheck",
+   "feed_region": "americas",
+   "published": "2026-09-29T23:59:04+01:00"
+  },
+  {
+   "key": "covenacademycreatortimfederletalkswitchestheyawhitespaceandwhyalltheep",
+   "title": "‘Coven Academy’ Creator Tim Federle Talks Witches, the YA “White Space” and Why All the Episodes Are Atypically Short (It’s Not the Reason You Expect)",
+   "summary": "Malina Pauli Weissman and Malachi Barton star in the supernatural series, debuting Thursday on Freeform.",
+   "link": "https://www.hollywoodreporter.com/tv/tv-features/coven-academy-creator-witch-malachi-barton-shorter-episodes-1236714726/",
+   "outlet": "Hollywood Reporter",
+   "feed_region": "americas",
+   "published": "2026-09-29T23:53:09+01:00"
+  },
+  {
+   "key": "mostpowerfulobesitydrugyetpeoplelostupto25ofweightintrial",
+   "title": "Most powerful obesity drug yet: People lost up to 25% of weight in trial",
+   "summary": "Retatrutide is a triple-hormone obesity drug simulating GLP-1, GIP, and glucagon.",
+   "link": "https://arstechnica.com/health/2026/09/most-powerful-obesity-drug-yet-people-lost-up-to-25-of-weight-in-trial/",
+   "outlet": "Ars Technica",
+   "feed_region": "global",
+   "published": "2026-09-29T23:30:37+01:00"
+  },
   {
    "key": "howtoprepareyoursamsunggalaxyfortheoneui9update",
    "title": "How to prepare your Samsung Galaxy for the One UI 9 update",
@@ -99,6 +684,15 @@
    "outlet": "The Wrap",
    "feed_region": "americas",
    "published": "2026-09-29T23:00:00+01:00"
+  },
+  {
+   "key": "protestsagainstopenaigetincreasinglycreative",
+   "title": "Protests against OpenAI get increasingly creative",
+   "summary": "New sculpture depicts AI leaders escaping a sinking ship.",
+   "link": "https://arstechnica.com/ai/2026/09/what-iceberg-bay-area-artists-target-openai-with-titanic-themed-protest-art/",
+   "outlet": "Ars Technica",
+   "feed_region": "global",
+   "published": "2026-09-29T22:52:58+01:00"
   },
   {
    "key": "a16zbackedeliseairaises350mdoublesvaluationto4b",
@@ -528,6 +1122,15 @@
    "title": "OpenAI repotedly in talks to raise $30B round at $1.4T valuation",
    "summary": "The new round is anticipated to be the company's last before its delayed 2027 public debut.",
    "link": "https://techcrunch.com/2026/09/29/openai-repotedly-in-talks-to-raise-30b-round-at-1-4t-valuation/",
+   "outlet": "TechCrunch",
+   "feed_region": "global",
+   "published": "2026-09-29T20:52:37+01:00"
+  },
+  {
+   "key": "openaireportedlyintalkstoraise30broundat14tvaluation",
+   "title": "OpenAI reportedly in talks to raise $30B round at $1.4T valuation",
+   "summary": "The new round is anticipated to be the company's last before its delayed 2027 public debut.",
+   "link": "https://techcrunch.com/2026/09/29/openai-reportedly-in-talks-to-raise-30b-round-at-1-4t-valuation/",
    "outlet": "TechCrunch",
    "feed_region": "global",
    "published": "2026-09-29T20:52:37+01:00"
@@ -1764,6 +2367,15 @@
    "outlet": "Radio Ink",
    "feed_region": "americas",
    "published": "2026-09-29T16:10:05+01:00"
+  },
+  {
+   "key": "techfirmsurgedtoblocknudeimagesonchildrenssmartphones",
+   "title": "Tech firms urged to block nude images on children's smartphones",
+   "summary": "Tech firms should act urgently to introduce nudity-blocking technology on children's smartphones to prevent exposure to \"horrific\" abuse, MPs have said.",
+   "link": "https://news.sky.com/story/tech-firms-urged-to-block-nude-images-on-childrens-smartphones-13593348",
+   "outlet": "Sky News Tech",
+   "feed_region": "uk",
+   "published": "2026-09-29T16:02:00+01:00"
   },
   {
    "key": "starlinglaunchesnewctvplatformfortvads",
@@ -28341,204 +28953,6 @@
    "outlet": "BBC Business",
    "feed_region": "uk",
    "published": "2026-09-20T07:12:13+01:00"
-  },
-  {
-   "key": "readysettgosettexecsdrilldownonthespanishsovereignventurecapitalfundth",
-   "title": "Ready, SETT, Go: SETT Execs Drill Down on the Spanish Sovereign Venture Capital Fund That Will Drive Industry Conversation at San Sebastián",
-   "summary": "One of the major industry narratives at this year’s San Sebastián Festival, running Sept. 18-26, will be the presentation of SETT, the venture capital fund of Spain’s Ministry for Digital Transformation.SETT director general Javier Ponce and its audiovisual director María Coronado deliver a practical guide to...",
-   "link": "https://variety.com/2026/tv/global/sett-javier-ponce-maria-coronado-how-sett-works-and-why-1236869707/",
-   "outlet": "Variety",
-   "feed_region": "americas",
-   "published": "2026-09-20T06:43:25+01:00"
-  },
-  {
-   "key": "todaysnytconnectionssportseditionhintsandanswersforsept20727",
-   "title": "Today’s NYT Connections: Sports Edition Hints and Answers for Sept. 20, #727",
-   "summary": "Here are hints and the answers for today’s NYT Connections: Sports Edition puzzle for Sept. 20, 2026.",
-   "link": "https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-sept-20-727/",
-   "outlet": "CNET News",
-   "feed_region": "global",
-   "published": "2026-09-20T06:02:36+01:00"
-  },
-  {
-   "key": "msrachelthecontroversialqueenoftoddlertvmygoalisnttobethemostlikeditst",
-   "title": "Ms Rachel, the controversial queen of toddler TV: ‘My goal isn’t to be the most liked. It’s to help kids and speak the truth’",
-   "summary": "Her catchy videos have racked up billions of views, but Rachel Accurso’s statements on everything from Gaza to LGBTQ rights have caused a stir. She talks about screen time, song fatigue and speculation she might enter politics The YouTube star Ms Rachel, toddler whisperer extraordinaire, spots me before I clock...",
-   "link": "https://www.theguardian.com/tv-and-radio/2026/sep/20/ms-rachel-the-queen-of-toddler-tv-interview",
-   "outlet": "Guardian Media",
-   "feed_region": "uk",
-   "published": "2026-09-20T06:00:06+01:00"
-  },
-  {
-   "key": "markruffalourgescaliforniaagtonotsettleantitrustsuitagainstparamountwa",
-   "title": "Mark Ruffalo Urges California AG to Not Settle Antitrust Suit Against Paramount-Warner Bros. Merger: “Do Not Cave”",
-   "summary": "The Wall Street Journal reported Friday that Paramount and the states are closing in on a deal to settle the lawsuit.",
-   "link": "https://www.hollywoodreporter.com/business/business-news/mark-ruffalo-urges-california-ag-to-not-settle-antitrust-suit-against-paramount-warner-bros-merger-do-not-cave-1236706258/",
-   "outlet": "Hollywood Reporter",
-   "feed_region": "americas",
-   "published": "2026-09-20T05:11:56+01:00"
-  },
-  {
-   "key": "edsheeranaddressesmacklemorefalloutatfirstconcertsincerapperslooptourr",
-   "title": "Ed Sheeran Addresses Macklemore Fallout at First Concert Since Rapper’s Loop Tour Removal: ‘I’ve Had to Make Difficult Decisions’",
-   "summary": "\"I’ve never wanted to be an activist musician, but this has put me in the middle of an important and passionate argument about freedom of speech and the most complex political issue on the planet,\" the singer says The post Ed Sheeran Addresses Macklemore Fallout at First Concert Since Rapper’s Loop Tour Removal:...",
-   "link": "https://www.thewrap.com/creative-content/music/ed-sheeran-addresses-macklemore-fallout/",
-   "outlet": "The Wrap",
-   "feed_region": "americas",
-   "published": "2026-09-20T04:17:35+01:00"
-  },
-  {
-   "key": "rubyroseremembershaydenpanettierewehadeverythingincommon",
-   "title": "Ruby Rose Remembers Hayden Panettiere: “We Had Everything in Common”",
-   "summary": "\"All that she ever wanted was to have her story told her way, on her terms,\" the 'Orange Is the New Black' star said of the 'Heroes' actress.",
-   "link": "https://www.hollywoodreporter.com/tv/tv-news/ruby-rose-mourns-hayden-panettiere-tribute-1236706180/",
-   "outlet": "Hollywood Reporter",
-   "feed_region": "americas",
-   "published": "2026-09-20T03:02:05+01:00"
-  },
-  {
-   "key": "markruffalotellsrobbontadontyoudaresettletheantitrustlawsuitagainstpar",
-   "title": "Mark Ruffalo Tells Rob Bonta ‘Don’t You Dare’ Settle the Antitrust Lawsuit Against Paramount: ‘Do Not Cave’",
-   "summary": "Mark Ruffalo is encouraging California attorney general Rob Bonta and his coalition of 11 other state AGs not to settle their lawsuit against Paramount Skydance and keep David Ellison from acquiring Warner Bros. Discovery. “Don’t you dare, [Rob Bonta], do not cave,” Ruffalo wrote on X. “5,670 filmmakers put their...",
-   "link": "https://variety.com/2026/film/news/mark-ruffalo-rob-bonta-dont-settle-lawsuit-paramount-1236869774/",
-   "outlet": "Variety",
-   "feed_region": "americas",
-   "published": "2026-09-20T02:24:48+01:00"
-  },
-  {
-   "key": "portraitpowerphotojournalistlorriegrahamsfivedecadecareerinpictures",
-   "title": "Portrait power: photojournalist Lorrie Graham’s five-decade career – in pictures",
-   "summary": "Drawn from more than 100,000 images and negatives created between 1975 and 2025, the exhibition Lorrie Graham: Photojournalist is on now at the State Library of NSW. Graham was the first female photography cadet at the Sydney Morning Herald and worked in London at the Observer and the Times on Sunday before...",
-   "link": "https://www.theguardian.com/artanddesign/gallery/2026/sep/20/australian-photojournalist-lorrie-graham-nsw-exhibition-career-in-photos",
-   "outlet": "Guardian Media",
-   "feed_region": "uk",
-   "published": "2026-09-20T02:00:01+01:00"
-  },
-  {
-   "key": "edsheeransayswhatishappeningingazaiscatastrophicwhileaddressingmacklem",
-   "title": "Ed Sheeran Says “What Is Happening in Gaza Is Catastrophic” While Addressing Macklemore Backlash During Philadelphia Tour Stop",
-   "summary": "\"What happened in Israel and at the Nova Music Festival on October 7th was horrific and compounded centuries of Jewish pain. What is happening in Gaza is catastrophic and unjustifiable, and disproportionate,\" Sheeran said during the first concert he played following Macklemore’s removal as an opener for...",
-   "link": "https://www.hollywoodreporter.com/music/music-news/ed-sheeran-macklemore-controversy-palestine-protests-concert-1236706177/",
-   "outlet": "Hollywood Reporter",
-   "feed_region": "americas",
-   "published": "2026-09-20T01:57:25+01:00"
-  },
-  {
-   "key": "edsheeranaddressesmacklemorebacklashduringphiladelphiatourstopthiswasn",
-   "title": "Ed Sheeran Addresses Macklemore Backlash During Philadelphia Tour Stop: “This Wasn’t The Easy Option”",
-   "summary": "\"What happened in Israel and at the Nova Music Festival on October 7th was horrific and compounded centuries of Jewish pain. What is happening in Gaza is catastrophic and unjustifiable, and disproportionate,\" Sheeran said during the first concert he played following Macklemore’s removal as an opener for...",
-   "link": "https://www.hollywoodreporter.com/music/music-news/ed-sheeran-macklemore-controversy-palestine-protests-concert-1236706177/",
-   "outlet": "Hollywood Reporter",
-   "feed_region": "americas",
-   "published": "2026-09-20T01:57:25+01:00"
-  },
-  {
-   "key": "rideordiecanceledbyprimevideoafteroneseason",
-   "title": "‘Ride or Die’ Canceled by Prime Video After One Season",
-   "summary": "“Ride or Die” has been canceled by Prime Video after one season, Variety can confirm. The streamer’s Hannah Waddingham and Octavia Spencer-led buddy dramedy premiered in July of this year. It was first reported that Spencer and Waddingham were teaming up for the series in December 2023. Per the show’s official...",
-   "link": "https://variety.com/2026/tv/news/ride-or-die-canceled-prime-video-1236869768/",
-   "outlet": "Variety",
-   "feed_region": "americas",
-   "published": "2026-09-20T01:55:07+01:00"
-  },
-  {
-   "key": "howlongcanyouexpectyouroldcassettetapestolast",
-   "title": "How long can you expect your old cassette tapes to last?",
-   "summary": "Controlling the environmental conditions where your tapes are stored is key to their longevity.",
-   "link": "https://www.engadget.com/2259220/how-long-old-cassette-tapes-last-lifespan/",
-   "outlet": "Engadget",
-   "feed_region": "global",
-   "published": "2026-09-20T01:30:00+01:00"
-  },
-  {
-   "key": "edsheeranaddressesmacklemorecontroversywhileonstageatfirstconcertsince",
-   "title": "Ed Sheeran Addresses Macklemore Controversy While on Stage at First Concert Since Rapper Dropped From Tour: ‘What Is Happening in Gaza Is Catastrophic and Unjustifiable’",
-   "summary": "Ed Sheeran addressed the controversy surrounding Macklemore’s removal from his Loop Tour on Saturday night, speaking from the stage at Philadelphia’s Lincoln Financial Field during his first concert since the rapper was dropped from the trek. “Before I play some songs tonight, I hope it’s okay if I say a few words...",
-   "link": "https://variety.com/2026/music/news/ed-sheeran-addresses-macklemore-on-stage-philadelphia-show-1236869614/",
-   "outlet": "Variety",
-   "feed_region": "americas",
-   "published": "2026-09-20T01:29:07+01:00"
-  },
-  {
-   "key": "hannahwaddinghamandoctaviaspencersrideordiecanceledatprimevideoafteron",
-   "title": "Hannah Waddingham and Octavia Spencer’s ‘Ride or Die’ Canceled at Prime Video After One Season",
-   "summary": "The action adventure series is reportedly being shopped to other services by Paramount Television The post Hannah Waddingham and Octavia Spencer’s ‘Ride or Die’ Canceled at Prime Video After One Season appeared first on TheWrap .",
-   "link": "https://www.thewrap.com/creative-content/tv-shows/ride-or-die-canceled-amazon-prime-video/",
-   "outlet": "The Wrap",
-   "feed_region": "americas",
-   "published": "2026-09-20T01:17:33+01:00"
-  },
-  {
-   "key": "howtorecordaudioonyouriphone",
-   "title": "How to record audio on your iPhone",
-   "summary": "You don't need to record unnecessary video to capture a meeting, song or personal memo on your iPhone. Recording audio is simple.",
-   "link": "https://www.engadget.com/2259179/how-to-record-audio-iphone/",
-   "outlet": "Engadget",
-   "feed_region": "global",
-   "published": "2026-09-20T01:00:00+01:00"
-  },
-  {
-   "key": "whatisthedifferencebetweenapplecarplayandcarplayultra",
-   "title": "What is the difference between Apple CarPlay and CarPlay Ultra?",
-   "summary": "CarPlay provides a great iOS-like experience in your vehicle. CarPlay Ultra expands that, but isn't widely available yet.",
-   "link": "https://www.engadget.com/2259087/apple-carplay-vs-ultra-differences-explained/",
-   "outlet": "Engadget",
-   "feed_region": "global",
-   "published": "2026-09-20T00:30:00+01:00"
-  },
-  {
-   "key": "melissabarrerasaysitsbeautifultoseemacklemorereceivesupportafteredshee",
-   "title": "Melissa Barrera Says It’s “Beautiful” to See Macklemore Receive Support After Ed Sheeran Tour Firing: “I Didn’t Get That When It Happened to Me”",
-   "summary": "The actress was fired from the 'Scream' franchise in 2023 after sharing her support for Palestine.",
-   "link": "https://www.hollywoodreporter.com/music/music-news/melissa-barrera-macklemore-palestine-ed-sheeran-1236706164/",
-   "outlet": "Hollywood Reporter",
-   "feed_region": "americas",
-   "published": "2026-09-20T00:24:51+01:00"
-  },
-  {
-   "key": "rubyroseremembersbestfriendhaydenpanettiereallthatsheeverwantedwastoha",
-   "title": "Ruby Rose Remembers ‘Best Friend’ Hayden Panettiere: ‘All That She Ever Wanted Was to Have Her Story Told’",
-   "summary": "Ruby Rose got emotional when asked about her friend, Hayden Panettiere, who died Aug. 16 at 36. Rose told Entertainment Tonight that Panettiere was her “best friend” and that they “spoke every day for five years.” “I didn’t even think we were going to be friends,” Rose said, tearing up. “I didn’t know if I […]",
-   "link": "https://variety.com/2026/film/news/ruby-rose-remembers-hayden-panettiere-1236869723/",
-   "outlet": "Variety",
-   "feed_region": "americas",
-   "published": "2026-09-20T00:21:53+01:00"
-  },
-  {
-   "key": "notallaiworkersthinkthetechcouldkilleveryone",
-   "title": "Not all AI workers think the tech could kill everyone",
-   "summary": "In text exchanges and conversations, multiple people who have worked for leading companies are sceptical of the warnings.",
-   "link": "https://www.bbc.co.uk/news/articles/cm5y7qj54klpo?at_medium=RSS&at_campaign=rss",
-   "outlet": "BBC Technology",
-   "feed_region": "uk",
-   "published": "2026-09-20T00:01:57+01:00"
-  },
-  {
-   "key": "protestorsmarchoutsideedsheeranconcertaftermacklemorewasdroppedfromtou",
-   "title": "Protestors March Outside Ed Sheeran Concert After Macklemore Was Dropped From Tour: ‘It’s Not Going to Stop Until Palestine is Free’",
-   "summary": "Pro-Palestinian protesters gathered outside Ed Sheeran’s concert at Philadelphia’s Lincoln Financial Field on Saturday night as the singer returned to the stage for the first time since Macklemore was dropped from his Loop Tour following his onstage remarks in support of Palestine. For attendee Jodi Rhoden, an...",
-   "link": "https://variety.com/2026/music/news/palestine-protestors-ed-sheeran-concert-macklemore-1236869617/",
-   "outlet": "Variety",
-   "feed_region": "americas",
-   "published": "2026-09-20T00:01:02+01:00"
-  },
-  {
-   "key": "theprosandconsofusingwiredvswirelessxboxcontrollers",
-   "title": "The pros and cons of using wired vs. wireless Xbox controllers",
-   "summary": "A wireless Xbox controller lets you move around freely, but you have to worry about batteries. Wired controllers can pose a hazard, but never run out of charge.",
-   "link": "https://www.engadget.com/2258987/wired-vs-wireless-xbox-controllers-pros-cons/",
-   "outlet": "Engadget",
-   "feed_region": "global",
-   "published": "2026-09-20T00:00:00+01:00"
-  },
-  {
-   "key": "markruffalourgescaliforniaagrobbontatorejectparamountsettlementthepeop",
-   "title": "Mark Ruffalo Urges California AG Rob Bonta to Reject Paramount Settlement: ‘The People Don’t Want It!’",
-   "summary": "The actor calls upon Bay Area friends to demonstrate outside the AG office in Oakland The post Mark Ruffalo Urges California AG Rob Bonta to Reject Paramount Settlement: ‘The People Don’t Want It!’ appeared first on TheWrap .",
-   "link": "https://www.thewrap.com/industry-news/deals-ma/mark-ruffalo-slams-paramount-settlement-talks/",
-   "outlet": "The Wrap",
-   "feed_region": "americas",
-   "published": "2026-09-19T23:56:40+01:00"
   }
  ]
 }
