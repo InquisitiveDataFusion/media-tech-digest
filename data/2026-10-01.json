@@ -1,0 +1,540 @@
+{
+  "schema": 1,
+  "iso": "2026-10-01",
+  "headline": "Paramount and Warner Bros Discovery merger set to close next week",
+  "date_line": "Thursday 01 October 2026 · covering Mon 28 Sep to Wed 30 Sep",
+  "footer_note": "Built from 32 cited articles across 11 outlets. Written by gemini-3-flash-preview, gemini-3.1-flash-lite, gemini-3.5-flash.",
+  "model": "gemini-3-flash-preview, gemini-3.1-flash-lite, gemini-3.5-flash",
+  "backfilled": false,
+  "generated_at": "2026-10-01T08:12:33+01:00",
+  "digest": {
+    "headline": "Paramount and Warner Bros Discovery merger set to close next week",
+    "lead": "A federal judge has cleared the final hurdle for the 110 billion dollar merger between Paramount and Warner Bros Discovery in North America. Meanwhile, BBC Studios has expanded its UK scripted portfolio with new regional labels as Channel 4 rejects a potential merger with the public broadcaster.",
+    "glance": [
+      {
+        "text": "BBC Studios is launching Landed Productions, a Bristol-based scripted label led by Jenny van der Lande.",
+        "section": "deals",
+        "refs": [
+          1
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "Channel 4 CEO Priya Dogra has rejected suggestions of a merger with the BBC, calling it a takeover.",
+        "section": "deals",
+        "refs": [
+          2
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "Ofcom has ordered Openreach to withdraw its Incremental New to Openreach FTTH discount offer to protect competition.",
+        "section": "regulation",
+        "refs": [
+          3,
+          4
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "Sky UK and SES have extended their satellite direct-to-home partnership into the next decade.",
+        "section": "tech",
+        "refs": [
+          5
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "Hearst Networks has rebranded its Sky History2 linear channel as MysteryX in the UK and Ireland.",
+        "section": "audience",
+        "refs": [
+          6,
+          7
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "Ofcom research shows that monthly podcast listening in the UK has more than doubled since 2019.",
+        "section": "audience",
+        "refs": [
+          8
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "Angela Scanlon is set to join BBC Radio 2 to present the weekday Drivetime show.",
+        "section": "radio",
+        "refs": [
+          9
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "Paramount and Warner Bros Discovery will merge on 6 October after a judge approved a settlement with 12 state attorneys general.",
+        "section": "deals",
+        "refs": [
+          10,
+          11,
+          12,
+          13
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "The Federal Trade Commission has opened an investigation into whether AI labs Anthropic and OpenAI misled the public about technology dangers.",
+        "section": "regulation",
+        "refs": [
+          14
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "The 2026 MTV Video Music Awards attracted 8.4 million viewers across CBS and MTV, the highest audience for the event since 2015.",
+        "section": "audience",
+        "refs": [
+          15,
+          16
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "Bell Media has launched an AI video ad creation tool specifically designed for small and medium-sized businesses in Canada.",
+        "section": "tech",
+        "refs": [
+          17
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "The CRTC is establishing a joint working group to co-develop a new Indigenous Broadcasting Policy in Canada.",
+        "section": "regulation",
+        "refs": [
+          18,
+          19
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "YouTube and Meta have reversed their decision to block trailer advertisements for the upcoming film Musk.",
+        "section": "tech",
+        "refs": [
+          20
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "CBC and the Professional Women's Hockey League will bring Hockey Night in Canada back for its 90th season this December.",
+        "section": "audience",
+        "refs": [
+          21,
+          22
+        ],
+        "region": "americas"
+      }
+    ],
+    "sections": [
+      {
+        "id": "deals",
+        "paragraphs": [
+          "BBC Studios is expanding its scripted production footprint with two new dedicated labels. Landed Productions will be based in Bristol to focus on drama development, while a second new label led by Deborah Sathe will focus on crime, mystery and thriller stories for UK and international markets.",
+          "The commercial arm of the BBC is also expanding its international reach. It has established a local production base and a dedicated development team in the Benelux region to drive the next phase of its global growth.",
+          "Meanwhile, Channel 4 chief executive Priya Dogra has dismissed any possibility of a merger with the BBC. Dogra stated that such a move would not be a merger of equals but would effectively amount to a BBC takeover."
+        ],
+        "region": "uk"
+      },
+      {
+        "id": "regulation",
+        "paragraphs": [
+          "Media regulator Ofcom has intervened in the broadband market by ordering Openreach to withdraw its wholesale fibre discount offer. The regulator ruled that the Incremental New to Openreach deal was unfair and could harm competition among network builders.",
+          "A parliamentary committee has also put forward proposals for the upcoming BBC Charter Review. MPs recommended that the public broadcaster must explore new revenue streams and spend more wisely when competing for programming."
+        ],
+        "region": "uk"
+      },
+      {
+        "id": "audience",
+        "paragraphs": [
+          "The second season of BBC detective drama Ludwig has secured the biggest scripted launch of the year. The first episode attracted 9.1 million viewers over a 28-day period across television and streaming.",
+          "ITV is also seeing strong digital engagement with the latest series of Big Brother. The reality show has accumulated 12.7 million streams on ITVX, representing a 50 per cent increase on the same period last year."
+        ],
+        "region": "uk"
+      },
+      {
+        "id": "deals",
+        "paragraphs": [
+          "U.S. District Judge Araceli Martinez Olguin has approved the settlement between Paramount and 12 state attorneys general. This decision removes the final legal barrier to the 110 billion dollar acquisition of Warner Bros Discovery. Paramount is pushing a 44 billion dollar debt offering to finance the takeover.",
+          "The merger has faced criticism from Senator Corey Booker and actor Mark Ruffalo. Ruffalo argued the deal will stifle creativity and weaken free speech. Paramount legal chief Makan Delrahim dismissed concerns regarding the future independence of CNN under the new ownership."
+        ],
+        "region": "americas"
+      },
+      {
+        "id": "tech",
+        "paragraphs": [
+          "OpenAI is developing features to turn ChatGPT into a platform where users can discover and use software directly. This move aims to challenge the traditional app store model. The company is also working privately with Nvidia on agent safety despite being absent from a public industry effort.",
+          "Amazon Ads used its unBoxed conference to introduce new programmatic capabilities. These tools use AI to help advertisers manage full funnel campaigns with more transparency. Meanwhile, Acast has partnered with Roku to offer cross platform podcast advertising to Canadian viewers."
+        ],
+        "region": "americas"
+      },
+      {
+        "id": "regulation",
+        "paragraphs": [
+          "The FTC is using its consumer protection powers to examine AI labs OpenAI and Anthropic. Investigators want to know if these companies have been transparent about the risks of their technology. This follows growing federal scrutiny of the artificial intelligence sector.",
+          "Senator Ron Wyden has raised concerns about the legality of an all Republican FCC panel. He asked Commissioner Anna Gomez for a legal opinion on whether the agency can operate without Democratic representation. This comes as speculation grows regarding potential leadership changes at the regulator."
+        ],
+        "region": "americas"
+      }
+    ],
+    "people_moves": [
+      {
+        "text": "Jenny van der Lande, creative director, Landed Productions",
+        "refs": [
+          1
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "Deborah Sathe, lead of new scripted drama label, BBC Studios",
+        "refs": [
+          23
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "Guto Rhun, Digital Content Commissioner, S4C",
+        "refs": [
+          24
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "Angela Scanlon, weekday Drivetime presenter, BBC Radio 2",
+        "refs": [
+          9
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "Ben Earle, Thursday Country Show presenter, BBC Radio 2",
+        "refs": [
+          9
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "Ynon Kreiz, Co-CEO, merged Paramount and Warner Bros Discovery",
+        "refs": [
+          10
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "Casey Bloys, Head of Paramount-Warner streaming business",
+        "refs": [
+          25,
+          26
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "Cindy Holland, Head of Streaming, Paramount (departing)",
+        "refs": [
+          25,
+          26
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "Nadine Zylstra, Chief Content Officer, NPR",
+        "refs": [
+          27
+        ],
+        "region": "americas"
+      }
+    ],
+    "coming_up": [
+      {
+        "date": "01 Nov 2026",
+        "text": "Angela Scanlon joins the BBC Radio 2 weekday Drivetime show",
+        "refs": [
+          9
+        ],
+        "region": "uk"
+      },
+      {
+        "date": "01 Oct",
+        "text": "Fox News Media launches new original podcast series The Girls",
+        "refs": [
+          28
+        ],
+        "region": "americas"
+      },
+      {
+        "date": "03 Oct",
+        "text": "West Tennessee PBS begins airing weekly professional wrestling",
+        "refs": [
+          29
+        ],
+        "region": "americas"
+      },
+      {
+        "date": "06 Oct",
+        "text": "Tentative closing date for the Paramount and Warner Bros Discovery merger",
+        "refs": [
+          10,
+          12,
+          13
+        ],
+        "region": "americas"
+      },
+      {
+        "date": "08 Oct",
+        "text": "NewsNation simulcasts Nexstar Media Group Michigan Senate debate",
+        "refs": [
+          30
+        ],
+        "region": "americas"
+      },
+      {
+        "date": "08 Oct",
+        "text": "CNN launches new streaming series Body Language on All Access",
+        "refs": [
+          31
+        ],
+        "region": "americas"
+      },
+      {
+        "date": "09 Oct",
+        "text": "Oasis documentary Don't Look Back in Anger premieres on Disney+ and Hulu",
+        "refs": [
+          32
+        ],
+        "region": "americas"
+      }
+    ]
+  },
+  "articles": [
+    {
+      "ref": 1,
+      "title": "BBC Studios expands scripted portfolio with Bristol-based label led by Jenny van der Lande",
+      "link": "https://www.c21media.net/news/bbc-studios-expands-scripted-portfolio-with-bristol-based-label-led-by-jenny-van-der-lande/",
+      "outlet": "C21Media",
+      "region": "uk"
+    },
+    {
+      "ref": 2,
+      "title": "C4 won’t merge with BBC but open to collaborate on streamer, says Dogra",
+      "link": "https://www.c21media.net/news/c4-wont-merge-with-bbc-but-open-to-collaborate-on-streamer-says-dogra/",
+      "outlet": "C21Media",
+      "region": "uk"
+    },
+    {
+      "ref": 3,
+      "title": "Ofcom bans Openreach FTTH deal",
+      "link": "https://www.advanced-television.com/2026/09/28/ofcom-bans-openreach-ftth-deal/",
+      "outlet": "Advanced Television",
+      "region": "uk"
+    },
+    {
+      "ref": 4,
+      "title": "Ofcom orders Openreach to withdraw FTTP discount offer",
+      "link": "https://www.broadbandtvnews.com/2026/09/28/ofcom-orders-openreach-to-withdraw-fttp-discount-offer/",
+      "outlet": "Broadband TV News",
+      "region": "uk"
+    },
+    {
+      "ref": 5,
+      "title": "Sky UK and SES extend DTH partnership into next decade",
+      "link": "https://www.tvbeurope.com/media-delivery/sky-uk-and-ses-extend-dth-partnership-into-next-decade",
+      "outlet": "TVBEurope",
+      "region": "uk"
+    },
+    {
+      "ref": 6,
+      "title": "Hearst Networks rebrands Sky History2 as MysteryX",
+      "link": "https://www.advanced-television.com/2026/09/30/hearst-networks-rebrands-sky-history2-as-mysteryx/",
+      "outlet": "Advanced Television",
+      "region": "uk"
+    },
+    {
+      "ref": 7,
+      "title": "Hearst Networks replaces Sky HISTORY2 with MysteryX",
+      "link": "https://www.broadbandtvnews.com/2026/09/30/hearst-networks-replaces-sky-history2-with-mysteryx/",
+      "outlet": "Broadband TV News",
+      "region": "uk"
+    },
+    {
+      "ref": 8,
+      "title": "Ofcom: Podcast listening more than doubled since 2019",
+      "link": "https://www.advanced-television.com/2026/10/01/ofcom-podcast-listening-more-than-doubled-since-2019/",
+      "outlet": "Advanced Television",
+      "region": "uk"
+    },
+    {
+      "ref": 9,
+      "title": "Angela Scanlon gets BBC Radio 2 Drive",
+      "link": "https://radiotoday.co.uk/2026/09/angela-scanlon-gets-bbc-radio-2-drive/",
+      "outlet": "RadioToday",
+      "region": "uk"
+    },
+    {
+      "ref": 10,
+      "title": "David Ellison Taps Mattel’s Ynon Kreiz to Be Co-CEO of Merged Paramount-Warner Bros.",
+      "link": "https://variety.com/2026/film/news/paramount-david-ellison-ynon-kreiz-co-ceo-mattel-1236893607/",
+      "outlet": "Variety",
+      "region": "americas"
+    },
+    {
+      "ref": 11,
+      "title": "Judge Approves Paramount-Warner Bros. Merger Settlement",
+      "link": "https://www.thewrap.com/industry-news/business/judge-approves-paramount-warner-bros-merger-settlement/",
+      "outlet": "The Wrap",
+      "region": "americas"
+    },
+    {
+      "ref": 12,
+      "title": "Paramount-Warner Bros. Merger Set to Close Next Week After Judge OKs Settlement With State AGs",
+      "link": "https://variety.com/2026/film/news/paramount-warner-bros-merger-judge-approves-settlement-ags-1236893467/",
+      "outlet": "Variety",
+      "region": "americas"
+    },
+    {
+      "ref": 13,
+      "title": "Paramount-WB Merger Set to Close Next Week After Judge OKs Settlement With State AGs",
+      "link": "https://tvnewscheck.com/business/article/paramount-wb-merger-set-to-close-next-week-after-judge-oks-settlement-with-state-ags/",
+      "outlet": "TVNewsCheck",
+      "region": "americas"
+    },
+    {
+      "ref": 14,
+      "title": "FTC Opens Investigation Of Anthropic & OpenAI",
+      "link": "https://tvnewscheck.com/ai/article/ftc-opens-investigation-of-anthropic-openai/",
+      "outlet": "TVNewsCheck",
+      "region": "americas"
+    },
+    {
+      "ref": 15,
+      "title": "CBS and MTV VMAs Attract a Combined 8.4 Million Viewers, Making it the Most-Watched Since 2015 and Up 51% From Last Year",
+      "link": "https://variety.com/2026/tv/news/vma-ratings-cbs-mtv-most-watched-since-2015-up-last-year-1236877733/",
+      "outlet": "Variety",
+      "region": "americas"
+    },
+    {
+      "ref": 16,
+      "title": "VMAs 2026 Tally Biggest Audience Since 2015 With 8.4 Million Viewers on CBS and MTV",
+      "link": "https://www.thewrap.com/creative-content/tv-shows/vmas-2026-ratings-viewership-cbs-mtv/",
+      "outlet": "The Wrap",
+      "region": "americas"
+    },
+    {
+      "ref": 17,
+      "title": "Bell Media launches AI video ad creation tool for SMBs",
+      "link": "https://cartt.ca/bell-media-launches-ai-video-ad-creation-tool-for-smbs/",
+      "outlet": "Cartt.ca",
+      "region": "americas"
+    },
+    {
+      "ref": 18,
+      "title": "CRTC issues call for working group participants for co-development of indigenous broadcasting policy",
+      "link": "https://cartt.ca/crtc-issues-call-for-working-group-participants-for-co-development-of-indigenous-broadcasting-policy/",
+      "outlet": "Cartt.ca",
+      "region": "americas"
+    },
+    {
+      "ref": 19,
+      "title": "CRTC invites Indigenous representation for new broadcasting policy working group",
+      "link": "https://broadcastdialogue.com/crtc-invites-indigenous-representation-for-new-broadcasting-policy-working-group/",
+      "outlet": "Broadcast Dialogue",
+      "region": "americas"
+    },
+    {
+      "ref": 20,
+      "title": "YouTube & Meta Reverse Course, Will Accept ‘Musk’ Trailer Ad",
+      "link": "https://tvnewscheck.com/business/article/youtube-meta-reverse-course-will-accept-musk-trailer-ad/",
+      "outlet": "TVNewsCheck",
+      "region": "americas"
+    },
+    {
+      "ref": 21,
+      "title": "CBC’s ‘Hockey Night in Canada’ returning in December with PWHL games",
+      "link": "https://cartt.ca/cbcs-hockey-night-in-canada-returning-in-december-with-pwhl-games/",
+      "outlet": "Cartt.ca",
+      "region": "americas"
+    },
+    {
+      "ref": 22,
+      "title": "CBC, PWHL Bring ‘Hockey Night In Canada’ Back",
+      "link": "https://tvnewscheck.com/programming/article/cbc-pwhl-bring-hockey-night-in-canada-back/",
+      "outlet": "TVNewsCheck",
+      "region": "americas"
+    },
+    {
+      "ref": 23,
+      "title": "BBC Studios launches scripted label for crime, mystery, thriller and precinct-based storytelling",
+      "link": "https://www.c21media.net/news/bbc-studios-launches-scripted-label-for-crime-mystery-thriller-and-precinct-based-storytelling/",
+      "outlet": "C21Media",
+      "region": "uk"
+    },
+    {
+      "ref": 24,
+      "title": "Rhun appointed S4C’s Digital Content Commissioner",
+      "link": "https://www.advanced-television.com/2026/09/29/rhun-appointed-s4cs-digital-content-commissioner/",
+      "outlet": "Advanced Television",
+      "region": "uk"
+    },
+    {
+      "ref": 25,
+      "title": "Ellison Picks HBO Content Chief To Run Paramount-Warner Streaming Business",
+      "link": "https://tvnewscheck.com/business/article/ellison-picks-hbo-content-chief-to-run-paramount-warner-streaming-business/",
+      "outlet": "TVNewsCheck",
+      "region": "americas"
+    },
+    {
+      "ref": 26,
+      "title": "Cindy Holland to Exit Paramount as Warner Bros. Discovery Deal Looms",
+      "link": "https://www.hollywoodreporter.com/business/business-news/cindy-holland-exit-paramount-casey-bloys-hbo-max-1236716640/",
+      "outlet": "Hollywood Reporter",
+      "region": "americas"
+    },
+    {
+      "ref": 27,
+      "title": "NPR, The Quintessential Audio News Brand, Adapts To A Video-First Future",
+      "link": "https://tvnewscheck.com/programming/article/npr-the-quintessential-audio-news-brand-adapts-to-a-video-first-future/",
+      "outlet": "TVNewsCheck",
+      "region": "americas"
+    },
+    {
+      "ref": 28,
+      "title": "Fox News Media Adds New Podcast ‘The Girls’",
+      "link": "https://tvnewscheck.com/journalism/article/fox-news-media-adds-new-podcast-the-girls/",
+      "outlet": "TVNewsCheck",
+      "region": "americas"
+    },
+    {
+      "ref": 29,
+      "title": "West Tenn. PBS To Air Weekly EPW Wrestling Program",
+      "link": "https://tvnewscheck.com/programming/article/west-tenn-pbs-to-air-weekly-epw-wrestling-program/",
+      "outlet": "TVNewsCheck",
+      "region": "americas"
+    },
+    {
+      "ref": 30,
+      "title": "NewsNation To Simulcast Nexstar Media Group’s ‘Debate Week In Michigan’ On Oct. 8",
+      "link": "https://tvnewscheck.com/journalism/article/newsnation-to-simulcast-nexstar-media-groups-debate-week-in-michigan-on-oct-8/",
+      "outlet": "TVNewsCheck",
+      "region": "americas"
+    },
+    {
+      "ref": 31,
+      "title": "CNN’s Pamela Brown Launches New Streaming Series, ‘Body Language’",
+      "link": "https://variety.com/2026/tv/news/cnn-pamela-brown-body-language-streaming-launch-1236878708/",
+      "outlet": "Variety",
+      "region": "americas"
+    },
+    {
+      "ref": 32,
+      "title": "Oasis Documentary ‘Don’t Look Back in Anger’ Sets Hulu, Disney+ Streaming Release Date",
+      "link": "https://variety.com/2026/film/global/oasis-documentary-disney-plus-date-streaming-how-to-watch-1236877295/",
+      "outlet": "Variety",
+      "region": "americas"
+    }
+  ]
+}
