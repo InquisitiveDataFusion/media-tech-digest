@@ -1,0 +1,487 @@
+{
+  "schema": 1,
+  "iso": "2026-10-05",
+  "headline": "BBC faces deep cuts and funding overhaul calls as staff morale plummets",
+  "date_line": "Monday 05 October 2026 · covering Thu 01 Oct to Sun 04 Oct",
+  "footer_note": "Built from 30 cited articles across 11 outlets. Written by gemini-3.5-flash.",
+  "model": "gemini-3.5-flash",
+  "backfilled": false,
+  "generated_at": "2026-10-05T08:03:20+01:00",
+  "digest": {
+    "headline": "BBC faces deep cuts and funding overhaul calls as staff morale plummets",
+    "lead": "The BBC is facing intense pressure as MPs demand a fundamental funding overhaul, while staff fear imminent channel closures amidst a gradual redundancy process designed to shed up to 2,000 jobs.",
+    "glance": [
+      {
+        "text": "MPs have called for an urgent overhaul of the BBC licence fee to reflect modern media consumption and avoid managed decline.",
+        "section": "regulation",
+        "refs": [
+          1,
+          2
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "BBC staff fear that the broadcaster will shut down BBC Three and BBC Scotland as part of a major cost-cutting drive.",
+        "section": "audience",
+        "refs": [
+          3,
+          4
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "Vodafone has launched its new TV service in the UK, combining Freely, streaming apps, and cloud gaming.",
+        "section": "tech",
+        "refs": [
+          5,
+          6
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "ITV has secured a content partnership with Warner Bros Discovery to bring over 2,000 hours of programming to ITVX.",
+        "section": "deals",
+        "refs": [
+          7,
+          8,
+          9
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "West Ham co-owner David Sullivan is suing the BBC for 150 million pounds over sexual misconduct claims made in a Panorama documentary.",
+        "section": "regulation",
+        "refs": [
+          10
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "Five B Corp businesses are set to make their television advertising debut on Channel 4 following an ad-break takeover competition.",
+        "section": "deals",
+        "refs": [
+          11,
+          12
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "Paramount and Warner Bros. Discovery will rename their combined company Skydance when their merger closes on 6 October.",
+        "section": "deals",
+        "refs": [
+          13,
+          14,
+          15
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "Wall Street banks have completed a 52 billion dollar debt sale to fund the 110 billion dollar Skydance merger.",
+        "section": "deals",
+        "refs": [
+          16
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "Disney and Netflix have signed an expansive licensing deal to bring several Disney library and current-season shows to Netflix.",
+        "section": "audience",
+        "refs": [
+          17,
+          18
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "OpenAI has launched a new artificial intelligence agent called Dots to compete with Meta.",
+        "section": "tech",
+        "refs": [
+          19
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "The Federal Communications Commission has rolled back environmental reviews to accelerate wireless network deployments.",
+        "section": "regulation",
+        "refs": [
+          20
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "Peacock has greenlit a scripted television series based on the Fast and Furious franchise, aiming for a 2028 premiere.",
+        "section": "audience",
+        "refs": [
+          21
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "Nexstar Media Group and DAZN have agreed to broadcast and stream 15 Indiana Pacers basketball games in Indiana.",
+        "section": "audience",
+        "refs": [
+          22
+        ],
+        "region": "americas"
+      }
+    ],
+    "sections": [
+      {
+        "id": "regulation",
+        "paragraphs": [
+          "The Digital, Culture, Media and Sport Committee has warned that the BBC risks a future of managed decline without a fundamental funding overhaul. MPs argued that the licence fee should no longer be linked to owning a television set, suggesting the government look at a household levy instead.",
+          "Meanwhile, West Ham co-owner David Sullivan has launched a 150 million pound High Court lawsuit against the BBC. The legal action follows a Panorama documentary that featured several women accusing him of abusing his power."
+        ],
+        "region": "uk"
+      },
+      {
+        "id": "audience",
+        "paragraphs": [
+          "Morale at the BBC has been severely damaged by a gradual redundancy process that will see up to 2,000 jobs cut. Staff are increasingly concerned that the corporation will announce the closure of BBC Three and BBC Scotland next week to help meet a 500 million pound savings target.",
+          "The potential closures would see BBC Three return to an online-only format. The channel, which is the home of hit shows like Gavin and Stacey and Fleabag, has suffered from poor broadcast ratings since its return to linear television."
+        ],
+        "region": "uk"
+      },
+      {
+        "id": "deals",
+        "paragraphs": [
+          "ITV has struck a major content deal with Warner Bros Discovery to bring more than 2,000 hours of TLC and Quest programming to ITVX. The content will be available to UK viewers over the next 12 months through dedicated branded collections on the streaming platform.",
+          "ITV has also acquired the AMC original crime drama Parish for its streaming service. The six-part series, starring Giancarlo Esposito, is scheduled to premiere on ITVX on 1 November."
+        ],
+        "region": "uk"
+      },
+      {
+        "id": "tech",
+        "paragraphs": [
+          "Vodafone has officially launched its new television service in the UK. The service is delivered via a 4K Android TV set-top box and integrates the new free-to-air streaming platform Freely alongside subscription apps like Netflix and HBO Max.",
+          "Separately, Comcast has made cuts to its streaming technology teams ahead of its planned acquisition of ITV. While most of the job losses are at Sky, some US-based NBCUniversal employees are also affected."
+        ],
+        "region": "uk"
+      },
+      {
+        "id": "radio",
+        "paragraphs": [
+          "Derren Brown is set to present a new ten-part series for BBC Radio 4 and BBC Sounds. The series will explore the life, publicity, and reinvention of the famous illusionist Harry Houdini.",
+          "In the independent sector, Angel Radio is expanding its DAB footprint to 21 new locations. The expansion was made possible after two listeners left money to the station in their wills."
+        ],
+        "region": "uk"
+      },
+      {
+        "id": "deals",
+        "paragraphs": [
+          "Paramount and Warner Bros. Discovery will rename their combined business Skydance when their 110 billion dollar merger closes. Wall Street banks have completed a 52 billion dollar debt sale to support the transaction. Former Mattel chief Ynon Kreiz will serve as co-CEO with a 5 million dollar base salary.",
+          "The new leadership structure places Warner Bros. TV, CBS Studios, and Paramount Television Studios under George Cheeks. Channing Dungey will take over the Paramount cable networks, while Casey Bloys is expected to manage the streaming portfolio. However, film chiefs Michael De Luca and Pamela Abdy will depart the company."
+        ],
+        "region": "americas"
+      },
+      {
+        "id": "tech",
+        "paragraphs": [
+          "OpenAI has introduced Dots, a new artificial intelligence agent powered by its GPT-6 Astra model. The launch directly targets Meta, whose Muse platform has enjoyed early success. Publishers are also pushing for transparency, introducing the SPUR standard to track how AI models use their content.",
+          "Amazon Web Services chief Matt Garman has defended the company's data center expansion against local environmental backlash. Amazon has ended its use of non-disclosure agreements but warned that blocking data centers could harm national security. Meanwhile, the Federal Communications Commission has eased environmental reviews to speed up wireless rollouts."
+        ],
+        "region": "americas"
+      },
+      {
+        "id": "audience",
+        "paragraphs": [
+          "Disney and Netflix have agreed a major licensing deal to bring library titles and current-season television shows to Netflix. The agreement includes series such as Percy Jackson, Will Trent, and Shifting Gears. In a separate executive move, Disney communications executive Naomi Bulochnikov-Paul has joined Netflix.",
+          "Peacock has greenlit a scripted television series based on the Fast and Furious franchise, targeting a 2028 premiere. The streaming service is also bringing back its free trial offer, though it will not be available directly on the platform. Additionally, Nexstar and DAZN will broadcast 15 Indiana Pacers games."
+        ],
+        "region": "americas"
+      }
+    ],
+    "people_moves": [
+      {
+        "text": "Nick Curwin, co-founder and chair, Matisse, is to retire at the end of 2026.",
+        "refs": [
+          23
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "Ynon Kreiz, Co-CEO, Skydance",
+        "refs": [
+          24
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "Naomi Bulochnikov-Paul, VP of series communications, Netflix",
+        "refs": [
+          25
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "George Cheeks, leader of combined TV studios, Skydance",
+        "refs": [
+          26,
+          27
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "Channing Dungey, head of cable networks, Skydance",
+        "refs": [
+          28
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "Michael De Luca, departing chief, Warner Bros.",
+        "refs": [
+          29
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "Pamela Abdy, departing chief, Warner Bros.",
+        "refs": [
+          29
+        ],
+        "region": "americas"
+      }
+    ],
+    "coming_up": [
+      {
+        "date": "04 Oct 2026",
+        "text": "Five B Corp businesses make their TV advertising debut on Channel 4.",
+        "refs": [
+          11
+        ],
+        "region": "uk"
+      },
+      {
+        "date": "01 Nov 2026",
+        "text": "AMC original drama Parish premieres on ITVX.",
+        "refs": [
+          30
+        ],
+        "region": "uk"
+      },
+      {
+        "date": "06 Oct 2026",
+        "text": "The merger between Paramount and Warner Bros. Discovery is scheduled to close",
+        "refs": [
+          26,
+          16,
+          15
+        ],
+        "region": "americas"
+      }
+    ]
+  },
+  "articles": [
+    {
+      "ref": 1,
+      "title": "MPs call for BBC funding overhaul to avoid ‘managed decline’",
+      "link": "https://www.broadbandtvnews.com/2026/10/01/mps-call-for-bbc-funding-overhaul-to-avoid-managed-decline/",
+      "outlet": "Broadband TV News",
+      "region": "uk"
+    },
+    {
+      "ref": 2,
+      "title": "MPs call for licence fee reform to ‘reflect modern media consumption’",
+      "link": "https://www.tvbeurope.com/business/mps-call-for-licence-fee-reform-to-reflect-modern-media-consumption",
+      "outlet": "TVBEurope",
+      "region": "uk"
+    },
+    {
+      "ref": 3,
+      "title": "Staff fears grow that BBC will shut its Three and Scotland channels next week",
+      "link": "https://www.theguardian.com/media/2026/oct/02/bbc-shut-three-scotland-channels-redundancy",
+      "outlet": "Guardian Media",
+      "region": "uk"
+    },
+    {
+      "ref": 4,
+      "title": "BBC morale dented by gradual ‘bloodletting’ after weeks of job cuts",
+      "link": "https://www.theguardian.com/uk-news/2026/oct/05/bbc-morale-dented-job-cuts",
+      "outlet": "Guardian Media",
+      "region": "uk"
+    },
+    {
+      "ref": 5,
+      "title": "Vodafone TV launches with Netflix and HBO Max bundle",
+      "link": "https://www.broadbandtvnews.com/2026/10/02/vodafone-tv-launches-with-netflix-and-hbo-max-bundle/",
+      "outlet": "Broadband TV News",
+      "region": "uk"
+    },
+    {
+      "ref": 6,
+      "title": "Vodafone TV goes live in UK",
+      "link": "https://www.advanced-television.com/2026/10/02/vodafone-tv-goes-live-in-uk/",
+      "outlet": "Advanced Television",
+      "region": "uk"
+    },
+    {
+      "ref": 7,
+      "title": "WBD signs content partnership with ITVX",
+      "link": "https://www.advanced-television.com/2026/10/01/wbd-signs-content-partnership-with-itvx/",
+      "outlet": "Advanced Television",
+      "region": "uk"
+    },
+    {
+      "ref": 8,
+      "title": "ITVX adds TLC and Quest branded collections",
+      "link": "https://www.broadbandtvnews.com/2026/10/02/itvx-adds-tlc-and-quest-branded-collections/",
+      "outlet": "Broadband TV News",
+      "region": "uk"
+    },
+    {
+      "ref": 9,
+      "title": "ITVX adds 2,000 hours of TLC and Quest content in UK deal with WBD",
+      "link": "https://www.c21media.net/news/itvx-adds-2000-hours-of-tlc-and-quest-content-in-uk-deal-with-wbd/",
+      "outlet": "C21Media",
+      "region": "uk"
+    },
+    {
+      "ref": 10,
+      "title": "David Sullivan sues BBC for £150m over Panorama’s sexual misconduct claims",
+      "link": "https://www.theguardian.com/media/2026/oct/01/david-sullivan-sues-bbc-150m-panorama-sexual-misconduct-claims",
+      "outlet": "Guardian Media",
+      "region": "uk"
+    },
+    {
+      "ref": 11,
+      "title": "Five B Corp businesses set for TV ad debut on Channel 4",
+      "link": "https://www.advanced-television.com/2026/10/02/five-b-corp-businesses-set-for-tv-ad-debut-on-channel-4/",
+      "outlet": "Advanced Television",
+      "region": "uk"
+    },
+    {
+      "ref": 12,
+      "title": "Channel 4 B Corp TV winners: “This is going to irritate the rest”",
+      "link": "https://uk.themedialeader.com/channel-4-b-corp-tv-winners-this-is-going-to-irritate-the-rest/",
+      "outlet": "The Media Leader",
+      "region": "uk"
+    },
+    {
+      "ref": 13,
+      "title": "Paramount & Warner Bros. To Be Known As Skydance Corp. After Merger",
+      "link": "https://tvnewscheck.com/business/article/paramount-warner-bros-to-be-known-as-skydance-corp-after-merger/",
+      "outlet": "TVNewsCheck",
+      "region": "americas"
+    },
+    {
+      "ref": 14,
+      "title": "Paramount’s Warner Bros. megamerger will just be called Skydance",
+      "link": "https://www.theverge.com/entertainment/1004016/paramount-warner-bros-skydance-megamerger-name",
+      "outlet": "The Verge",
+      "region": "americas"
+    },
+    {
+      "ref": 15,
+      "title": "Paramount and Warner Bros. Discovery to become Skydance",
+      "link": "https://techcrunch.com/2026/10/02/paramount-and-warner-bros-discovery-to-become-skydance/",
+      "outlet": "TechCrunch",
+      "region": "americas"
+    },
+    {
+      "ref": 16,
+      "title": "Paramount-Warner Bros. Merger: Wall Street Banks Wrap Up $52 Billion Debt Sale",
+      "link": "https://www.thewrap.com/industry-news/business/paramount-warner-bros-merger-52-billion-debt-sale-completed/",
+      "outlet": "The Wrap",
+      "region": "americas"
+    },
+    {
+      "ref": 17,
+      "title": "‘Percy Jackson’ and More Disney Titles Start Streaming on Netflix in Huge Licensing Deal",
+      "link": "https://www.thewrap.com/media-platforms/streaming/disney-netflix-licensing-deal-percy-jackson-ice-age/",
+      "outlet": "The Wrap",
+      "region": "americas"
+    },
+    {
+      "ref": 18,
+      "title": "Disney & Netflix Enter Licensing Agreement",
+      "link": "https://tvnewscheck.com/business/article/disney-netflix-enter-licensing-agreement/",
+      "outlet": "TVNewsCheck",
+      "region": "americas"
+    },
+    {
+      "ref": 19,
+      "title": "OpenAI’s new agent is a shot at Meta — but can it compete with free?",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1003399/meta-openai-ai-agents-muse-dots-battle",
+      "outlet": "The Verge",
+      "region": "americas"
+    },
+    {
+      "ref": 20,
+      "title": "FCC Rolls Back Environmental Reviews To Speed Wireless Deployments",
+      "link": "https://tvnewscheck.com/tech/article/fcc-rolls-back-environmental-reviews-to-speed-wireless-deployments/",
+      "outlet": "TVNewsCheck",
+      "region": "americas"
+    },
+    {
+      "ref": 21,
+      "title": "‘Fast & Furious’ TV Adaptation Ordered to Series by Peacock, Eyed for 2028 Premiere",
+      "link": "https://variety.com/2026/tv/news/fast-furious-tv-show-peacock-2028-1236897178/",
+      "outlet": "Variety",
+      "region": "americas"
+    },
+    {
+      "ref": 22,
+      "title": "Nexstar & DAZN To Televise, Stream 15 Pacers Games",
+      "link": "https://tvnewscheck.com/programming/article/nexstar-dazn-to-televise-stream-15-pacers-games/",
+      "outlet": "TVNewsCheck",
+      "region": "americas"
+    },
+    {
+      "ref": 23,
+      "title": "Matisse co-founder Nick Curwin to retire at end of 2026",
+      "link": "https://www.c21media.net/news/matisse-co-founder-nick-curwin-to-retire-at-end-of-2026/",
+      "outlet": "C21Media",
+      "region": "uk"
+    },
+    {
+      "ref": 24,
+      "title": "Ynon Kreiz to Receive $5 Million Base Salary as Paramount-Warner Bros. Co-CEO",
+      "link": "https://www.thewrap.com/industry-news/business/ynon-kreiz-paramount-warner-bros-co-ceo-salary-revealed/",
+      "outlet": "The Wrap",
+      "region": "americas"
+    },
+    {
+      "ref": 25,
+      "title": "Disney’s Naomi Bulochnikov-Paul Jumps To Netflix",
+      "link": "https://tvnewscheck.com/people/article/disneys-naomi-bulochnikov-paul-jumps-to-netflix/",
+      "outlet": "TVNewsCheck",
+      "region": "americas"
+    },
+    {
+      "ref": 26,
+      "title": "Skydance Putting All 3 TV Studios Under George Cheeks: Warner Bros. TV, CBS Studios, PTVS – The Dish",
+      "link": "https://tvnewscheck.com/programming/article/skydance-putting-all-3-tv-studios-under-george-cheeks-warner-bros-tv-cbs-studios-ptvs-the-dish/",
+      "outlet": "TVNewsCheck",
+      "region": "americas"
+    },
+    {
+      "ref": 27,
+      "title": "Skydance Lumps Paramount-Warner Bros. TV Studios Under George Cheeks",
+      "link": "https://www.thewrap.com/media-platforms/tv/skydance-tv-studio-leadership-george-cheeks-paramount-warner-bros/",
+      "outlet": "The Wrap",
+      "region": "americas"
+    },
+    {
+      "ref": 28,
+      "title": "Channing Dungey Poised For Expanded Post-Merger Role Overseeing Paramount & WBD Cable Networks",
+      "link": "https://tvnewscheck.com/business/article/channing-dungey-poised-for-expanded-post-merger-role-overseeing-paramount-wbd-cable-networks/",
+      "outlet": "TVNewsCheck",
+      "region": "americas"
+    },
+    {
+      "ref": 29,
+      "title": "Michael De Luca and Pamela Abdy to Depart at Warner Bros. Following Paramount Close",
+      "link": "https://variety.com/2026/film/news/michael-de-luca-pamela-abdy-exit-warner-bros-paramount-merger-close-1236897365/",
+      "outlet": "Variety",
+      "region": "americas"
+    },
+    {
+      "ref": 30,
+      "title": "ITV steers AMC drama Parish to streaming",
+      "link": "https://www.c21media.net/news/itv-steers-amc-drama-parish-to-streaming/",
+      "outlet": "C21Media",
+      "region": "uk"
+    }
+  ]
+}
