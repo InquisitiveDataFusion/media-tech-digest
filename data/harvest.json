@@ -1,6 +1,591 @@
 {
- "updated": "2026-10-05T23:11:10+01:00",
+ "updated": "2026-10-06T07:51:08+01:00",
  "items": [
+  {
+   "key": "toddlerpensionswhyweresaving100amonthforourkids",
+   "title": "Toddler pensions: Why we're saving £100 a month for our kids",
+   "summary": "A growing number of parents are opening retirement funds for their children.",
+   "link": "https://www.bbc.co.uk/news/articles/cme3r9eq2w0lo?at_medium=RSS&at_campaign=rss",
+   "outlet": "BBC Business",
+   "feed_region": "uk",
+   "published": "2026-10-06T07:36:39+01:00"
+  },
+  {
+   "key": "austinabramswhalefallfirstreactions",
+   "title": "Austin Abrams’ ‘Whalefall’: First Reactions",
+   "summary": "The survival thriller, directed by Brian Duffield, hits theaters on Oct. 16.",
+   "link": "https://www.hollywoodreporter.com/movies/movie-news/whalefall-first-reactions-austin-abrams-brian-duffield-1236716804/",
+   "outlet": "Hollywood Reporter",
+   "feed_region": "americas",
+   "published": "2026-10-06T07:08:19+01:00"
+  },
+  {
+   "key": "openairollsoutweaksaucewatermarkingforaitext",
+   "title": "OpenAI rolls out weak sauce watermarking for AI text",
+   "summary": "Compliance, we've heard of it",
+   "link": "https://www.theregister.com/ai-and-ml/2026/10/06/openai-rolls-out-weak-sauce-watermarking-for-ai-text/5301257",
+   "outlet": "The Register",
+   "feed_region": "global",
+   "published": "2026-10-06T07:02:00+01:00"
+  },
+  {
+   "key": "openaiadmitsresponsetoaustraliangovernmenthacksnotgoodenough",
+   "title": "OpenAI admits response to Australian government hacks 'not good enough'",
+   "summary": "Top executive Jason Kwon tells hearing company has added \"more precautions\" to its training environments.",
+   "link": "https://www.bbc.co.uk/news/articles/cmx2qne2j88wo?at_medium=RSS&at_campaign=rss",
+   "outlet": "BBC Business",
+   "feed_region": "uk",
+   "published": "2026-10-06T07:00:53+01:00"
+  },
+  {
+   "key": "jimmykimmelmockstrumpspromisetohelprussiaamidsiberiaplaguethegangwhobr",
+   "title": "Jimmy Kimmel Mocks Trump’s Promise to Help Russia Amid Siberia Plague: ‘The Gang Who Brought Polio Back’",
+   "summary": "\"Sounds like the plot of one of those horror movies you can only get on Tubi,\" the late night host adds The post Jimmy Kimmel Mocks Trump’s Promise to Help Russia Amid Siberia Plague: ‘The Gang Who Brought Polio Back’ appeared first on TheWrap .",
+   "link": "https://www.thewrap.com/creative-content/tv-shows/jimmy-kimmel-mocks-trump-reaction-russia-plague/",
+   "outlet": "The Wrap",
+   "feed_region": "americas",
+   "published": "2026-10-06T06:46:10+01:00"
+  },
+  {
+   "key": "howandrewgarfieldcombinedcrowdsourcingandaclassicactingtechniquetounde",
+   "title": "How Andrew Garfield Combined Crowdsourcing and a Classic Acting Technique to Understand Sam Altman",
+   "summary": "'Anora' breakout Yura Borisov, who plays OpenAI co-founder and Altman ally turned adversary Ilya Sutskever in the Luca Guadagnino film, reveals the \"spiritual connection\" that finally unlocked his role.",
+   "link": "https://www.hollywoodreporter.com/movies/movie-news/andrew-garfield-sam-altman-prep-artificial-stanislavski-1236723141/",
+   "outlet": "Hollywood Reporter",
+   "feed_region": "americas",
+   "published": "2026-10-06T06:44:16+01:00"
+  },
+  {
+   "key": "smallprophetsreviewmackenziecrooksdrollappletvcomedyfeaturespearcequig",
+   "title": "‘Small Prophets’ Review: Mackenzie Crook’s Droll Apple TV Comedy Features Pearce Quigley in One of the Year’s Best Performances",
+   "summary": "Quigley plays a melancholy man who enlists a new friend (Lauren Patel) and supernatural forces to learn the truth about his girlfriend's disappearance.",
+   "link": "https://www.hollywoodreporter.com/tv/tv-reviews/small-prophets-review-apple-tv-pearce-quigley-1236722956/",
+   "outlet": "Hollywood Reporter",
+   "feed_region": "americas",
+   "published": "2026-10-06T06:30:17+01:00"
+  },
+  {
+   "key": "irishbudgettotacklechildcareandenergycosts",
+   "title": "Irish budget to tackle childcare and energy costs",
+   "summary": "The threshold at which people start paying the higher income tax rate is also expected to increase.",
+   "link": "https://www.bbc.co.uk/news/articles/c9kgjn3zng1ko?at_medium=RSS&at_campaign=rss",
+   "outlet": "BBC Business",
+   "feed_region": "uk",
+   "published": "2026-10-06T06:30:06+01:00"
+  },
+  {
+   "key": "lastcallforthemallhowshoppingcentresarereinventingthemselves",
+   "title": "Last call for the mall? How shopping centres are reinventing themselves",
+   "summary": "In the internet age, medium-sized retail hubs are looking for new ways to survive and thrive.",
+   "link": "https://www.bbc.co.uk/news/articles/ck9qrq1d19w4o?at_medium=RSS&at_campaign=rss",
+   "outlet": "BBC Business",
+   "feed_region": "uk",
+   "published": "2026-10-06T06:28:37+01:00"
+  },
+  {
+   "key": "scientistsfindplanetmadeonnewmatterrecipeanditformedafteraredgiantatea",
+   "title": "Scientists find planet made on new matter recipe, and it formed after a Red Giant ate a solar system",
+   "summary": "Death of a star may not be game over for the inner solar system after all",
+   "link": "https://www.theregister.com/science/2026/10/06/scientists-find-planet-made-on-new-matter-recipe-and-it-formed-after-a-red-giant-ate-a-solar-system/5301291",
+   "outlet": "The Register",
+   "feed_region": "global",
+   "published": "2026-10-06T06:25:51+01:00"
+  },
+  {
+   "key": "banksstillrefusingcreditcardswatchdogsays",
+   "title": "Banks still refusing credit cards, watchdog says",
+   "summary": "Applications are being denied despite a change to make it easier, Jersey Consumer Council says.",
+   "link": "https://www.bbc.co.uk/news/articles/cwvg0lyl3v8eo?at_medium=RSS&at_campaign=rss",
+   "outlet": "BBC Business",
+   "feed_region": "uk",
+   "published": "2026-10-06T06:23:32+01:00"
+  },
+  {
+   "key": "primebigdealdays2026whattosnagandskipduringamazons48hoursale",
+   "title": "Prime Big Deal Days 2026: What to Snag (and Skip) During Amazon’s 48-Hour Sale",
+   "summary": "Everything to know about Amazon's second — and final — Prime-exclusive savings event of the year.",
+   "link": "https://www.hollywoodreporter.com/lifestyle/shopping/amazon-prime-big-deal-days-october-2026-dates-best-sales-1236722954/",
+   "outlet": "Hollywood Reporter",
+   "feed_region": "americas",
+   "published": "2026-10-06T06:12:49+01:00"
+  },
+  {
+   "key": "radiotynesidecelebrates75yearsonair",
+   "title": "Radio Tyneside celebrates 75 years on air",
+   "summary": "Radio Tyneside is marking 75 years since its first football commentary for hospital patients in Newcastle",
+   "link": "https://radiotoday.co.uk/2026/10/radio-tyneside-celebrates-75-years-on-air/",
+   "outlet": "RadioToday",
+   "feed_region": "uk",
+   "published": "2026-10-06T06:10:04+01:00"
+  },
+  {
+   "key": "skybringsstreaminginventorytoamazonads",
+   "title": "Sky brings streaming inventory to Amazon Ads",
+   "summary": "Sky Media and Amazon Ads have announced that Sky’s streaming inventory and audiences are now available to advertisers in the UK and Ireland through Amazon Ads Agent. The new integration gives advertisers access to Sky’s entertainment, drama, live sport and news across some of the nation’s biggest channels and...",
+   "link": "https://www.advanced-television.com/2026/10/06/sky-brings-streaming-inventory-to-amazon-ads/",
+   "outlet": "Advanced Television",
+   "feed_region": "uk",
+   "published": "2026-10-06T05:59:27+01:00"
+  },
+  {
+   "key": "woodgroupoffshoreworkerslaunch48hourstrikeinrowoverpay",
+   "title": "Wood Group offshore workers launch 48-hour strike in row over pay",
+   "summary": "The Unite union said workers had faced the threat of fire and rehire notices and of having their pay cut.",
+   "link": "https://www.bbc.co.uk/news/articles/cm79pn0y8257o?at_medium=RSS&at_campaign=rss",
+   "outlet": "BBC Business",
+   "feed_region": "uk",
+   "published": "2026-10-06T05:57:20+01:00"
+  },
+  {
+   "key": "michaeldouglasweighsinonnepobabydebatesaysthetitlereallypissesmeoff",
+   "title": "Michael Douglas Weighs In on ‘Nepo Baby’ Debate, Says the Title ‘Really Pisses Me Off’",
+   "summary": "Michael Douglas is wading into the “nepo baby” debate. The “Wall Street” actor, who is the son of the late Hollywood legend Kirk Douglas, opened up on a recent episode of the “SmartLess” podcast and said the title “really pisses” him off. While discussing his success with hosts Sean Hayes, Jason Bateman and Will...",
+   "link": "https://variety.com/2026/film/news/michael-douglas-nepo-baby-debate-1236899927/",
+   "outlet": "Variety",
+   "feed_region": "americas",
+   "published": "2026-10-06T05:56:40+01:00"
+  },
+  {
+   "key": "communitysupermarketopensinshoppingcentre",
+   "title": "Community supermarket opens in shopping centre",
+   "summary": "Shoppers can access a wealth of budget-friendly groceries at the new social supermarket.",
+   "link": "https://www.bbc.co.uk/news/articles/cqkgjnmx6ln4o?at_medium=RSS&at_campaign=rss",
+   "outlet": "BBC Business",
+   "feed_region": "uk",
+   "published": "2026-10-06T05:54:32+01:00"
+  },
+  {
+   "key": "whyarethetimesandskynewsreportingonscamadswhilecarryingthem",
+   "title": "Why are The Times and Sky News reporting on scam ads while carrying them?",
+   "summary": "Journalists report on scam advertising, yet their employers still run many of the fake adverts they warn against. What can be done?",
+   "link": "https://uk.themedialeader.com/why-are-the-times-and-sky-news-reporting-on-scam-ads-while-carrying-them/",
+   "outlet": "The Media Leader",
+   "feed_region": "uk",
+   "published": "2026-10-06T05:47:30+01:00"
+  },
+  {
+   "key": "marketersshouldbetrackingadawarenesssaysthinkboxstudy",
+   "title": "Marketers should be tracking ad awareness, says Thinkbox study",
+   "summary": "The study found that ad awareness has both a direct and indirect relationship with brand consideration.",
+   "link": "https://uk.themedialeader.com/marketers-should-be-tracking-ad-awareness-says-thinkbox-study/",
+   "outlet": "The Media Leader",
+   "feed_region": "uk",
+   "published": "2026-10-06T05:41:20+01:00"
+  },
+  {
+   "key": "jimbakkercontroversialtelevangelistandexhusbandoftammyfayebakkerdiesat",
+   "title": "Jim Bakker, Controversial Televangelist and Ex-Husband of Tammy Faye Bakker, Dies at 86",
+   "summary": "\"His voice, his vision and his legacy will never be forgotten,\" his wife, Lori Bakker, writes The post Jim Bakker, Controversial Televangelist and Ex-Husband of Tammy Faye Bakker, Dies at 86 appeared first on TheWrap .",
+   "link": "https://www.thewrap.com/culture-lifestyle/culture/jim-bakker-dies-televangelist-tammy-faye-ex-husband/",
+   "outlet": "The Wrap",
+   "feed_region": "americas",
+   "published": "2026-10-06T05:34:31+01:00"
+  },
+  {
+   "key": "atlassianwarnsofcriticalfileaccessflawinitsdatacenterproducts",
+   "title": "Atlassian warns of critical file access flaw in its datacenter products",
+   "summary": "Tells users ‘action required’ – but maybe don’t make that action a Jira ticket, because it has this bug",
+   "link": "https://www.theregister.com/security/2026/10/06/atlassian-warns-of-critical-file-access-flaw-in-its-datacenter-products/5301284",
+   "outlet": "The Register",
+   "feed_region": "global",
+   "published": "2026-10-06T05:20:00+01:00"
+  },
+  {
+   "key": "artificialreviewyuraborisovandandrewgarfieldfightandflirtoverthefateof",
+   "title": "‘Artificial’ Review: Yura Borisov and Andrew Garfield Fight and Flirt Over the Fate of Our Technological Future",
+   "summary": "NYFF 2026: Director Luca Guadagnino’s latest is a sensual, terrifying audit of our present and future apocalypse The post ‘Artificial’ Review: Yura Borisov and Andrew Garfield Fight and Flirt Over the Fate of Our Technological Future appeared first on TheWrap .",
+   "link": "https://www.thewrap.com/creative-content/movies/artificial-review-new-york-film-festival/",
+   "outlet": "The Wrap",
+   "feed_region": "americas",
+   "published": "2026-10-06T05:18:35+01:00"
+  },
+  {
+   "key": "howconsumerhealthcarebrandsareadaptingfmcgmediastrategies",
+   "title": "How consumer healthcare brands are adapting FMCG media strategies",
+   "summary": "Companies like Opella are borrowing from the consumer brand playbook as they pivot around shifting health habits. Can they adapt FMCG marketing without also importing the issues facing that category?",
+   "link": "https://digiday.com/media-buying/how-consumer-healthcare-brands-are-adapting-fmcg-media-strategies/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+   "outlet": "Digiday",
+   "feed_region": "americas",
+   "published": "2026-10-06T05:01:00+01:00"
+  },
+  {
+   "key": "ats4capitalsmonksagentscanrunautonomouslyunsupervisedfordays",
+   "title": "At S4 Capital’s Monks, agents can run autonomously, unsupervised for days",
+   "summary": "S4 Capital’s digital agency now budgets for tokens and talent from the same pot.",
+   "link": "https://digiday.com/marketing/at-s4-capitals-monks-agents-can-run-autonomously-unsupervised-for-days/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+   "outlet": "Digiday",
+   "feed_region": "americas",
+   "published": "2026-10-06T05:01:00+01:00"
+  },
+  {
+   "key": "adtechbriefingapplovinandunitysdualexplained",
+   "title": "Ad Tech Briefing: AppLovin and Unity’s dual explained",
+   "summary": "The mobile advertising duo’s legal dual exposes a bigger question about who owns the data generated inside mobile ad auctions.",
+   "link": "https://digiday.com/media-buying/applovin/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+   "outlet": "Digiday",
+   "feed_region": "americas",
+   "published": "2026-10-06T05:01:00+01:00"
+  },
+  {
+   "key": "omnicommediadigsintothereasonspeopleavoidadsandofferssolutionsforclien",
+   "title": "Omnicom Media digs into the reasons people avoid ads — and offers solutions for clients",
+   "summary": "As it dug into the reasons and ways consumers skip ads, Omnicom Media also laid out four ways to get them more interested in clients' messaging.",
+   "link": "https://digiday.com/media-buying/omnicom-media-digs-into-the-reasons-people-avoid-ads-and-offers-solutions-for-clients/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+   "outlet": "Digiday",
+   "feed_region": "americas",
+   "published": "2026-10-06T05:01:00+01:00"
+  },
+  {
+   "key": "fromthebrooklynnetstothegoldengirlsdigidayeditorsbreakdownthestateofad",
+   "title": "From The Brooklyn Nets to The Golden Girls, Digiday editors break down the state of ad agencies",
+   "summary": "On the Digiday Podcast, Digiday staffers break down the state of play among major agencies using sports analogies and The Golden Girls.",
+   "link": "https://digiday.com/podcasts/from-the-brooklyn-nets-to-the-golden-girls-digiday-editors-break-down-the-state-of-ad-agencies/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+   "outlet": "Digiday",
+   "feed_region": "americas",
+   "published": "2026-10-06T05:01:00+01:00"
+  },
+  {
+   "key": "dharmanns100mawnydealtargetforcreatorsisalreadypledgedsohesays",
+   "title": "Dhar Mann’s $100M AWNY deal target for creators is already pledged (so he says)",
+   "summary": "The goal with Dhar Mann as AWNY's chief creator officer is to make it easier to make connections that are often held up by corporate red tape and too many layers between creator and CMO.",
+   "link": "https://digiday.com/marketing/dhar-manns-100m-awny-deal-target-for-creators-is-already-pledged-so-he-says/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+   "outlet": "Digiday",
+   "feed_region": "americas",
+   "published": "2026-10-06T05:01:00+01:00"
+  },
+  {
+   "key": "jonstewartsdailyshowskipsdavidellisonskydancenewstotakeonai",
+   "title": "Jon Stewart’s ‘Daily Show’ Skips David Ellison-Skydance News to Take on AI",
+   "summary": "On Sunday night, John Oliver dedicated the majority of his Emmy-winning show “Last Week Tonight” to the Secret Service’s failings in recent years while declining to address the major media news of the week: David Ellison’s newly-formed Skydance Corp. swallowing up Warner Bros. Discovery — which controls Oliver’s...",
+   "link": "https://variety.com/2026/tv/news/jon-stewart-daily-show-skydance-david-ellison-ai-1236899825/",
+   "outlet": "Variety",
+   "feed_region": "americas",
+   "published": "2026-10-06T04:59:16+01:00"
+  },
+  {
+   "key": "jonstewartdrawsbigreactionfromdailyshowcrowdwithresurfacedepsteinfiles",
+   "title": "Jon Stewart Draws Big Reaction From ‘Daily Show’ Crowd With Resurfaced Epstein Files Photo of Stephen Hawking",
+   "summary": "“I was going to hell anyway,” the comedian says The post Jon Stewart Draws Big Reaction From ‘Daily Show’ Crowd With Resurfaced Epstein Files Photo of Stephen Hawking appeared first on TheWrap .",
+   "link": "https://www.thewrap.com/creative-content/tv-shows/jon-stewart-the-daily-show-audience-reacts-stephen-hawking-epstein-files-photo/",
+   "outlet": "The Wrap",
+   "feed_region": "americas",
+   "published": "2026-10-06T04:54:28+01:00"
+  },
+  {
+   "key": "artificialreviewlucaguadagninohasmadetherealsequeltothesocialnetworkab",
+   "title": "‘Artificial’ Review: Luca Guadagnino Has Made the Real Sequel to ‘The Social Network’ — a Brain-Spinning Tech-Geek Docudrama, Brilliantly Acted by Andrew Garfield and Yura Borisov",
+   "summary": "\"Artificial\" is a brilliant but playful docudrama, meticulously true to history, that focuses on the founders of OpenAI, notably its CEO Sam Altman (Andrew Garfield). But the tale it tells is much larger than that. \"Artificial\" goes back to the earliest days of AI and shows you how the technology was invented, how...",
+   "link": "https://variety.com/2026/film/reviews/artificial-review-andrew-garfield-luca-gaudagnino-1236898663/",
+   "outlet": "Variety",
+   "feed_region": "americas",
+   "published": "2026-10-06T04:41:41+01:00"
+  },
+  {
+   "key": "slayyyterannouncesnewworstgirlinamericabrotheralbumworstmaninamerica",
+   "title": "Slayyyter Announces New ‘Worst Girl in America’ “Brother Album” ‘Worst Man in America’",
+   "summary": "The new release will serve as a companion album to her project released earlier this year.",
+   "link": "https://www.hollywoodreporter.com/music/music-news/slayyyter-worst-man-in-america-album-announcement-1236723058/",
+   "outlet": "Hollywood Reporter",
+   "feed_region": "americas",
+   "published": "2026-10-06T04:36:21+01:00"
+  },
+  {
+   "key": "georgefentonoscarnominatedcomposerforcryfreedomanddangerousliaisonsdie",
+   "title": "George Fenton, Oscar-Nominated Composer for ‘Cry Freedom’ and ‘Dangerous Liaisons,’ Dies at 76",
+   "summary": "He also worked on 'Groundhog Day,' 'You've Got Mail,' 'Hitch,' 'Fool's Gold' and 'Planet Earth,' among many other films.",
+   "link": "https://www.hollywoodreporter.com/movies/movie-news/george-fenton-dead-film-composer-1236723045/",
+   "outlet": "Hollywood Reporter",
+   "feed_region": "americas",
+   "published": "2026-10-06T04:32:20+01:00"
+  },
+  {
+   "key": "whencontentisinfinitehumanconnectionbecomesscarce",
+   "title": "When content is infinite, human connection becomes scarce",
+   "summary": "Just as Bowie’s protagonist questions whether something better exists, a more rewarding route is to focus on what people increasingly feel is missing in life, writes Chris Herbert-Lo.",
+   "link": "https://uk.themedialeader.com/when-content-is-infinite-human-connection-becomes-scarce/",
+   "outlet": "The Media Leader",
+   "feed_region": "uk",
+   "published": "2026-10-06T04:30:46+01:00"
+  },
+  {
+   "key": "whyadvertisingneedstodoabetterjobofsellingitself",
+   "title": "Why advertising needs to do a better job of selling itself",
+   "summary": "For an industry built on creativity, innovation, and connecting with people, we’ve done a surprisingly poor job of showing the next generation what a career in advertising actually looks like, argues Lucy Hinton.",
+   "link": "https://uk.themedialeader.com/why-advertising-needs-to-do-a-better-job-of-selling-itself/",
+   "outlet": "The Media Leader",
+   "feed_region": "uk",
+   "published": "2026-10-06T04:18:21+01:00"
+  },
+  {
+   "key": "aaronsorkinsthesocialreckoningfirstreactions",
+   "title": "Aaron Sorkin’s ‘The Social Reckoning’: First Reactions",
+   "summary": "The standalone sequel to 'The Social Network' hits theaters on Oct. 9.",
+   "link": "https://www.hollywoodreporter.com/movies/movie-news/aaron-sorkin-the-social-reckoning-first-reactions-1236723046/",
+   "outlet": "Hollywood Reporter",
+   "feed_region": "americas",
+   "published": "2026-10-06T04:12:22+01:00"
+  },
+  {
+   "key": "usunionssoundalarmonproductionexodusamidfederaltaxcreditpush",
+   "title": "US unions sound alarm on production exodus amid federal tax credit push",
+   "summary": "A new report commissioned by American unions and guilds has laid bare how runaway production has chipped away at Hollywood's position at the epicentre of the entertainment business over the past 25 yea...",
+   "link": "https://www.c21media.net/news/us-unions-sound-alarm-on-production-exodus-amid-federal-tax-credit-push/",
+   "outlet": "C21Media",
+   "feed_region": "uk",
+   "published": "2026-10-06T04:01:21+01:00"
+  },
+  {
+   "key": "gavinnewsomjimacostaandmoretorchtrumpafterhedaresirantotakeoutlosangel",
+   "title": "Gavin Newsom, Jim Acosta and More Torch Trump After He Dares Iran to ‘Take Out’ Los Angeles or San Diego in Rally Speech",
+   "summary": "“He is deranged and dangerous,\" the California governor writes The post Gavin Newsom, Jim Acosta and More Torch Trump After He Dares Iran to ‘Take Out’ Los Angeles or San Diego in Rally Speech appeared first on TheWrap .",
+   "link": "https://www.thewrap.com/media-platforms/politics/trump-iran-take-out-los-angeles-san-diego-comment-social-media-reactions/",
+   "outlet": "The Wrap",
+   "feed_region": "americas",
+   "published": "2026-10-06T03:57:25+01:00"
+  },
+  {
+   "key": "andrewgarfieldsaysopenaissamaltmanseemedfinggreatbeforeplayinghiminart",
+   "title": "Andrew Garfield Says OpenAI’s Sam Altman Seemed ‘F—ing Great’ Before Playing Him in ‘Artificial’: ‘And Then You Learn More About a Person’",
+   "summary": "Andrew Garfield admits he was initially charmed by Sam Altman before he portrayed the controversial CEO of OpenAI in director Luca Guadagnino’s new film “Artificial.” “I remember seeing Sam testifying to Congress for the first time, way back when,” Garfield said on Monday night at the movie’s world premiere at the...",
+   "link": "https://variety.com/2026/film/news/andrew-garfield-sam-altman-movie-artificial-nyff-premiere-luca-guadagnino-1236894719/",
+   "outlet": "Variety",
+   "feed_region": "americas",
+   "published": "2026-10-06T03:39:46+01:00"
+  },
+  {
+   "key": "lucaguadagninosartificialfirstreactions",
+   "title": "Luca Guadagnino’s ‘Artificial’: First Reactions",
+   "summary": "The biopic about OpenAI's Sam Altman, starring Andrew Garfield, Yura Borisov and Monica Barbaro, hits theaters on Dec. 25.",
+   "link": "https://www.hollywoodreporter.com/movies/movie-news/luca-guadagnino-sam-altman-artificial-first-reactions-1236723007/",
+   "outlet": "Hollywood Reporter",
+   "feed_region": "americas",
+   "published": "2026-10-06T03:11:57+01:00"
+  },
+  {
+   "key": "skydancetofullyreorganizeinternationalkevinmaclellanwillnotleadkeygrou",
+   "title": "Skydance to Fully Reorganize International; Kevin MacLellan Will Not Lead Key Group",
+   "summary": "Reverberations from the historic combination of Skydance and Warner Bros. Discovery are now being felt overseas. Despite a Monday report claiming international executive Kevin MacLellan was close to clinching the top job outside North America, sources tell Variety he will not move forward in the role. While...",
+   "link": "https://variety.com/2026/film/news/skydance-reorganize-international-kevin-maclellan-1236899732/",
+   "outlet": "Variety",
+   "feed_region": "americas",
+   "published": "2026-10-06T03:10:19+01:00"
+  },
+  {
+   "key": "securityresearcherclaimstheyfoundkvmguesthostescapeflaw",
+   "title": "Security researcher claims they found KVM guest-host escape flaw",
+   "summary": "Firecracker MicroVMs, which started at AWS, seem to be the problem",
+   "link": "https://www.theregister.com/offbeat/2026/10/06/security-researcher-claims-they-found-kvm-guest-host-escape-flaw/5301267",
+   "outlet": "The Register",
+   "feed_region": "global",
+   "published": "2026-10-06T03:06:20+01:00"
+  },
+  {
+   "key": "caseybloysextendsdealtooverseehbomaxandparamountatskydance",
+   "title": "Casey Bloys Extends Deal to Oversee HBO Max and Paramount+ at Skydance",
+   "summary": "The executive was named co-chair and chief content officer for Skydance DTC earlier on Monday The post Casey Bloys Extends Deal to Oversee HBO Max and Paramount+ at Skydance appeared first on TheWrap .",
+   "link": "https://www.thewrap.com/industry-news/deals-ma/casey-bloys-extends-deal-skydance/",
+   "outlet": "The Wrap",
+   "feed_region": "americas",
+   "published": "2026-10-06T02:42:16+01:00"
+  },
+  {
+   "key": "whydidtomcruisesdiggerhitrockbottomattheboxoffice",
+   "title": "Why Did Tom Cruise’s ‘Digger’ Hit Rock Bottom at the Box Office?",
+   "summary": "The turnout for Iñárritu's big-budget satire delivers sobering lessons as the Warner Bros. release heads for a major financial loss: \"'Digger' has provided a reality check on today's unpredictable marketplace.\"",
+   "link": "https://www.hollywoodreporter.com/movies/movie-news/tom-cruise-digger-bomb-opening-weekend-box-office-analysis-1236722877/",
+   "outlet": "Hollywood Reporter",
+   "feed_region": "americas",
+   "published": "2026-10-06T02:38:07+01:00"
+  },
+  {
+   "key": "trumpsayshispoliticalcommitteewillpayforhistvadsnottaxpayers",
+   "title": "Trump Says His Political Committee Will Pay for His TV Ads, Not Taxpayers",
+   "summary": "\"I have decided to do the Patriotic Ads, among others, and pay for them myself,\" the president writes The post Trump Says His Political Committee Will Pay for His TV Ads, Not Taxpayers appeared first on TheWrap .",
+   "link": "https://www.thewrap.com/media-platforms/politics/trump-super-pac-maga-inc-to-pay-for-political-ads-not-taxpayers/",
+   "outlet": "The Wrap",
+   "feed_region": "americas",
+   "published": "2026-10-06T02:11:31+01:00"
+  },
+  {
+   "key": "artificialfirstreactionspraiselucaguadagninosterrifyingsamaltmanbiopic",
+   "title": "‘Artificial’ First Reactions Praise Luca Guadagnino’s ‘Terrifying’ Sam Altman Biopic as an ‘Essential Film’",
+   "summary": "\"In a year of filmmakers warning us the end is coming 'Artificial' is a sledgehammer,\" one viewer says The post ‘Artificial’ First Reactions Praise Luca Guadagnino’s ‘Terrifying’ Sam Altman Biopic as an ‘Essential Film’ appeared first on TheWrap .",
+   "link": "https://www.thewrap.com/creative-content/movies/artificial-first-reactions-praise-terrifying-sam-altman-biopic/",
+   "outlet": "The Wrap",
+   "feed_region": "americas",
+   "published": "2026-10-06T02:02:05+01:00"
+  },
+  {
+   "key": "slamfrankoffbroadwayreviewhowdoyouparodytheholocaustsmostbelovedyoungh",
+   "title": "‘Slam Frank’ Off Broadway Review: How Do You Parody the Holocaust’s Most Beloved Young Heroine?",
+   "summary": "The new musical about a girl named Anita Frank may be the most audacious show of the year, if not the century The post ‘Slam Frank’ Off Broadway Review: How Do You Parody the Holocaust’s Most Beloved Young Heroine? appeared first on TheWrap .",
+   "link": "https://www.thewrap.com/creative-content/theater/slam-frank-off-broadway-review/",
+   "outlet": "The Wrap",
+   "feed_region": "americas",
+   "published": "2026-10-06T02:00:00+01:00"
+  },
+  {
+   "key": "whysebastianstanturneddownthevampirediariesleadrole",
+   "title": "Why Sebastian Stan Turned Down ‘The Vampire Diaries’ Lead Role",
+   "summary": "The actor said he \"can't look back and go, 'Oh, what if?'\" on the missed opportunities.",
+   "link": "https://www.hollywoodreporter.com/tv/tv-news/sebastian-stan-turned-down-vampire-diaries-role-paul-wesley-1236722911/",
+   "outlet": "Hollywood Reporter",
+   "feed_region": "americas",
+   "published": "2026-10-06T01:57:17+01:00"
+  },
+  {
+   "key": "artificialfirstreactionslucaguadagninosopenaidramaisprovocativedownrig",
+   "title": "‘Artificial’ First Reactions: Luca Guadagnino’s OpenAI Drama is ‘Provocative,’ ‘Downright Horrifying’ and His ‘Best Film in a Decade’",
+   "summary": "Luca Guadagnino’s “Artificial” premiered at the New York Film Festival Monday night, and early reviews have members of the film press championing the Sam Altman-centered movie as a “provocative,” “visceral corporate drama” and the director’s “best film in a decade.” Next Best Picture editor-in-chief and critic Matt...",
+   "link": "https://variety.com/2026/film/news/artificial-first-reactions-sam-altman-open-ai-1236899622/",
+   "outlet": "Variety",
+   "feed_region": "americas",
+   "published": "2026-10-06T01:49:48+01:00"
+  },
+  {
+   "key": "edmontonmayorhintsatupcomingsupportforentrepreneursascitysstartupweekk",
+   "title": "Edmonton mayor hints at upcoming support for entrepreneurs as city’s Startup Week kicks off",
+   "summary": "Annual celebration of Edmonton’s startup ecosystem features nearly 80 events across the city. The post Edmonton mayor hints at upcoming support for entrepreneurs as city’s Startup Week kicks off first appeared on BetaKit .",
+   "link": "https://betakit.com/edmonton-mayor-hints-at-upcoming-support-for-entrepreneurs-as-citys-startup-week-kicks-off/",
+   "outlet": "BetaKit",
+   "feed_region": "americas",
+   "published": "2026-10-06T01:46:38+01:00"
+  },
+  {
+   "key": "caseybloyssignsnewmultiyeardealtocontinueoverseeinghbomaxandparamounta",
+   "title": "Casey Bloys Signs New Multiyear Deal to Continue Overseeing HBO Max and Paramount+ As He Assumes His New Role at Skydance",
+   "summary": "Having just been named to the hefty position of co-chair and chief content officer for Skydance DTC — overseeing both HBO Max and Paramount+, Casey Bloys is staying put. Variety has confirmed that Bloys — whose contract with HBO was set to expire next year — has signed on for a new multiyear extension. Insiders […]",
+   "link": "https://variety.com/2026/tv/news/casey-bloys-new-deal-hbo-max-paramount-skydance-1236899664/",
+   "outlet": "Variety",
+   "feed_region": "americas",
+   "published": "2026-10-06T01:33:19+01:00"
+  },
+  {
+   "key": "hasanpikerdefendsmsrachelafterfoxnewswarnsparentsagainstwatchinghercon",
+   "title": "Hasan Piker Defends Ms. Rachel After Fox News Warns Parents Against Watching Her Content",
+   "summary": "“Two people who don't want children to be slaughtered,” the left-wing streamer says of his shared politics with the children’s entertainer The post Hasan Piker Defends Ms. Rachel After Fox News Warns Parents Against Watching Her Content appeared first on TheWrap .",
+   "link": "https://www.thewrap.com/culture-lifestyle/culture/hasan-piker-reacts-fox-news-ms-rachel-comparison/",
+   "outlet": "The Wrap",
+   "feed_region": "americas",
+   "published": "2026-10-06T01:31:10+01:00"
+  },
+  {
+   "key": "commonmistakesyoushouldavoidwhenusingfoldablephones",
+   "title": "Common mistakes you should avoid when using foldable phones",
+   "summary": "Foldable phones have unique durability concerns thanks to their moving parts and internal screens.",
+   "link": "https://www.engadget.com/2276483/common-mistakes-avoid-using-foldable-phones/",
+   "outlet": "Engadget",
+   "feed_region": "global",
+   "published": "2026-10-06T01:30:00+01:00"
+  },
+  {
+   "key": "foxhirestiktokmoonbugalumsaspartofcreatorfocusedpush",
+   "title": "Fox hires TikTok, Moonbug alums as part of creator-focused push",
+   "summary": "Fox Corporation has appointed former TikTok exec Bryan Thoensen and Moonbug Entertainment alum Kirsten McAuliffe to newly created senior roles as it expands its push into the creator economy. Thoensen ...",
+   "link": "https://www.c21media.net/news/fox-hires-tiktok-moonbug-alums-as-part-of-creator-focused-push/",
+   "outlet": "C21Media",
+   "feed_region": "uk",
+   "published": "2026-10-06T01:09:15+01:00"
+  },
+  {
+   "key": "trumpsayshellpayforpatrioticadshimselffollowingcontroversyaroundtaxpay",
+   "title": "Trump Says He’ll Pay for ‘Patriotic Ads’ Himself Following Controversy Around Taxpayer-Funded TV Spots",
+   "summary": "After controversy erupted over Donald Trump’s administration buying TV ad time (with taxpayer dollars) to air advertisements endorsing the president, Trump has now said he will fund what he calls “patriotic ads” himself. In a statement posted to Truth Social on Monday, Trump wrote: “The Radical Left is upset with...",
+   "link": "https://variety.com/2026/tv/news/trump-pay-for-political-ads-himself-1236899674/",
+   "outlet": "Variety",
+   "feed_region": "americas",
+   "published": "2026-10-06T01:04:56+01:00"
+  },
+  {
+   "key": "canamacbookhandleheavygameshereswhatyoushouldknow",
+   "title": "Can a MacBook handle heavy games? Here's what you should know",
+   "summary": "macOS is now a far healthier platform for gaming than it was just a few years ago, but it can't compete with Windows in many ways.",
+   "link": "https://www.engadget.com/2276473/apple-macbook-handle-graphically-demanding-heavy-games/",
+   "outlet": "Engadget",
+   "feed_region": "global",
+   "published": "2026-10-06T00:30:00+01:00"
+  },
+  {
+   "key": "neonsetsartificialoscarcampaignwithandrewgarfieldinsupportingactoryura",
+   "title": "Neon Sets ‘Artificial’ Oscar Campaign With Andrew Garfield in Supporting Actor, Yura Borisov in Lead (EXCLUSIVE)",
+   "summary": "Sixteen years ago, Andrew Garfield played the Facebook co-founder who was pushed out of the company he helped create in “The Social Network” and came up short in the supporting actor race. Now, he’s playing the CEO pushed out of OpenAI — and who talked his way back in five days later. Different man, different […]",
+   "link": "https://variety.com/2026/film/awards/artificial-oscars-campaign-andrew-garfield-supporting-actor-1236899378/",
+   "outlet": "Variety",
+   "feed_region": "americas",
+   "published": "2026-10-06T00:30:00+01:00"
+  },
+  {
+   "key": "fivereasonsindiasstockmarketissinkingevenwhenitseconomyisgrowing",
+   "title": "Five reasons India's stock market is sinking even when its economy is growing",
+   "summary": "The world's fastest growing major economy has one of the worst performing major equity markets in 2026.",
+   "link": "https://www.bbc.co.uk/news/articles/cwp9g5p1gy7yo?at_medium=RSS&at_campaign=rss",
+   "outlet": "BBC Business",
+   "feed_region": "uk",
+   "published": "2026-10-06T00:13:11+01:00"
+  },
+  {
+   "key": "geminicallformemighttellyourmomyourerunninglate",
+   "title": "Gemini Call for Me might tell your mom you’re running late",
+   "summary": "Google may be expanding its \"Call for Me\" AI feature beyond business calls so you can use it to send messages to friends and family. Android Authority reports finding a \"Gemini Calling\" introductory screen in an APK teardown with examples that include \"Call Mom and tell her I will be 15 minutes late\" and \"Call […]",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors",
+   "outlet": "The Verge",
+   "feed_region": "global",
+   "published": "2026-10-06T00:09:55+01:00"
+  },
+  {
+   "key": "blippismeekahanddovereleasemusicvideotopromotechildrensbodyconfidencee",
+   "title": "Blippi’s Meekah and Dove Release Music Video to Promote Children’s Body Confidence (EXCLUSIVE)",
+   "summary": "Meekah, best friend of children’s entertainment and education character Blippi, has teamed up with Dove on a new music video promoting body confidence. Moonbug Entertainment and the Dove Self-Esteem Project (DSEP) have partnered with Meekah for “My Body Is Amazing,” a music video celebrating movement,...",
+   "link": "https://variety.com/2026/digital/columns/blippi-meekah-dove-music-video-childrens-body-confidence-1236899630/",
+   "outlet": "Variety",
+   "feed_region": "americas",
+   "published": "2026-10-06T00:09:39+01:00"
+  },
+  {
+   "key": "banijayamericaunitesusoperations",
+   "title": "Banijay America unites US operations",
+   "summary": "Banijay Entertainment has confirmed its newly combined structure across the Americas, with Ben Samek named Chief Executive Officer of Banijay America following the recent merger with All3Media. As CEO, Samek will report to Jane Turton, Deputy Chief Executive Officer, Banijay Entertainment, to drive strategic...",
+   "link": "https://www.advanced-television.com/2026/10/06/banijay-america-unites-operations/",
+   "outlet": "Advanced Television",
+   "feed_region": "uk",
+   "published": "2026-10-06T00:00:53+01:00"
+  },
+  {
+   "key": "minipcvslaptopwhichisbetterforyourhomeoffice",
+   "title": "Mini PC vs. laptop: Which is better for your home office?",
+   "summary": "Mini PCs offer a convenient form factor, but a laptop is ready to go with you anywhere. There's no perfect answer.",
+   "link": "https://www.engadget.com/2276431/mini-pc-vs-laptop-better-for-home-office/",
+   "outlet": "Engadget",
+   "feed_region": "global",
+   "published": "2026-10-06T00:00:00+01:00"
+  },
+  {
+   "key": "schneiderelectricdrops226bonptcasdatacenterboomrainsmoneyoninfracompan",
+   "title": "Schneider Electric drops $22.6B on PTC as datacenter boom rains money on infra companies",
+   "summary": "Part of a bigger play for smarter power infra",
+   "link": "https://www.theregister.com/systems/2026/10/05/schneider-electric-acquires-ptc-for-226-billion/5301254",
+   "outlet": "The Register",
+   "feed_region": "global",
+   "published": "2026-10-05T23:48:15+01:00"
+  },
+  {
+   "key": "howtoaddandcustomizeyourcarplaywidgets",
+   "title": "How to add and customize your CarPlay widgets",
+   "summary": "CarPlay's widgets let you check info quickly, which is a great option for apps that aren't otherwise supported.",
+   "link": "https://www.engadget.com/2276395/how-to-add-customize-carplay-widgets/",
+   "outlet": "Engadget",
+   "feed_region": "global",
+   "published": "2026-10-05T23:30:00+01:00"
+  },
+  {
+   "key": "mcpforagenttoagentcommsmaybetheriskiestprotocolyouveneverheardof",
+   "title": "MCP for agent-to-agent comms may be the riskiest protocol you've never heard of",
+   "summary": "Trust gaps in the new protocol spread malicious prompts from one agent to another.",
+   "link": "https://arstechnica.com/security/2026/10/vulnerability-in-agents-from-google-and-others-exposes-structural-flaw-in-mcp/",
+   "outlet": "Ars Technica",
+   "feed_region": "global",
+   "published": "2026-10-05T23:26:35+01:00"
+  },
   {
    "key": "primevideodebutsfirstlookatbloodaxeseriesfromvikingscreatortvnewsround",
    "title": "Prime Video Debuts First Look at ‘Bloodaxe’ Series From ‘Vikings’ Creator (TV News Roundup)",
@@ -20,8 +605,26 @@
    "published": "2026-10-05T23:00:00+01:00"
   },
   {
+   "key": "googleacknowledgesday1androidappperformanceissuesonnewlaptops",
+   "title": "Google Acknowledges Day 1 Android App Performance Issues on New Laptops",
+   "summary": "Five new Googlebooks are available now, but the company says that not every Android app will offer “smooth performance” at launch.",
+   "link": "https://www.cnet.com/tech/computing/google-acknowledges-day-one-android-app-performance-issues-on-new-laptops/",
+   "outlet": "CNET News",
+   "feed_region": "global",
+   "published": "2026-10-05T22:54:19+01:00"
+  },
+  {
    "key": "lucidmotorsevoutputfallstolowestlevelinalmosttwoyears",
    "title": "Lucid Motors’ EV output falls to lowest level in almost two years",
+   "summary": "The company is deliberately limiting production after years of struggling to find mass-market demand for its EVs.",
+   "link": "https://techcrunch.com/2026/10/05/lucid-motors-ev-output-falls-to-lowest-level-in-almost-two-years/",
+   "outlet": "TechCrunch",
+   "feed_region": "global",
+   "published": "2026-10-05T22:54:01+01:00"
+  },
+  {
+   "key": "lucidmotorsevoutputfallstolowestlevelinalmost2years",
+   "title": "Lucid Motors’ EV output falls to lowest level in almost 2 years",
    "summary": "The company is deliberately limiting production after years of struggling to find mass-market demand for its EVs.",
    "link": "https://techcrunch.com/2026/10/05/lucid-motors-ev-output-falls-to-lowest-level-in-almost-two-years/",
    "outlet": "TechCrunch",
@@ -135,6 +738,15 @@
    "outlet": "Variety",
    "feed_region": "americas",
    "published": "2026-10-05T22:20:34+01:00"
+  },
+  {
+   "key": "citrixnetscalersecuritysnafusgetevenworseamidmore0dayreports",
+   "title": "Citrix NetScaler security snafus get even worse amid more 0-day reports",
+   "summary": "The new vuln, CVE-2026-88779, is a memory overflow bug that leads to denial of service",
+   "link": "https://www.theregister.com/security/2026/10/05/citrix-netscaler-security-snafus-get-even-worse-amid-more-0-day-reports/5301232",
+   "outlet": "The Register",
+   "feed_region": "global",
+   "published": "2026-10-05T22:18:48+01:00"
   },
   {
    "key": "pantamoslehsqueerinterfaithcomedypassthesaltnabsearlyseason2renewalexc",
@@ -24813,312 +25425,6 @@
    "outlet": "The Verge",
    "feed_region": "global",
    "published": "2026-09-26T08:00:00+01:00"
-  },
-  {
-   "key": "juliannemooreacceptszurichsgoldeniconawardingerman",
-   "title": "Julianne Moore Accepts Zurich’s Golden Icon Award — in German",
-   "summary": "Moore credited her career to a childhood spent in Europe, while 'Wild Horse Nine' filmmaker Martin McDonagh was also honored at the Swiss film festival.",
-   "link": "https://www.hollywoodreporter.com/movies/movie-news/julianne-moore-zurich-golden-icon-award-german-martin-film-1236712458/",
-   "outlet": "Hollywood Reporter",
-   "feed_region": "americas",
-   "published": "2026-09-26T07:44:29+01:00"
-  },
-  {
-   "key": "fuelcostsputtingoffmealdeliverydriverapplicants",
-   "title": "Fuel costs putting off meal delivery driver applicants",
-   "summary": "Maureen Bougeard says some prospective volunteers do not respond after learning about expenses.",
-   "link": "https://www.bbc.co.uk/news/articles/c6wyzkwnd258o?at_medium=RSS&at_campaign=rss",
-   "outlet": "BBC Business",
-   "feed_region": "uk",
-   "published": "2026-09-26T07:33:02+01:00"
-  },
-  {
-   "key": "tiktoktopayalabama100mandlimitteenageuseinfirststatesettlement",
-   "title": "TikTok to pay Alabama $100m and limit teenage use in first state settlement",
-   "summary": "Trial had been set for Monday over claims by Alabama that TikTok misled parents about tools meant to shield children from harmful content TikTok has agreed to pay Alabama at least $100m and enact time limits and other restrictions for teenage users, avoiding a trial with a settlement that was modelled on...",
-   "link": "https://www.theguardian.com/technology/2026/sep/26/tiktok-alabama-pay-100m-teenage-limits-restrictions",
-   "outlet": "Guardian Media",
-   "feed_region": "uk",
-   "published": "2026-09-26T05:19:20+01:00"
-  },
-  {
-   "key": "aheadofnobodywantsthisseason3adambrodydeclareshissupportforafreepalest",
-   "title": "Ahead of ‘Nobody Wants This’ Season 3, Adam Brody Declares His Support for “A Free Palestine”",
-   "summary": "The actor, who appears on the Netflix series as a rabbi, discussed his political activism in a new interview with GQ.",
-   "link": "https://www.hollywoodreporter.com/tv/tv-news/nobody-wants-this-adam-brody-support-a-free-palestine-1236712430/",
-   "outlet": "Hollywood Reporter",
-   "feed_region": "americas",
-   "published": "2026-09-26T04:33:12+01:00"
-  },
-  {
-   "key": "coachsignsoffonstatementbagsforfallwithplayfulstylesinspiredbyellefann",
-   "title": "Coach Signs Off on Statement Bags for Fall With Playful Styles Inspired by Elle Fanning and Others",
-   "summary": "Plus, lots of prints, fringe, beading and beyond.",
-   "link": "https://www.hollywoodreporter.com/lifestyle/shopping/coach-patchwork-shearling-fringe-statement-purses-tabby-bag-1236709891/",
-   "outlet": "Hollywood Reporter",
-   "feed_region": "americas",
-   "published": "2026-09-26T04:17:04+01:00"
-  },
-  {
-   "key": "billmaherdrawsbigresponsefromstudioaudienceaftercallingtrumpanarchcrim",
-   "title": "Bill Maher Draws Big Response From Studio Audience After Calling Trump an ‘Arch-Criminal’",
-   "summary": "\"I kid. It's always with love, everybody,\" the comedian notes as the crowd loudly cheers The post Bill Maher Draws Big Response From Studio Audience After Calling Trump an ‘Arch-Criminal’ appeared first on TheWrap .",
-   "link": "https://www.thewrap.com/creative-content/tv-shows/bill-maher-studio-audience-reacts-trump-arch-criminal-joke/",
-   "outlet": "The Wrap",
-   "feed_region": "americas",
-   "published": "2026-09-26T04:00:22+01:00"
-  },
-  {
-   "key": "openaibotsmeddledwithmultipleusgovernmentagencysites",
-   "title": "OpenAI bots meddled with multiple US government agency sites",
-   "summary": "OpenAI said its bots accessed public data from the US Census and the Securities and Exchange Commission, which regulates US stock markets.",
-   "link": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss",
-   "outlet": "BBC Technology",
-   "feed_region": "uk",
-   "published": "2026-09-26T03:50:56+01:00"
-  },
-  {
-   "key": "tocatchapredatorhostchrishansenwatchesrobertpattinsonsprimetimeandhesn",
-   "title": "‘To Catch a Predator’ Host Chris Hansen Watches Robert Pattinson’s ‘Primetime’ — and He’s Not a Fan",
-   "summary": "After weeks of sparring with A24 from the sidelines, Hansen graded Pattinson's performance a \"D\" and called the film a \"fever dream.\"",
-   "link": "https://www.hollywoodreporter.com/movies/movie-news/chris-hansen-robert-pattinson-primetime-review-1236710231/",
-   "outlet": "Hollywood Reporter",
-   "feed_region": "americas",
-   "published": "2026-09-26T03:41:45+01:00"
-  },
-  {
-   "key": "hanumananshindiansleeperhitsinternationaldistributionstrategyunveiledb",
-   "title": "‘Hanuman Ansh’ Indian Sleeper Hit’s International Distribution Strategy Unveiled by ‘K.G.F,’ ‘Kantara’ Outfit Hombale Films (EXCLUSIVE)",
-   "summary": "Indian devotional film “Hanuman Ansh” has grossed more than $3.5 million outside its home territory since Hombale Films took it to international audiences, and the company behind the blockbuster “K.G.F” and “Kantara” franchises has now detailed how it engineered the run. Written and directed by Vishal Chaturvedi...",
-   "link": "https://variety.com/2026/film/news/hanuman-ansh-indian-sleeper-hit-hombale-films-strategy-1236876199/",
-   "outlet": "Variety",
-   "feed_region": "americas",
-   "published": "2026-09-26T03:09:30+01:00"
-  },
-  {
-   "key": "whitehouseblockscnnfromairforceoneinlatestescalationwithnewsmedia",
-   "title": "White House blocks CNN from Air Force One in latest escalation with news media",
-   "summary": "Outlet had been scheduled to fly with Donald Trump to Tennessee for a college football game, network said Friday The White House has blocked CNN from traveling aboard Air Force One on Saturday, impeding its TV press pool duties in the latest escalation of the administration’s battle with the news media. CNN had...",
-   "link": "https://www.theguardian.com/us-news/2026/sep/25/white-house-cnn-air-force-one",
-   "outlet": "Guardian Media",
-   "feed_region": "uk",
-   "published": "2026-09-26T02:31:05+01:00"
-  },
-  {
-   "key": "scarlettjohanssontakesbreakfromfilmingoverseasforpapertigernyffpremier",
-   "title": "Scarlett Johansson Takes Break From Filming Overseas for ‘Paper Tiger’ NYFF Premiere After Skipping Cannes: ‘I’m Hallucinating’",
-   "summary": "A very jet-lagged Scarlett Johansson reunited with co-stars Adam Driver and Miles Teller for the New York Film Festival premiere of “Paper Tiger,” which kicked off the festival’s 64th edition. “I’m hallucinating,” said Johansson, who just got off a long international flight, where she’s filming another movie. “It’s...",
-   "link": "https://variety.com/2026/film/festivals/scarlett-johansson-paper-tiger-new-york-film-festival-premiere-adam-driver-1236872284/",
-   "outlet": "Variety",
-   "feed_region": "americas",
-   "published": "2026-09-26T02:16:41+01:00"
-  },
-  {
-   "key": "whitehousebarscnnfromtrumpflightadayaftercredentialsrestored",
-   "title": "White House Bars CNN From Trump Flight a Day After Credentials Restored",
-   "summary": "This decision marks the latest in the Trump administration's battle against CNN, MS NOW and Politico The post White House Bars CNN From Trump Flight a Day After Credentials Restored appeared first on TheWrap .",
-   "link": "https://www.thewrap.com/media-platforms/journalism/white-house-bars-cnn-from-trump-flight/",
-   "outlet": "The Wrap",
-   "feed_region": "americas",
-   "published": "2026-09-26T02:14:43+01:00"
-  },
-  {
-   "key": "lovehypothesisdirectorclairescanlonbreaksdownthebiggeststarwarseastere",
-   "title": "‘Love Hypothesis’ Director Claire Scanlon Breaks Down the Biggest ‘Star Wars’ Easter Eggs, From Gracie Abrams’ Song to Color-Coded Wardrobes",
-   "summary": "“Star Wars” has featured iconic locations throughout the franchise, taking audiences to Tatooine, Naboo and now, a campus biology lab at Stanford University. The romantic comedy “Love Hypothesis” premiered on Amazon Prime on Sept. 23, featuring Lili Reinhart and Tom Bateman as romantic interests who get caught in a...",
-   "link": "https://variety.com/2026/film/features/the-love-hypothesis-star-wars-easter-eggs-1236875151/",
-   "outlet": "Variety",
-   "feed_region": "americas",
-   "published": "2026-09-26T02:09:17+01:00"
-  },
-  {
-   "key": "atmetaconnectthecompanyssmartglasseswereeverywhere",
-   "title": "At Meta Connect, the company’s smart glasses were everywhere",
-   "summary": "The company behind Facebook and Instagram wants to keep consumers connected to the digital world via its ever-growing line of smart glasses.",
-   "link": "https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/",
-   "outlet": "TechCrunch",
-   "feed_region": "global",
-   "published": "2026-09-26T02:08:57+01:00"
-  },
-  {
-   "key": "melissabarrerarevealswhatitwouldtaketoreturntothescreamfranchise",
-   "title": "Melissa Barrera Reveals What It Would Take to Return to the ‘Scream’ Franchise",
-   "summary": "“I had an amazing time making those movies,” says the actress, who was fired for pro-Palestinian social media posts that were deemed antisemitic by Spyglass The post Melissa Barrera Reveals What It Would Take to Return to the ‘Scream’ Franchise appeared first on TheWrap .",
-   "link": "https://www.thewrap.com/creative-content/movies/melissa-barrera-would-return-scream-franchise-not-under-spyglass/",
-   "outlet": "The Wrap",
-   "feed_region": "americas",
-   "published": "2026-09-26T01:52:51+01:00"
-  },
-  {
-   "key": "isaacmizrahiontheunzippedrestorationthejohngallianometgalafiascoandwhy",
-   "title": "Isaac Mizrahi on the ‘Unzipped’ Restoration, the John Galliano Met Gala Fiasco and Why the ‘Devil Wears Prada’ Cerulean Blue Speech ‘Makes Me Want to Kill Somebody’",
-   "summary": "No doubt Isaac Mizrahi is excited about the release of the newly restored “Unzipped,” the 1995 documentary chronicling a moment in time when he was one of the fashion world’s hottest designers. However, Mizrahi admits he’s not that eager to watch it. “I have to say I hate looking back,” he tells me. “I hate […]",
-   "link": "https://variety.com/2026/film/columns/isaac-mizrahi-unzipped-restoration-john-galliano-met-gala-devil-wears-prada-cerulean-blue-1236876106/",
-   "outlet": "Variety",
-   "feed_region": "americas",
-   "published": "2026-09-26T01:44:22+01:00"
-  },
-  {
-   "key": "snlpromoteskeripowerstosoleheadoftalentdepartmentrebeccaschwartzuppedt",
-   "title": "‘SNL’ Promotes Keri Powers to Sole Head of Talent Department, Rebecca Schwartz Upped to Producer",
-   "summary": "The news comes after longtime music booker Brian Siedlecki departed from the series; The Hollywood Reporter previously reported that the program chose not to renew his contract.",
-   "link": "https://www.hollywoodreporter.com/tv/tv-news/snl-keri-powers-head-talent-rebecca-schwartz-producer-1236710402/",
-   "outlet": "Hollywood Reporter",
-   "feed_region": "americas",
-   "published": "2026-09-26T01:30:00+01:00"
-  },
-  {
-   "key": "snlpromoteskeripowersandrebeccaschwartzaheadofseason52premiere",
-   "title": "‘SNL’ Promotes Keri Powers and Rebecca Schwartz Ahead of Season 52 Premiere",
-   "summary": "Powers becomes sole head of the NBC sketch series' talent department, while Schwartz is upped to producer The post ‘SNL’ Promotes Keri Powers and Rebecca Schwartz Ahead of Season 52 Premiere appeared first on TheWrap .",
-   "link": "https://www.thewrap.com/creative-content/tv-shows/snl-promotions-keri-powers-rebecca-schwartz-nbc/",
-   "outlet": "The Wrap",
-   "feed_region": "americas",
-   "published": "2026-09-26T01:30:00+01:00"
-  },
-  {
-   "key": "oliviarodrigosunraveledtoursetlisteverysongplayedonopeningnightinconne",
-   "title": "Olivia Rodrigo’s ‘Unraveled’ Tour Setlist: Every Song Played on Opening Night in Connecticut",
-   "summary": "Olivia Rodrigo officially kicked off the “Unraveled” tour on Friday night with her first show at PeoplesBank Arena in Hartford, CT. Scroll down to see the setlist as it’s being updated live. The 86-date tour is in support of Rodrigo’s third album “You Seem Pretty Sad for a Girl So in Love,” which she released […]",
-   "link": "https://variety.com/2026/music/news/olivia-rodrigo-unraveled-tour-setlist-opening-connecticut-1236875900/",
-   "outlet": "Variety",
-   "feed_region": "americas",
-   "published": "2026-09-26T01:27:23+01:00"
-  },
-  {
-   "key": "leaksshowthatmetasnewaiagentreliedonrealpeopletomakecalls",
-   "title": "Leaks Show That Meta’s New AI Agent Relied on Real People to Make Calls",
-   "summary": "Reports indicate Muse was routing calls the AI was supposedly making to humans in call centers.",
-   "link": "https://www.cnet.com/tech/services-and-software/leaks-metas-new-ai-agent-muse-real-people-call-centers/",
-   "outlet": "CNET News",
-   "feed_region": "global",
-   "published": "2026-09-26T01:13:27+01:00"
-  },
-  {
-   "key": "what60minuteswasmissinginitsfirsttwonewepisodesaccordingtoitsexmanagin",
-   "title": "What ‘60 Minutes’ Was Missing In Its First Two New Episodes, According to Its Ex-Managing Editor",
-   "summary": "Guy Campanile, a famously exacting 34-year veteran of CBS News, offered his view of the new season — and it’s less bleak than you might think.",
-   "link": "https://www.hollywoodreporter.com/business/business-news/what-60-minutes-was-missing-in-its-first-two-new-episodes-according-to-its-ex-managing-editor-1236709835/",
-   "outlet": "Hollywood Reporter",
-   "feed_region": "americas",
-   "published": "2026-09-26T00:49:22+01:00"
-  },
-  {
-   "key": "chrishansengiveshisunfilteredtakeonrobertpattinsonsprimetimeabsolutely",
-   "title": "Chris Hansen Gives His Unfiltered Take on Robert Pattinson’s ‘Primetime’: ‘Absolutely a Fictional Portrayal’",
-   "summary": "\"If this is a love letter, I'd hate to get a poison pen letter from this director,\" the former \"To Catch a Predator\" host adds The post Chris Hansen Gives His Unfiltered Take on Robert Pattinson’s ‘Primetime’: ‘Absolutely a Fictional Portrayal’ appeared first on TheWrap .",
-   "link": "https://www.thewrap.com/creative-content/movies/chris-hansen-responds-primetime-movie/",
-   "outlet": "The Wrap",
-   "feed_region": "americas",
-   "published": "2026-09-26T00:49:10+01:00"
-  },
-  {
-   "key": "taylorswiftbreakstwospotifyrecordsfor2026includingmoststreamedfemalear",
-   "title": "Taylor Swift Breaks Two Spotify Records for 2026, Including Most-Streamed Female Artist in a Day",
-   "summary": "Taylor Swift has broken two Spotify records for 2026, including most-streamed female artist in a day. Swift broke the records following the midnight release of “The Life of a Showgirl: Encore,” which featured four new songs, including lead single “Patient Zero.” That song broke the record for the most-streamed song...",
-   "link": "https://variety.com/2026/music/news/taylor-swift-breaks-spotify-records-most-streamed-female-1236876086/",
-   "outlet": "Variety",
-   "feed_region": "americas",
-   "published": "2026-09-26T00:43:56+01:00"
-  },
-  {
-   "key": "fivehiltonallinclusiveresortsfordestinationweddingsfrommexicotothedomi",
-   "title": "Five Hilton All-Inclusive Resorts for Destination Weddings: From Mexico to the Dominican Republic",
-   "summary": "Celebrities have long understood that sometimes the best wedding venue requires a passport. George and Amal Clooney turned Venice into the backdrop for their multi-day 2014 celebration, Priyanka Chopra and Nick Jonas took over Jodhpur’s Umaid Bhawan Palace for their lavish 2018 nuptials, and Kourtney Kardashian and...",
-   "link": "https://variety.com/2026/shopping/news/best-hilton-hotels-destination-weddings-book-online-1236875965/",
-   "outlet": "Variety",
-   "feed_region": "americas",
-   "published": "2026-09-26T00:36:41+01:00"
-  },
-  {
-   "key": "thetonightshowisbringingbackitsbillionairemicrodramasatireforasecondse",
-   "title": "‘The Tonight Show’ Is Bringing Back Its Billionaire Microdrama Satire for a Second Season",
-   "summary": "‘Who Billionaire? Me Billionaire' will premiere during the upcoming Sunday episode of Jimmy Fallon’s late-night show.",
-   "link": "https://www.hollywoodreporter.com/tv/tv-news/the-tonight-show-microdrama-second-season-1236710367/",
-   "outlet": "Hollywood Reporter",
-   "feed_region": "americas",
-   "published": "2026-09-26T00:36:26+01:00"
-  },
-  {
-   "key": "insideiconichorrorgamesilenthillsscottishmakeover",
-   "title": "Inside iconic horror game Silent Hill's Scottish makeover",
-   "summary": "One of gaming's biggest horror franchises has come to the UK. Can it live up to the original?",
-   "link": "https://www.bbc.co.uk/news/articles/ckvgyzjpy2eno?at_medium=RSS&at_campaign=rss",
-   "outlet": "BBC Technology",
-   "feed_region": "uk",
-   "published": "2026-09-26T00:34:20+01:00"
-  },
-  {
-   "key": "crusoeabandons125bplantouseboomturbinesataidatacenters",
-   "title": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
-   "summary": "Boom Supersonic CEO Blake Scholl said the company's new stationary power plants were no longer in Crusoe's near-term plans.",
-   "link": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/",
-   "outlet": "TechCrunch",
-   "feed_region": "global",
-   "published": "2026-09-26T00:11:10+01:00"
-  },
-  {
-   "key": "insidethefbihackagentsfearfulandangryafterdangerousdatabreach",
-   "title": "Inside the FBI hack: Agents fearful and angry after 'dangerous' data breach",
-   "summary": "Current and former agents speak to the BBC about the devastating impact of the FBI hack.",
-   "link": "https://www.bbc.co.uk/news/articles/cm4gjjlgzdjgo?at_medium=RSS&at_campaign=rss",
-   "outlet": "BBC Technology",
-   "feed_region": "uk",
-   "published": "2026-09-26T00:05:40+01:00"
-  },
-  {
-   "key": "automattichasanewboardafterfailedattempttoputceoonleave",
-   "title": "Automattic has a new board after failed attempt to put CEO on leave",
-   "summary": "After days of upheaval at Automattic, following a failed attempt to remove CEO Matt Mullenweg, the company has a new board.",
-   "link": "https://techcrunch.com/2026/09/25/automattic-has-a-new-board-after-failed-attempt-to-put-ceo-on-leave/",
-   "outlet": "TechCrunch",
-   "feed_region": "global",
-   "published": "2026-09-26T00:04:34+01:00"
-  },
-  {
-   "key": "whitehouseclaimsprotrumpaditpaidfoxtoairwaspublicserviceannouncement",
-   "title": "White House claims pro-Trump ad it paid Fox to air was ‘public service announcement’",
-   "summary": "Some Democrats say taxpayer-funded ad could be illegal government propaganda aimed at influencing voters The White House on Friday defended its decision to use taxpayer funds to buy airtime on Fox News for a White House-produced, pro-Trump ad that some Democrats said could be illegal government propaganda aimed at...",
-   "link": "https://www.theguardian.com/us-news/2026/sep/25/white-house-pro-trump-ad-fox",
-   "outlet": "Guardian Media",
-   "feed_region": "uk",
-   "published": "2026-09-26T00:02:35+01:00"
-  },
-  {
-   "key": "cantrumpeverbewronghispicktoleadfdarefusedtosay",
-   "title": "Can Trump ever be wrong? His pick to lead FDA refused to say.",
-   "summary": "Heidi Overton faced questions focused on vaccines, birth control, and vapes.",
-   "link": "https://arstechnica.com/health/2026/09/can-trump-ever-be-wrong-his-pick-to-lead-fda-refused-to-say/",
-   "outlet": "Ars Technica",
-   "feed_region": "global",
-   "published": "2026-09-26T00:00:26+01:00"
-  },
-  {
-   "key": "controlresonantteamonreversesymmetryofswitchingfromjessetodylanasseque",
-   "title": "‘Control Resonant’ Team on ‘Reverse Symmetry’ of Switching From Jesse to Dylan as Sequel Game’s New Protagonist",
-   "summary": "Following a nearly seven-year development journey, Remedy Entertainment has unleashed the sequel to its 2019 hit video game “Control.” Released Thursday for Steam, the Epic Games Store, PlayStation 5 and Xbox Series X and S, “Control Resonant” picks up after Jesse Faden, the protagonist of the original “Control”...",
-   "link": "https://variety.com/2026/gaming/news/control-resonant-dylan-jesse-zoe-story-1236875720/",
-   "outlet": "Variety",
-   "feed_region": "americas",
-   "published": "2026-09-26T00:00:00+01:00"
-  },
-  {
-   "key": "insideryanmurphysuniversehowdirectormaxwinklerfoundcreativemeaninginli",
-   "title": "Inside Ryan Murphy’s Universe: How Director Max Winkler Found Creative Meaning in ‘Lizzie Borden,’ ‘Love Story’ and More",
-   "summary": "In 2019, Max Winkler was an indie film director about to level up. Having cut his teeth directing sitcoms in the ’10s — including “New Girl,” “Brooklyn Nine-Nine” and “Fresh Off the Boat” — 2017’s dark comedy “Flower” was warmly received by audiences. His next film was the gritty boxing drama “Jungleland,” which...",
-   "link": "https://variety.com/2026/tv/features/lizzie-borden-director-max-winkler-ryan-murphy-1236875327/",
-   "outlet": "Variety",
-   "feed_region": "americas",
-   "published": "2026-09-25T23:54:35+01:00"
-  },
-  {
-   "key": "unsecuredopenaiagentsposted53userimagesontheinternetwithoutthelabsknow",
-   "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge",
-   "summary": "AI agents operating in OpenAI's research environment posted user images on public image-hosting sites without the lab's knowledge.",
-   "link": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
-   "outlet": "TechCrunch",
-   "feed_region": "global",
-   "published": "2026-09-25T23:20:47+01:00"
   }
  ]
 }
