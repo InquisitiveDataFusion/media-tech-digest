@@ -1,0 +1,508 @@
+{
+  "schema": 1,
+  "iso": "2026-10-08",
+  "headline": "Paramount and Warner Bros. Discovery complete historic 110 billion dollar merger",
+  "date_line": "Thursday 08 October 2026 · covering Mon 05 Oct to Wed 07 Oct",
+  "footer_note": "Built from 33 cited articles across 15 outlets. Written by gemini-3.1-flash-lite, gemini-3.5-flash.",
+  "model": "gemini-3.1-flash-lite, gemini-3.5-flash",
+  "backfilled": false,
+  "generated_at": "2026-10-08T08:25:31+01:00",
+  "digest": {
+    "headline": "Paramount and Warner Bros. Discovery complete historic 110 billion dollar merger",
+    "lead": "The media landscape has shifted as Paramount and Warner Bros. Discovery finalised their massive merger in North America. Meanwhile, UK broadcasters Sky and Bauer Media have integrated their streaming and audio inventory into Amazon Ads to expand advertising reach.",
+    "glance": [
+      {
+        "text": "Sky Media has integrated its UK and Ireland streaming inventory with Amazon Ads.",
+        "section": "deals",
+        "refs": [
+          1
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "Bauer Media has made its UK audio advertising inventory available through Amazon Ads.",
+        "section": "radio",
+        "refs": [
+          2,
+          3
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "A poll shows public support for a BBC household levy depends on keeping Freeview terrestrial television.",
+        "section": "regulation",
+        "refs": [
+          4,
+          5
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "ITVX reached three billion streams in 2026 on 9 September, two months faster than last year.",
+        "section": "results",
+        "refs": [
+          6,
+          7
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "Ofcom is investigating Meta over Instagram Instants safety checks under the Online Safety Act.",
+        "section": "regulation",
+        "refs": [
+          8
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "Sky Sports is introducing live subtitles and descriptive audio to its Premier League coverage.",
+        "section": "tech",
+        "refs": [
+          9
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "A study by Roku reveals that one third of UK television viewers now only watch streaming services.",
+        "section": "audience",
+        "refs": [
+          10
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "Paramount and Warner Bros. Discovery have completed their $110 billion merger to form a combined company called Skydance.",
+        "section": "deals",
+        "refs": [
+          11,
+          12
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "Fitch has downgraded the credit ratings of Paramount and Warner Bros. Discovery, citing high leverage and integration risks.",
+        "section": "results",
+        "refs": [
+          13,
+          14
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "Google has signed a 20-year agreement with Constellation to update six US nuclear power plant sites for its data centres.",
+        "section": "tech",
+        "refs": [
+          15
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "Five major Canadian broadcasters have formed the Canadian Coalition for Connected TV to launch a shared buying initiative.",
+        "section": "deals",
+        "refs": [
+          16
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "Microsoft and Nvidia have launched the Surface Laptop Ultra, a premium computer built specifically for artificial intelligence.",
+        "section": "tech",
+        "refs": [
+          17,
+          18
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "Sinclair Broadcast Group has launched a new Substack publication called The National Press to package local TV reporting.",
+        "section": "audience",
+        "refs": [
+          19,
+          20
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "A trade group has asked the FCC to consider the impact on Latino audiences regarding Spanish Broadcasting System's bankruptcy plan.",
+        "section": "radio",
+        "refs": [
+          21
+        ],
+        "region": "americas"
+      }
+    ],
+    "sections": [
+      {
+        "id": "deals",
+        "paragraphs": [
+          "Sky Media has partnered with Amazon Ads to make its UK and Ireland streaming inventory available through Amazon Ads Agent. This gives advertisers access to Sky entertainment, drama, sport, and news channels. [1]",
+          "Meanwhile, Disney has agreed to license select titles, including Percy Jackson and the Olympians, to rival streaming platform Netflix. [25, 33]"
+        ],
+        "region": "uk"
+      },
+      {
+        "id": "regulation",
+        "paragraphs": [
+          "Ofcom is investigating Meta for potential breaches of the UK Online Safety Act. The regulator is examining whether Meta conducted adequate risk assessments before launching its Instagram Instants feature. [8]",
+          "Separately, a poll for Broadcast 2040+ found that public support for a BBC household levy is closely linked to the continued availability of Freeview terrestrial television. [31, 56]"
+        ],
+        "region": "uk"
+      },
+      {
+        "id": "results",
+        "paragraphs": [
+          "ITV announced that its streaming service ITVX surpassed three billion streams for 2026 on 9 September. The platform reached this milestone two months faster than it did in 2025. [49, 54]",
+          "Additionally, a study by Roku found that one third of UK television viewers now exclusively watch streaming services. [10]"
+        ],
+        "region": "uk"
+      },
+      {
+        "id": "deals",
+        "paragraphs": [
+          "Paramount has finalised its $110 billion acquisition of Warner Bros. Discovery, creating a combined media giant named Skydance. The transaction brings together major film studios alongside prominent television networks such as CBS, CNN, MTV and the Food Network. RedBird invested an additional $4 billion to support the takeover, bringing its total commitment to $6 billion.",
+          "As part of the post-merger strategy, Skydance plans to unify HBO Max and Paramount Plus into a single streaming service over time. However, building the necessary technology stack is expected to take a while. The newly appointed heads of the motion picture group have pledged that both Paramount Pictures and Warner Bros. will continue to build and release their own films.",
+          "The deal has received positive feedback from President Donald Trump, who praised the transaction and the leadership team. Meanwhile, a longshot bid by subscribers to block the merger has been filed with the Supreme Court. The combined company faces the challenge of managing an $80 billion debt load while attempting to achieve $6 billion in cost savings."
+        ],
+        "region": "americas"
+      },
+      {
+        "id": "results",
+        "paragraphs": [
+          "Fitch Ratings downgraded the credit ratings of both Paramount and Warner Bros. Discovery immediately after the transaction closed. The ratings agency pointed to materially higher leverage and significant execution risks. It also highlighted uncertainty surrounding the company's ability to successfully achieve its cost-saving targets.",
+          "Skydance leadership has already warned staff that layoffs are on the horizon. A joint memo from chief executive David Ellison and co-chief executive Ynon Kreiz confirmed that job cuts will be made to streamline the combined business."
+        ],
+        "region": "americas"
+      },
+      {
+        "id": "tech",
+        "paragraphs": [
+          "Google has partnered with Constellation in a 20-year agreement to update six nuclear power plant sites across the United States. The deal aims to secure clean electricity for Google's power-hungry data centres. In the consumer space, Google is launching its Xreal Aura transparent XR glasses to compete directly with Meta's wearable devices.",
+          "Microsoft has unveiled its Surface Laptop Ultra, developed in partnership with Nvidia. The premium laptops run on Nvidia's RTX Spark chips and are designed to run advanced artificial intelligence models. The entry-level model starts at $2,599.",
+          "Google has also acknowledged that its new Intel-based Googlebook laptops may experience issues running certain Android apps. This admission came on the day the devices hit the market, despite previous marketing emphasizing full access to the Play Store."
+        ],
+        "region": "americas"
+      },
+      {
+        "id": "regulation",
+        "paragraphs": [
+          "The legal battle between Disney and the Federal Communications Commission has moved to the federal courts. Disney is attempting to block the agency from reviewing its broadcast licences. The company's top lawyer, Horacio Gutiérrez, is leading the First Amendment clash against the administration.",
+          "In Canada, Telus and AST SpaceMobile have completed their first successful satellite-to-smartphone integration test. Meanwhile, Disney+ Canada has launched an out-of-home advertising campaign to make its Hulu content more visible to local subscribers."
+        ],
+        "region": "americas"
+      }
+    ],
+    "people_moves": [
+      {
+        "text": "David Brindley, director of programmes, Channel 4",
+        "refs": [
+          22,
+          23
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "Chris Stewart, VP of content sales, A+E Global Media",
+        "refs": [
+          24
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "Mark Thompson, remaining as CEO of CNN under the new Skydance structure",
+        "refs": [
+          25,
+          26
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "Bari Weiss, appointed to run CBS News under Skydance",
+        "refs": [
+          26,
+          27
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "Casey Bloys, signed a multiyear extension to oversee HBO Max and Paramount+ as co-chair and chief content officer for Skydance DTC",
+        "refs": [
+          28,
+          29
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "Dana Goldberg and Josh Greenstein, appointed as co-chairs of the Skydance Motion Picture Group",
+        "refs": [
+          30,
+          27
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "Channing Dungey, poised for an expanded role overseeing Paramount and Warner Bros. Discovery cable networks",
+        "refs": [
+          31
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "Luis Silberwasser, exiting TNT Sports as CBS Sports chief David Berson takes over the combined sports division",
+        "refs": [
+          32
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "Mary Louise Kelly, stepping down as host of NPR's All Things Considered and leaving the podcast Sources & Methods",
+        "refs": [
+          33
+        ],
+        "region": "americas"
+      }
+    ],
+    "coming_up": [
+      {
+        "date": "10 Oct 2026",
+        "text": "Sky Sports rolls out live subtitles and descriptive audio for Premier League coverage",
+        "refs": [
+          9
+        ],
+        "region": "uk"
+      }
+    ]
+  },
+  "articles": [
+    {
+      "ref": 1,
+      "title": "Sky brings streaming inventory to Amazon Ads",
+      "link": "https://www.advanced-television.com/2026/10/06/sky-brings-streaming-inventory-to-amazon-ads/",
+      "outlet": "Advanced Television",
+      "region": "uk"
+    },
+    {
+      "ref": 2,
+      "title": "Bauer Media ads inventory now on Amazon Ads",
+      "link": "https://www.advanced-television.com/2026/10/07/bauer-media-ads-inventory-now-on-amazon-ads/",
+      "outlet": "Advanced Television",
+      "region": "uk"
+    },
+    {
+      "ref": 3,
+      "title": "Bauer brands become available through Amazon Ads",
+      "link": "https://radiotoday.co.uk/2026/10/bauer-brands-become-available-through-amazon-ads/",
+      "outlet": "RadioToday",
+      "region": "uk"
+    },
+    {
+      "ref": 4,
+      "title": "Poll links support for BBC household levy to future of Freeview",
+      "link": "https://www.broadbandtvnews.com/2026/10/06/poll-links-support-for-bbc-household-levy-to-future-of-freeview/",
+      "outlet": "Broadband TV News",
+      "region": "uk"
+    },
+    {
+      "ref": 5,
+      "title": "Poll: A BBC levy must guarantee everyone can watch it",
+      "link": "https://www.advanced-television.com/2026/10/06/study-highlights-freeviews-critical-role-in-future-tv-distribution-and-bbc-funding/",
+      "outlet": "Advanced Television",
+      "region": "uk"
+    },
+    {
+      "ref": 6,
+      "title": "ITVX surpasses 3bn streams for 2026",
+      "link": "https://www.advanced-television.com/2026/10/06/itvx-surpasses-3bn-streams-for-2026/",
+      "outlet": "Advanced Television",
+      "region": "uk"
+    },
+    {
+      "ref": 7,
+      "title": "ITVX passes 3 billion streams two months earlier",
+      "link": "https://www.broadbandtvnews.com/2026/10/06/itvx-passes-3-billion-streams-two-months-earlier/",
+      "outlet": "Broadband TV News",
+      "region": "uk"
+    },
+    {
+      "ref": 8,
+      "title": "Ofcom investigates Meta over Instagram Instants safety checks",
+      "link": "https://www.theguardian.com/technology/2026/oct/06/ofcom-investigates-meta-instagram-instants-safety-checks",
+      "outlet": "Guardian Media",
+      "region": "uk"
+    },
+    {
+      "ref": 9,
+      "title": "Sky Sports adds live subtitles, descriptive audio to EPL coverage",
+      "link": "https://www.advanced-television.com/2026/10/08/sky-sports-adds-live-subtitles-descriptive-audio-to-epl-coverage/",
+      "outlet": "Advanced Television",
+      "region": "uk"
+    },
+    {
+      "ref": 10,
+      "title": "Survey: third of UK TV viewers only watch streaming services",
+      "link": "https://www.tvbeurope.com/media-consumption/survey-third-of-uk-tv-viewers-only-watch-streaming-services",
+      "outlet": "TVBEurope",
+      "region": "uk"
+    },
+    {
+      "ref": 11,
+      "title": "Paramount and Warner Bros. Discovery complete $110 billion media megamerger",
+      "link": "https://www.theverge.com/entertainment/1005480/paramount-warner-bros-discovey-merger-closed",
+      "outlet": "The Verge",
+      "region": "americas"
+    },
+    {
+      "ref": 12,
+      "title": "Paramount closes historic Warner Bros. merger to form Skydance",
+      "link": "https://techcrunch.com/2026/10/06/paramount-closes-historic-warner-bros-merger-to-form-skydance/",
+      "outlet": "TechCrunch",
+      "region": "americas"
+    },
+    {
+      "ref": 13,
+      "title": "Fitch Downgrades Paramount, Warner Bros. Discovery Credit Ratings as Merger Closes",
+      "link": "https://www.thewrap.com/industry-news/business/paramount-warner-bros-discovery-credit-ratings-fitch-downgrade/",
+      "outlet": "The Wrap",
+      "region": "americas"
+    },
+    {
+      "ref": 14,
+      "title": "Fitch Downgrades Paramount, WBD Credit Ratings As Merger Closes",
+      "link": "https://tvnewscheck.com/business/article/fitch-downgrades-paramount-wbd-credit-ratings-as-merger-closes/",
+      "outlet": "TVNewsCheck",
+      "region": "americas"
+    },
+    {
+      "ref": 15,
+      "title": "Google’s power-hungry data centers crave nuclear energy",
+      "link": "https://www.theverge.com/science/1006082/google-nuclear-energy-power-purchase-agreement-constellation",
+      "outlet": "The Verge",
+      "region": "americas"
+    },
+    {
+      "ref": 16,
+      "title": "Broadcasters form the Canadian Coalition for Connected TV",
+      "link": "https://mediaincanada.com/2026/10/06/broadcasters-form-the-canadian-coalition-for-connected-tv/",
+      "outlet": "Media in Canada",
+      "region": "americas"
+    },
+    {
+      "ref": 17,
+      "title": "The Surface Laptop Ultra Is Here: Microsoft and Nvidia Built a Premium Computer for the AI Age",
+      "link": "https://www.cnet.com/tech/computing/microsoft-surface-laptop-ultra-release-nvidia-rtx-spark/",
+      "outlet": "CNET News",
+      "region": "americas"
+    },
+    {
+      "ref": 18,
+      "title": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11",
+      "link": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/",
+      "outlet": "TechCrunch",
+      "region": "americas"
+    },
+    {
+      "ref": 19,
+      "title": "Sinclair’s new Substack repackages its local TV reporting into a video podcast",
+      "link": "https://www.niemanlab.org/2026/10/sinclairs-new-substack-repackages-its-local-tv-reporting-into-a-video-podcast/",
+      "outlet": "Nieman Lab",
+      "region": "americas"
+    },
+    {
+      "ref": 20,
+      "title": "Sinclair & New Media Launch The National Press",
+      "link": "https://tvnewscheck.com/journalism/article/sinclair-new-media-launch-the-national-press/",
+      "outlet": "TVNewsCheck",
+      "region": "americas"
+    },
+    {
+      "ref": 21,
+      "title": "HMC Asks FCC To Weigh Latino Impact Of SBS Handoff",
+      "link": "https://radioink.com/2026/10/07/hmc-asks-fcc-to-weigh-latino-impact-of-sbs-handoff/",
+      "outlet": "Radio Ink",
+      "region": "americas"
+    },
+    {
+      "ref": 22,
+      "title": "Twofour CEO David Brindley appointed director of programmes at Channel 4",
+      "link": "https://www.c21media.net/news/twofour-ceo-david-brindley-appointed-director-of-programmes-at-channel-4/",
+      "outlet": "C21Media",
+      "region": "uk"
+    },
+    {
+      "ref": 23,
+      "title": "Brindley named Director of Programmes at Channel 4",
+      "link": "https://www.advanced-television.com/2026/10/08/brindley-named-director-of-programmes-at-channel-4/",
+      "outlet": "Advanced Television",
+      "region": "uk"
+    },
+    {
+      "ref": 24,
+      "title": "Banijay Rights exec Chris Stewart joins A+E Global Media as VP of content sales",
+      "link": "https://www.c21media.net/news/banijay-rights-exec-chris-stewart-joins-ae-global-media-as-vp-of-content-sales/",
+      "outlet": "C21Media",
+      "region": "uk"
+    },
+    {
+      "ref": 25,
+      "title": "CNN’s boss will remain as Paramount and WBD merge into Skydance",
+      "link": "https://www.theverge.com/entertainment/1004734/cnn-ceo-mark-thompson-paramount-warner-bros",
+      "outlet": "The Verge",
+      "region": "americas"
+    },
+    {
+      "ref": 26,
+      "title": "Mark Thompson Stays Atop CNN as Skydance Keeps Bari Weiss at CBS News",
+      "link": "https://www.thewrap.com/media-platforms/journalism/mark-thompson-cnn-bari-weiss-cbs-skydance-leadership/",
+      "outlet": "The Wrap",
+      "region": "americas"
+    },
+    {
+      "ref": 27,
+      "title": "Here’s Skydance’s New Leadership Team: Mark Thompson and Bari Weiss to Separately Run CNN and CBS News",
+      "link": "https://www.thewrap.com/industry-news/business/skydance-leadership-team-paramount-warner-bros-bari-weiss-mark-thompson-james-gunn-casey-bloys/",
+      "outlet": "The Wrap",
+      "region": "americas"
+    },
+    {
+      "ref": 28,
+      "title": "Casey Bloys Extends Deal to Oversee HBO Max and Paramount+ at Skydance",
+      "link": "https://www.thewrap.com/industry-news/deals-ma/casey-bloys-extends-deal-skydance/",
+      "outlet": "The Wrap",
+      "region": "americas"
+    },
+    {
+      "ref": 29,
+      "title": "Casey Bloys Signs New Multiyear Deal to Continue Overseeing HBO Max and Paramount+ As He Assumes His New Role at Skydance",
+      "link": "https://variety.com/2026/tv/news/casey-bloys-new-deal-hbo-max-paramount-skydance-1236899664/",
+      "outlet": "Variety",
+      "region": "americas"
+    },
+    {
+      "ref": 30,
+      "title": "Skydance Film Heads Dana Goldberg and Josh Greenstein Set Studios Plan, Pledge Paramount and Warner Bros. Will ‘Build and Release’ Own Films",
+      "link": "https://variety.com/2026/film/news/skydance-dana-goldberg-josh-greenstein-paramount-warner-bros-1236904003/",
+      "outlet": "Variety",
+      "region": "americas"
+    },
+    {
+      "ref": 31,
+      "title": "Channing Dungey Poised For Expanded Post-Merger Role Overseeing Paramount & WBD Cable Networks",
+      "link": "https://tvnewscheck.com/business/article/channing-dungey-poised-for-expanded-post-merger-role-overseeing-paramount-wbd-cable-networks/",
+      "outlet": "TVNewsCheck",
+      "region": "americas"
+    },
+    {
+      "ref": 32,
+      "title": "Luis Silberwasser Exiting TNT Sports As Paramount-WB Merger Closes",
+      "link": "https://tvnewscheck.com/people/article/luis-silberwasser-exiting-tnt-sports-as-paramount-wb-merger-closes/",
+      "outlet": "TVNewsCheck",
+      "region": "americas"
+    },
+    {
+      "ref": 33,
+      "title": "NPR’s Kelly Leaving ‘All Things Considered’",
+      "link": "https://radioink.com/2026/10/05/nprs-kelly-leaving-all-things-considered/",
+      "outlet": "Radio Ink",
+      "region": "americas"
+    }
+  ]
+}
