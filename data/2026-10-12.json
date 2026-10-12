@@ -1,0 +1,490 @@
+{
+  "schema": 1,
+  "iso": "2026-10-12",
+  "headline": "BBC and Channel 4 in talks over potential commercial tie-up",
+  "date_line": "Monday 12 October 2026 · covering Thu 08 Oct to Sun 11 Oct",
+  "footer_note": "Built from 29 cited articles across 16 outlets. Written by gemini-3-flash-preview, gemini-3.1-flash-lite.",
+  "model": "gemini-3-flash-preview, gemini-3.1-flash-lite",
+  "backfilled": false,
+  "generated_at": "2026-10-12T08:22:35+01:00",
+  "digest": {
+    "headline": "BBC and Channel 4 in talks over potential commercial tie-up",
+    "lead": "The BBC and Channel 4 have entered preliminary discussions with the UK government regarding a potential merger of their commercial operations. This move aims to combine advertising, streaming services, and specific channels to address broader cost-cutting requirements.",
+    "glance": [
+      {
+        "text": "BBC and Channel 4 discuss potential commercial tie-up",
+        "section": "regulation",
+        "refs": [
+          1,
+          2
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "BBC Radio 4 axes long-running shows amid budget cuts",
+        "section": "radio",
+        "refs": [
+          3,
+          4
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "David Brindley appointed Channel 4 Director of Programmes",
+        "section": "people",
+        "refs": [
+          5
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "Prime Video joins Barb's CFlight measurement system",
+        "section": "tech",
+        "refs": [
+          6
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "Sky Sports introduces live subtitles and descriptive audio",
+        "section": "tech",
+        "refs": [
+          7,
+          8
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "ITV Studios expands partnership with Samsung TV Plus",
+        "section": "deals",
+        "refs": [
+          9
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "BBC apologises to PinkNews couple over defamatory claims",
+        "section": "regulation",
+        "refs": [
+          10
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "Skydance has consolidated DC Comics and consumer products into a single division led by Josh Silverman.",
+        "section": "deals",
+        "refs": [
+          11
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "Amazon rebranded its tablet line to Alexa Tablet and added full access to the Google Play store.",
+        "section": "tech",
+        "refs": [
+          12,
+          13
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "Corus Entertainment completed its recapitalisation plan and appointed a new board chaired by Maryann Turcke.",
+        "section": "deals",
+        "refs": [
+          14,
+          15
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "The Emmy Awards broadcast will move to Prime Video under a new six-year exclusive agreement.",
+        "section": "audience",
+        "refs": [
+          16
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "OpenAI is seeking to make ChatGPT ads a permanent fixture in agency media plans.",
+        "section": "tech",
+        "refs": [
+          17
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "The US Department of Justice is investigating the White House TV press pool for potential antitrust violations.",
+        "section": "regulation",
+        "refs": [
+          18
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "Meta has banned all advertising and marketing from TikTok owner ByteDance on its platforms.",
+        "section": "tech",
+        "refs": [
+          19
+        ],
+        "region": "americas"
+      }
+    ],
+    "sections": [
+      {
+        "id": "regulation",
+        "paragraphs": [
+          "The BBC and Channel 4 are exploring a joint venture that could consolidate their commercial assets. Discussions with the government reportedly include merging Channel 4's advertising business, streaming services, and channels like E4 and Film4 with the BBC's UKTV.",
+          "This strategy is part of a wider effort to reduce costs across public service broadcasting. The move follows ongoing financial pressures facing both organisations."
+        ],
+        "region": "uk"
+      },
+      {
+        "id": "radio",
+        "paragraphs": [
+          "BBC Radio 4 is implementing significant budget reductions, resulting in the cancellation of several long-running programmes. The corporation is cutting its speech audio budget by 10 per cent, leading to the axing of shows including You and Yours.",
+          "These changes reflect a broader shift towards podcasting and digital-first content. The cuts are part of a wider 500 million pound savings plan."
+        ],
+        "region": "uk"
+      },
+      {
+        "id": "tech",
+        "paragraphs": [
+          "Amazon's Prime Video has become the first major streamer to integrate with Barb's CFlight measurement service. This inclusion allows streaming advertising campaigns to be evaluated within the same framework as linear television.",
+          "Meanwhile, the BBC is testing an AI-powered redesign for iPlayer to improve personalisation and content discovery. Sky Sports has also launched new accessibility features, including live descriptive audio and subtitles, for its Premier League coverage."
+        ],
+        "region": "uk"
+      },
+      {
+        "id": "deals",
+        "paragraphs": [
+          "Skydance officially closed its 110 billion dollar acquisition of Warner Bros Discovery on Tuesday. The merger combines major properties from Paramount and Warner Bros into a single entity. David Zaslav received a 606 million dollar payout as he departed the company he led for four years.",
+          "The new Skydance structure places DC Comics within a Products and Publishing division. This group also manages consumer products for both Paramount and Warner Bros. Analysts expect Skydance to become a net seller of local CBS stations to manage debt levels."
+        ],
+        "region": "americas"
+      },
+      {
+        "id": "tech",
+        "paragraphs": [
+          "Amazon has retired the Fire branding for its tablets in favour of the Alexa Tablet name. These new devices include a 12 Pro model designed to compete with the iPad Pro at a lower price point. Crucially, the tablets now support the Google Play store after Amazon killed its own app store.",
+          "OpenAI and Meta are competing directly with new AI agents named Dot and Muse. Meanwhile, Amazon announced it will stop using non-disclosure agreements when negotiating data centre deals with local governments. This move follows similar transparency efforts by Microsoft to build community trust."
+        ],
+        "region": "americas"
+      },
+      {
+        "id": "regulation",
+        "paragraphs": [
+          "Ten cable organisations have announced plans to sue the FCC to block the repeal of the broadcast TV ownership cap. The groups want to pause the order which removes the 39 percent national limit. The FCC chair also declined to take a position on the broadcasting of live executions.",
+          "In Canada, the CRTC has finalised new Rogers internet speeds for competitors. This follows the completion of the Corus Entertainment recapitalisation which saw the company become a subsidiary of Corus Entertainment Holdings."
+        ],
+        "region": "americas"
+      }
+    ],
+    "people_moves": [
+      {
+        "text": "David Brindley, Director of Programmes, Channel 4",
+        "refs": [
+          5
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "Kevin MacLellan, President of International and Global Content Distribution, leaving Paramount",
+        "refs": [
+          20
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "Gerhard Zeiler, President of International, leaving Warner Bros Discovery",
+        "refs": [
+          21
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "Fede Goldenberg, Head of Screen Gems, Sony Pictures Entertainment",
+        "refs": [
+          22
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "David Zaslav, departing CEO, Warner Bros Discovery",
+        "refs": [
+          23,
+          24
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "Maryann Turcke, Board Chair, Corus Entertainment Holdings",
+        "refs": [
+          14,
+          15
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "Josh Silverman, President of Skydance Products and Publishing, Skydance",
+        "refs": [
+          11
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "Kevin MacLellan, Head of Global Distribution and International, Paramount",
+        "refs": [
+          25
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "Scott Bakula, Lead Actor, CBS Detective Drama",
+        "refs": [
+          26
+        ],
+        "region": "americas"
+      }
+    ],
+    "coming_up": [
+      {
+        "date": "10 Oct",
+        "text": "Sky Sports launches live descriptive audio and subtitles",
+        "refs": [
+          7,
+          8
+        ],
+        "region": "uk"
+      },
+      {
+        "date": "14 Oct",
+        "text": "Dragon Ball Super: Beerus streams on Disney+ UK",
+        "refs": [
+          27
+        ],
+        "region": "uk"
+      },
+      {
+        "date": "Nov",
+        "text": "Boom Radio's new television advert campaign begins",
+        "refs": [
+          28
+        ],
+        "region": "uk"
+      },
+      {
+        "date": "12 Oct 2026",
+        "text": "Google reveals the new Fitbit Edge wearable device",
+        "refs": [
+          29
+        ],
+        "region": "americas"
+      }
+    ]
+  },
+  "articles": [
+    {
+      "ref": 1,
+      "title": "Report: BBC, Channel 4 talk to government about possible joint venture",
+      "link": "https://www.tvbeurope.com/business/report-bbc-channel-4-talk-to-government-about-possible-joint-venture",
+      "outlet": "TVBEurope",
+      "region": "uk"
+    },
+    {
+      "ref": 2,
+      "title": "BBC, Channel 4 discussing cost-cutting tie-up",
+      "link": "https://www.advanced-television.com/2026/10/08/bbc-channel-4-discussing-cost-cutting-tie-up/",
+      "outlet": "Advanced Television",
+      "region": "uk"
+    },
+    {
+      "ref": 3,
+      "title": "Cuts announced for several BBC Radio 4 programmes",
+      "link": "https://radiotoday.co.uk/2026/10/cuts-announced-for-several-bbc-radio-4-programmes/",
+      "outlet": "RadioToday",
+      "region": "uk"
+    },
+    {
+      "ref": 4,
+      "title": "BBC axes long-running Radio 4 show You and Yours in push towards podcasts",
+      "link": "https://www.theguardian.com/media/2026/oct/08/bbc-axes-radio-4-shows-you-and-yours-podcasts",
+      "outlet": "Guardian Media",
+      "region": "uk"
+    },
+    {
+      "ref": 5,
+      "title": "David Brindley named Channel 4 Director of Programmes",
+      "link": "https://www.broadbandtvnews.com/2026/10/08/david-brindley-named-channel-4-director-of-programmes/",
+      "outlet": "Broadband TV News",
+      "region": "uk"
+    },
+    {
+      "ref": 6,
+      "title": "Prime Video becomes first streamer to join Barb’s CFlight measurement",
+      "link": "https://www.broadbandtvnews.com/2026/10/08/prime-video-becomes-first-streamer-to-join-barbs-cflight-measurement/",
+      "outlet": "Broadband TV News",
+      "region": "uk"
+    },
+    {
+      "ref": 7,
+      "title": "Sky Sports introduces descriptive commentary and live subtitles for Premier League",
+      "link": "https://www.broadbandtvnews.com/2026/10/08/sky-sports-introduces-descriptive-commentary-and-live-subtitles-for-premier-league/",
+      "outlet": "Broadband TV News",
+      "region": "uk"
+    },
+    {
+      "ref": 8,
+      "title": "Sky Sports adds live subtitles, descriptive audio to EPL coverage",
+      "link": "https://www.advanced-television.com/2026/10/08/sky-sports-adds-live-subtitles-descriptive-audio-to-epl-coverage/",
+      "outlet": "Advanced Television",
+      "region": "uk"
+    },
+    {
+      "ref": 9,
+      "title": "Samsung TV Plus EMEA expands Zoo 55 deal",
+      "link": "https://www.advanced-television.com/2026/10/09/samsung-tv-plus-emea-expands-zoo-55-deal/",
+      "outlet": "Advanced Television",
+      "region": "uk"
+    },
+    {
+      "ref": 10,
+      "title": "BBC pays compensation to PinkNews couple over false sexual misconduct allegations",
+      "link": "https://www.theguardian.com/media/2026/oct/08/bbc-pays-compensation-pinknews-couple-false-sexual-misconduct-allegations-benjamin-cohen",
+      "outlet": "Guardian Media",
+      "region": "uk"
+    },
+    {
+      "ref": 11,
+      "title": "DC Comics Now Sits Within Skydance Products & Publishing Division Under Josh Silverman, Alongside Warner Bros. and Paramount Consumer Products Groups",
+      "link": "https://variety.com/2026/biz/news/dc-comics-skydance-products-publishing-division-warner-bros-paramount-1236906731/",
+      "outlet": "Variety",
+      "region": "americas"
+    },
+    {
+      "ref": 12,
+      "title": "Amazon's new Alexa tablets will have full access to Google Play",
+      "link": "https://www.engadget.com/2280936/amazon-alexa-tablets-access-google-play/",
+      "outlet": "Engadget",
+      "region": "americas"
+    },
+    {
+      "ref": 13,
+      "title": "Amazon's new Alexa Tablets drop the Fire branding but are more Android than ever",
+      "link": "https://arstechnica.com/gadgets/2026/10/amazons-new-alexa-tablets-drop-the-fire-branding-but-are-more-android-than-ever/",
+      "outlet": "Ars Technica",
+      "region": "americas"
+    },
+    {
+      "ref": 14,
+      "title": "Corus completes recapitalization plan, appoints new board",
+      "link": "https://playbackonline.ca/2026/10/09/corus-completes-recapitalization-plan-appoints-new-board/",
+      "outlet": "Playback",
+      "region": "americas"
+    },
+    {
+      "ref": 15,
+      "title": "Corus Entertainment completes recapitalization, appoints new board chaired by Maryann Turcke",
+      "link": "https://broadcastdialogue.com/corus-entertainment-completes-recapitalization-appoints-new-board-chaired-by-maryann-turcke/",
+      "outlet": "Broadcast Dialogue",
+      "region": "americas"
+    },
+    {
+      "ref": 16,
+      "title": "Cynopsis 10/07/2026: Skydance and Emmys and the FCC, oh my!",
+      "link": "https://www.cynopsis.com/cynopsis-10-07-2026-skydance-and-emmys-and-the-fcc-oh-my/",
+      "outlet": "Cynopsis",
+      "region": "americas"
+    },
+    {
+      "ref": 17,
+      "title": "OpenAI Wants ChatGPT Ads to Become a Permanent Line Item in Agency Media Plans",
+      "link": "https://www.adweek.com/media/openai-wants-chatgpt-ads-to-become-a-permanent-line-item-in-agency-media-plans/",
+      "outlet": "Adweek",
+      "region": "americas"
+    },
+    {
+      "ref": 18,
+      "title": "Justice Department Investigates White House TV Press Pool for ‘Proudly’ Boycotting Coverage",
+      "link": "https://www.thewrap.com/industry-news/public-policy-legal/justice-department-white-house-press-pool-boycott-antitrust-investigation/",
+      "outlet": "The Wrap",
+      "region": "americas"
+    },
+    {
+      "ref": 19,
+      "title": "Meta bans TikTok ads from its platforms in tit-for-tat row",
+      "link": "https://www.engadget.com/2281983/meta-bans-tiktok-ads/",
+      "outlet": "Engadget",
+      "region": "americas"
+    },
+    {
+      "ref": 20,
+      "title": "Paramount head of int’l Kevin MacLellan out following merger close",
+      "link": "https://www.c21media.net/news/paramount-head-of-intl-kevin-maclellan-out-following-merger-close/",
+      "outlet": "C21Media",
+      "region": "uk"
+    },
+    {
+      "ref": 21,
+      "title": "WBD int’l president Gerhard Zeiler confirms departure following Skydance merger",
+      "link": "https://www.c21media.net/news/wbd-intl-president-gerhard-zeiler-confirms-departure-following-skydance-merger/",
+      "outlet": "C21Media",
+      "region": "uk"
+    },
+    {
+      "ref": 22,
+      "title": "Fede Goldenberg leaves YouTube to join Sony’s Screen Gems label",
+      "link": "https://www.c21media.net/news/fede-goldenberg-leaves-youtube-to-join-sonys-screen-gems-label/",
+      "outlet": "C21Media",
+      "region": "uk"
+    },
+    {
+      "ref": 23,
+      "title": "David Zaslav Gets $606 Million Payout From Paramount-Warner Bros. Merger",
+      "link": "https://variety.com/2026/tv/news/david-zaslav-exit-package-warner-bros-discovery-paramount-merger-1236905947/",
+      "outlet": "Variety",
+      "region": "americas"
+    },
+    {
+      "ref": 24,
+      "title": "David Zaslav Cashed Out More Than $600 Million in Warner Bros. Stock in Connection With Sale to Paramount",
+      "link": "https://www.hollywoodreporter.com/business/business-news/david-zaslav-skydance-sale-wbd-payout-1236725569/",
+      "outlet": "Hollywood Reporter",
+      "region": "americas"
+    },
+    {
+      "ref": 25,
+      "title": "Paramount Global Distribution and International Head Kevin MacLellan to Exit",
+      "link": "https://www.thewrap.com/industry-news/business/paramount-global-distribution-international-head-kevin-maclellan-exit/",
+      "outlet": "The Wrap",
+      "region": "americas"
+    },
+    {
+      "ref": 26,
+      "title": "Scott Bakula To Star In CBS Detective Drama",
+      "link": "https://deadline.com/2026/10/scott-bakula-detective-drama-development-cbs-dean-devlin-1237149665/",
+      "outlet": "TVNewsCheck",
+      "region": "americas"
+    },
+    {
+      "ref": 27,
+      "title": "Dragon Ball Super: Beerus on Disney+ UK",
+      "link": "https://www.advanced-television.com/2026/10/09/dragon-ball-super-beerus-on-disney-uk/",
+      "outlet": "Advanced Television",
+      "region": "uk"
+    },
+    {
+      "ref": 28,
+      "title": "First look: Boom Radio’s new television advert",
+      "link": "https://radiotoday.co.uk/2026/10/first-look-boom-radios-new-television-advert/",
+      "outlet": "RadioToday",
+      "region": "uk"
+    },
+    {
+      "ref": 29,
+      "title": "Google teases its new 'Fitbit Edge' wearable ahead of an October 12 reveal",
+      "link": "https://www.engadget.com/2282887/google-teases-its-new-fitbit-edge-wearable-ahead-of-an-october-12-reveal/",
+      "outlet": "Engadget",
+      "region": "americas"
+    }
+  ]
+}
