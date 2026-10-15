@@ -1,0 +1,506 @@
+{
+  "schema": 1,
+  "iso": "2026-10-15",
+  "headline": "Fox Shareholders Approve Roku Acquisition Amidst Broad Antitrust Probe",
+  "date_line": "Thursday 15 October 2026 · covering Mon 12 Oct to Wed 14 Oct",
+  "footer_note": "Built from 29 cited articles across 12 outlets. Written by gemini-3-flash-preview, gemini-3.1-flash-lite.",
+  "model": "gemini-3-flash-preview, gemini-3.1-flash-lite",
+  "backfilled": false,
+  "generated_at": "2026-10-15T06:56:05+01:00",
+  "digest": {
+    "headline": "Fox Shareholders Approve Roku Acquisition Amidst Broad Antitrust Probe",
+    "lead": "Fox shareholders have approved a 22 billion dollar acquisition of Roku while the US Department of Justice investigates major news networks for antitrust violations. Meanwhile, Samsung TV Plus has expanded its European content offering through a new multi-territory deal with BBC Studios.",
+    "glance": [
+      {
+        "text": "Samsung TV Plus is launching four BBC Studios FAST channels across 11 European markets including Germany and the Netherlands.",
+        "section": "deals",
+        "refs": [
+          1,
+          2,
+          3
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "CNN All Access will launch its subscription service in the UK and Canada on 20 October.",
+        "section": "tech",
+        "refs": [
+          4,
+          5
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "The BBC has commissioned a two-part documentary series about Harry Potter author JK Rowling from Rogan Scotland.",
+        "section": "deals",
+        "refs": [
+          6
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "Sky UK has acquired the animated preschool series Little Princess from Banijay Kids and Family.",
+        "section": "deals",
+        "refs": [
+          7
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "Ofcom reports that 55 percent of children play online games with strangers, causing concern for many parents.",
+        "section": "audience",
+        "refs": [
+          8
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "Sky streaming service NOW has introduced two new sports memberships starting at 19.99 pounds per month.",
+        "section": "tech",
+        "refs": [
+          9
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "ITV has acquired the crime dramas The Galway Bay Murders and Last King of the Cross.",
+        "section": "deals",
+        "refs": [
+          10
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "The BBC has dropped plans to build a new Archers studio in Birmingham.",
+        "section": "radio",
+        "refs": [
+          11
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "Fox Corporation shareholders approved the 22 billion dollar acquisition of streaming platform Roku.",
+        "section": "deals",
+        "refs": [
+          12,
+          13
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "The US Department of Justice is investigating ABC, CBS, NBC, CNN and Fox News for Sherman Act violations.",
+        "section": "regulation",
+        "refs": [
+          14
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "Apple unveiled HomeView, a 299 dollar smart home tablet, as it expands its artificial intelligence hardware portfolio.",
+        "section": "tech",
+        "refs": [
+          15,
+          16
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "CNN is launching its All Access subscription service in Canada and the UK to monetise international audiences.",
+        "section": "audience",
+        "refs": [
+          17,
+          18
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "Canadian news publishers have sued AI developer Anthropic for alleged copyright infringement through unauthorised content scraping.",
+        "section": "regulation",
+        "refs": [
+          19
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "Disney offered 20 million dollars for assets from Character.AI following the startup's bankruptcy filing.",
+        "section": "deals",
+        "refs": [
+          20
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "Corus Entertainment completed a recapitalization plan that eliminated approximately 500 million dollars in debt.",
+        "section": "results",
+        "refs": [
+          21
+        ],
+        "region": "americas"
+      }
+    ],
+    "sections": [
+      {
+        "id": "deals",
+        "paragraphs": [
+          "Samsung TV Plus and BBC Studios have agreed to launch four channels across 11 European markets. These include BBC Lifestyle and a dedicated EastEnders channel for the Benelux region. The deal expands the presence of British public service content on free ad-supported streaming platforms.",
+          "ITV Studios has secured global distribution rights for Incognito, a new social experiment format from Derren Brown. The show was originally produced for Channel 4. Meanwhile, the BBC has made its first acquisition of a Brazilian Globoplay original with the fantasy series Blood Red.",
+          "The BBC has renewed the legal drama The Split Up for a second season. It has also renewed the school drama Waterloo Road. These commissions come as the broadcaster seeks new entertainment formats for its primetime Saturday slots."
+        ],
+        "region": "uk"
+      },
+      {
+        "id": "tech",
+        "paragraphs": [
+          "CNN is launching its All Access subscription service in the UK on 20 October. This marks the first international expansion for the platform. It will offer a centralised destination for live and on-demand journalism.",
+          "Roku research suggests that interactive and home screen advertisements have a strong future in the UK market. Media planners agree that these formats are becoming more popular with consumers. Channel 4 is also experimenting with digital formats by launching its first branded microdrama."
+        ],
+        "region": "uk"
+      },
+      {
+        "id": "radio",
+        "paragraphs": [
+          "A study of sports news bulletins shows that football accounts for over 74 percent of talkSPORT coverage. This compares to roughly 30 percent on BBC Radio 5 Live. The data highlights the heavy reliance on men's football for commercial sports radio.",
+          "The BBC has cancelled plans for a new studio for The Archers in Birmingham. This decision may lead to the long running radio soap being recorded at a different location. The move follows wider cost cutting measures across the corporation."
+        ],
+        "region": "uk"
+      },
+      {
+        "id": "regulation",
+        "paragraphs": [
+          "The BBC is seeking a court order to force Donald Trump to sit for a deposition. This relates to a 10 billion dollar defamation lawsuit filed by the former president. Both parties had previously agreed to a date in October before legal delays occurred.",
+          "BBC content chief Kate Phillips has criticised the use of algorithms in commissioning. She argued that relying on data rather than human instinct creates uninspired programming. Phillips described algorithmically driven content as a creative carcass."
+        ],
+        "region": "uk"
+      },
+      {
+        "id": "regulation",
+        "paragraphs": [
+          "The US Department of Justice has opened an antitrust investigation into five major news organisations. Investigators are looking into whether ABC News, CBS News, NBC News, CNN and Fox News violated the Sherman Act.",
+          "A federal judge has prohibited the Trump administration from banning CNN, MS NOW and Politico from White House grounds. The preliminary injunction ensures these outlets retain access for the foreseeable future.",
+          "ABC has filed court documents alleging the FCC used license renewals to retaliate against Disney. The network claims regulators bypassed standard options to punish the company over its programming choices."
+        ],
+        "region": "americas"
+      },
+      {
+        "id": "tech",
+        "paragraphs": [
+          "Apple has introduced HomeView, a new smart display priced at 299 dollars. The device is part of a broader push into artificial intelligence and home automation markets.",
+          "OpenAI has accused a former employee of taking over 100 files related to product plans before joining Apple. A federal judge ordered OpenAI to turn over hiring records and interview materials as part of the trade secrets case.",
+          "Microsoft announced its third generation Maia in-house AI chip to reduce reliance on Nvidia hardware. The chip is designed to handle cloud AI workloads and the latest reasoning models."
+        ],
+        "region": "americas"
+      },
+      {
+        "id": "deals",
+        "paragraphs": [
+          "Shareholders for both Fox Corp and Roku have voted to approve a 22 billion dollar merger. The deal is expected to close in the first half of 2027 following regulatory reviews.",
+          "Disney is seeking to acquire assets from Character.AI for 20 million dollars. This follows the hiring of the startup's former chief executive as Disney's chief technology officer.",
+          "Tegna and Disney renewed ABC affiliation agreements across 13 markets. The multi-year deal ensures ABC programming remains on Tegna stations in states including Texas, California and Florida."
+        ],
+        "region": "americas"
+      },
+      {
+        "id": "audience",
+        "paragraphs": [
+          "CNN is expanding its All Access subscription service to Canada and the United Kingdom. The service includes live and on-demand programming with specific sponsorship opportunities for international events.",
+          "NBC is bringing its true crime series Dateline to Canada via Citytv. The local version is scheduled to launch in late November with correspondent Keith Morrison.",
+          "PBS reached a deal to provide France 24 streaming channels to its member stations. The agreement includes nine live, commercial-free English language channels for digital platforms."
+        ],
+        "region": "americas"
+      }
+    ],
+    "people_moves": [
+      {
+        "text": "Sara Richardson, joins ITV Studios to launch an Australian drama label",
+        "refs": [
+          22
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "Philip Pratt, VP of original production for Germany, Switzerland and Austria at Disney",
+        "refs": [
+          23
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "Rachel Jupp, Director at BBC News",
+        "refs": [
+          24
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "Philip Pratt, Vice President of original production for Germany, Switzerland and Austria, Disney+",
+        "refs": [
+          25
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "Maryann Turcke, Board Chair, Corus Entertainment",
+        "refs": [
+          21
+        ],
+        "region": "americas"
+      }
+    ],
+    "coming_up": [
+      {
+        "date": "16 Oct 2026",
+        "text": "Agreed date for Donald Trump to be deposed in BBC defamation case",
+        "refs": [
+          26
+        ],
+        "region": "uk"
+      },
+      {
+        "date": "20 Oct 2026",
+        "text": "CNN All Access subscription service launches in the UK and Canada",
+        "refs": [
+          4,
+          5
+        ],
+        "region": "uk"
+      },
+      {
+        "date": "15 Oct 2026",
+        "text": "Disney and Katseye launch apparel collection on Complex.com",
+        "refs": [
+          27
+        ],
+        "region": "americas"
+      },
+      {
+        "date": "13 Nov 2026",
+        "text": "Apple HomeView smart display arrives in stores",
+        "refs": [
+          16
+        ],
+        "region": "americas"
+      },
+      {
+        "date": "26 Nov 2026",
+        "text": "Local version of Dateline launches on Citytv in Canada",
+        "refs": [
+          28
+        ],
+        "region": "americas"
+      },
+      {
+        "date": "Apr 2027",
+        "text": "CRTC deadline for Maskatel self-service system implementation",
+        "refs": [
+          29
+        ],
+        "region": "americas"
+      }
+    ]
+  },
+  "articles": [
+    {
+      "ref": 1,
+      "title": "Samsung TV Plus launches BBC Studios channels in Europe",
+      "link": "https://www.advanced-television.com/2026/10/12/samsung-tv-plus-launches-bbc-studios-channels-in-europe/",
+      "outlet": "Advanced Television",
+      "region": "uk"
+    },
+    {
+      "ref": 2,
+      "title": "Samsung TV Plus adds four BBC Studios channels across Europe",
+      "link": "https://www.broadbandtvnews.com/2026/10/12/samsung-tv-plus-adds-four-bbc-studios-channels-across-europe/",
+      "outlet": "Broadband TV News",
+      "region": "uk"
+    },
+    {
+      "ref": 3,
+      "title": "Samsung TV Plus to launch BBC Studios channels in 11 European markets",
+      "link": "https://www.c21media.net/news/samsung-tv-plus-to-launch-bbc-studios-channels-in-11-european-markets-2/",
+      "outlet": "C21Media",
+      "region": "uk"
+    },
+    {
+      "ref": 4,
+      "title": "CNN All Access launching in UK, Canada",
+      "link": "https://www.advanced-television.com/2026/10/13/cnn-all-access-launching-in-uk-canada/",
+      "outlet": "Advanced Television",
+      "region": "uk"
+    },
+    {
+      "ref": 5,
+      "title": "CNN All Access to launch in UK and Canada on October 20",
+      "link": "https://www.broadbandtvnews.com/2026/10/13/cnn-all-access-to-launch-in-uk-and-canada-on-october-20/",
+      "outlet": "Broadband TV News",
+      "region": "uk"
+    },
+    {
+      "ref": 6,
+      "title": "JK Rowling doc from Rogan Scotland commissioned by BBC",
+      "link": "https://www.c21media.net/news/jk-rowling-doc-from-rogan-scotland-commissioned-by-bbc/",
+      "outlet": "C21Media",
+      "region": "uk"
+    },
+    {
+      "ref": 7,
+      "title": "Little Princess enthroned at Sky UK, Nordisk Film, RTV Slovenia, TIMvision",
+      "link": "https://www.c21media.net/news/little-princess-enthroned-at-sky-uk-nordisk-film-rtv-slovenia-timvision/",
+      "outlet": "C21Media",
+      "region": "uk"
+    },
+    {
+      "ref": 8,
+      "title": "Ofcom: 55% of children play online games with strangers",
+      "link": "https://www.advanced-television.com/2026/10/13/ofcom-55-of-children-play-online-games-with-strangers/",
+      "outlet": "Advanced Television",
+      "region": "uk"
+    },
+    {
+      "ref": 9,
+      "title": "NOW launches new Sky Sports memberships",
+      "link": "https://www.advanced-television.com/2026/10/13/now-launches-new-sky-sports-memberships/",
+      "outlet": "Advanced Television",
+      "region": "uk"
+    },
+    {
+      "ref": 10,
+      "title": "ITV picks up crime dramas The Galway Bay Murders and Last King of the Cross",
+      "link": "https://www.c21media.net/news/itv-pre-buys-crime-thriller-the-galway-bay-murders-from-blue-lights-prodco/",
+      "outlet": "C21Media",
+      "region": "uk"
+    },
+    {
+      "ref": 11,
+      "title": "BBC shelves new Archers studio in Birmingham",
+      "link": "https://radiotoday.co.uk/2026/10/bbc-shelves-new-archers-studio-in-birmingham/",
+      "outlet": "RadioToday",
+      "region": "uk"
+    },
+    {
+      "ref": 12,
+      "title": "Fox’s $22 Billion Roku Acquisition Secures Shareholder Approval",
+      "link": "https://tvnewscheck.com/business/article/foxs-22-billion-roku-acquisition-secures-shareholder-approval/",
+      "outlet": "TVNewsCheck",
+      "region": "americas"
+    },
+    {
+      "ref": 13,
+      "title": "Fox’s $22 Billion Roku Deal Approved by Shareholders of Both Companies",
+      "link": "https://variety.com/2026/tv/news/fox-roku-acquisition-approved-shareholders-1236912437/",
+      "outlet": "Variety",
+      "region": "americas"
+    },
+    {
+      "ref": 14,
+      "title": "DOJ Launches Antitrust Investigation Against ABC News, CBS News, NBC News, CNN, and Fox News",
+      "link": "https://www.adweek.com/tvnewser/doj-launches-antitrust-investigation-against-abc-news-cbs-news-nbc-news-cnn-and-fox-news/",
+      "outlet": "Adweek",
+      "region": "americas"
+    },
+    {
+      "ref": 15,
+      "title": "Apple Introduces HomeView, A $299 Tablet For The Home",
+      "link": "https://tvnewscheck.com/tech/article/apple-introduces-homeview-a-299-tablet-for-the-home/",
+      "outlet": "TVNewsCheck",
+      "region": "americas"
+    },
+    {
+      "ref": 16,
+      "title": "Apple’s new HomeView smart display is $10 cheaper at Amazon",
+      "link": "https://www.theverge.com/gadgets/1011227/apple-homeview-smart-display-deal-sale",
+      "outlet": "The Verge",
+      "region": "americas"
+    },
+    {
+      "ref": 17,
+      "title": "CNN to launch All Access in Canada",
+      "link": "https://mediaincanada.com/2026/10/13/cnn-launches-all-access-in-canada/",
+      "outlet": "Media in Canada",
+      "region": "americas"
+    },
+    {
+      "ref": 18,
+      "title": "CNN takes All Access abroad to turn global reach into paying subscribers",
+      "link": "https://digiday.com/media/cnn-takes-all-access-abroad-to-turn-global-reach-into-paying-subscribers/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+      "outlet": "Digiday",
+      "region": "americas"
+    },
+    {
+      "ref": 19,
+      "title": "Canadian news publishers sue Anthropic over AI copyright infringement",
+      "link": "https://broadcastdialogue.com/canadian-news-publishers-sue-anthropic-over-ai-copyright-infringement/",
+      "outlet": "Broadcast Dialogue",
+      "region": "americas"
+    },
+    {
+      "ref": 20,
+      "title": "Disney Offers $20M For Character.AI Assets",
+      "link": "https://tvnewscheck.com/ai/article/disney-offers-20m-for-character-ai-assets/",
+      "outlet": "TVNewsCheck",
+      "region": "americas"
+    },
+    {
+      "ref": 21,
+      "title": "Corus completes recapitalization plan, appoints new board",
+      "link": "https://mediaincanada.com/2026/10/13/corus-completes-recapitalization-plan-appoints-new-board/",
+      "outlet": "Media in Canada",
+      "region": "americas"
+    },
+    {
+      "ref": 22,
+      "title": "ITV Studios taps Endemol Shine’s Sara Richardson to launch Australian drama label with Lingo Pictures",
+      "link": "https://www.c21media.net/news/itv-studios-taps-endemol-shines-sara-richardson-to-launch-australian-drama-label-with-lingo-pictures/",
+      "outlet": "C21Media",
+      "region": "uk"
+    },
+    {
+      "ref": 23,
+      "title": "Former Prime Video German originals head Philip Pratt resurfaces at Disney",
+      "link": "https://www.c21media.net/news/former-prime-video-german-originals-head-philip-pratt-resurfaces-at-disney/",
+      "outlet": "C21Media",
+      "region": "uk"
+    },
+    {
+      "ref": 24,
+      "title": "BBC News director sets out priorities as cuts loom",
+      "link": "https://radiotoday.co.uk/2026/10/bbc-news-director-sets-out-priorities-as-cuts-loom/",
+      "outlet": "RadioToday",
+      "region": "uk"
+    },
+    {
+      "ref": 25,
+      "title": "Disney+ Taps Amazon Exec Philip Pratt to Oversee Germany, Switzerland and Austria Originals",
+      "link": "https://variety.com/2026/tv/global/disney-philip-pratt-production-germany-switzerland-austria-1236908813/",
+      "outlet": "Variety",
+      "region": "americas"
+    },
+    {
+      "ref": 26,
+      "title": "BBC tries to force Trump evidence",
+      "link": "https://www.advanced-television.com/2026/10/14/bbc-tries-to-force-trump-evidence/",
+      "outlet": "Advanced Television",
+      "region": "uk"
+    },
+    {
+      "ref": 27,
+      "title": "Katseye Teams Up With Disney for Mickey Mouse-Inspired Collection Ahead of Hulu Doc",
+      "link": "https://variety.com/2026/shopping/news/katseye-disney-collection-shop-online-1236910396/",
+      "outlet": "Variety",
+      "region": "americas"
+    },
+    {
+      "ref": 28,
+      "title": "NBC’s ‘Dateline’ Headed To Canada",
+      "link": "https://tvnewscheck.com/journalism/article/nbcs-dateline-headed-to-canada/",
+      "outlet": "TVNewsCheck",
+      "region": "americas"
+    },
+    {
+      "ref": 29,
+      "title": "CRTC wants more info from Maskatel as it considers deadline extension for self-service system",
+      "link": "https://cartt.ca/crtc-wants-more-info-from-bells-maskatel-as-it-considers-deadline-extension-for-self-service-system/",
+      "outlet": "Cartt.ca",
+      "region": "americas"
+    }
+  ]
+}
