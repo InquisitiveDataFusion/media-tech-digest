@@ -1,6 +1,834 @@
 {
- "updated": "2026-10-21T06:18:59+01:00",
+ "updated": "2026-10-21T13:24:45+01:00",
  "items": [
+  {
+   "key": "scrippshowardfundreaches2millionthbookmilestone",
+   "title": "Scripps Howard Fund Reaches 2 Millionth Book Milestone",
+   "summary": "The Scripps Howard Fund says it has distributed its 2 millionth book through its childhood literacy campaign, “If You Give a Child a Book …”, as the program marks 10 … The post Scripps Howard Fund Reaches 2 Millionth Book Milestone appeared first on TV News Check .",
+   "link": "https://tvnewscheck.com/promotion/article/scripps-howard-fund-reaches-2-millionth-book-milestone/",
+   "outlet": "TVNewsCheck",
+   "feed_region": "americas",
+   "published": "2026-10-21T13:18:31+01:00"
+  },
+  {
+   "key": "civilservantadmitshemademistakesjugglingfivegovernmentjobs",
+   "title": "Civil servant admits he 'made mistakes' juggling five government jobs",
+   "summary": "Kashim Chowdhury was contracted for 183 hours a week, more than the number of hours in seven days.",
+   "link": "https://www.bbc.co.uk/news/articles/cmze4w63ly42o?at_medium=RSS&at_campaign=rss",
+   "outlet": "BBC Business",
+   "feed_region": "uk",
+   "published": "2026-10-21T13:17:12+01:00"
+  },
+  {
+   "key": "ireviewedtheiphoneduoaskmeanything",
+   "title": "I reviewed the iPhone Duo, ask me anything",
+   "summary": "I'm The Verge's senior smartphone reviewer and I've been using the iPhone Duo for the past week. I've unfolded it, flipped it, and folded it more times than I could count as I've been working on the review alongside our editor-in-chief Nilay Patel, and I'm ready to answer your questions about it. The Duo represents […]",
+   "link": "https://www.theverge.com/tech/1014316/iphone-duo-review-ama",
+   "outlet": "The Verge",
+   "feed_region": "global",
+   "published": "2026-10-21T13:15:00+01:00"
+  },
+  {
+   "key": "audiovisualwomenleadershipprogramunveilsparticipantssetstallinnpartner",
+   "title": "Audiovisual Women Leadership Program Unveils Participants, Sets Tallinn Partnership",
+   "summary": "The Erich Pommer Institut reveals the professionals in mid- to senior-level management positions from across Europe taking part in the fifth edition and a new partnership with Industry@Tallinn & Baltic Event.",
+   "link": "https://www.hollywoodreporter.com/business/business-news/audiovisual-women-leadership-program-participants-epi-1236736665/",
+   "outlet": "Hollywood Reporter",
+   "feed_region": "americas",
+   "published": "2026-10-21T13:15:00+01:00"
+  },
+  {
+   "key": "cyberchiefstellwebsitestomakecriticalsafetyupdateorgooffline",
+   "title": "Cyber chiefs tell websites to make critical safety update or go offline",
+   "summary": "Two critical vulnerabilities have been identified with PHP, a programming language which is widely used across the internet.",
+   "link": "https://www.bbc.co.uk/news/articles/cmly0lg3w5x2o?at_medium=RSS&at_campaign=rss",
+   "outlet": "BBC Technology",
+   "feed_region": "uk",
+   "published": "2026-10-21T13:14:10+01:00"
+  },
+  {
+   "key": "gleerebootlandsseriesorderatdisneyhulu",
+   "title": "‘Glee’ Reboot Lands Series Order At Disney+ & Hulu",
+   "summary": "Glee is officially coming back after Disney+ and Hulu handed the reboot a series order. The move has been on the cards for some time with co-creator Ryan Murphy regularly discussing its potential return over the last few months. The post ‘Glee’ Reboot Lands Series Order At Disney+ & Hulu appeared first on TV News...",
+   "link": "https://tvnewscheck.com/programming/article/glee-reboot-lands-series-order-at-disney-hulu/",
+   "outlet": "TVNewsCheck",
+   "feed_region": "americas",
+   "published": "2026-10-21T13:12:00+01:00"
+  },
+  {
+   "key": "netflixstockdeflatestotwoyearlowwhatwillittaketoreviverevenuegrowth",
+   "title": "Netflix Stock Deflates to Two-Year Low. What Will It Take to Revive Revenue Growth?",
+   "summary": "Shares of Netflix hit a two-year low after the streamer’s Q3 2026 earnings report revealed an ongoing softening in top-line growth and a miss on advertising revenue for the full year. The stock was down -7% in premarket trading Wednesday, to under $64/share, a decline of nearly 30% year-to-date to the lowest point...",
+   "link": "https://variety.com/2026/tv/news/netflix-stock-falls-two-year-low-after-earnings-report-1236918535/",
+   "outlet": "Variety",
+   "feed_region": "americas",
+   "published": "2026-10-21T13:06:57+01:00"
+  },
+  {
+   "key": "spotifyisbustingfreeofcarplaywiththelaunchofitsfirstnativecarapp",
+   "title": "Spotify is busting free of CarPlay with the launch of its first native car app",
+   "summary": "Spotify announced Wednesday the launch of its next-generation, fully native in-car app, built directly on Google's Android Automotive operating system. The standalone app, which is launching today in select Audi models, runs directly on the vehicle's infotainment hardware - eliminating the need for phone tethering,...",
+   "link": "https://www.theverge.com/entertainment/1014261/spotify-native-car-app-audi-android-automotive-carplay",
+   "outlet": "The Verge",
+   "feed_region": "global",
+   "published": "2026-10-21T13:00:00+01:00"
+  },
+  {
+   "key": "icantgetenoughoftheiphoneduosmatteinnerdisplay",
+   "title": "I can’t get enough of the iPhone Duo’s matte inner display",
+   "summary": "The iPhone Duo has all the messiness of a first-gen product. And while I'm not sure I love all of the decisions Apple made around its design, it got one thing right: the matte finish on the inner screen. I've been using it for the past week to watch movies on a plane, peruse my […]",
+   "link": "https://www.theverge.com/tech/1014709/iphone-duo-inner-screen-nano-texture-matte",
+   "outlet": "The Verge",
+   "feed_region": "global",
+   "published": "2026-10-21T13:00:00+01:00"
+  },
+  {
+   "key": "theiphoneduoisamessyexpensivegoodtime",
+   "title": "The iPhone Duo is a messy, expensive, good time",
+   "summary": "The iPhone Duo is the riskiest Apple product in years. It's a huge rethink of what an iPhone is and could be, and it contains the seeds of many fascinating ideas that might be great in the future. But that future is yet to come. The iPhone Duo is also one of Apple's messiest first-generation […]",
+   "link": "https://www.theverge.com/tech/1015028/iphone-duo-review",
+   "outlet": "The Verge",
+   "feed_region": "global",
+   "published": "2026-10-21T13:00:00+01:00"
+  },
+  {
+   "key": "appleiphoneduoreviewafirstclassfoldable",
+   "title": "Apple iPhone Duo review: A first-class foldable",
+   "summary": "Even though it's heavy and expensive, Apple's first foldable handset is a treat for iPhone users unwilling to switch to Android.",
+   "link": "https://www.engadget.com/2292333/apple-iphone-duo-review/",
+   "outlet": "Engadget",
+   "feed_region": "global",
+   "published": "2026-10-21T13:00:00+01:00"
+  },
+  {
+   "key": "gleerebootofficiallysetatdisneyandhulu",
+   "title": "‘Glee’ Reboot Officially Set at Disney+ and Hulu",
+   "summary": "To quote Finn Hudson, “The show must go all over the place, or something.” He was right: “Glee” is back. Disney+ and Hulu have greenlit a reboot of Ryan Murphy’s famous (and infamous) musical dramedy series. “Glee” premiered on Fox in 2009 concluded in 2015 after six seasons of following a group of show choir […]",
+   "link": "https://variety.com/2026/tv/news/glee-reboot-disney-hulu-1236918160/",
+   "outlet": "Variety",
+   "feed_region": "americas",
+   "published": "2026-10-21T13:00:00+01:00"
+  },
+  {
+   "key": "dontstopbelievingleerevivalagoatdisneyandhulu",
+   "title": "Don’t Stop Believin’: ‘Glee’ Revival a Go at Disney+ and Hulu",
+   "summary": "The pickup comes a few weeks after co-creator Ryan Murphy said he had written a script for a new version of the 2009-15 series.",
+   "link": "https://www.hollywoodreporter.com/tv/tv-news/glee-revival-series-disney-plus-hulu-1236736950/",
+   "outlet": "Hollywood Reporter",
+   "feed_region": "americas",
+   "published": "2026-10-21T13:00:00+01:00"
+  },
+  {
+   "key": "aihaspotentialtoturnscriptkiddiesintosophisticatedinfrastructureattack",
+   "title": "AI has 'potential' to turn script kiddies into sophisticated infrastructure attackers",
+   "summary": "Consider this the wake-up call",
+   "link": "https://www.theregister.com/security/2026/10/21/ai-has-potential-to-turn-script-kiddies-into-sophisticated-infrastructure-attackers/5304297",
+   "outlet": "The Register",
+   "feed_region": "global",
+   "published": "2026-10-21T13:00:00+01:00"
+  },
+  {
+   "key": "gleerebootagoatdisneyandhulu",
+   "title": "‘Glee’ Reboot a Go at Disney+ and Hulu",
+   "summary": "The series order comes weeks after Ryan Murphy finished a script alongside Ian Brennan and Brad Falchuk The post ‘Glee’ Reboot a Go at Disney+ and Hulu appeared first on TheWrap .",
+   "link": "https://www.thewrap.com/creative-content/tv-shows/glee-reboot-greenlit-disney-plus-hulu/",
+   "outlet": "The Wrap",
+   "feed_region": "americas",
+   "published": "2026-10-21T13:00:00+01:00"
+  },
+  {
+   "key": "slatenamestopeditorhillaryfreyceo",
+   "title": "Slate Names Top Editor Hillary Frey CEO",
+   "summary": "Frey, who was named editor-in-chief of Slate in 2022, will oversee the company's business while continuing to lead the newsroom, according to the memo sent Tuesday to staffers by Tim O'Shaughnessy, CEO of Slate's parent company Graham Holdings. The post Slate Names Top Editor Hillary Frey CEO appeared first on TV...",
+   "link": "https://tvnewscheck.com/business/article/slate-names-top-editor-hillary-frey-ceo/",
+   "outlet": "TVNewsCheck",
+   "feed_region": "americas",
+   "published": "2026-10-21T12:49:19+01:00"
+  },
+  {
+   "key": "acriticalphpvulnerabilitymaytakewebsitesdowntoday",
+   "title": "A critical PHP vulnerability may take websites down today",
+   "summary": "Security patches for the PHP programming language, widely used to build websites and web apps, are expected to roll out today, with the goal of fixing two critical vulnerabilities that could wreak havoc on the internet if left unchecked. In an advisory published on Tuesday, PHP developers said the vulnerabilities...",
+   "link": "https://www.theverge.com/tech/1015257/php-vulnerability-patch-website-security-wordpress",
+   "outlet": "The Verge",
+   "feed_region": "global",
+   "published": "2026-10-21T12:49:17+01:00"
+  },
+  {
+   "key": "nvidiapicksopenshelltotameaigents",
+   "title": "Nvidia picks OpenShell to tame AI gents",
+   "summary": "Give your agents freedom to do useful work by locking them down",
+   "link": "https://www.theregister.com/ai-and-ml/2026/10/21/nvidia-picks-openshell-to-tame-ai-gents/5304319",
+   "outlet": "The Register",
+   "feed_region": "global",
+   "published": "2026-10-21T12:30:00+01:00"
+  },
+  {
+   "key": "nvidiasgrandplanforspeedingupdatacenterdeploymentsaitrailerparks",
+   "title": "Nvidia's grand plan for speeding up datacenter deployments: AI trailer parks",
+   "summary": "GPUzilla boasts modular bit barns could speed up deployments from six months to just two weeks",
+   "link": "https://www.theregister.com/on-prem/2026/10/21/nvidias-grand-plan-for-speeding-up-datacenter-deployments-ai-trailer-parks/5304303",
+   "outlet": "The Register",
+   "feed_region": "global",
+   "published": "2026-10-21T12:30:00+01:00"
+  },
+  {
+   "key": "exclusiveservicenowandnvidialauncharcanewaiagentforenterprise",
+   "title": "Exclusive: ServiceNow and Nvidia launch Arc, a new AI agent for enterprise",
+   "summary": "The two companies are trying to solve the AI agent security conundrum with multiple layers of real-time security checks.",
+   "link": "https://www.zdnet.com/innovation/exclusive-servicenow-and-nvidia-launch-arc-a-new-ai-agent-for-enterprise/",
+   "outlet": "ZDNet",
+   "feed_region": "global",
+   "published": "2026-10-21T12:30:00+01:00"
+  },
+  {
+   "key": "netflixstockandpricetargetsdropaswallstreetdebatesifthestreamercanflip",
+   "title": "Netflix Stock and Price Targets Drop as Wall Street Debates If the Streamer Can Flip the Script",
+   "summary": "Analysts weigh Ted Sarandos' and Greg Peters' turnaround efforts as the CEOs insist that all that's needed is better execution. But, says one finance expert, \"The risk is not the near-term fundamentals, but perception.\"",
+   "link": "https://www.hollywoodreporter.com/business/business-news/netflix-stock-analyst-reactions-q3-2026-earnings-report-1236736638/",
+   "outlet": "Hollywood Reporter",
+   "feed_region": "americas",
+   "published": "2026-10-21T12:19:31+01:00"
+  },
+  {
+   "key": "focusondoingfewerthingsbetterratherthanspreadingtoothinreactiontobbccu",
+   "title": "‘Focus on doing fewer things better, rather than spreading too thin’: reaction to BBC cuts",
+   "summary": "The cuts could cause \"irreparable damage\" to the broadcaster, warned Bectu's Philippa Childs The post ‘Focus on doing fewer things better, rather than spreading too thin’: reaction to BBC cuts appeared first on TVBEurope .",
+   "link": "https://www.tvbeurope.com/business/focusing-on-doing-fewer-things-better-rather-than-spreading-too-thin-reaction-to-bbc-cuts",
+   "outlet": "TVBEurope",
+   "feed_region": "uk",
+   "published": "2026-10-21T12:14:21+01:00"
+  },
+  {
+   "key": "labolanegracommishdomingocorraltoutshbomaxtvdealivefoundahome",
+   "title": "‘La Bola Negra’ Commish Domingo Corral Touts HBO Max TV Deal: “I’ve Found a Home”",
+   "summary": "Expect quality TV series from the Moviestar Plus+ commissioning editor-turned-indie producer that leverages top Spanish creative talent, Corral told THR while at the MIA Market in Rome.",
+   "link": "https://www.hollywoodreporter.com/business/business-news/la-bola-negra-producer-domingo-corral-1236737177/",
+   "outlet": "Hollywood Reporter",
+   "feed_region": "americas",
+   "published": "2026-10-21T12:12:30+01:00"
+  },
+  {
+   "key": "euwantsbookingcomtocheckoutofitsscamproblem",
+   "title": "EU wants Booking.com to check out of its scam problem",
+   "summary": "Commission opens DSA probe into fake listings and phishing on the platform, says its fraud defenses 'absolutely substandard'",
+   "link": "https://www.theregister.com/security/2026/10/21/eu-wants-bookingcom-to-check-out-of-its-scam-problem/5304413",
+   "outlet": "The Register",
+   "feed_region": "global",
+   "published": "2026-10-21T12:10:55+01:00"
+  },
+  {
+   "key": "minecraftanddominosteamupforblockshapedpizzaingamefreebies",
+   "title": "Minecraft and Domino’s Team Up for Block-Shaped Pizza, In-Game Freebies",
+   "summary": "Customers are randomly awarded an in-game code for either a Domino’s skin, cape or cheesy cube pet. The pizza will come in one of six Minecraft-themed boxes.",
+   "link": "https://www.cnet.com/tech/gaming/minecraft-dungeons-dominos-game-freebies/",
+   "outlet": "CNET News",
+   "feed_region": "global",
+   "published": "2026-10-21T12:07:00+01:00"
+  },
+  {
+   "key": "italiancontentinvestmentdropped74in2025largelyduetouncertaintyoverdome",
+   "title": "Italian Content Investment Dropped 7.4% in 2025 Largely Due to Uncertainty Over Domestic Tax Credits, Rome MIA Market Report Says",
+   "summary": "Investment in content production destined for Italy’s film TV and streaming industries dropped 7.4% to €2 billion ($2.24 billion) in 2025, compared with the previous year, with the scripted sphere suffering most amid uncertainty over government support of the country’s tax credits and the ongoing transition in...",
+   "link": "https://variety.com/2026/film/global/italian-content-investment-dropped-uncertainty-tax-credits-1236918479/",
+   "outlet": "Variety",
+   "feed_region": "americas",
+   "published": "2026-10-21T12:05:26+01:00"
+  },
+  {
+   "key": "wheniexistedacannesmarketstandoutswoopedonforworldsalesbymappealandnow",
+   "title": "‘When I Existed,’ a Cannes Market Standout, Swooped On for World Sales by M-Appeal and Now Bound for Tallinn Black Nights (EXCLUSIVE)",
+   "summary": "Berlin-based M-Appeal has boarded “When I Existed,” a buzzy, feel-good second-chance drama comedy and Kafkian social satire which proved a standout at the Cannes Market’s Ventana Sur Goes to Cannes showcase, marking an auspicious debut for Uruguay’s Alejandro Damiani and Martin Avdolov. A select but discerning...",
+   "link": "https://variety.com/2026/film/global/when-i-existed-cannes-market-standout-m-appeal-tallinn-1236918550/",
+   "outlet": "Variety",
+   "feed_region": "americas",
+   "published": "2026-10-21T12:04:30+01:00"
+  },
+  {
+   "key": "twodangerousinternetsecurityissuesareputtingsiteadminsonedge",
+   "title": "Two dangerous internet security issues are putting site admins on edge",
+   "summary": "The web is a bit of a hot mess today following the discovery of two severe vulnerabilities.",
+   "link": "https://www.engadget.com/2292647/two-dangerous-internet-security-issues-are-putting-site-admins-on-edge/",
+   "outlet": "Engadget",
+   "feed_region": "global",
+   "published": "2026-10-21T12:02:54+01:00"
+  },
+  {
+   "key": "netflixleadsyoutubeonsamsungsmarttvsinpoland",
+   "title": "Netflix leads YouTube on Samsung smart TVs in Poland",
+   "summary": "Netflix has remained ahead of YouTube in Samsung’s Polish smart TV app figures for a fifth consecutive month, according to data released by the manufacturer. Samsung reported 1,271,995 views for […]",
+   "link": "https://www.broadbandtvnews.com/2026/10/21/netflix-leads-youtube-on-samsung-smart-tvs-in-poland/",
+   "outlet": "Broadband TV News",
+   "feed_region": "uk",
+   "published": "2026-10-21T12:02:05+01:00"
+  },
+  {
+   "key": "larryellisonwentonborrowingspreetobankrollhissonswarnerbrosbid",
+   "title": "Larry Ellison Went On Borrowing Spree To Bankroll His Son’s Warner Bros. Bid",
+   "summary": "The billionaire put up shares in Tesla, SpaceX and Paramount Skydance this year to borrow more from banks. The post Larry Ellison Went On Borrowing Spree To Bankroll His Son’s Warner Bros. Bid appeared first on TV News Check .",
+   "link": "https://tvnewscheck.com/business/article/larry-ellison-went-on-borrowing-spree-to-bankroll-his-sons-warner-bros-bid/",
+   "outlet": "TVNewsCheck",
+   "feed_region": "americas",
+   "published": "2026-10-21T11:58:10+01:00"
+  },
+  {
+   "key": "openaisagentsdisabledtheirownsafetymonitoringsystems",
+   "title": "OpenAI's agents disabled their own safety monitoring systems",
+   "summary": "OpenAI reveals that its agents misbehaved by switching off the system monitoring them for misbehaviors.",
+   "link": "https://www.engadget.com/2292644/openai-agents-disabled-own-safety-monitoring-systems/",
+   "outlet": "Engadget",
+   "feed_region": "global",
+   "published": "2026-10-21T11:53:21+01:00"
+  },
+  {
+   "key": "javacrashesthedepartureboardattyneandwearmetro",
+   "title": "Java crashes the departure board at Tyne and Wear Metro",
+   "summary": "Train times remain on show as an elderly Windows dialog demands attention",
+   "link": "https://www.theregister.com/offbeat/2026/10/21/java-crashes-the-departure-board-at-tyne-and-wear-metro/5304106",
+   "outlet": "The Register",
+   "feed_region": "global",
+   "published": "2026-10-21T11:43:00+01:00"
+  },
+  {
+   "key": "justwatchtvlauncheswithcontentpartnersfornewavodstreamingservice",
+   "title": "JustWatch TV Launches With Content Partners For New AVOD Streaming Service",
+   "summary": "Streaming guide JustWatch Group set its 30 major content partners for its Advertising-Based Video on Demand streaming service, JustWatch TV, which launched Tuesday. Cineverse will serve as the content partner in the U.S. alongside Leonine Studios in Germany, SND in France and Altitude in the U.K. and Ireland. The...",
+   "link": "https://tvnewscheck.com/digital/article/justwatch-tv-launches-with-content-partners-for-new-avod-streaming-service/",
+   "outlet": "TVNewsCheck",
+   "feed_region": "americas",
+   "published": "2026-10-21T11:40:45+01:00"
+  },
+  {
+   "key": "annagomezsaysshebelievesabcwilllikelyprevailagainstfcc",
+   "title": "Anna Gomez Says She Believes ABC Will Likely Prevail Against FCC",
+   "summary": "\"I can tell you that I'm very glad Disney found its courage because I've said this time and time again: capitulation breeds capitulation, but courage inspires courage,\" Gomez, the lone Democrat commissioner at the FCC, said Tuesday. The post Anna Gomez Says She Believes ABC Will Likely Prevail Against FCC appeared...",
+   "link": "https://tvnewscheck.com/regulation/article/anna-gomez-says-she-believes-abc-will-likely-prevail-against-fcc/",
+   "outlet": "TVNewsCheck",
+   "feed_region": "americas",
+   "published": "2026-10-21T11:32:56+01:00"
+  },
+  {
+   "key": "trumppushestoevictthepressfromthewhitehouse",
+   "title": "Trump Pushes To Evict The Press From The White House",
+   "summary": "President Trump has talked about replacing the James S. Brady Press Briefing Room with an indoor swimming pool. The post Trump Pushes To Evict The Press From The White House appeared first on TV News Check .",
+   "link": "https://tvnewscheck.com/journalism/article/trump-pushes-to-evict-the-press-from-the-white-house/",
+   "outlet": "TVNewsCheck",
+   "feed_region": "americas",
+   "published": "2026-10-21T11:27:13+01:00"
+  },
+  {
+   "key": "opinionthebattleforaudioclarity",
+   "title": "Opinion: The battle for audio clarity",
+   "summary": "With content consumed across everything from phone speakers to immersive home cinemas, audio mixes must adapt to maintain dialogue clarity everywhere. The Voiceover Gallery’s Joe Lewis examines why starting small can ensure audio translates across all mediums The post Opinion: The battle for audio clarity appeared...",
+   "link": "https://www.tvbeurope.com/audio/opinion-the-battle-for-audio-clarity",
+   "outlet": "TVBEurope",
+   "feed_region": "uk",
+   "published": "2026-10-21T11:23:25+01:00"
+  },
+  {
+   "key": "versantunlikelytoacquireskydancecablenetworksiftheyhitthemarketceomark",
+   "title": "Versant Unlikely To Acquire Skydance Cable Networks If They Hit The Market, CEO Mark Lazarus Says",
+   "summary": "Versant Media CEO Mark Lazarus said Tuesday the company spun off by Comcast/NBCUniversal earlier this year is unlikely to be a buyer if Skydance looks to shop some of its dozens of cable TV networks. The post Versant Unlikely To Acquire Skydance Cable Networks If They Hit The Market, CEO Mark Lazarus Says appeared...",
+   "link": "https://tvnewscheck.com/business/article/versant-unlikely-to-acquire-skydance-cable-networks-if-they-hit-the-market-ceo-mark-lazarus-says/",
+   "outlet": "TVNewsCheck",
+   "feed_region": "americas",
+   "published": "2026-10-21T11:21:13+01:00"
+  },
+  {
+   "key": "horrorisnowcoolasthehuntforthenextobsessionandbackroomsisonromesmia",
+   "title": "“Horror Is Now Cool” as the Hunt for the Next ‘Obsession’ and ‘Backrooms’ Is on: Rome’s MIA",
+   "summary": "\"We want to find the Italian Kane Parsons\" to reach Gen Z audiences, a genre film panel discussing the state of the medium at the MIA Market heard on Wednesday.",
+   "link": "https://www.hollywoodreporter.com/movies/movie-news/horror-leaders-obsession-backrooms-1236737149/",
+   "outlet": "Hollywood Reporter",
+   "feed_region": "americas",
+   "published": "2026-10-21T11:21:08+01:00"
+  },
+  {
+   "key": "faisalislaminflationandborrowingfiguresillustratechancellorsbudgetchal",
+   "title": "Faisal Islam: Inflation and borrowing figures illustrate chancellor's Budget challenge",
+   "summary": "The economic figures released on Wednesday show the constraints for John Healey as he puts the finishing touches to his Budget.",
+   "link": "https://www.bbc.co.uk/news/articles/cm3wv9pn22e5o?at_medium=RSS&at_campaign=rss",
+   "outlet": "BBC Business",
+   "feed_region": "uk",
+   "published": "2026-10-21T11:20:15+01:00"
+  },
+  {
+   "key": "noelclarkepleadsnotguiltytosexualoffensecharges",
+   "title": "Noel Clarke Pleads Not Guilty to Sexual Offense Charges",
+   "summary": "Noel Clarke has pleaded not guilty to six sexual offense charges. Appearing at Westminster Magistrates Court in London on Wednesday morning, the actor, writer and director entered not guilty pleas in relation to all the charges, which include two charges of sexual assault, three charges of voyeurism and one charge...",
+   "link": "https://variety.com/2026/film/global/noel-clarke-pleads-not-guilty-sexual-offense-charges-1236918512/",
+   "outlet": "Variety",
+   "feed_region": "americas",
+   "published": "2026-10-21T11:19:24+01:00"
+  },
+  {
+   "key": "inflationandgovernmentborrowinghighestforayearaheadofnextweeksbudget",
+   "title": "Inflation and government borrowing highest for a year ahead of next week's Budget",
+   "summary": "Inflation accelerated to 3.5% from 3.1% in the year to September, according to the Office for National Statistics (ONS).",
+   "link": "https://www.bbc.co.uk/news/articles/c6gel2xv4493o?at_medium=RSS&at_campaign=rss",
+   "outlet": "BBC Business",
+   "feed_region": "uk",
+   "published": "2026-10-21T11:16:17+01:00"
+  },
+  {
+   "key": "bobigersnewbooktochroniclesometimesbumpyneverboringsecondstintasdisney",
+   "title": "Bob Iger’s New Book To Chronicle ‘Sometimes Bumpy, Never Boring’ Second Stint As Disney CEO",
+   "summary": "Iger released his first book, 'The Ride of a Lifetime' in 2019. 'One Last Time' will be released in March 2027, tackling Bob Chapek's ouster, Jimmy Kimmel's suspension, and more. The post Bob Iger’s New Book To Chronicle ‘Sometimes Bumpy, Never Boring’ Second Stint As Disney CEO appeared first on TV News Check .",
+   "link": "https://tvnewscheck.com/business/article/bob-igers-new-book-to-chronicle-sometimes-bumpy-never-boring-second-stint-as-disney-ceo/",
+   "outlet": "TVNewsCheck",
+   "feed_region": "americas",
+   "published": "2026-10-21T11:03:46+01:00"
+  },
+  {
+   "key": "thespecisthenewcodesobrushuponyourprosesayskaseyacto",
+   "title": "The spec is the new code, so brush up on your prose, says Kaseya CTO",
+   "summary": "Domain expertise and clear writing will matter more than syntax, and yes, that means documentation",
+   "link": "https://www.theregister.com/software/2026/10/21/the-spec-is-the-new-code-so-brush-up-on-your-prose-says-kaseya-cto/5304002",
+   "outlet": "The Register",
+   "feed_region": "global",
+   "published": "2026-10-21T11:00:00+01:00"
+  },
+  {
+   "key": "gettingoldishardthisagetechhousingaimstomakeiteasier",
+   "title": "Getting old is hard. This age-tech housing aims to make it easier.",
+   "summary": "Garden Loft is part of a growing movement to build affordable housing for seniors to age in place. The post Getting old is hard. This age-tech housing aims to make it easier. first appeared on BetaKit .",
+   "link": "https://betakit.com/getting-old-is-hard-this-age-tech-housing-aims-to-make-it-easier/",
+   "outlet": "BetaKit",
+   "feed_region": "americas",
+   "published": "2026-10-21T11:00:00+01:00"
+  },
+  {
+   "key": "ozzyosbournewasflyinghighuntilthedayhepassedafterfinalconcertsharonosb",
+   "title": "Ozzy Osbourne Was ‘Flying High’ Until the ‘Day He Passed’ After Final Concert, Sharon Osbourne Says: ‘We Hadn’t Seen Him That Way in Years’",
+   "summary": "Ozzy Osbourne’s final “Back to the Beginning” concert kept him “flying high” until the day he died, his wife Sharon Osbourne said. Speaking at a London screening of the film “Ozzy & Black Sabbath: Back to the Beginning” — which chronicles the July 5, 2025 Birmingham show that took place just weeks before the heavy […]",
+   "link": "https://variety.com/2026/music/global/ozzy-osbourne-happy-before-died-final-show-sharon-1236918473/",
+   "outlet": "Variety",
+   "feed_region": "americas",
+   "published": "2026-10-21T10:58:18+01:00"
+  },
+  {
+   "key": "amazonmgmsetsjulierapaportalanamayoasheadsoffilmproductiondevelopment",
+   "title": "Amazon MGM Sets Julie Rapaport, Alana Mayo As Heads Of Film, Production & Development",
+   "summary": "Each will oversee half of the studio's annual 30-feature slate and report to film boss Courtenay Valenti in a reorganization. The post Amazon MGM Sets Julie Rapaport, Alana Mayo As Heads Of Film, Production & Development appeared first on TV News Check .",
+   "link": "https://tvnewscheck.com/programming/article/amazon-mgm-sets-julie-rapaport-alana-mayo-as-heads-of-film-production-development/",
+   "outlet": "TVNewsCheck",
+   "feed_region": "americas",
+   "published": "2026-10-21T10:57:38+01:00"
+  },
+  {
+   "key": "doctorwhostarnoelclarkepleadsnotguiltytosexualassaultvoyeurismexposure",
+   "title": "‘Doctor Who’ Star Noel Clarke Pleads Not Guilty to Sexual Assault, Voyeurism, Exposure",
+   "summary": "The 50-year-old is best known for his role as the boyfriend to Billie Piper's Rose Tyler in the BBC series.",
+   "link": "https://www.hollywoodreporter.com/news/general-news/doctor-who-noel-clarke-pleads-not-guilty-sexual-assault-tv-1236737152/",
+   "outlet": "Hollywood Reporter",
+   "feed_region": "americas",
+   "published": "2026-10-21T10:53:26+01:00"
+  },
+  {
+   "key": "netflixdefendsgrowthstrategyamidadvertisingdowngrade",
+   "title": "Netflix defends growth strategy amid advertising downgrade",
+   "summary": "Netflix has reported a 44% increase in third-quarter profits, but a cut to its advertising forecast added to investor concerns over slowing growth and changes at the top of its […]",
+   "link": "https://www.broadbandtvnews.com/2026/10/21/netflix-defends-growth-strategy-amid-advertising-downgrade/",
+   "outlet": "Broadband TV News",
+   "feed_region": "uk",
+   "published": "2026-10-21T10:48:27+01:00"
+  },
+  {
+   "key": "femaoutlinesexpectationsfornovembernationaleastest",
+   "title": "FEMA Outlines Expectations For November National EAS Test",
+   "summary": "Broadcasters are urged to prepare now. The post FEMA Outlines Expectations For November National EAS Test appeared first on TV News Check .",
+   "link": "https://tvnewscheck.com/tech/article/fema-outlines-expectations-for-november-national-eas-test/",
+   "outlet": "TVNewsCheck",
+   "feed_region": "americas",
+   "published": "2026-10-21T10:44:10+01:00"
+  },
+  {
+   "key": "uktvaddseightfastchannelsforlgchannelsandfreely",
+   "title": "UKTV adds eight FAST channels for LG Channels and Freely",
+   "summary": "UKTV is launching eight new FAST channels dedicated to BBC programme brands including Top Gear, EastEnders and Casualty, expanding its portfolio to 12 channels. The free advertising-supported channels will begin […]",
+   "link": "https://www.broadbandtvnews.com/2026/10/21/uktv-adds-eight-fast-channels-for-lg-channels-and-freely/",
+   "outlet": "Broadband TV News",
+   "feed_region": "uk",
+   "published": "2026-10-21T10:41:08+01:00"
+  },
+  {
+   "key": "dalaundillardleaveskrivhouston",
+   "title": "DaLaun Dillard Leaves KRIV Houston",
+   "summary": "The post DaLaun Dillard Leaves KRIV Houston appeared first on TV News Check .",
+   "link": "https://mikemcguff.blogspot.com/2026/10/dalaun-dillard-leaves-fox-26-houston.html",
+   "outlet": "TVNewsCheck",
+   "feed_region": "americas",
+   "published": "2026-10-21T10:39:25+01:00"
+  },
+  {
+   "key": "oscarentriesfromthailandnepalheadtotokyofilmexcompetitionleekangshengj",
+   "title": "Oscar Entries From Thailand, Nepal Head to Tokyo Filmex Competition; Lee Kang-sheng Joins Jury",
+   "summary": "Thailand’s and Nepal’s Oscar submissions, “9 Temples to Heaven” and “Elephants in the Fog,” are among 10 titles competing at the 27th edition of Tokyo Filmex, which will run Nov. 20–29 in the Japanese capital’s Yurakucho district. Taiwanese actor Lee Kang-sheng, who has appeared in every feature by auteur Tsai...",
+   "link": "https://variety.com/2026/film/festivals/oscar-entries-thailand-nepal-tokyo-filmex-competition-1236918493/",
+   "outlet": "Variety",
+   "feed_region": "americas",
+   "published": "2026-10-21T10:38:00+01:00"
+  },
+  {
+   "key": "starzreturnstoverizonfiosaftercarriagedispute",
+   "title": "STARZ returns to Verizon Fios after carriage dispute",
+   "summary": "STARZ has reached a new distribution agreement with Verizon, ending a blackout of almost three weeks that affected its linear channels, on-demand programming and authenticated streaming access through Fios. The […]",
+   "link": "https://www.broadbandtvnews.com/2026/10/21/starz-returns-to-verizon-fios-after-carriage-dispute/",
+   "outlet": "Broadband TV News",
+   "feed_region": "uk",
+   "published": "2026-10-21T10:36:13+01:00"
+  },
+  {
+   "key": "radioslapsedlistenersarentlostpodcastdatasays",
+   "title": "Radio’s Lapsed Listeners Aren’t Lost, Podcast Data Says",
+   "summary": "New research puts numbers on how much radio and podcast audiences overlap, but suggests that the two do not have to be rivals. That overlap may just hand stations a road map for hosts, ad loads, and winning back listeners who have drifted away.",
+   "link": "https://radioink.com/2026/10/21/radios-lapsed-listeners-arent-lost-podcast-data-says/",
+   "outlet": "Radio Ink",
+   "feed_region": "americas",
+   "published": "2026-10-21T10:30:48+01:00"
+  },
+  {
+   "key": "justwatchlaunchesstreamingserviceacross11markets",
+   "title": "JustWatch launches streaming service across 11 markets",
+   "summary": "JustWatch has launched its own streaming service in 11 countries, adding direct viewing to the programme discovery tools used by its existing global audience of 50 million. JustWatch TV is […]",
+   "link": "https://www.broadbandtvnews.com/2026/10/21/justwatch-launches-streaming-service-across-11-markets/",
+   "outlet": "Broadband TV News",
+   "feed_region": "uk",
+   "published": "2026-10-21T10:30:37+01:00"
+  },
+  {
+   "key": "wisemanlocaltvnewsanchorsdontneedtobejournalists",
+   "title": "Wiseman: Local TV News Anchors Don’t Need To Be Journalists",
+   "summary": "There’s a case to be made for elevating personality in the anchor chair and leaving reporting to the reporters. The post Wiseman: Local TV News Anchors Don’t Need To Be Journalists appeared first on TV News Check .",
+   "link": "https://tvnewscheck.com/journalism/article/wiseman-local-tv-news-anchors-dont-need-to-be-journalists/",
+   "outlet": "TVNewsCheck",
+   "feed_region": "americas",
+   "published": "2026-10-21T10:30:00+01:00"
+  },
+  {
+   "key": "endstomorrowdontmissthecontentlondonextendedseptemberdiscountrateofjus",
+   "title": "ENDS TOMORROW: Don’t miss the Content London EXTENDED SEPTEMBER DISCOUNT RATE of just £1199 – saving £200",
+   "summary": "There is just one day left to register for Content London at the EXTENDED SEPTEMBER DISCOUNT RATE of £1199 – saving £200 on the full delegate price. Having published its draft agenda HERE, Content ...",
+   "link": "https://www.c21media.net/department/marketing/ends-tomorrow-dont-miss-the-content-london-extended-september-discount-rate-of-just-1199-saving-200/",
+   "outlet": "C21Media",
+   "feed_region": "uk",
+   "published": "2026-10-21T10:28:50+01:00"
+  },
+  {
+   "key": "nabshownyopensasmediasmoneytalkmoveseast",
+   "title": "NAB Show NY Opens as Media’s Money Talk Moves East",
+   "summary": "Wall Street, live sports, and the creator economy share the marquee as NAB Show New York opens its doors this morning at the Javits Center in Manhattan, with radio carving out its own space inside a business-first program and awards sales excellence.",
+   "link": "https://radioink.com/2026/10/21/nab-show-ny-opens-as-medias-money-talk-moves-east/",
+   "outlet": "Radio Ink",
+   "feed_region": "americas",
+   "published": "2026-10-21T10:28:25+01:00"
+  },
+  {
+   "key": "autostageportalbringsincarradiodatatosmallmarkets",
+   "title": "AutoStage Portal Brings In-Car Radio Data to Small Markets",
+   "summary": "Radio's new measurement rivalry is getting louder. Xperi is taking its AutoStage data into hundreds of new markets, including smaller metros that have lacked measurement coverage, just days after Nielsen publicly questioned the efficacy of in-car-only data.",
+   "link": "https://radioink.com/2026/10/21/autostage-portal-brings-in-car-radio-data-to-small-markets/",
+   "outlet": "Radio Ink",
+   "feed_region": "americas",
+   "published": "2026-10-21T10:26:23+01:00"
+  },
+  {
+   "key": "paigenienabersmidweekideadumptrivialpursuits",
+   "title": "Paige Nienaber’s Midweek Idea Dump: Trivial Pursuits",
+   "summary": "(Paige Nienaber) The casino that I do work with does Trivia on Thursdays in the bar. One Thursday a month is \"theme night,\" and instead of getting everything through Buzztime Trivia, one of the Marketing people creates it herself and hosts it on the big screens.",
+   "link": "https://radioink.com/2026/10/21/paige-nienabers-midweek-idea-dump-trivial-pursuits/",
+   "outlet": "Radio Ink",
+   "feed_region": "americas",
+   "published": "2026-10-21T10:25:00+01:00"
+  },
+  {
+   "key": "beautifulbeastsleibaschofftoleadradiomercuryjury",
+   "title": "BeautifulBeast’s Leibaschoff To Lead Radio Mercury Jury",
+   "summary": "The Radio Mercury Awards has settled on its chief judge for 2027. BeautifulBeast Co-Founder and Chief Creative Officer Flor Leibaschoff will oversee the jury for the 36th annual competition edition, bringing an advertising career built on cross-cultural creative.",
+   "link": "https://radioink.com/2026/10/21/beautifulbeasts-leibaschoff-to-lead-radio-mercury-jury/",
+   "outlet": "Radio Ink",
+   "feed_region": "americas",
+   "published": "2026-10-21T10:23:31+01:00"
+  },
+  {
+   "key": "streamingtoovertakelinearmediarevenueingermanyin2026",
+   "title": "Streaming to overtake linear media revenue in Germany in 2026",
+   "summary": "Germany’s audio and audiovisual media market is forecast to grow by 1.8% to €16.3 billion in 2026, but the increase is driven entirely by streaming, while TV and radio advertising […]",
+   "link": "https://www.broadbandtvnews.com/2026/10/21/streaming-to-overtake-linear-media-revenue-in-germany-in-2026/",
+   "outlet": "Broadband TV News",
+   "feed_region": "uk",
+   "published": "2026-10-21T10:19:20+01:00"
+  },
+  {
+   "key": "sonyalummattiacavannabroughtintorunacquisitionsfordisneyinitaly",
+   "title": "Sony alum Mattia Cavanna brought in to run acquisitions for Disney+ in Italy",
+   "summary": "The Walt Disney Company (TWDC) in Italy has hired former Sony Pictures Entertainment and Adler Entertainment exec Mattia Cavanna. Milan-based Cavanna announced on LinkedIn that he had joined TWDC as he...",
+   "link": "https://www.c21media.net/news/sony-alum-mattia-cavanna-brought-in-to-run-acquisitions-for-disney-in-italy/",
+   "outlet": "C21Media",
+   "feed_region": "uk",
+   "published": "2026-10-21T10:18:56+01:00"
+  },
+  {
+   "key": "happinessisthenextaikpiifoxfordboffinshavetheirway",
+   "title": "Happiness is the next AI KPI if Oxford boffins have their way",
+   "summary": "Researchers say public subsidies for AI should be repaid in wellbeing, not just economic growth",
+   "link": "https://www.theregister.com/offbeat/2026/10/21/happiness-is-the-next-ai-kpi-if-oxford-boffins-have-their-way/5304253",
+   "outlet": "The Register",
+   "feed_region": "global",
+   "published": "2026-10-21T10:15:00+01:00"
+  },
+  {
+   "key": "subaruisdroppinggascarsforevsineuropebytheendof2027",
+   "title": "Subaru is dropping gas cars for EVs in Europe by the end of 2027",
+   "summary": "Subaru will halt the sale of gas-powered vehicles in favor of an all-electric lineup in Europe no later than 2027.",
+   "link": "https://www.engadget.com/2292610/subaru-is-dropping-gas-cars-for-evs-in-europe-by-the-end-of-2027/",
+   "outlet": "Engadget",
+   "feed_region": "global",
+   "published": "2026-10-21T10:14:00+01:00"
+  },
+  {
+   "key": "swedishrebootofwallanderlandsatbbcamideuropeanandnasales",
+   "title": "Swedish reboot of Wallander lands at BBC amid European and NA sales",
+   "summary": "The reboot of Scandinavian crime drama Wallander has found a UK home at the BBC. Produced by Jarowskij/YellowBird, part of Banijay Nordic, the three-part Swedish-language adaptation for TV4 will be ava...",
+   "link": "https://www.c21media.net/news/swedish-reboot-of-wallander-lands-at-bbc-amidst-european-and-na-sales/",
+   "outlet": "C21Media",
+   "feed_region": "uk",
+   "published": "2026-10-21T10:10:50+01:00"
+  },
+  {
+   "key": "nvidiaandebuextendcollaborationtostrengthensovereigncloudstandards",
+   "title": "Nvidia and EBU extend collaboration to strengthen sovereign cloud standards",
+   "summary": "The initiative aims to create a foundation to protect editorial independence, data sovereignty and national resilience across Europe The post Nvidia and EBU extend collaboration to strengthen sovereign cloud standards appeared first on TVBEurope .",
+   "link": "https://www.tvbeurope.com/media-management/nvidia-and-ebu-extend-collaboration-to-strengthen-sovereign-cloud-standards",
+   "outlet": "TVBEurope",
+   "feed_region": "uk",
+   "published": "2026-10-21T10:07:03+01:00"
+  },
+  {
+   "key": "3qacquiresprosiebensat1svideomarketplaceglomex",
+   "title": "3Q acquires ProSiebenSat.1’s video marketplace glomex",
+   "summary": "Video streaming infrastructure provider 3Q is acquiring glomex from ProSiebenSat.1, combining its video technology with the marketplace’s content syndication and monetisation services. The transaction is expected to close in the […]",
+   "link": "https://www.broadbandtvnews.com/2026/10/21/3q-acquires-prosiebensat-1s-video-marketplace-glomex/",
+   "outlet": "Broadband TV News",
+   "feed_region": "uk",
+   "published": "2026-10-21T10:05:26+01:00"
+  },
+  {
+   "key": "troyaikmanandjoebuckwhatnextforthenfls165mtvpowercoupleastheyheadforas",
+   "title": "Troy Aikman and Joe Buck: what next for the NFL’s $165m TV power couple as they head for a split?",
+   "summary": "The duo have carved out lucrative and successful careers as TV audiences elsewhere are falling. It seems they won’t be together for much longer Troy Aikman knew when it was time to go. His aching body made the decision for him when he ended his NFL career in 2001. A quarter of a century later, with one of the top...",
+   "link": "https://www.theguardian.com/sport/2026/oct/21/troy-aikman-joe-buck-nfl-espn",
+   "outlet": "Guardian Media",
+   "feed_region": "uk",
+   "published": "2026-10-21T10:00:01+01:00"
+  },
+  {
+   "key": "hiamabbasstoreceiveeuropeanachievementinworldcinemaaward",
+   "title": "Hiam Abbass to Receive European Achievement in World Cinema Award",
+   "summary": "The Palestinian actress, whose credits include 'Paradise Now,' 'The Visitor,' 'Succession' and 'Palestine 36,' will be honored at the 39th European Film Awards in Athens in January.",
+   "link": "https://www.hollywoodreporter.com/movies/movie-news/hiam-abbass-to-receive-european-achievement-in-world-cinema-award-1236737102/",
+   "outlet": "Hollywood Reporter",
+   "feed_region": "americas",
+   "published": "2026-10-21T10:00:00+01:00"
+  },
+  {
+   "key": "qawhycolabisinthesweetspotofengineeringsoftware",
+   "title": "Q&A: Why CoLab is in the “sweet spot” of engineering software",
+   "summary": "Chief Strategy Officer Taylor Young says building in Newfoundland helps filter out the “noise.” The post Q&A: Why CoLab is in the “sweet spot” of engineering software first appeared on BetaKit .",
+   "link": "https://betakit.com/qa-why-colab-is-in-the-sweet-spot-of-engineering-software/",
+   "outlet": "BetaKit",
+   "feed_region": "americas",
+   "published": "2026-10-21T10:00:00+01:00"
+  },
+  {
+   "key": "foraintegratescanonsptzcamerasintoproductionswitcher",
+   "title": "FOR-A integrates Canon’s PTZ cameras into production switcher",
+   "summary": "MixBoard users will now be able to control one or a number of Canon PTZ cameras, including recalling preset positions, moving and zooming the cameras in real time, and managing tallies The post FOR-A integrates Canon’s PTZ cameras into production switcher appeared first on TVBEurope .",
+   "link": "https://www.tvbeurope.com/production-post/for-a-integrates-canons-ptz-cameras-into-production-switcher",
+   "outlet": "TVBEurope",
+   "feed_region": "uk",
+   "published": "2026-10-21T09:59:08+01:00"
+  },
+  {
+   "key": "elonmuskconfirmsheisconsideringmergingteslaandspacex",
+   "title": "Elon Musk confirms he is considering merging Tesla and SpaceX",
+   "summary": "Musk says special committees within both companies have been formed to look at a possible mega-merger.",
+   "link": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss",
+   "outlet": "BBC Technology",
+   "feed_region": "uk",
+   "published": "2026-10-21T09:42:49+01:00"
+  },
+  {
+   "key": "spacexandteslaareexploringapossiblemerger",
+   "title": "SpaceX and Tesla are exploring a possible merger",
+   "summary": "SpaceX and Tesla have formed special committees to discuss a merger, but Elon Musk says it's not a certainty.",
+   "link": "https://www.engadget.com/2292594/spacex-tesla-exploring-possible-merger/",
+   "outlet": "Engadget",
+   "feed_region": "global",
+   "published": "2026-10-21T09:40:59+01:00"
+  },
+  {
+   "key": "industrydoctorwhoproducerjanetranteronresistingtrendscenteringwomenand",
+   "title": "‘Industry,’ ‘Doctor Who’ Producer Jane Tranter on Resisting Trends, Centering Women and Telling Stories About ‘People Being Accepted for Who They Choose to Be’",
+   "summary": "“Industry” and “Doctor Who” producer Jane Tranter has made a career of going against the grain, and at Rome’s MIA Market on Tuesday, she told European producers that the only way to survive in uncertain times is to “go in the opposite direction of everyone else’s traffic.” “If everyone else is zigging, you zag....",
+   "link": "https://variety.com/2026/tv/global/jane-tranter-mia-rome-1236918447/",
+   "outlet": "Variety",
+   "feed_region": "americas",
+   "published": "2026-10-21T09:38:12+01:00"
+  },
+  {
+   "key": "channel4setsuptheexperimenttoinvestigateattitudestowardsdisability",
+   "title": "Channel 4 sets up The Experiment to investigate attitudes towards disability",
+   "summary": "UK public service broadcaster Channel 4 (C4) is launching documentary special The Experiment, to be presented by actor Mat Fraser (Cast Offs) and disability rights activist Sophie Morgan. Made by UK fa...",
+   "link": "https://www.c21media.net/news/channel-4-sets-up-the-experiment-to-investigate-attitudes-towards-disability/",
+   "outlet": "C21Media",
+   "feed_region": "uk",
+   "published": "2026-10-21T09:37:09+01:00"
+  },
+  {
+   "key": "whatishappeningtoukprices",
+   "title": "What is happening to UK prices?",
+   "summary": "UK inflation rose in September, pushed up by higher petrol and diesel prices.",
+   "link": "https://www.bbc.co.uk/news/articles/c17rgd8e9gjo?at_medium=RSS&at_campaign=rss",
+   "outlet": "BBC Business",
+   "feed_region": "uk",
+   "published": "2026-10-21T09:35:47+01:00"
+  },
+  {
+   "key": "mpsurgeukgovernmenttoplayventurecapitalistwithtaxpayerfundedtech",
+   "title": "MPs urge UK government to play venture capitalist with taxpayer-funded tech",
+   "summary": "Watchdog says Whitehall is too timid about taking stakes in British startups, leaving taxpayers at risk of missing out when they strike gold",
+   "link": "https://www.theregister.com/public-sector/2026/10/21/mps-urge-uk-government-to-play-venture-capitalist-with-taxpayer-funded-tech/5304212",
+   "outlet": "The Register",
+   "feed_region": "global",
+   "published": "2026-10-21T09:30:00+01:00"
+  },
+  {
+   "key": "coolabirestructuresandrebrandsasfourtreesmediamakesthreehires",
+   "title": "Coolabi restructures and rebrands as Four Trees Media, makes three hires",
+   "summary": "Coolabi Group has rebranded as Four Trees Media and brought its literary arm, Working Partners, under the same name, while making three new appointments. The rebrand brings together the company’s...",
+   "link": "https://www.c21media.net/news/coolabi-brings-literary-arm-under-new-four-trees-media-brand-makes-three-hires/",
+   "outlet": "C21Media",
+   "feed_region": "uk",
+   "published": "2026-10-21T09:27:38+01:00"
+  },
+  {
+   "key": "bbcsjackbootlecallsforreturnablenaturalhistorywithfasterturnarounds",
+   "title": "BBC’s Jack Bootle calls for returnable natural history with faster turnarounds",
+   "summary": "WILDSCREEN: The BBC must get better at doing returnable, repeatable natural history programming with a faster turnaround, according to its head of commissioning for specialist factual, Jack Bootle. Spe...",
+   "link": "https://www.c21media.net/news/bbcs-jack-bootle-calls-for-returnable-natural-history-with-faster-turnarounds/",
+   "outlet": "C21Media",
+   "feed_region": "uk",
+   "published": "2026-10-21T09:16:37+01:00"
+  },
+  {
+   "key": "youdbesillytoonlyuseyoutubewarnsyoutubespartnershipschief",
+   "title": "‘You’d be silly to only use YouTube’ warns YouTube’s partnerships chief",
+   "summary": "WILDSCREEN: Another week, another industry event dominated by the rescue remedy potential of YouTube, but even the video-sharing platform's own head of partnerships says you would be foolish to place a...",
+   "link": "https://www.c21media.net/news/youd-be-silly-to-only-use-youtube-warns-youtubes-partnerships-chief/",
+   "outlet": "C21Media",
+   "feed_region": "uk",
+   "published": "2026-10-21T09:05:16+01:00"
+  },
+  {
+   "key": "camelracingasectandworkplacedemocracytallinnfestsetsdocslineupspecials",
+   "title": "Camel Racing, a Sect and Workplace Democracy: Tallinn Fest Sets Docs Lineup, Special Screenings",
+   "summary": "The 30th edition of the Estonian festival also unveils Stephen Frears' 'Dangerous Liaisons' and Tim Blake Nelson's 'The Life and Deaths of Wilson Shedd' among its latest program additions.",
+   "link": "https://www.hollywoodreporter.com/movies/movie-news/poff-2026-tallinn-black-nights-docs-special-screenings-program-1236736652/",
+   "outlet": "Hollywood Reporter",
+   "feed_region": "americas",
+   "published": "2026-10-21T08:57:41+01:00"
+  },
+  {
+   "key": "temperaturechangingveryquicklyonattitudestoaiclaimsbanijaysdzierza",
+   "title": "‘Temperature changing very quickly’ on attitudes to AI claims Banijay’s Dzierza",
+   "summary": "WILDSCREEN: There's more to AI than Tilly Norwood and the rest of the TV industry is starting to wake up to that fact, according to a leading executive at the newly merged Banijay Entertainment. Genera...",
+   "link": "https://www.c21media.net/news/temperature-changing-very-quickly-on-attitudes-to-ai-claims-banijays-dzierza/",
+   "outlet": "C21Media",
+   "feed_region": "uk",
+   "published": "2026-10-21T08:49:14+01:00"
+  },
+  {
+   "key": "arethedspsdaysnumberedinanagenticfuture",
+   "title": "Are the DSP’s Days Numbered in an Agentic Future?",
+   "summary": "So far in the process of AI adoption, much of the focus has been on efficiency, writes Nick Tong, Managing Partner at Mediaplus UK, but now we are seeing the potential for agentic buying to change the process itself. In this guest article, Tong explores the impact agentic buying will have on the future of Read More",
+   "link": "https://videoweek.com/2026/10/21/are-the-dsps-days-numbered-in-an-agentic-future/",
+   "outlet": "VideoWeek",
+   "feed_region": "uk",
+   "published": "2026-10-21T08:37:45+01:00"
+  },
+  {
+   "key": "spotifyenhancesitsspotifymemberships",
+   "title": "Spotify enhances its Spotify Memberships",
+   "summary": "New member badges, a new name, and access tiers. Sponsored by SoundStack. Your new revenue opportunity lives in existing podcast content. Rediscover, repurpose, and monetize more of the audio and video you already have with SoundStack AI. Learn more https://podnews.net/cc/3743 Visit...",
+   "link": "https://podnews.net/update/spotify-memberships",
+   "outlet": "Podnews",
+   "feed_region": "global",
+   "published": "2026-10-21T08:33:30+01:00"
+  },
+  {
+   "key": "fathershousestarringdaviddencikandtrinedyrholmpickedupbydrsalesaheadof",
+   "title": "‘Father’s House,’ Starring David Dencik and Trine-Dyrholm, Picked Up by DR Sales Ahead of Tallinn Competition",
+   "summary": "Copenhagen-based DR Sales, the international distributor of Oscar-winning doc “Mr Nobody Against Putin” and Sundance winner “A New Kind of Wilderness,” has boarded Denmark’s “Father’s House,” starring David Dencik (“No Time to Die,” “The Chestnut Man”) and Trine Dyrholm (“The Danish Woman,” “Queen of Hearts”)....",
+   "link": "https://variety.com/2026/film/global/trine-dyrholm-david-dencik-dr-sales-religious-sect-1236918444/",
+   "outlet": "Variety",
+   "feed_region": "americas",
+   "published": "2026-10-21T08:19:28+01:00"
+  },
+  {
+   "key": "netflixneedsbiggerushitsnotacontentstrategyresetsarandos",
+   "title": "Netflix needs bigger US hits, not a content strategy reset – Sarandos",
+   "summary": "Ted Sarandos has said the executive purge that took place at Netflix over the past week does not indicate a wholesale content strategy reset, but rather the pursuit of a stronger US programming slate. ...",
+   "link": "https://www.c21media.net/department/content-trends/netflix-needs-bigger-us-hits-not-a-content-strategy-reset-sarandos/",
+   "outlet": "C21Media",
+   "feed_region": "uk",
+   "published": "2026-10-21T08:17:27+01:00"
+  },
+  {
+   "key": "greatlakescreativeproducerslabunveilscohortof15filmproducersfromsevena",
+   "title": "Great Lakes Creative Producers Lab Unveils Cohort of 15 Film Producers From Seven African Countries",
+   "summary": "\"The strongest industry will be built by producers who work across borders, and the Great Lakes Creative Producers Lab is a catalyst for that.\"",
+   "link": "https://www.hollywoodreporter.com/movies/movie-news/great-lakes-creative-producers-lab-africa-film-producers-2026-1236736677/",
+   "outlet": "Hollywood Reporter",
+   "feed_region": "americas",
+   "published": "2026-10-21T08:01:00+01:00"
+  },
+  {
+   "key": "piratesofthecaribbeansecretcinemaimmersivestageshowcastsgeorgemaguirea",
+   "title": "‘Pirates of the Caribbean’ Secret Cinema Immersive Stage Show Casts George Maguire as Jack Sparrow, Extends London Run",
+   "summary": "Olivier winner George Maguire will play Captain Jack Sparrow in “Disney’s Pirates of the Caribbean: The Immersive Adventure,” the London stage production from Secret Cinema and TodayTix. Phil Daniels, known for “Quadrophenia,” “EastEnders” and Blur’s “Parklife,” will play Captain Barbossa. Lily Blunsom is Elizabeth...",
+   "link": "https://variety.com/2026/theater/news/pirates-of-the-caribbean-secret-cinema-jack-sparrow-1236918148/",
+   "outlet": "Variety",
+   "feed_region": "americas",
+   "published": "2026-10-21T08:00:00+01:00"
+  },
+  {
+   "key": "whyiselonmuskplottingamegamergerofspacexandtesla",
+   "title": "Why is Elon Musk plotting a mega-merger of SpaceX and Tesla?",
+   "summary": "Musk says there's \"a lot to be gained\" by combining the firms in what would be the biggest merger in history.",
+   "link": "https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss",
+   "outlet": "BBC Technology",
+   "feed_region": "uk",
+   "published": "2026-10-21T07:36:39+01:00"
+  },
+  {
+   "key": "ghoststhepossessionofbuttonhousereviewnewlevelsofgiddinessunleashedins",
+   "title": "Ghosts: The Possession of Button House review – new levels of giddiness unleashed in spooky spin-off",
+   "summary": "Picking up not long after the events of the final episode of the BBC’s haunted house comedy, this glorious new film is every bit as warm and comforting as the TV sitcom What on earth is happening at Button House? Kitty has tasered a police officer. Fanny is pulling down her capacious Victorian drawers to show off...",
+   "link": "https://www.theguardian.com/film/2026/oct/21/ghosts-the-possession-of-button-house-review-spin-off-new-film-bbc-haunted-house-comedy",
+   "outlet": "Guardian Media",
+   "feed_region": "uk",
+   "published": "2026-10-21T07:00:02+01:00"
+  },
+  {
+   "key": "uktvadding8newfastchannels",
+   "title": "UKTV adding 8 new FAST channels",
+   "summary": "UKTV, the commercial broadcaster, has announced that it will launch eight new FAST channels in the UK. Going live before the end of the year, across LG Channels and Freely, the new channels will provide UK viewers with curated access to hundreds of episodes from popular BBC programmes spanning drama, entertainment,...",
+   "link": "https://www.advanced-television.com/2026/10/21/uktv-adding-8-new-fast-channels/",
+   "outlet": "Advanced Television",
+   "feed_region": "uk",
+   "published": "2026-10-21T06:15:42+01:00"
+  },
   {
    "key": "watchwedontpaylawyeradviseshowtoavoid45000illegalworkerfine",
    "title": "Watch: 'We don't pay' - lawyer advises how to avoid £45,000 illegal-worker fine",
@@ -17,6 +845,15 @@
    "link": "https://www.theguardian.com/world/2026/oct/21/battle-meta-alleged-bolsonaro-bias-intensifies-days-before-brazil-presidential-runoff",
    "outlet": "Guardian Media",
    "feed_region": "uk",
+   "published": "2026-10-21T06:00:00+01:00"
+  },
+  {
+   "key": "targetditcheshotsantafordarcycardeninfirstholidaycampaignundernewceo",
+   "title": "Target Ditches ‘Hot Santa’ for D’Arcy Carden in First Holiday Campaign Under New CEO",
+   "summary": "Plus, an in-depth look at Target's holiday strategy.",
+   "link": "https://www.adweek.com/commerce/target-ditches-hot-santa-for-darcy-carden-in-first-holiday-campaign-under-new-ceo/",
+   "outlet": "Adweek",
+   "feed_region": "americas",
    "published": "2026-10-21T06:00:00+01:00"
   },
   {
@@ -38,6 +875,15 @@
    "published": "2026-10-21T05:49:00+01:00"
   },
   {
+   "key": "ukwoefullyunpreparedtofacewildfiresmpswarnasunissuesclimatetargetwarni",
+   "title": "UK 'woefully unprepared' to face wildfires, MPs warn - as UN issues climate target warning",
+   "summary": "Exceeding a key global climate target is now \"imminent and unavoidable\", United Nations (UN) scientists have warned.",
+   "link": "https://news.sky.com/story/britain-woefully-unprepared-to-tackle-wildfires-and-needs-new-fire-fighting-planes-and-bbq-bans-needed-mps-warn-13601469",
+   "outlet": "Sky News Tech",
+   "feed_region": "uk",
+   "published": "2026-10-21T05:49:00+01:00"
+  },
+  {
    "key": "ukgovernmentexpectedtoapprovejackdawgasfield",
    "title": "UK government expected to approve Jackdaw gas field",
    "summary": "The long-awaited decision about the controversial North Sea field is expected on Wednesday morning.",
@@ -45,6 +891,15 @@
    "outlet": "BBC Business",
    "feed_region": "uk",
    "published": "2026-10-21T05:41:04+01:00"
+  },
+  {
+   "key": "spacexq3revenuesup161yoy",
+   "title": "SpaceX Q3 revenues up 161% YoY",
+   "summary": "Elon Musk reported some remarkable financial numbers during SpaceX’s Q3 earnings call. Talking to analysts, he said that the company could reach $500 billion (€596m) to $1 trillion in annual recurring revenue by the end of 2027. Total quarterly revenue at the moment is $14.58 billion, up 161 per cent y-o-y and up...",
+   "link": "https://www.advanced-television.com/2026/10/21/spacex-impressive-q3-results/",
+   "outlet": "Advanced Television",
+   "feed_region": "uk",
+   "published": "2026-10-21T05:25:01+01:00"
   },
   {
    "key": "whydoeselonmuskwanttomergeteslaandspacex",
@@ -155,6 +1010,15 @@
    "published": "2026-10-21T04:23:40+01:00"
   },
   {
+   "key": "nervousispsreplacechromeasstrangeconsumersofdnsresources",
+   "title": "Nervous ISPs replace Chrome as strange consumers of DNS resources",
+   "summary": "Some network operators like to wear belts and suspenders to keep their services up",
+   "link": "https://www.theregister.com/networks/2026/10/21/nervous-isps-replace-chrome-as-strange-consumers-of-dns-resources/5304344",
+   "outlet": "The Register",
+   "feed_region": "global",
+   "published": "2026-10-21T04:16:37+01:00"
+  },
+  {
    "key": "newssidemenshypemanlovesyoutube",
    "title": "News: Sidemen’s hype man loves YouTube",
    "summary": "The CEO of the management firm behind The Sidemen has some opinions about TV. Trouble is, they’re rather misleading, argues Elliott Millard, Thinkbox CSO.",
@@ -209,6 +1073,15 @@
    "published": "2026-10-21T03:37:12+01:00"
   },
   {
+   "key": "researchnetflixsadplanismostpurchasedtier",
+   "title": "Research: Netflix’s ad-plan is most purchased tier",
+   "summary": "As Netflix unveils its Q3 2026 numbers, research from Digitali shows that the streamer’s ads plan is now its most purchased subscription tier. This follows a period of growth for the ad tier, which is now taken up by just under half of subscribers in ad tier markets. Netflix will expand its ad-supported offering to […]",
+   "link": "https://www.advanced-television.com/2026/10/21/research-netflixs-ad-plan-is-most-purchased-tier/",
+   "outlet": "Advanced Television",
+   "feed_region": "uk",
+   "published": "2026-10-21T03:33:53+01:00"
+  },
+  {
    "key": "tylercameronrevealshesgoingtobeagirldadondancingwiththestars",
    "title": "Tyler Cameron Reveals He’s Going to Be a Girl Dad on ‘Dancing With the Stars’",
    "summary": "The reality star and his fiancée, Tate Madden, announced on Tuesday night's episode that they were expecting their first child.",
@@ -254,6 +1127,24 @@
    "published": "2026-10-21T02:49:21+01:00"
   },
   {
+   "key": "whysportsblackoutsstillfollowstatelines",
+   "title": "Why sports blackouts still follow state lines",
+   "summary": "For decades, American media was a map of invisible borders. Broadcast signals stopped at the horizon, local affiliates guarded their turf, and the content a household could watch depended heavily on where that household sat. The internet was supposed to erase those lines. Yet anyone tracking the streaming and...",
+   "link": "https://www.advanced-television.com/2026/10/21/why-sports-blackouts-still-follow-state-lines/",
+   "outlet": "Advanced Television",
+   "feed_region": "uk",
+   "published": "2026-10-21T02:44:55+01:00"
+  },
+  {
+   "key": "usthreatenseuropeoverstarlinkrival",
+   "title": "US threatens Europe over Starlink rival",
+   "summary": "The US has threatened “devastating” measures over any potential threats to Elon Musk’s SpaceX and Starlink broadband-by-satellite system. The US Ambassador to the European Union, Andrew Pazder, has warned that European companies could face harsh countermeasures from Washington, according to a report in the FT. The...",
+   "link": "https://www.advanced-television.com/2026/10/21/us-threatens-europe-over-starlink-rival/",
+   "outlet": "Advanced Television",
+   "feed_region": "uk",
+   "published": "2026-10-21T02:24:50+01:00"
+  },
+  {
    "key": "nabnames2026marconiradioawardwinners",
    "title": "NAB Names 2026 Marconi Radio Award Winners",
    "summary": "Radio's best lit up Manhattan as the Marconi Radio Awards named winners in categories ranging from major market personalities to college stations. Broadcasters gathered at the Edison Ballroom to find out who won and celebrate on the eve of NAB Show New York.",
@@ -261,6 +1152,15 @@
    "outlet": "Radio Ink",
    "feed_region": "americas",
    "published": "2026-10-21T02:03:49+01:00"
+  },
+  {
+   "key": "uschambersharesdigitalpiracyinsightsandpriorities",
+   "title": "US Chamber shares digital piracy insights and priorities",
+   "summary": "The US Chamber of Commerce has shared insights and policy priorities arising from a recent Symposium, The Anti-piracy Playbook, in a letter to members of the House and Senate Judiciary Committees. In the letter, the Chamber says it appreciates the Judiciary Committees’ dedication to supporting copyright-intensive...",
+   "link": "https://www.advanced-television.com/2026/10/21/us-chamber-shares-digital-piracy-insights-and-priorities/",
+   "outlet": "Advanced Television",
+   "feed_region": "uk",
+   "published": "2026-10-21T02:00:11+01:00"
   },
   {
    "key": "comedytriopleasedontdestroytaketheiracttojcrewfornewsuitingcampaign",
@@ -27441,213 +28341,6 @@
    "outlet": "Engadget",
    "feed_region": "global",
    "published": "2026-10-11T13:30:00+01:00"
-  },
-  {
-   "key": "hereshowmuchthemacbookprocostin2021vs2026",
-   "title": "Here's how much the MacBook Pro cost in 2021 vs. 2026",
-   "summary": "You'll be shocked to learn things are getting a lot more expensive.",
-   "link": "https://www.engadget.com/2280441/how-much-macbook-pro-cost-2021-vs-2026/",
-   "outlet": "Engadget",
-   "feed_region": "global",
-   "published": "2026-10-11T13:15:00+01:00"
-  },
-  {
-   "key": "horrorisbigbusiness",
-   "title": "Horror is big business",
-   "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on how pervasive horror has become, follow Andrew Webster. The Stepback, arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started Resident Evil has been around for...",
-   "link": "https://www.theverge.com/column/1008432/horror-popular-widows-bay-resident-evil",
-   "outlet": "The Verge",
-   "feed_region": "global",
-   "published": "2026-10-11T13:00:00+01:00"
-  },
-  {
-   "key": "whytheleappadcouldntsurvivetheipad",
-   "title": "Why the LeapPad couldn’t survive the iPad",
-   "summary": "For multiple years, the hottest toy in the United States was a book. But not just any book: a smart book that could play sounds and respond to taps and help kids learn to read. It was the kind of gadget seemingly any parent could get behind, but it came with a high price - […]",
-   "link": "https://www.theverge.com/podcast/1008578/leapfrog-leappad-technology-version-history",
-   "outlet": "The Verge",
-   "feed_region": "global",
-   "published": "2026-10-11T13:00:00+01:00"
-  },
-  {
-   "key": "silenthilltownfallisrealformeivebeentotheactualstamelia",
-   "title": "Silent Hill Townfall Is Real for Me: I’ve Been to the Actual St. Amelia",
-   "summary": "In this spoiler-free review, I explain why this is the most personal horror game I’ve ever played",
-   "link": "https://www.cnet.com/uncategorized/silent-hill-townfall-review/",
-   "outlet": "CNET News",
-   "feed_region": "global",
-   "published": "2026-10-11T13:00:00+01:00"
-  },
-  {
-   "key": "germanysmfgbacksblackforeststudiosmicrodramawith142k",
-   "title": "Germany’s MFG backs Black Forest Studios microdrama with $142k",
-   "summary": "German regional funder MFG Medien & Filmgesellschaft Baden-Württemberg has awarded €127,084 (US$142,000) in production funding to Black Forest Royale, a microdrama from Freiburg-based Black Fore...",
-   "link": "https://www.c21media.net/news/germanys-mfg-backs-black-forest-studios-microdrama-with-142k/",
-   "outlet": "C21Media",
-   "feed_region": "uk",
-   "published": "2026-10-11T12:40:54+01:00"
-  },
-  {
-   "key": "aisystemsarefullycapableofcarryingoutnightmareattacksagainstinfrastruc",
-   "title": "AI systems are fully capable of carrying out nightmare attacks against infrastructure and nobody's ready",
-   "summary": "Meanwhile, AI agents move robotic arms, 'make OT device operator screens lie'",
-   "link": "https://www.theregister.com/security/2026/10/11/ai-systems-are-fully-capable-of-carrying-out-nightmare-attacks-against-infrastructure-and-nobodys-ready/5302450",
-   "outlet": "The Register",
-   "feed_region": "global",
-   "published": "2026-10-11T12:30:00+01:00"
-  },
-  {
-   "key": "learningtouselocalaiisexcitingoverwhelmingandfrustrating",
-   "title": "Learning to use local AI is exciting, overwhelming, and frustrating",
-   "summary": "I'm embarking on a journey I've so far been hesitant to go on: actually using AI on the regular. Giving my most personal data to cloud services has been a major hold up for me, but it's increasingly possible to run powerful models locally to see what they're capable of. Is this tech so useful […]",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress",
-   "outlet": "The Verge",
-   "feed_region": "global",
-   "published": "2026-10-11T12:00:00+01:00"
-  },
-  {
-   "key": "ainativestudioscancreateoriginalipwhiletraditionalstudioskeeptheiredge",
-   "title": "AI-Native Studios Can Create Original IP While Traditional Studios Keep Their Edge, VFX Veteran Hong Jae Cheol Says at Busan",
-   "summary": "Small, AI-native companies running automated pipelines can develop their own intellectual property, while traditional studios hold on to their advantages in established franchises, production infrastructure, talent and distribution, according to VFX veteran Hong Jae Cheol. Hong, a producer-director at Viscode who...",
-   "link": "https://variety.com/2026/film/markets-festivals/ai-native-studios-create-original-ip-vfx-veteran-busan-1236908092/",
-   "outlet": "Variety",
-   "feed_region": "americas",
-   "published": "2026-10-11T11:33:16+01:00"
-  },
-  {
-   "key": "1212thedaydirectorkimsungsoosaysaishowswhatsinyourimagination",
-   "title": "‘12.12: The Day’ Director Kim Sung-soo Says AI ‘Shows What’s in Your Imagination’",
-   "summary": "Kim Sung-soo, director of Korean box office hit “12.12: The Day,” once saw AI as a destroyer of the film industry. Speaking Sunday at a session hosted by Kling AI at the Busan International Film Festival’s Asian Contents & Film Market, he described how it has instead become part of his craft. His turning point […]",
-   "link": "https://variety.com/2026/film/markets-festivals/12-12-the-day-director-kim-sung-soo-ai-craft-1236908089/",
-   "outlet": "Variety",
-   "feed_region": "americas",
-   "published": "2026-10-11T11:18:24+01:00"
-  },
-  {
-   "key": "keanureevesvoicedstopmotionsamuraifilmhidarilooksfornewpartnerafterust",
-   "title": "Keanu Reeves-Voiced Stop-Motion Samurai Film ‘Hidari’ Looks for New Partner After U.S. Talks Stall",
-   "summary": "Japan’s Dwarf Studios is looking for a new partner for “Hidari,” the stop-motion samurai film voiced by Keanu Reeves, after talks with a U.S. company that offered to fund the entire budget in exchange for all rights stalled, producer Matsumoto Noriko told an audience at the Busan International Film Festival’s Asian...",
-   "link": "https://variety.com/2026/film/markets-festivals/keanu-reeves-hidari-new-partner-us-talks-stall-1236908055/",
-   "outlet": "Variety",
-   "feed_region": "americas",
-   "published": "2026-10-11T11:10:29+01:00"
-  },
-  {
-   "key": "thebeautifulblueismyfavoritethingaboutvivosfoldablexfold6",
-   "title": "The Beautiful Blue Is My Favorite Thing About Vivo’s Foldable X Fold 6",
-   "summary": "It’s a solid example of an Android foldable, but I worry that Apple has changed the game.",
-   "link": "https://www.cnet.com/tech/mobile/vivo-x-fold-6-blue-color-design-review/",
-   "outlet": "CNET News",
-   "feed_region": "global",
-   "published": "2026-10-11T11:00:00+01:00"
-  },
-  {
-   "key": "dougrayscottchrisphilipattachedtonewdetectivedramaaustingrant",
-   "title": "Dougray Scott, Chris Philip attached to new detective drama Austin Grant",
-   "summary": "MIPCOM: Dougray Scott is to star in Austin Grant, a new detective drama written by Scott Shepherd and Daniel Pyne, with exec producer Chris Philip unveiling the show on the eve of the Mipcom sales mark...",
-   "link": "https://www.c21media.net/news/dougray-scott-chris-philip-david-ellender-attached-to-new-detective-drama-austin-grant/",
-   "outlet": "C21Media",
-   "feed_region": "uk",
-   "published": "2026-10-11T10:48:27+01:00"
-  },
-  {
-   "key": "betweentwoloversreviewnanakohirosescontentiousfamilydramaexaminesanill",
-   "title": "‘Between Two Lovers’ Review: Nanako Hirose’s Contentious Family Drama Examines an Ill-Fated Throuple",
-   "summary": "The sophomore feature from Hirokazu Kore-eda protégé Nanako Hirose, “Between Two Lovers” tackles a variety of potential hot-button issues, from polyamorous relationships to same-sex parenting, in its contemporary Japanese setting. The film stars Masami Nagasawa as a free-spirited children’s author who invites her...",
-   "link": "https://variety.com/2026/film/reviews/between-two-lovers-review-1236908080/",
-   "outlet": "Variety",
-   "feed_region": "americas",
-   "published": "2026-10-11T10:38:38+01:00"
-  },
-  {
-   "key": "hpesnetworkingbosssaysaiwillhandlealltroubleticketswithouthumansintwoy",
-   "title": "HPE's networking boss says AI will handle all trouble tickets without humans in two years",
-   "summary": "And you'll trust agents to do that for the same reason you no longer worry about automatic transmissions",
-   "link": "https://www.theregister.com/networks/2026/10/11/hpes-networking-boss-says-ai-will-handle-all-trouble-tickets-without-humans-in-two-years/5302179",
-   "outlet": "The Register",
-   "feed_region": "global",
-   "published": "2026-10-11T10:37:00+01:00"
-  },
-  {
-   "key": "markfennessysheliumrisestowards2027withparamountstanprojects",
-   "title": "Mark Fennessy’s Helium rises towards 2027 with Paramount, Stan projects",
-   "summary": "MIPCOM: Australian indie Helium Pictures is here in Cannes with ambitions to increase its production output across scripted, factual and unscripted programming in 2027. The Sydney-based outfit is at Mi...",
-   "link": "https://www.c21media.net/news/mark-fennessys-helium-pictures-rises-towards-2027-with-paramount-stan-projects/",
-   "outlet": "C21Media",
-   "feed_region": "uk",
-   "published": "2026-10-11T10:21:42+01:00"
-  },
-  {
-   "key": "snlukcoldopenseesreunionbetweenprincewilliamandkateandprinceharryandme",
-   "title": "‘SNL U.K.’ Cold Open Sees Reunion Between Prince William and Kate and Prince Harry and Meghan (With Some Help From Former Prince Andrew): ‘They Must Want Us to Be Royals Again!’",
-   "summary": "“SNL U.K.” once again skewered the royal family in this week’s cold open, showing a contentious reunion between Prince William and Kate and Prince Harry and Meghan at Sandringham Estate. “This place brings back so many memories,” Ayoade Bamgboye as Meghan said to Prince Harry (Jack Shep). “Look, this is where your...",
-   "link": "https://variety.com/2026/tv/global/snl-uk-prince-william-kate-reunite-prince-harry-meghan-1236908054/",
-   "outlet": "Variety",
-   "feed_region": "americas",
-   "published": "2026-10-11T10:13:04+01:00"
-  },
-  {
-   "key": "globoandbanijaysendemolshinebrasilpacttoforgeglobalentertainmentippowe",
-   "title": "Globo and Banijay’s Endemol Shine Brasil Pact to Forge Global Entertainment IP Powerhouse (EXCLUSIVE)",
-   "summary": "Brazilian media behemoth Globo and Endemol Shine Brasil, part of Banijay Latin America, have forged a non-scripted IP strategic partnership to develop and produce a next generation of franchises from Brazil, with the aim of jointly crafting original IP with global appeal, as well as of course local relevance. The...",
-   "link": "https://variety.com/2026/film/global/globo-endemol-shine-brasil-entertainment-brand-ip-alliance-1236907789/",
-   "outlet": "Variety",
-   "feed_region": "americas",
-   "published": "2026-10-11T10:01:20+01:00"
-  },
-  {
-   "key": "squidgameproducerreadsfoundingdeclarationasasianindependentproducersfo",
-   "title": "‘Squid Game’ Producer Reads Founding Declaration as Asian Independent Producers Form Cross-Border Alliance at Busan",
-   "summary": "Independent producers from five Asian territories joined forces on Sunday, launching the Asian Producers Alliance (APA) at the Busan International Film Festival’s Asian Contents & Film Market to push for cross-border co-production and stronger protection of creators’ rights. “Squid Game” producer Kim Ji-yeon, a...",
-   "link": "https://variety.com/2026/film/markets-festivals/squid-game-producer-asian-producers-alliance-busan-1236908051/",
-   "outlet": "Variety",
-   "feed_region": "americas",
-   "published": "2026-10-11T09:57:44+01:00"
-  },
-  {
-   "key": "researchersworkouthowtocontrol2dsemiconductorgrowthforfuturechips",
-   "title": "Researchers work out how to control 2D semiconductor growth for future chips",
-   "summary": "Korean boffins use oxygen to stop crystals forming in the wrong places, aiming to get tech to commercial sector by 2030",
-   "link": "https://www.theregister.com/science/2026/10/11/researchers-work-out-how-to-control-2d-semiconductor-growth-for-future-chips/5301666",
-   "outlet": "The Register",
-   "feed_region": "global",
-   "published": "2026-10-11T09:30:00+01:00"
-  },
-  {
-   "key": "aiandnuclearwarthreatenhumanextinctionby2100reportwarns",
-   "title": "AI and nuclear war threaten human extinction by 2100, report warns",
-   "summary": "Malicious use of AI and nuclear conflict pose the biggest threat to human extinction by the year 2100, global experts have warned.",
-   "link": "https://news.sky.com/story/ai-and-nuclear-war-threaten-human-extinction-by-2100-report-warns-13597676",
-   "outlet": "Sky News Tech",
-   "feed_region": "uk",
-   "published": "2026-10-11T08:54:00+01:00"
-  },
-  {
-   "key": "foxlaunchesmalaysiaproductionhubforextractedformat",
-   "title": "Fox launches Malaysia production hub for Extracted format",
-   "summary": "MIPCOM: Fox Entertainment Global has opened a production hub in Lake Kenyir, Malaysia, which it is positioning as a base for international licensees of its survival competition format Extracted. Fox wi...",
-   "link": "https://www.c21media.net/news/fox-launches-malaysia-production-hub-for-extracted-format/",
-   "outlet": "C21Media",
-   "feed_region": "uk",
-   "published": "2026-10-11T08:29:17+01:00"
-  },
-  {
-   "key": "charitiesandbusinesseswrestlewithdieselcost",
-   "title": "Charities and businesses wrestle with diesel cost",
-   "summary": "Cancer charity Daft as a Brush and Teesside Minibus Hire say they are struggling with pump prices.",
-   "link": "https://www.bbc.co.uk/news/articles/c5x2vn4dzz08o?at_medium=RSS&at_campaign=rss",
-   "outlet": "BBC Business",
-   "feed_region": "uk",
-   "published": "2026-10-11T07:23:27+01:00"
-  },
-  {
-   "key": "rosalaperformsanentirenumberenpointeonsnlthencoolsoffwithaniceshower",
-   "title": "Rosalía Performs an Entire Number En Pointe on ‘SNL,’ Then Cools Off With a Nice Shower",
-   "summary": "To the question of whether Rosalía would be dancing during her “Saturday Night Live” appearance or not, that depends on how you’re looking at it. The acclaimed singer stood in place, perfectly still, during her first number, “Reliquia” — but appeared to be standing en pointe for the entire four-minute performance....",
-   "link": "https://variety.com/2026/music/news/rosalia-snl-en-pointe-performance-reliquia-magnolias-1236907983/",
-   "outlet": "Variety",
-   "feed_region": "americas",
-   "published": "2026-10-11T07:23:24+01:00"
   }
  ]
 }
