@@ -1,0 +1,563 @@
+{
+  "schema": 1,
+  "iso": "2026-10-22",
+  "headline": "BBC to axe linear channels as Netflix replaces chief content officer",
+  "date_line": "Thursday 22 October 2026 · covering Mon 19 Oct to Wed 21 Oct",
+  "footer_note": "Built from 35 cited articles across 16 outlets. Written by gemini-3.1-flash-lite, gemini-3.5-flash.",
+  "model": "gemini-3.1-flash-lite, gemini-3.5-flash",
+  "backfilled": false,
+  "generated_at": "2026-10-22T07:09:36+01:00",
+  "digest": {
+    "headline": "BBC to axe linear channels as Netflix replaces chief content officer",
+    "lead": "The BBC will close three linear channels to save 500 million pounds by 2028. Meanwhile, Netflix has appointed Peter Rice as chief content officer to lead a strategic shift toward franchise content and tighter cost controls in North America.",
+    "glance": [
+      {
+        "text": "The BBC will close linear services for BBC Three, BBC Scotland and Radio 4 Extra in 2027.",
+        "section": "regulation",
+        "refs": [
+          1,
+          2,
+          3
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "UKTV is launching eight new FAST channels on LG Channels and Freely.",
+        "section": "deals",
+        "refs": [
+          4,
+          5
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "Channel 4 has secured rights to broadcast Friends starting in January 2027.",
+        "section": "deals",
+        "refs": [
+          6
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "Ofcom is investigating a complaint from Huw Edwards regarding a Channel 5 drama.",
+        "section": "regulation",
+        "refs": [
+          7
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "ITV reports that Big Brother has surpassed 200 million streams on ITVX.",
+        "section": "audience",
+        "refs": [
+          8
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "MPs are set to question Ofcom leadership on broadcasting standards and AI.",
+        "section": "regulation",
+        "refs": [
+          9
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "wedotv has launched its movie channel on the Freely streaming platform.",
+        "section": "deals",
+        "refs": [
+          10,
+          11
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "Netflix appointed Peter Rice as chief content officer following the departure of Bela Bajaria.",
+        "section": "people",
+        "refs": [
+          12
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "Disney+ and Hulu ordered a series reboot of the musical dramedy Glee from creator Ryan Murphy.",
+        "section": "deals",
+        "refs": [
+          13,
+          14,
+          15,
+          16
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "The Media Rating Council revoked Nielsen's PPM accreditation across four major radio markets including Philadelphia.",
+        "section": "radio",
+        "refs": [
+          17,
+          18
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "Google and Amazon launched new developer tools targeting Nvidia's dominance in PyTorch AI applications.",
+        "section": "tech",
+        "refs": [
+          19,
+          20
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "Anthropic introduced Claude Duet, a new AI agent designed for professionals and small business owners.",
+        "section": "tech",
+        "refs": [
+          21,
+          22
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "Corus Entertainment launched a revamped STACKTV app to replace its existing Global TV app in Canada.",
+        "section": "tech",
+        "refs": [
+          23,
+          24,
+          25
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "Rogers and Corus Entertainment settled their long-running distribution dispute in Canada.",
+        "section": "deals",
+        "refs": [
+          26
+        ],
+        "region": "americas"
+      }
+    ],
+    "sections": [
+      {
+        "id": "regulation",
+        "paragraphs": [
+          "The BBC has confirmed the closure of BBC Three, BBC Scotland and Radio 4 Extra as linear broadcast services. The corporation needs to make 500 million pounds in savings by 2028, leading to criticism from unions like Bectu regarding the impact on commissioning.",
+          "Ofcom is currently investigating a complaint from Huw Edwards concerning a Channel 5 drama. Meanwhile, MPs are scheduled to question Ofcom leadership on broadcasting impartiality and the impact of AI on the sector."
+        ],
+        "region": "uk"
+      },
+      {
+        "id": "deals",
+        "paragraphs": [
+          "UKTV is expanding its portfolio with eight new FAST channels dedicated to BBC brands including Top Gear and EastEnders. These channels will be available on LG Channels and Freely.",
+          "Channel 4 has reached a deal with Warner Bros to bring the sitcom Friends back to the network in January 2027. Additionally, wedotv has launched its movie channel on the Freely platform with a refreshed slate of films."
+        ],
+        "region": "uk"
+      },
+      {
+        "id": "audience",
+        "paragraphs": [
+          "ITV has announced that its Big Brother brand has reached 202 million streams on ITVX. The current season has seen a significant increase in engagement compared to previous performance."
+        ],
+        "region": "uk"
+      },
+      {
+        "id": "deals",
+        "paragraphs": [
+          "Disney+ and Hulu have greenlit a reboot of Glee, giving a series order to the Ryan Murphy musical dramedy. The decision comes after co-creators Ryan Murphy, Ian Brennan and Brad Falchuk finalized a new script. Disney streamer platforms are also expanding international content with a six-part Japanese horror anthology titled Night Tales Club.",
+          "Boat Rocker secured a co-exclusive streaming deal with Peacock and HBO Max for all five seasons of Orphan Black. In Canada, Rogers and Corus Entertainment settled their long-running distribution dispute. Meanwhile, Versant sold streaming rights for E! reality series The Golden Life to Hulu."
+        ],
+        "region": "americas"
+      },
+      {
+        "id": "tech",
+        "paragraphs": [
+          "Amazon and Google introduced new software tools to lure developers away from Nvidia GPUs. Amazon launched TorchNeuron to help developers run PyTorch AI models on alternative chips. Google released a similar developer tool aiming to break Nvidia's stronghold on AI app development.",
+          "Anthropic announced Claude Duet, an AI agent designed to compete against Meta Muse and OpenAI Dots. The company also signed a lease for a 10-billion-dollar data centre in Nova Scotia to power its models by late 2027. Separately, Spotify launched a native in-car app for Android Automotive OS, beginning with select Audi vehicles."
+        ],
+        "region": "americas"
+      },
+      {
+        "id": "radio",
+        "paragraphs": [
+          "The Media Rating Council revoked Nielsen PPM accreditation in four major radio markets, including Philadelphia, Baltimore, Jacksonville and Pittsburgh. The council also denied accreditation for 18 additional markets, creating further uncertainty for radio audience measurement currencies.",
+          "Canadian broadcast regulators approved two radio transactions. The CRTC sanctioned the sale of Evanov's Lite 106.7 FM to Torres Media. The regulator also approved Hope Channel's acquisition of Christian radio stations in New Brunswick."
+        ],
+        "region": "americas"
+      },
+      {
+        "id": "audience",
+        "paragraphs": [
+          "Netflix reduced its expected full-year ad revenue forecast from 3 billion dollars down to 2.7 billion dollars. The downward revision follows a slower rollout of its advertising capabilities. The platform is currently reassessing its broader content expenditure and global strategy.",
+          "CNN updated its digital presence with a redesigned homepage built on user insights to highlight video content. In cable news, Fox News maintained its position as the most-watched news network despite overall viewer gains at CNN."
+        ],
+        "region": "americas"
+      }
+    ],
+    "people_moves": [
+      {
+        "text": "Christiane Amanpour, chief international anchor, is leaving CNN after 43 years",
+        "refs": [
+          27,
+          28
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "Peter Rice, Chief Content Officer, Netflix",
+        "refs": [
+          12
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "Bela Bajaria, Departing Chief Content Officer, Netflix",
+        "refs": [
+          12
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "Lauren Glaubach, EVP Distribution, Digital & Social Platforms, Sony Pictures Television",
+        "refs": [
+          29
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "Brooke Robertson, Warner Bros. Film Division Communications Lead, Paramount / Skydance",
+        "refs": [
+          30
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "Chelsey Summey, Departing Communications Executive, Warner Bros.",
+        "refs": [
+          30
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "Christiane Amanpour, Departing Anchor and Correspondent, CNN",
+        "refs": [
+          31
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "Will Menzies, Network Midday Host for Hot AC stations, Corus Radio",
+        "refs": [
+          32
+        ],
+        "region": "americas"
+      }
+    ],
+    "coming_up": [
+      {
+        "date": "20 October 2026",
+        "text": "Parliamentary hearing for Ofcom leadership",
+        "refs": [
+          9
+        ],
+        "region": "uk"
+      },
+      {
+        "date": "January 2027",
+        "text": "Friends begins airing on Channel 4",
+        "refs": [
+          6
+        ],
+        "region": "uk"
+      },
+      {
+        "date": "Spring 2027",
+        "text": "Closure of BBC Three, BBC Scotland and Radio 4 Extra linear services",
+        "refs": [
+          1,
+          2,
+          3
+        ],
+        "region": "uk"
+      },
+      {
+        "date": "26 Oct 2026",
+        "text": "Corus Radio on-air schedule changes take effect, including new Network Midday Host",
+        "refs": [
+          32
+        ],
+        "region": "americas"
+      },
+      {
+        "date": "03 Nov 2026",
+        "text": "E! series The Golden Life begins streaming on Hulu",
+        "refs": [
+          33
+        ],
+        "region": "americas"
+      },
+      {
+        "date": "Jan 2027",
+        "text": "Japanese supernatural series Night Tales Club premieres on Disney+ and Hulu",
+        "refs": [
+          34
+        ],
+        "region": "americas"
+      },
+      {
+        "date": "Mar 2027",
+        "text": "Bob Iger releases his second book One Last Time",
+        "refs": [
+          35
+        ],
+        "region": "americas"
+      }
+    ]
+  },
+  "articles": [
+    {
+      "ref": 1,
+      "title": "BBC to close BBC Three, BBC Scotland and Radio 4 Extra linear services",
+      "link": "https://www.broadbandtvnews.com/2026/10/20/bbc-to-close-bbc-three-bbc-scotland-and-radio-4-extra-linear-services/",
+      "outlet": "Broadband TV News",
+      "region": "uk"
+    },
+    {
+      "ref": 2,
+      "title": "BBC to close linear BBC Three, BBC Scotland in cost-cutting drive",
+      "link": "https://www.c21media.net/news/bbc-to-close-linear-bbc-three-bbc-scotland-in-cost-cutting-drive/",
+      "outlet": "C21Media",
+      "region": "uk"
+    },
+    {
+      "ref": 3,
+      "title": "BBC Three and BBC Scotland TV channels to be shut down next year",
+      "link": "https://www.theguardian.com/media/2026/oct/20/bbc-three-and-bbc-scotland-tv-channels-to-be-shut-down",
+      "outlet": "Guardian Media",
+      "region": "uk"
+    },
+    {
+      "ref": 4,
+      "title": "UKTV adds eight FAST channels for LG Channels and Freely",
+      "link": "https://www.broadbandtvnews.com/2026/10/21/uktv-adds-eight-fast-channels-for-lg-channels-and-freely/",
+      "outlet": "Broadband TV News",
+      "region": "uk"
+    },
+    {
+      "ref": 5,
+      "title": "UKTV adding 8 new FAST channels",
+      "link": "https://www.advanced-television.com/2026/10/21/uktv-adding-8-new-fast-channels/",
+      "outlet": "Advanced Television",
+      "region": "uk"
+    },
+    {
+      "ref": 6,
+      "title": "Friends to return to Channel 4 from January",
+      "link": "https://www.c21media.net/news/friends-to-return-to-channel-4-from-january/",
+      "outlet": "C21Media",
+      "region": "uk"
+    },
+    {
+      "ref": 7,
+      "title": "Ofcom investigates Huw Edwards complaint over Channel 5 drama",
+      "link": "https://www.theguardian.com/media/2026/oct/19/ofcom-investigates-huw-edwards-complaint-over-channel-5-drama",
+      "outlet": "Guardian Media",
+      "region": "uk"
+    },
+    {
+      "ref": 8,
+      "title": "Big Brother exceeds 200m streams on ITVX",
+      "link": "https://www.advanced-television.com/2026/10/20/big-brother-exceeds-200m-streams-on-itvx/",
+      "outlet": "Advanced Television",
+      "region": "uk"
+    },
+    {
+      "ref": 9,
+      "title": "MPs to question Ofcom chiefs on broadcasting standards and online safety",
+      "link": "https://www.broadbandtvnews.com/2026/10/19/mps-to-question-ofcom-chiefs-on-broadcasting-standards-and-online-safety/",
+      "outlet": "Broadband TV News",
+      "region": "uk"
+    },
+    {
+      "ref": 10,
+      "title": "wedotv Movies launches on Freely",
+      "link": "https://www.advanced-television.com/2026/10/20/wedotv-movies-launches-on-freely/",
+      "outlet": "Advanced Television",
+      "region": "uk"
+    },
+    {
+      "ref": 11,
+      "title": "Movies joins Freely with refreshed film line-up",
+      "link": "https://www.broadbandtvnews.com/2026/10/20/wedotv-movies-joins-freely-with-refreshed-film-line-up/",
+      "outlet": "Broadband TV News",
+      "region": "uk"
+    },
+    {
+      "ref": 12,
+      "title": "Cynopsis 10/19/2026: Why Was Bela Bajaria Ousted From Netflix?",
+      "link": "https://www.cynopsis.com/cynopsis-10-19-2026-why-was-bela-bajaria-ousted-from-netflix/",
+      "outlet": "Cynopsis",
+      "region": "americas"
+    },
+    {
+      "ref": 13,
+      "title": "‘Glee’ Reboot Lands Series Order At Disney+ & Hulu",
+      "link": "https://tvnewscheck.com/programming/article/glee-reboot-lands-series-order-at-disney-hulu/",
+      "outlet": "TVNewsCheck",
+      "region": "americas"
+    },
+    {
+      "ref": 14,
+      "title": "‘Glee’ Reboot Officially Set at Disney+ and Hulu",
+      "link": "https://variety.com/2026/tv/news/glee-reboot-disney-hulu-1236918160/",
+      "outlet": "Variety",
+      "region": "americas"
+    },
+    {
+      "ref": 15,
+      "title": "‘Glee’ Reboot a Go at Disney+ and Hulu",
+      "link": "https://www.thewrap.com/creative-content/tv-shows/glee-reboot-greenlit-disney-plus-hulu/",
+      "outlet": "The Wrap",
+      "region": "americas"
+    },
+    {
+      "ref": 16,
+      "title": "Don’t Stop Believin’: ‘Glee’ Revival a Go at Disney+ and Hulu",
+      "link": "https://www.hollywoodreporter.com/tv/tv-news/glee-revival-series-disney-plus-hulu-1236736950/",
+      "outlet": "Hollywood Reporter",
+      "region": "americas"
+    },
+    {
+      "ref": 17,
+      "title": "Nielsen PPM Accreditation Revoked in Four Major Markets",
+      "link": "https://radioink.com/2026/10/19/nielsen-ppm-accreditation-revoked-in-four-major-radio-markets/",
+      "outlet": "Radio Ink",
+      "region": "americas"
+    },
+    {
+      "ref": 18,
+      "title": "MRC Revokes, Denies Nearly Two Dozen Nielsen PPM Markets",
+      "link": "https://tvnewscheck.com/business/article/mrc-revokes-denies-nearly-two-dozen-nielsen-ppm-markets/",
+      "outlet": "TVNewsCheck",
+      "region": "americas"
+    },
+    {
+      "ref": 19,
+      "title": "Google has joined Amazon in attacking Nvidia’s stronghold with AI app developers",
+      "link": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/",
+      "outlet": "TechCrunch",
+      "region": "americas"
+    },
+    {
+      "ref": 20,
+      "title": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool",
+      "link": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/",
+      "outlet": "TechCrunch",
+      "region": "americas"
+    },
+    {
+      "ref": 21,
+      "title": "Claude Duet is Anthropic's answer to Meta Muse and OpenAI Dots",
+      "link": "https://www.engadget.com/2293646/claude-duet-is-anthropics-answer-to-meta-muse-and-openai-dots/",
+      "outlet": "Engadget",
+      "region": "americas"
+    },
+    {
+      "ref": 22,
+      "title": "Anthropic takes on Muse with Claude Duet, its new AI agent",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1015843/anthropic-claude-duet-ai-agent",
+      "outlet": "The Verge",
+      "region": "americas"
+    },
+    {
+      "ref": 23,
+      "title": "Corus Entertainment launches StackTV streaming app",
+      "link": "https://playbackonline.ca/2026/10/21/corus-entertainment-launches-stacktv-streaming-app/",
+      "outlet": "Playback",
+      "region": "americas"
+    },
+    {
+      "ref": 24,
+      "title": "Corus unveils expanded STACKTV app that will see phase out of Global TV App",
+      "link": "https://broadcastdialogue.com/corus-unveils-expanded-stacktv-app-that-will-see-phase-out-of-global-tv-app/",
+      "outlet": "Broadcast Dialogue",
+      "region": "americas"
+    },
+    {
+      "ref": 25,
+      "title": "Corus rolling out new StackTV app across expanding list of devices and platforms",
+      "link": "https://cartt.ca/corus-rolling-out-new-stacktv-app-across-expanding-list-of-devices-and-platforms/",
+      "outlet": "Cartt.ca",
+      "region": "americas"
+    },
+    {
+      "ref": 26,
+      "title": "Rogers and Corus agree to terms of distribution, ending long-running dispute",
+      "link": "https://cartt.ca/rogers-and-corus-agree-to-terms-of-distribution-ending-long-running-dispute/",
+      "outlet": "Cartt.ca",
+      "region": "americas"
+    },
+    {
+      "ref": 27,
+      "title": "Christiane Amanpour to leave CNN after 43 years",
+      "link": "https://www.broadbandtvnews.com/2026/10/20/christiane-amanpour-to-leave-cnn-after-43-years/",
+      "outlet": "Broadband TV News",
+      "region": "uk"
+    },
+    {
+      "ref": 28,
+      "title": "Christiane Amanpour announces she’s leaving CNN after 43 years",
+      "link": "https://www.theguardian.com/media/2026/oct/19/christiane-amanpour-leaving-cnn",
+      "outlet": "Guardian Media",
+      "region": "uk"
+    },
+    {
+      "ref": 29,
+      "title": "Sony Pictures Television Names Lauren Glaubach EVP Distribution, Digital & Social Platforms",
+      "link": "https://tvnewscheck.com/business/article/sony-pictures-television-names-lauren-glaubach-evp-distribution-digital-social-platforms/",
+      "outlet": "TVNewsCheck",
+      "region": "americas"
+    },
+    {
+      "ref": 30,
+      "title": "Chelsey Summey Departs Warner Bros. as Skydance Plans Comms Reshuffle",
+      "link": "https://www.thewrap.com/culture-lifestyle/culture/chelsey-summey-departs-warner-bros-skydance/",
+      "outlet": "The Wrap",
+      "region": "americas"
+    },
+    {
+      "ref": 31,
+      "title": "Christiane Amanpour To Exit CNN Next Year",
+      "link": "https://tvnewscheck.com/journalism/article/christiane-amanpour-to-exit-cnn-next-year/",
+      "outlet": "TVNewsCheck",
+      "region": "americas"
+    },
+    {
+      "ref": 32,
+      "title": "Corus Radio names new Network Midday Host for Hot AC stations",
+      "link": "https://broadcastdialogue.com/corus-radio-host-changes-will-menzies-alicia-bell/",
+      "outlet": "Broadcast Dialogue",
+      "region": "americas"
+    },
+    {
+      "ref": 33,
+      "title": "Versant Sells Hulu Streaming Rights To E! Series ‘The Golden Life’",
+      "link": "https://tvnewscheck.com/programming/article/versant-sells-hulu-streaming-rights-to-e-series-the-golden-life/",
+      "outlet": "TVNewsCheck",
+      "region": "americas"
+    },
+    {
+      "ref": 34,
+      "title": "Kurosawa Kiyoshi, Shimizu Takashi Among Directors of Disney+, Hulu Japanese Horror Series ‘Night Tales Club’",
+      "link": "https://variety.com/2026/tv/news/kurosawa-shimizu-disney-japanese-horror-night-tales-club-1236918137/",
+      "outlet": "Variety",
+      "region": "americas"
+    },
+    {
+      "ref": 35,
+      "title": "Bob Iger’s New Book To Chronicle ‘Sometimes Bumpy, Never Boring’ Second Stint As Disney CEO",
+      "link": "https://tvnewscheck.com/business/article/bob-igers-new-book-to-chronicle-sometimes-bumpy-never-boring-second-stint-as-disney-ceo/",
+      "outlet": "TVNewsCheck",
+      "region": "americas"
+    }
+  ]
+}

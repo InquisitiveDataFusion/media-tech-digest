@@ -1,0 +1,654 @@
+<!DOCTYPE html>
+<html lang="en-GB" data-mode="standard" data-theme="light">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>BBC to axe linear channels as Netflix replaces chief content officer &mdash; Media &amp; Tech Digest</title>
+<meta name="description" content="An independent, AI-summarised digest of UK media and broadcast industry news.">
+<link rel="icon" href="../icon.svg" type="image/svg+xml">
+<link rel="icon" href="../favicon-32.png" sizes="32x32" type="image/png">
+<link rel="apple-touch-icon" href="../apple-touch-icon.png">
+<link rel="manifest" href="../site.webmanifest">
+<meta name="apple-mobile-web-app-title" content="Digest">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="theme-color" content="#12181D">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@600;700;800&family=Big+Shoulders:wght@600;700;800&family=Public+Sans:wght@400;500;600;700&family=IBM+Plex+Mono:wght@500;600&family=Atkinson+Hyperlegible:wght@400;700&display=swap" rel="stylesheet">
+<style>
+
+
+  /* ============================================================
+     TOKENS
+     Cool grey-green paper rather than warm cream. One warm accent
+     (the tally light), one deep teal for structure and tags.
+     ============================================================ */
+  :root {
+    --paper:      #ECEFE8;
+    --card:       #F7F8F3;
+    --ink:        #12181D;
+    --ink-soft:   #4B5560;
+    --rule:       #D7DCD2;
+    --signal:     #C4581F;
+    --signal-bg:  #F6E3D3;
+    --wire:       #1F6B63;
+    --wire-bg:    #DCEAE7;
+    --slate:      #5B6472;
+    --slate-bg:   #E4E6E1;
+    --overlay:    rgba(18, 24, 29, 0.45);
+
+    --font-display: 'Big Shoulders', 'Arial Narrow', sans-serif;
+    --font-body:    'Public Sans', -apple-system, sans-serif;
+    --font-mono:    'IBM Plex Mono', monospace;
+
+    --size-body: 16.5px;
+    --leading-body: 1.6;
+    --tracking-body: 0em;
+    --spacing-word: normal;
+  }
+
+  html[data-theme="dark"] {
+    --paper:     #10151A;
+    --card:      #171D23;
+    --ink:       #E9EDE7;
+    --ink-soft:  #A7B0A9;
+    --rule:      #2A3239;
+    --signal:    #E8925A;
+    --signal-bg: #3A2418;
+    --wire:      #5FB3A8;
+    --wire-bg:   #16302C;
+    --slate:     #9BA5AD;
+    --slate-bg:  #232A30;
+    --overlay:   rgba(0, 0, 0, 0.6);
+  }
+
+  /* Easy read: swaps the body face for Atkinson Hyperlegible, which was
+     designed for low-vision and dyslexic readers, and opens up line
+     height, letter spacing and word spacing. Layout and colour are
+     untouched, only the type changes. */
+  html[data-mode="easy"] {
+    --font-body: 'Atkinson Hyperlegible', -apple-system, sans-serif;
+    --size-body: 18.5px;
+    --leading-body: 1.85;
+    --tracking-body: 0.013em;
+    --spacing-word: 0.09em;
+  }
+
+  * { box-sizing: border-box; }
+  html, body { margin: 0; padding: 0; }
+  body {
+    background: var(--paper);
+    color: var(--ink);
+    font-family: var(--font-body);
+    font-size: var(--size-body);
+    line-height: var(--leading-body);
+    letter-spacing: var(--tracking-body);
+    word-spacing: var(--spacing-word);
+    -webkit-font-smoothing: antialiased;
+  }
+  a { color: inherit; }
+  :focus-visible { outline: 2px solid var(--signal); outline-offset: 2px; border-radius: 4px; }
+
+  /* ---------------- masthead ---------------- */
+  .masthead {
+    position: sticky; top: 0; z-index: 40;
+    display: flex; align-items: center; gap: 14px;
+    padding: 12px 22px;
+    background: var(--card);
+    border-bottom: 1px solid var(--rule);
+  }
+  .tally {
+    width: 11px; height: 11px; border-radius: 50%;
+    background: var(--signal);
+    box-shadow: 0 0 0 3px var(--signal-bg);
+    flex-shrink: 0;
+  }
+  @media (prefers-reduced-motion: no-preference) {
+    .tally.live { animation: pulse 2.4s ease-in-out infinite; }
+  }
+  @keyframes pulse {
+    0%, 100% { box-shadow: 0 0 0 3px var(--signal-bg); }
+    50%      { box-shadow: 0 0 0 6px var(--signal-bg); }
+  }
+  .mast-title { display: flex; flex-direction: column; min-width: 0; }
+  .mast-name {
+    font-family: var(--font-display);
+    font-weight: 800; font-size: 24px; line-height: 1.05;
+    text-transform: uppercase; letter-spacing: 0.012em;
+  }
+  .mast-sub {
+    font-size: 12px; color: var(--ink-soft); margin-top: 3px; line-height: 1.45;
+  }
+  .mast-spacer { flex: 1; }
+  .sub-short { display: none; }
+  /* The masthead doubles as a link back to the latest edition, which is
+     the usual convention, and costs no space in an already tight bar. */
+  a.mast-title { text-decoration: none; color: inherit; }
+  a.mast-title:hover .mast-name { color: var(--wire); }
+  @media (max-width: 560px) {
+    .sub-long { display: none; }
+    .sub-short { display: inline; }
+  }
+
+  .controls { display: flex; align-items: center; gap: 9px; flex-shrink: 0; }
+  .pill { display: flex; border: 1px solid var(--rule); border-radius: 999px; overflow: hidden; }
+  .pill button {
+    font-family: var(--font-body); font-weight: 700; font-size: 14px;
+    border: 0; background: var(--paper); color: var(--ink-soft);
+    padding: 0 13px; height: 36px; cursor: pointer; line-height: 1;
+  }
+  .pill button.active { background: var(--wire); color: var(--card); }
+  .icon-btn {
+    border: 1px solid var(--rule); background: var(--paper); color: var(--ink-soft);
+    border-radius: 999px; width: 36px; height: 36px; cursor: pointer;
+    display: flex; align-items: center; justify-content: center; padding: 0;
+  }
+  .icon-btn svg { width: 17px; height: 17px; }
+  html[data-theme="light"] .icon-moon { display: none; }
+  html[data-theme="dark"]  .icon-sun  { display: none; }
+
+  .burger {
+    display: none;
+    border: 1px solid var(--rule); background: var(--paper); color: var(--ink);
+    border-radius: 10px; width: 38px; height: 38px; cursor: pointer;
+    align-items: center; justify-content: center; padding: 0; flex-shrink: 0;
+  }
+  .burger svg { width: 19px; height: 19px; }
+
+  /* ---------------- layout ---------------- */
+  .layout { display: flex; max-width: 1180px; margin: 0 auto; }
+  .sidebar {
+    width: 232px; flex-shrink: 0;
+    padding: 26px 18px 40px 22px;
+    border-right: 1px solid var(--rule);
+  }
+  .sidebar-eyebrow {
+    font-family: var(--font-mono); font-size: 11px; font-weight: 600;
+    letter-spacing: 0.1em; text-transform: uppercase; color: var(--ink-soft);
+    margin-bottom: 16px;
+  }
+  .drawer-close { display: none; }
+  .month-label {
+    font-family: var(--font-mono); font-size: 11px; color: var(--ink-soft);
+    letter-spacing: 0.06em; text-transform: uppercase;
+    margin: 22px 0 8px 0;
+  }
+  .month-label.first { margin-top: 0; }
+  .epg-item { display: block; text-decoration: none; padding: 9px 10px; border-radius: 8px; margin-bottom: 3px; }
+  .epg-item:hover { background: var(--paper); }
+  .epg-item.current { background: var(--signal-bg); }
+  .epg-date {
+    font-family: var(--font-mono); font-size: 12px; font-weight: 600;
+    color: var(--ink); display: flex; align-items: center; gap: 7px;
+  }
+  .epg-date::before {
+    content: ""; width: 6px; height: 6px; border-radius: 50%;
+    background: var(--rule); flex-shrink: 0;
+  }
+  .epg-item.current .epg-date::before { background: var(--signal); }
+  .epg-teaser { font-size: 12.5px; color: var(--ink-soft); margin-top: 3px; line-height: 1.4; padding-left: 13px; }
+
+  .scrim {
+    display: none; position: fixed; inset: 0; background: var(--overlay); z-index: 45;
+  }
+  .scrim.open { display: block; }
+
+  main { flex: 1; min-width: 0; padding: 30px 40px 60px 40px; }
+
+  .edition-head { margin-bottom: 26px; }
+  .status-row {
+    display: flex; align-items: center; gap: 8px; margin-bottom: 10px;
+    font-family: var(--font-mono); font-size: 12px; letter-spacing: 0.04em;
+    text-transform: uppercase; color: var(--signal); font-weight: 600;
+  }
+  h1.headline {
+    font-family: var(--font-display); font-weight: 800;
+    font-size: 38px; line-height: 1.08; letter-spacing: 0.002em;
+    margin: 0 0 10px 0; text-transform: uppercase;
+  }
+  .date-line { color: var(--ink-soft); font-size: 14px; }
+  .lead { font-size: 1.18em; line-height: 1.6; font-weight: 600; margin: 20px 0 0 0; }
+
+  hr.rule { border: 0; border-top: 1px solid var(--rule); margin: 30px 0; }
+
+  section.block { margin-bottom: 34px; }
+  .block-title {
+    font-family: var(--font-display); font-weight: 700; font-size: 20px;
+    text-transform: uppercase; letter-spacing: 0.01em;
+    display: flex; align-items: center; gap: 10px; margin-bottom: 16px;
+  }
+  .block-title::before { content: ""; width: 16px; height: 3px; background: var(--wire); display: inline-block; }
+
+  /* A bulletin running order is genuinely sequential, so numbering
+     here carries real information rather than decorating the list. */
+  .rundown-item { display: flex; gap: 14px; margin-bottom: 16px; align-items: baseline; }
+  .rundown-num { font-family: var(--font-mono); font-size: 13px; color: var(--ink-soft); flex-shrink: 0; width: 22px; }
+
+  .tag {
+    display: inline-block; font-family: var(--font-mono); font-size: 10.5px;
+    font-weight: 600; letter-spacing: 0.05em; text-transform: uppercase;
+    padding: 3px 8px; border-radius: 5px; margin-right: 8px; vertical-align: 1px;
+  }
+  .tag.wire   { color: var(--wire);   background: var(--wire-bg); }
+  .tag.signal { color: var(--signal); background: var(--signal-bg); }
+  .tag.slate  { color: var(--slate);  background: var(--slate-bg); }
+
+  p { margin: 0 0 16px 0; }
+  p:last-child { margin-bottom: 0; }
+
+  .people-list { list-style: none; padding: 0; margin: 0; }
+  .people-list li { padding: 10px 0; border-top: 1px solid var(--rule); }
+  .people-list li.first { border-top: 0; }
+
+  .coming-up-list { list-style: none; padding: 0; margin: 0; }
+  .coming-up-list li { display: flex; gap: 12px; padding: 8px 0; align-items: baseline; }
+  .coming-up-date {
+    font-family: var(--font-mono); font-size: 12.5px; color: var(--wire);
+    font-weight: 600; flex-shrink: 0; width: 92px;
+  }
+
+  .sources { font-size: 13.5px; color: var(--ink-soft); }
+  .sources ol { padding-left: 20px; margin: 0; }
+  .sources li { margin-bottom: 10px; word-break: break-word; }
+  .sources a { text-decoration: underline; text-underline-offset: 3px; }
+  .source-outlet { font-family: var(--font-mono); font-size: 11.5px; color: var(--ink-soft); }
+
+  .sample-note {
+    background: var(--slate-bg); color: var(--ink-soft);
+    font-family: var(--font-mono); font-size: 11.5px;
+    padding: 10px 14px; border-radius: 8px; margin-bottom: 26px; letter-spacing: 0.02em;
+  }
+
+  footer {
+    border-top: 1px solid var(--rule);
+    background: var(--card);
+    color: var(--ink-soft);
+    font-size: 12.5px;
+    line-height: 1.7;
+    margin-top: 28px;
+  }
+  .footer-inner {
+    max-width: 1180px; margin: 0 auto;
+    padding: 26px 40px 44px 40px;
+    display: flex; gap: 48px; align-items: flex-start;
+  }
+  .footer-col { flex: 1 1 0; min-width: 0; }
+  .footer-col strong { color: var(--ink); font-weight: 600; }
+
+  /* ---------------- narrow screens ---------------- */
+  @media (max-width: 860px) {
+    .burger { display: flex; }
+    .mast-name { font-size: 15.5px; line-height: 1.03; }
+    .mast-sub { font-size: 11px; margin-top: 2px; }
+    .masthead { padding: 9px 14px; gap: 10px; }
+    .controls { gap: 7px; }
+    .pill button { padding: 0 11px; height: 34px; font-size: 13.5px; }
+    .icon-btn { width: 34px; height: 34px; }
+    .icon-btn svg { width: 16px; height: 16px; }
+    .burger { width: 36px; height: 36px; }
+
+    .sidebar {
+      position: fixed; top: 0; left: 0; bottom: 0; z-index: 50;
+      width: 280px; max-width: 84vw;
+      background: var(--card);
+      border-right: 1px solid var(--rule);
+      overflow-y: auto;
+      transform: translateX(-100%);
+      padding: 20px 18px 40px 20px;
+    }
+    .sidebar.open { transform: translateX(0); }
+    @media (prefers-reduced-motion: no-preference) {
+      .sidebar { transition: transform 0.24s ease; }
+    }
+    .drawer-close {
+      display: flex; align-items: center; justify-content: center;
+      position: absolute; top: 14px; right: 14px;
+      width: 34px; height: 34px; border-radius: 999px;
+      border: 1px solid var(--rule); background: var(--paper);
+      color: var(--ink-soft); cursor: pointer; padding: 0; font-size: 17px;
+    }
+    main { padding: 24px 20px 50px 20px; }
+    h1.headline { font-size: 27px; }
+    .footer-inner {
+      flex-direction: column; gap: 14px;
+      padding: 22px 20px 40px 20px;
+    }
+  }
+  /* Narrowest phones: shave the title and controls a little further so the
+     masthead stays compact rather than growing to three stacked lines. */
+  @media (max-width: 380px) {
+    .mast-name { font-size: 14px; }
+    .mast-sub { font-size: 10.5px; }
+    .masthead { padding: 8px 12px; gap: 8px; }
+    .pill button { padding: 0 9px; font-size: 13px; }
+  }
+
+
+  /* Citations rendered as a group after a statement */
+  .cites a {
+    color: var(--ink-soft); text-decoration: none; font-weight: 600;
+    font-size: 0.85em;
+  }
+  .cites a:hover { text-decoration: underline; }
+  /* Sidebar is populated from manifest.json at load time */
+  .sidebar-status { font-size: 12.5px; color: var(--ink-soft); padding: 4px 10px; }
+  .sources li a { color: var(--ink); }
+  .coming-up-list li span:last-child { flex: 1; }
+
+  /* Regional grouping, used when both UK and Americas have content */
+  .region-head {
+    font-family: var(--font-display); font-weight: 800;
+    font-size: 13px; letter-spacing: 0.16em; text-transform: uppercase;
+    color: var(--card); background: var(--wire);
+    padding: 9px 26px; margin: 34px 0 4px 0;
+  }
+  .region-head:first-of-type { margin-top: 20px; }
+  .tag.region {
+    color: var(--ink-soft); background: transparent;
+    border: 1px solid var(--rule); margin-right: 6px;
+  }
+  @media (max-width: 860px) {
+    .region-head { padding: 9px 20px; }
+  }
+
+</style>
+</head>
+<body data-root="../" data-current="2026-10-22">
+
+<div class="masthead">
+  <button class="burger" aria-label="Previous editions" aria-expanded="false" aria-controls="editions" onclick="toggleNav()">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round">
+      <path d="M3 6h18M3 12h18M3 18h18"/>
+    </svg>
+  </button>
+
+  <span class="tally " aria-hidden="true"></span>
+
+  <a class="mast-title" href="../">
+    <span class="mast-name">Media &amp; Tech Digest</span>
+    <span class="mast-sub"><span class="sub-long">UK and Americas · Summarised with AI</span><span class="sub-short">Summarised with AI</span></span>
+  </a>
+
+  <div class="mast-spacer"></div>
+
+  <div class="controls">
+    <a class="icon-btn" href="../" title="Latest edition" aria-label="Go to the latest edition"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 10.5 12 3l9 7.5"/><path d="M5.5 9.5V20h13V9.5"/><path d="M9.75 20v-5.5h4.5V20"/></svg></a>
+    <div class="pill" role="group" aria-label="Reading mode">
+      <button id="modeStandard" class="active" onclick="setMode('standard')"
+              title="Standard reading" aria-label="Standard reading">A&#8722;</button>
+      <button id="modeEasy" onclick="setMode('easy')"
+              title="Easy read: larger text, more spacing, dyslexia-friendly typeface"
+              aria-label="Easy read: larger text, more spacing, dyslexia-friendly typeface">A&#43;</button>
+    </div>
+    <button class="icon-btn" onclick="toggleTheme()" aria-label="Switch between light and dark">
+      <svg class="icon-sun" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round">
+        <circle cx="12" cy="12" r="4"/>
+        <path d="M12 2.5v2M12 19.5v2M4.6 4.6l1.4 1.4M18 18l1.4 1.4M2.5 12h2M19.5 12h2M4.6 19.4L6 18M18 6l1.4-1.4"/>
+      </svg>
+      <svg class="icon-moon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M21 12.8A9 9 0 1 1 11.2 3a7 7 0 0 0 9.8 9.8z"/>
+      </svg>
+    </button>
+  </div>
+</div>
+
+<div class="scrim" id="scrim" onclick="closeNav()"></div>
+
+<div class="layout">
+
+  <aside class="sidebar" id="editions">
+    <button class="drawer-close" onclick="closeNav()" aria-label="Close previous editions">&#10005;</button>
+    <div class="sidebar-eyebrow">Previous editions</div>
+    <div id="editionList">
+      <div class="sidebar-status">Loading&hellip;</div>
+    </div>
+  </aside>
+
+  <main>
+    <div class="edition-head">
+      <div class="status-row"><span aria-hidden="true">&#9679;</span> Archived edition</div>
+      <h1 class="headline">BBC to axe linear channels as Netflix replaces chief content officer</h1>
+      <div class="date-line">Thursday 22 October 2026 · covering Mon 19 Oct to Wed 21 Oct</div>
+      <p class="lead">The BBC will close three linear channels to save 500 million pounds by 2028. Meanwhile, Netflix has appointed Peter Rice as chief content officer to lead a strategic shift toward franchise content and tighter cost controls in North America.</p>
+    </div>
+
+    <hr class="rule">
+
+    <section class="block">
+      <div class="block-title">At a glance</div>
+      
+        <div class="rundown-item">
+          <span class="rundown-num">01</span>
+          <div><span class="tag region">UK</span><span class="tag wire">Regulation</span>The BBC will close linear services for BBC Three, BBC Scotland and Radio 4 Extra in 2027. <span class="cites"><a href="#ref1">[1]</a><a href="#ref2">[2]</a><a href="#ref3">[3]</a></span></div>
+        </div>
+        <div class="rundown-item">
+          <span class="rundown-num">02</span>
+          <div><span class="tag region">UK</span><span class="tag wire">Deals</span>UKTV is launching eight new FAST channels on LG Channels and Freely. <span class="cites"><a href="#ref4">[4]</a><a href="#ref5">[5]</a></span></div>
+        </div>
+        <div class="rundown-item">
+          <span class="rundown-num">03</span>
+          <div><span class="tag region">UK</span><span class="tag wire">Deals</span>Channel 4 has secured rights to broadcast Friends starting in January 2027. <span class="cites"><a href="#ref6">[6]</a></span></div>
+        </div>
+        <div class="rundown-item">
+          <span class="rundown-num">04</span>
+          <div><span class="tag region">UK</span><span class="tag wire">Regulation</span>Ofcom is investigating a complaint from Huw Edwards regarding a Channel 5 drama. <span class="cites"><a href="#ref7">[7]</a></span></div>
+        </div>
+        <div class="rundown-item">
+          <span class="rundown-num">05</span>
+          <div><span class="tag region">UK</span><span class="tag signal">Audience</span>ITV reports that Big Brother has surpassed 200 million streams on ITVX. <span class="cites"><a href="#ref8">[8]</a></span></div>
+        </div>
+        <div class="rundown-item">
+          <span class="rundown-num">06</span>
+          <div><span class="tag region">UK</span><span class="tag wire">Regulation</span>MPs are set to question Ofcom leadership on broadcasting standards and AI. <span class="cites"><a href="#ref9">[9]</a></span></div>
+        </div>
+        <div class="rundown-item">
+          <span class="rundown-num">07</span>
+          <div><span class="tag region">UK</span><span class="tag wire">Deals</span>wedotv has launched its movie channel on the Freely streaming platform. <span class="cites"><a href="#ref10">[10]</a><a href="#ref11">[11]</a></span></div>
+        </div>
+        <div class="rundown-item">
+          <span class="rundown-num">08</span>
+          <div><span class="tag region">Americas</span><span class="tag slate">People</span>Netflix appointed Peter Rice as chief content officer following the departure of Bela Bajaria. <span class="cites"><a href="#ref12">[12]</a></span></div>
+        </div>
+        <div class="rundown-item">
+          <span class="rundown-num">09</span>
+          <div><span class="tag region">Americas</span><span class="tag wire">Deals</span>Disney+ and Hulu ordered a series reboot of the musical dramedy Glee from creator Ryan Murphy. <span class="cites"><a href="#ref13">[13]</a><a href="#ref14">[14]</a><a href="#ref15">[15]</a><a href="#ref16">[16]</a></span></div>
+        </div>
+        <div class="rundown-item">
+          <span class="rundown-num">10</span>
+          <div><span class="tag region">Americas</span><span class="tag slate">Radio</span>The Media Rating Council revoked Nielsen&#x27;s PPM accreditation across four major radio markets including Philadelphia. <span class="cites"><a href="#ref17">[17]</a><a href="#ref18">[18]</a></span></div>
+        </div>
+        <div class="rundown-item">
+          <span class="rundown-num">11</span>
+          <div><span class="tag region">Americas</span><span class="tag slate">Tech</span>Google and Amazon launched new developer tools targeting Nvidia&#x27;s dominance in PyTorch AI applications. <span class="cites"><a href="#ref19">[19]</a><a href="#ref20">[20]</a></span></div>
+        </div>
+        <div class="rundown-item">
+          <span class="rundown-num">12</span>
+          <div><span class="tag region">Americas</span><span class="tag slate">Tech</span>Anthropic introduced Claude Duet, a new AI agent designed for professionals and small business owners. <span class="cites"><a href="#ref21">[21]</a><a href="#ref22">[22]</a></span></div>
+        </div>
+        <div class="rundown-item">
+          <span class="rundown-num">13</span>
+          <div><span class="tag region">Americas</span><span class="tag slate">Tech</span>Corus Entertainment launched a revamped STACKTV app to replace its existing Global TV app in Canada. <span class="cites"><a href="#ref23">[23]</a><a href="#ref24">[24]</a><a href="#ref25">[25]</a></span></div>
+        </div>
+        <div class="rundown-item">
+          <span class="rundown-num">14</span>
+          <div><span class="tag region">Americas</span><span class="tag wire">Deals</span>Rogers and Corus Entertainment settled their long-running distribution dispute in Canada. <span class="cites"><a href="#ref26">[26]</a></span></div>
+        </div>
+    </section>
+
+    <div class="region-head">United Kingdom</div>
+    <section class="block">
+      <div class="block-title">Deals &amp; business</div>
+      <p>UKTV is expanding its portfolio with eight new FAST channels dedicated to BBC brands including Top Gear and EastEnders. These channels will be available on LG Channels and Freely.</p><p>Channel 4 has reached a deal with Warner Bros to bring the sitcom Friends back to the network in January 2027. Additionally, wedotv has launched its movie channel on the Freely platform with a refreshed slate of films.</p>
+    </section>
+    <section class="block">
+      <div class="block-title">Regulation &amp; policy</div>
+      <p>The BBC has confirmed the closure of BBC Three, BBC Scotland and Radio 4 Extra as linear broadcast services. The corporation needs to make 500 million pounds in savings by 2028, leading to criticism from unions like Bectu regarding the impact on commissioning.</p><p>Ofcom is currently investigating a complaint from Huw Edwards concerning a Channel 5 drama. Meanwhile, MPs are scheduled to question Ofcom leadership on broadcasting impartiality and the impact of AI on the sector.</p>
+    </section>
+    <section class="block">
+      <div class="block-title">Audience &amp; ratings</div>
+      <p>ITV has announced that its Big Brother brand has reached 202 million streams on ITVX. The current season has seen a significant increase in engagement compared to previous performance.</p>
+    </section>
+    <section class="block">
+      <div class="block-title">People moves</div>
+      <ul class="people-list"><li class="first">Christiane Amanpour, chief international anchor, is leaving CNN after 43 years <span class="cites"><a href="#ref27">[27]</a><a href="#ref28">[28]</a></span></li></ul>
+    </section>
+    <section class="block">
+      <div class="block-title">Coming up</div>
+      <ul class="coming-up-list"><li><span class="coming-up-date">20 October 2026</span><span>Parliamentary hearing for Ofcom leadership <span class="cites"><a href="#ref9">[9]</a></span></span></li><li><span class="coming-up-date">January 2027</span><span>Friends begins airing on Channel 4 <span class="cites"><a href="#ref6">[6]</a></span></span></li><li><span class="coming-up-date">Spring 2027</span><span>Closure of BBC Three, BBC Scotland and Radio 4 Extra linear services <span class="cites"><a href="#ref1">[1]</a><a href="#ref2">[2]</a><a href="#ref3">[3]</a></span></span></li></ul>
+    </section>
+    <div class="region-head">United States &amp; Canada</div>
+    <section class="block">
+      <div class="block-title">Deals &amp; business</div>
+      <p>Disney+ and Hulu have greenlit a reboot of Glee, giving a series order to the Ryan Murphy musical dramedy. The decision comes after co-creators Ryan Murphy, Ian Brennan and Brad Falchuk finalized a new script. Disney streamer platforms are also expanding international content with a six-part Japanese horror anthology titled Night Tales Club.</p><p>Boat Rocker secured a co-exclusive streaming deal with Peacock and HBO Max for all five seasons of Orphan Black. In Canada, Rogers and Corus Entertainment settled their long-running distribution dispute. Meanwhile, Versant sold streaming rights for E! reality series The Golden Life to Hulu.</p>
+    </section>
+    <section class="block">
+      <div class="block-title">Audience &amp; ratings</div>
+      <p>Netflix reduced its expected full-year ad revenue forecast from 3 billion dollars down to 2.7 billion dollars. The downward revision follows a slower rollout of its advertising capabilities. The platform is currently reassessing its broader content expenditure and global strategy.</p><p>CNN updated its digital presence with a redesigned homepage built on user insights to highlight video content. In cable news, Fox News maintained its position as the most-watched news network despite overall viewer gains at CNN.</p>
+    </section>
+    <section class="block">
+      <div class="block-title">Technology &amp; AI</div>
+      <p>Amazon and Google introduced new software tools to lure developers away from Nvidia GPUs. Amazon launched TorchNeuron to help developers run PyTorch AI models on alternative chips. Google released a similar developer tool aiming to break Nvidia&#x27;s stronghold on AI app development.</p><p>Anthropic announced Claude Duet, an AI agent designed to compete against Meta Muse and OpenAI Dots. The company also signed a lease for a 10-billion-dollar data centre in Nova Scotia to power its models by late 2027. Separately, Spotify launched a native in-car app for Android Automotive OS, beginning with select Audi vehicles.</p>
+    </section>
+    <section class="block">
+      <div class="block-title">Radio &amp; audio</div>
+      <p>The Media Rating Council revoked Nielsen PPM accreditation in four major radio markets, including Philadelphia, Baltimore, Jacksonville and Pittsburgh. The council also denied accreditation for 18 additional markets, creating further uncertainty for radio audience measurement currencies.</p><p>Canadian broadcast regulators approved two radio transactions. The CRTC sanctioned the sale of Evanov&#x27;s Lite 106.7 FM to Torres Media. The regulator also approved Hope Channel&#x27;s acquisition of Christian radio stations in New Brunswick.</p>
+    </section>
+    <section class="block">
+      <div class="block-title">People moves</div>
+      <ul class="people-list"><li class="first">Peter Rice, Chief Content Officer, Netflix <span class="cites"><a href="#ref12">[12]</a></span></li><li>Bela Bajaria, Departing Chief Content Officer, Netflix <span class="cites"><a href="#ref12">[12]</a></span></li><li>Lauren Glaubach, EVP Distribution, Digital &amp; Social Platforms, Sony Pictures Television <span class="cites"><a href="#ref29">[29]</a></span></li><li>Brooke Robertson, Warner Bros. Film Division Communications Lead, Paramount / Skydance <span class="cites"><a href="#ref30">[30]</a></span></li><li>Chelsey Summey, Departing Communications Executive, Warner Bros. <span class="cites"><a href="#ref30">[30]</a></span></li><li>Christiane Amanpour, Departing Anchor and Correspondent, CNN <span class="cites"><a href="#ref31">[31]</a></span></li><li>Will Menzies, Network Midday Host for Hot AC stations, Corus Radio <span class="cites"><a href="#ref32">[32]</a></span></li></ul>
+    </section>
+    <section class="block">
+      <div class="block-title">Coming up</div>
+      <ul class="coming-up-list"><li><span class="coming-up-date">26 Oct 2026</span><span>Corus Radio on-air schedule changes take effect, including new Network Midday Host <span class="cites"><a href="#ref32">[32]</a></span></span></li><li><span class="coming-up-date">03 Nov 2026</span><span>E! series The Golden Life begins streaming on Hulu <span class="cites"><a href="#ref33">[33]</a></span></span></li><li><span class="coming-up-date">Jan 2027</span><span>Japanese supernatural series Night Tales Club premieres on Disney+ and Hulu <span class="cites"><a href="#ref34">[34]</a></span></span></li><li><span class="coming-up-date">Mar 2027</span><span>Bob Iger releases his second book One Last Time <span class="cites"><a href="#ref35">[35]</a></span></span></li></ul>
+    </section>
+    <hr class="rule">
+
+    <section class="block sources">
+      <div class="block-title">Sources</div>
+      <ol><li id="ref1"><a href="https://www.broadbandtvnews.com/2026/10/20/bbc-to-close-bbc-three-bbc-scotland-and-radio-4-extra-linear-services/" rel="noopener">BBC to close BBC Three, BBC Scotland and Radio 4 Extra linear services</a><br><span class="source-outlet">Broadband TV News &middot; UK</span></li><li id="ref2"><a href="https://www.c21media.net/news/bbc-to-close-linear-bbc-three-bbc-scotland-in-cost-cutting-drive/" rel="noopener">BBC to close linear BBC Three, BBC Scotland in cost-cutting drive</a><br><span class="source-outlet">C21Media &middot; UK</span></li><li id="ref3"><a href="https://www.theguardian.com/media/2026/oct/20/bbc-three-and-bbc-scotland-tv-channels-to-be-shut-down" rel="noopener">BBC Three and BBC Scotland TV channels to be shut down next year</a><br><span class="source-outlet">Guardian Media &middot; UK</span></li><li id="ref4"><a href="https://www.broadbandtvnews.com/2026/10/21/uktv-adds-eight-fast-channels-for-lg-channels-and-freely/" rel="noopener">UKTV adds eight FAST channels for LG Channels and Freely</a><br><span class="source-outlet">Broadband TV News &middot; UK</span></li><li id="ref5"><a href="https://www.advanced-television.com/2026/10/21/uktv-adding-8-new-fast-channels/" rel="noopener">UKTV adding 8 new FAST channels</a><br><span class="source-outlet">Advanced Television &middot; UK</span></li><li id="ref6"><a href="https://www.c21media.net/news/friends-to-return-to-channel-4-from-january/" rel="noopener">Friends to return to Channel 4 from January</a><br><span class="source-outlet">C21Media &middot; UK</span></li><li id="ref7"><a href="https://www.theguardian.com/media/2026/oct/19/ofcom-investigates-huw-edwards-complaint-over-channel-5-drama" rel="noopener">Ofcom investigates Huw Edwards complaint over Channel 5 drama</a><br><span class="source-outlet">Guardian Media &middot; UK</span></li><li id="ref8"><a href="https://www.advanced-television.com/2026/10/20/big-brother-exceeds-200m-streams-on-itvx/" rel="noopener">Big Brother exceeds 200m streams on ITVX</a><br><span class="source-outlet">Advanced Television &middot; UK</span></li><li id="ref9"><a href="https://www.broadbandtvnews.com/2026/10/19/mps-to-question-ofcom-chiefs-on-broadcasting-standards-and-online-safety/" rel="noopener">MPs to question Ofcom chiefs on broadcasting standards and online safety</a><br><span class="source-outlet">Broadband TV News &middot; UK</span></li><li id="ref10"><a href="https://www.advanced-television.com/2026/10/20/wedotv-movies-launches-on-freely/" rel="noopener">wedotv Movies launches on Freely</a><br><span class="source-outlet">Advanced Television &middot; UK</span></li><li id="ref11"><a href="https://www.broadbandtvnews.com/2026/10/20/wedotv-movies-joins-freely-with-refreshed-film-line-up/" rel="noopener">Movies joins Freely with refreshed film line-up</a><br><span class="source-outlet">Broadband TV News &middot; UK</span></li><li id="ref12"><a href="https://www.cynopsis.com/cynopsis-10-19-2026-why-was-bela-bajaria-ousted-from-netflix/" rel="noopener">Cynopsis 10/19/2026: Why Was Bela Bajaria Ousted From Netflix?</a><br><span class="source-outlet">Cynopsis &middot; Americas</span></li><li id="ref13"><a href="https://tvnewscheck.com/programming/article/glee-reboot-lands-series-order-at-disney-hulu/" rel="noopener">‘Glee’ Reboot Lands Series Order At Disney+ &amp; Hulu</a><br><span class="source-outlet">TVNewsCheck &middot; Americas</span></li><li id="ref14"><a href="https://variety.com/2026/tv/news/glee-reboot-disney-hulu-1236918160/" rel="noopener">‘Glee’ Reboot Officially Set at Disney+ and Hulu</a><br><span class="source-outlet">Variety &middot; Americas</span></li><li id="ref15"><a href="https://www.thewrap.com/creative-content/tv-shows/glee-reboot-greenlit-disney-plus-hulu/" rel="noopener">‘Glee’ Reboot a Go at Disney+ and Hulu</a><br><span class="source-outlet">The Wrap &middot; Americas</span></li><li id="ref16"><a href="https://www.hollywoodreporter.com/tv/tv-news/glee-revival-series-disney-plus-hulu-1236736950/" rel="noopener">Don’t Stop Believin’: ‘Glee’ Revival a Go at Disney+ and Hulu</a><br><span class="source-outlet">Hollywood Reporter &middot; Americas</span></li><li id="ref17"><a href="https://radioink.com/2026/10/19/nielsen-ppm-accreditation-revoked-in-four-major-radio-markets/" rel="noopener">Nielsen PPM Accreditation Revoked in Four Major Markets</a><br><span class="source-outlet">Radio Ink &middot; Americas</span></li><li id="ref18"><a href="https://tvnewscheck.com/business/article/mrc-revokes-denies-nearly-two-dozen-nielsen-ppm-markets/" rel="noopener">MRC Revokes, Denies Nearly Two Dozen Nielsen PPM Markets</a><br><span class="source-outlet">TVNewsCheck &middot; Americas</span></li><li id="ref19"><a href="https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/" rel="noopener">Google has joined Amazon in attacking Nvidia’s stronghold with AI app developers</a><br><span class="source-outlet">TechCrunch &middot; Americas</span></li><li id="ref20"><a href="https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/" rel="noopener">Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool</a><br><span class="source-outlet">TechCrunch &middot; Americas</span></li><li id="ref21"><a href="https://www.engadget.com/2293646/claude-duet-is-anthropics-answer-to-meta-muse-and-openai-dots/" rel="noopener">Claude Duet is Anthropic&#x27;s answer to Meta Muse and OpenAI Dots</a><br><span class="source-outlet">Engadget &middot; Americas</span></li><li id="ref22"><a href="https://www.theverge.com/ai-artificial-intelligence/1015843/anthropic-claude-duet-ai-agent" rel="noopener">Anthropic takes on Muse with Claude Duet, its new AI agent</a><br><span class="source-outlet">The Verge &middot; Americas</span></li><li id="ref23"><a href="https://playbackonline.ca/2026/10/21/corus-entertainment-launches-stacktv-streaming-app/" rel="noopener">Corus Entertainment launches StackTV streaming app</a><br><span class="source-outlet">Playback &middot; Americas</span></li><li id="ref24"><a href="https://broadcastdialogue.com/corus-unveils-expanded-stacktv-app-that-will-see-phase-out-of-global-tv-app/" rel="noopener">Corus unveils expanded STACKTV app that will see phase out of Global TV App</a><br><span class="source-outlet">Broadcast Dialogue &middot; Americas</span></li><li id="ref25"><a href="https://cartt.ca/corus-rolling-out-new-stacktv-app-across-expanding-list-of-devices-and-platforms/" rel="noopener">Corus rolling out new StackTV app across expanding list of devices and platforms</a><br><span class="source-outlet">Cartt.ca &middot; Americas</span></li><li id="ref26"><a href="https://cartt.ca/rogers-and-corus-agree-to-terms-of-distribution-ending-long-running-dispute/" rel="noopener">Rogers and Corus agree to terms of distribution, ending long-running dispute</a><br><span class="source-outlet">Cartt.ca &middot; Americas</span></li><li id="ref27"><a href="https://www.broadbandtvnews.com/2026/10/20/christiane-amanpour-to-leave-cnn-after-43-years/" rel="noopener">Christiane Amanpour to leave CNN after 43 years</a><br><span class="source-outlet">Broadband TV News &middot; UK</span></li><li id="ref28"><a href="https://www.theguardian.com/media/2026/oct/19/christiane-amanpour-leaving-cnn" rel="noopener">Christiane Amanpour announces she’s leaving CNN after 43 years</a><br><span class="source-outlet">Guardian Media &middot; UK</span></li><li id="ref29"><a href="https://tvnewscheck.com/business/article/sony-pictures-television-names-lauren-glaubach-evp-distribution-digital-social-platforms/" rel="noopener">Sony Pictures Television Names Lauren Glaubach EVP Distribution, Digital &amp; Social Platforms</a><br><span class="source-outlet">TVNewsCheck &middot; Americas</span></li><li id="ref30"><a href="https://www.thewrap.com/culture-lifestyle/culture/chelsey-summey-departs-warner-bros-skydance/" rel="noopener">Chelsey Summey Departs Warner Bros. as Skydance Plans Comms Reshuffle</a><br><span class="source-outlet">The Wrap &middot; Americas</span></li><li id="ref31"><a href="https://tvnewscheck.com/journalism/article/christiane-amanpour-to-exit-cnn-next-year/" rel="noopener">Christiane Amanpour To Exit CNN Next Year</a><br><span class="source-outlet">TVNewsCheck &middot; Americas</span></li><li id="ref32"><a href="https://broadcastdialogue.com/corus-radio-host-changes-will-menzies-alicia-bell/" rel="noopener">Corus Radio names new Network Midday Host for Hot AC stations</a><br><span class="source-outlet">Broadcast Dialogue &middot; Americas</span></li><li id="ref33"><a href="https://tvnewscheck.com/programming/article/versant-sells-hulu-streaming-rights-to-e-series-the-golden-life/" rel="noopener">Versant Sells Hulu Streaming Rights To E! Series ‘The Golden Life’</a><br><span class="source-outlet">TVNewsCheck &middot; Americas</span></li><li id="ref34"><a href="https://variety.com/2026/tv/news/kurosawa-shimizu-disney-japanese-horror-night-tales-club-1236918137/" rel="noopener">Kurosawa Kiyoshi, Shimizu Takashi Among Directors of Disney+, Hulu Japanese Horror Series ‘Night Tales Club’</a><br><span class="source-outlet">Variety &middot; Americas</span></li><li id="ref35"><a href="https://tvnewscheck.com/business/article/bob-igers-new-book-to-chronicle-sometimes-bumpy-never-boring-second-stint-as-disney-ceo/" rel="noopener">Bob Iger’s New Book To Chronicle ‘Sometimes Bumpy, Never Boring’ Second Stint As Disney CEO</a><br><span class="source-outlet">TVNewsCheck &middot; Americas</span></li></ol>
+    </section>
+  </main>
+</div>
+
+<footer>
+  <div class="footer-inner">
+    <div class="footer-col">
+      <strong>An independent personal project.</strong> Not affiliated with, endorsed by,
+      or representing any employer. Built and maintained in a personal capacity.
+      <br><br>Built from 35 cited articles across 16 outlets. Written by gemini-3.1-flash-lite, gemini-3.5-flash.
+    </div>
+    <div class="footer-col">
+      <strong>Every summary here is generated by AI</strong> from the linked sources, and
+      may contain errors or omissions. Follow the links for the full stories, and check
+      other reputable outlets before relying on anything you read here.
+    </div>
+  </div>
+</footer>
+
+<script>
+  var root = document.body.getAttribute('data-root') || '';
+  var currentIso = document.body.getAttribute('data-current') || '';
+
+  /* ---- reading preferences, remembered between visits ---- */
+  function setMode(mode, remember) {
+    document.documentElement.setAttribute('data-mode', mode);
+    document.getElementById('modeStandard').classList.toggle('active', mode === 'standard');
+    document.getElementById('modeEasy').classList.toggle('active', mode === 'easy');
+    if (remember !== false) {
+      try { localStorage.setItem('digest-mode', mode); } catch (e) {}
+    }
+  }
+  function applyTheme(theme, remember) {
+    document.documentElement.setAttribute('data-theme', theme);
+    // Keep the phone's browser chrome in step with the chosen theme,
+    // otherwise a dark page sits under a light status bar.
+    var meta = document.querySelector('meta[name="theme-color"]');
+    if (meta) meta.setAttribute('content', theme === 'dark' ? '#10151A' : '#F7F8F3');
+    if (remember !== false) {
+      try { localStorage.setItem('digest-theme', theme); } catch (e) {}
+    }
+  }
+  function toggleTheme() {
+    var now = document.documentElement.getAttribute('data-theme');
+    applyTheme(now === 'dark' ? 'light' : 'dark');
+  }
+  (function restore() {
+    var mode = null, theme = null;
+    try {
+      mode = localStorage.getItem('digest-mode');
+      theme = localStorage.getItem('digest-theme');
+    } catch (e) {}
+    if (mode) setMode(mode, false);
+    if (theme) {
+      applyTheme(theme, false);
+    } else if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) {
+      applyTheme('dark', false);
+    }
+  })();
+
+  /* ---- mobile drawer ---- */
+  function openNav() {
+    document.getElementById('editions').classList.add('open');
+    document.getElementById('scrim').classList.add('open');
+    document.querySelector('.burger').setAttribute('aria-expanded', 'true');
+  }
+  function closeNav() {
+    document.getElementById('editions').classList.remove('open');
+    document.getElementById('scrim').classList.remove('open');
+    document.querySelector('.burger').setAttribute('aria-expanded', 'false');
+  }
+  function toggleNav() {
+    document.getElementById('editions').classList.contains('open') ? closeNav() : openNav();
+  }
+  document.addEventListener('keydown', function (e) {
+    if (e.key === 'Escape') closeNav();
+  });
+
+  /* ---- sidebar, built from manifest.json ---- */
+  function escapeHtml(s) {
+    return String(s == null ? '' : s)
+      .replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;')
+      .replace(/"/g, '&quot;');
+  }
+
+  fetch(root + 'manifest.json', { cache: 'no-cache' })
+    .then(function (r) {
+      if (!r.ok) throw new Error('manifest ' + r.status);
+      return r.json();
+    })
+    .then(function (editions) {
+      var target = document.getElementById('editionList');
+      if (!editions.length) {
+        target.innerHTML = '<div class="sidebar-status">No editions yet.</div>';
+        return;
+      }
+      var html = '';
+      var lastMonth = null;
+      var first = true;
+      editions.forEach(function (ed) {
+        if (ed.month !== lastMonth) {
+          html += '<div class="month-label' + (first ? ' first' : '') + '">'
+                + escapeHtml(ed.month) + '</div>';
+          lastMonth = ed.month;
+          first = false;
+        }
+        var isCurrent = ed.iso === currentIso;
+        html += '<a class="epg-item' + (isCurrent ? ' current' : '') + '" href="'
+              + escapeHtml(root + ed.path) + '">'
+              + '<div class="epg-date">' + escapeHtml(ed.label) + '</div>'
+              + '<div class="epg-teaser">' + escapeHtml(ed.teaser || ed.headline) + '</div>'
+              + '</a>';
+      });
+      target.innerHTML = html;
+      target.querySelectorAll('.epg-item').forEach(function (a) {
+        a.addEventListener('click', closeNav);
+      });
+    })
+    .catch(function (err) {
+      document.getElementById('editionList').innerHTML =
+        '<div class="sidebar-status">Couldn\'t load previous editions.</div>';
+      console.error(err);
+    });
+</script>
+
+</body>
+</html>
