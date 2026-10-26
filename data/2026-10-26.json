@@ -1,0 +1,577 @@
+{
+  "schema": 1,
+  "iso": "2026-10-26",
+  "headline": "Media giants face restructuring and regulatory scrutiny across North America and Britain",
+  "date_line": "Monday 26 October 2026 · covering Thu 22 Oct to Sun 25 Oct",
+  "footer_note": "Built from 34 cited articles across 16 outlets. Written by gemini-3.1-flash-lite, gemini-3.5-flash.",
+  "model": "gemini-3.1-flash-lite, gemini-3.5-flash",
+  "backfilled": false,
+  "generated_at": "2026-10-26T06:16:18+00:00",
+  "digest": {
+    "headline": "Media giants face restructuring and regulatory scrutiny across North America and Britain",
+    "lead": "The BBC faces intense criticism over proposed service closures and job cuts as UK regulators acknowledge failures in online safety. Meanwhile, North American media firms report earnings and navigate major restructuring efforts alongside record lobbying spending by technology companies.",
+    "glance": [
+      {
+        "text": "Television executives condemned proposed UK government plans for a YouTube tax to fund the BBC as institutional protectionism.",
+        "section": "regulation",
+        "refs": [
+          1
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "Media figures expressed dismay over BBC plans to close linear services for BBC Three, BBC Scotland and Radio 4 Extra.",
+        "section": "regulation",
+        "refs": [
+          2
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "BBC News is axing 100 jobs including its education editor role to deliver five million pounds in cost savings.",
+        "section": "regulation",
+        "refs": [
+          3
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "Ofcom admitted landmark online safety laws failed to reduce social media harm suffered by children in the UK.",
+        "section": "regulation",
+        "refs": [
+          4
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "A US judge ordered Donald Trump to sit for a deposition by December in his lawsuit against the BBC.",
+        "section": "regulation",
+        "refs": [
+          5,
+          6
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "Sky Sports launched a new social series named Minus 1 focused on the Women's Super League.",
+        "section": "audience",
+        "refs": [
+          7
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "ITV commissioned new rugby digital series The Sidestep featuring Marcus Smith and Louis Rees-Zammit.",
+        "section": "audience",
+        "refs": [
+          8
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "Sky and BBC News automation project Sofie earned honours at the RTS Technology Awards 2026.",
+        "section": "tech",
+        "refs": [
+          9
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "Comcast's Peacock posted its second consecutive profitable quarter with $261 million in pre-tax revenue.",
+        "section": "results",
+        "refs": [
+          10,
+          11,
+          12,
+          13
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "Nvidia, Anthropic and OpenAI spent record sums on federal lobbying between July and September.",
+        "section": "regulation",
+        "refs": [
+          14
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "John Malone said the Trump administration blocked Netflix's proposed merger with Warner Bros. Discovery.",
+        "section": "deals",
+        "refs": [
+          15
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "Publishers and trade groups urged Meta to withdraw new terms allowing its AI to scrape news sites.",
+        "section": "regulation",
+        "refs": [
+          16,
+          17,
+          18
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "Rogers and Corus reached an agreement to end their carriage dispute.",
+        "section": "deals",
+        "refs": [
+          19
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "ABC affiliates voiced concern over Disney distributing the Super Bowl across multiple digital platforms.",
+        "section": "audience",
+        "refs": [
+          20
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "CBC/Radio-Canada selected Dalet Pyramid to modernize its news operations across Canada.",
+        "section": "tech",
+        "refs": [
+          21
+        ],
+        "region": "americas"
+      }
+    ],
+    "sections": [
+      {
+        "id": "regulation",
+        "paragraphs": [
+          "Media figures strongly criticised proposals to close linear services for BBC Three, BBC Scotland and Radio 4 Extra. Television executives also attacked potential UK government plans for a YouTube tax to fund the public broadcaster.",
+          "BBC News will eliminate 100 jobs to save five point five million pounds. The cuts include losing dedicated education and health editor positions, raising concerns among educational leaders about future sector scrutiny.",
+          "Regulator Ofcom admitted that UK online safety laws have failed to reduce social media harm among children during their first nine months. Separately, a US judge ordered Donald Trump to sit for a deposition by 11 December in his defamation lawsuit against the BBC."
+        ],
+        "region": "uk"
+      },
+      {
+        "id": "audience",
+        "paragraphs": [
+          "Commercial broadcaster ITV commissioned a sports focused digital series titled The Sidestep. The show is produced by BE Studio and stars British rugby players Marcus Smith and Louis Rees-Zammit.",
+          "Sky Sports launched Minus 1, a social content series focused on the Barclays Women's Super League. The format pairs professional footballers with personalities from music, culture and sport."
+        ],
+        "region": "uk"
+      },
+      {
+        "id": "tech",
+        "paragraphs": [
+          "Sky and BBC News received honours at the RTS Technology Awards 2026. Sky won recognition for its live HDR and Sky Glass technology, while BBC News won for its Sofie automation system.",
+          "Entries opened for the IBC2027 Accelerator Media Innovation Programme. Nine selected projects will present their concepts at the Kickstart Day hosted at the BBC Radio Theatre in London."
+        ],
+        "region": "uk"
+      },
+      {
+        "id": "radio",
+        "paragraphs": [
+          "Classic FM announced the return of its Pet Classics strand for 2026. The station will expand the broadcast across three evenings, offering five hours of calming music each night.",
+          "BBC local news executive Kate Squire is leaving the corporation after almost 42 years leading northern news teams. Long serving presenter Susie Fowler-Watt is also departing the BBC after 35 years."
+        ],
+        "region": "uk"
+      },
+      {
+        "id": "results",
+        "paragraphs": [
+          "Comcast reported a strong quarter for NBCUniversal and its Peacock streaming service. Peacock delivered a pre-tax revenue profit of $261 million, marking its second consecutive profitable quarter.",
+          "However, Comcast continues to face challenges in its cable and media empire. Declines in broadband and video subscribers weigh down overall performance despite boosts from sporting events and box-office releases."
+        ],
+        "region": "americas"
+      },
+      {
+        "id": "deals",
+        "paragraphs": [
+          "Media mogul John Malone stated that the Trump administration informed Netflix that an acquisition of Warner Bros. Discovery would face regulatory blocks. The decision prompted Netflix to withdraw, clearing the path for Paramount to buy the company.",
+          "In Canada, Rogers and Corus reached a deal to settle a carriage dispute that began in 2024. Rogers noted that CRTC fee rules had a significant impact on its quarterly revenue per user."
+        ],
+        "region": "americas"
+      },
+      {
+        "id": "regulation",
+        "paragraphs": [
+          "Tech firms significantly increased spending on federal lobbying during the third quarter. Nvidia led AI lobbying expenditures with $2.2 million, followed by Anthropic at $2.1 million and OpenAI at $1.5 million.",
+          "News publishers are pushing back against Meta's updated terms of service, which take effect on 30 October. The News/Media Alliance called on CEO Mark Zuckerberg to halt changes that permit AI scraping of news content."
+        ],
+        "region": "americas"
+      },
+      {
+        "id": "audience",
+        "paragraphs": [
+          "CBS recorded strong multiplatform ratings for its premiere week starting 4 October. The network averaged 8.63 million viewers, representing a 14% increase compared to its 2025 premiere week.",
+          "ABC broadcast affiliates expressed frustration over Disney's multiplatform Super Bowl plans. Affiliates warned that streaming on platforms like Disney+ and ESPN2 could reduce broadcast advertising revenue by up to 35%."
+        ],
+        "region": "americas"
+      },
+      {
+        "id": "tech",
+        "paragraphs": [
+          "CBC/Radio-Canada partnered with Dalet to modernise its newsrooms across Canada. The broadcaster will implement Dalet Pyramid to support digital-first news operations.",
+          "Roku released its Pro Series LX OLED TVs on Amazon in 55-inch and 65-inch models. Meanwhile, Samsung began selling certified renewed smartphones on Amazon with a one-year warranty."
+        ],
+        "region": "americas"
+      }
+    ],
+    "people_moves": [
+      {
+        "text": "Kate Squire, Head of Local News across Northern England, BBC",
+        "refs": [
+          22
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "Susie Fowler-Watt, Presenter, BBC Look East",
+        "refs": [
+          23
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "Jane Wiseman, Head of Originals at Paramount+, leaving the organisation",
+        "refs": [
+          24,
+          25,
+          26
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "Christiane Amanpour, leaving role at CNN in 2027",
+        "refs": [
+          27
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "Bianna Golodryga, leaving CNN and in talks for roles at Politico and CBS News",
+        "refs": [
+          27,
+          28
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "Jon Tower, named Executive Producer at CBS Mornings",
+        "refs": [
+          29
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "JJ Watt, named lead game analyst for NFL on CBS",
+        "refs": [
+          30
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "Kelly McBride, stepping down as Public Editor at NPR at the end of the year",
+        "refs": [
+          31
+        ],
+        "region": "americas"
+      }
+    ],
+    "coming_up": [
+      {
+        "date": "25 Oct 2026",
+        "text": "Sky Sports drops the first episode of Women's Super League social series Minus 1",
+        "refs": [
+          7
+        ],
+        "region": "uk"
+      },
+      {
+        "date": "11 Dec 2026",
+        "text": "Deadline for Donald Trump to sit for deposition in BBC defamation lawsuit",
+        "refs": [
+          5,
+          6
+        ],
+        "region": "uk"
+      },
+      {
+        "date": "18 Mar 2027",
+        "text": "IBC2027 Accelerators Kickstart Day takes place at the BBC Radio Theatre in London",
+        "refs": [
+          32
+        ],
+        "region": "uk"
+      },
+      {
+        "date": "30 Oct 2026",
+        "text": "Meta's new commercial terms of service come into effect",
+        "refs": [
+          17
+        ],
+        "region": "americas"
+      },
+      {
+        "date": "11 Dec 2026",
+        "text": "Deadline for Donald Trump to sit for a deposition in his BBC defamation lawsuit",
+        "refs": [
+          33
+        ],
+        "region": "americas"
+      },
+      {
+        "date": "18 Dec 2026",
+        "text": "Discovery period deadline in Donald Trump's defamation lawsuit against the BBC",
+        "refs": [
+          33
+        ],
+        "region": "americas"
+      },
+      {
+        "date": "Jan 2027",
+        "text": "BBC merges TV and audio commissioning teams across select genres",
+        "refs": [
+          34
+        ],
+        "region": "americas"
+      }
+    ]
+  },
+  "articles": [
+    {
+      "ref": 1,
+      "title": "Politicians and TV execs blast UK government’s mooted ‘YouTube tax’ to fund BBC",
+      "link": "https://www.c21media.net/news/politicians-and-tv-execs-blast-uk-governments-mooted-youtube-tax-to-fund-bbc/",
+      "outlet": "C21Media",
+      "region": "uk"
+    },
+    {
+      "ref": 2,
+      "title": "BBC channel closures slammed as ‘act of mindless vandalism’ as media figures react",
+      "link": "https://www.c21media.net/news/bbc-channel-closures-slammed-as-act-of-mindless-vandalism-as-media-figures-react/",
+      "outlet": "C21Media",
+      "region": "uk"
+    },
+    {
+      "ref": 3,
+      "title": "BBC News to axe education editor role in cost-cutting move",
+      "link": "https://www.theguardian.com/media/2026/oct/22/bbc-news-to-axe-education-editor-role-in-cost-cutting-move",
+      "outlet": "Guardian Media",
+      "region": "uk"
+    },
+    {
+      "ref": 4,
+      "title": "Online safety laws have failed to protect children in UK, Ofcom admits",
+      "link": "https://www.theguardian.com/society/2026/oct/23/uk-children-just-as-likely-to-have-suffered-harm-on-social-media-despite-crackdown-ofcom-online-safety-act",
+      "outlet": "Guardian Media",
+      "region": "uk"
+    },
+    {
+      "ref": 5,
+      "title": "Judge orders Trump deposition in BBC case",
+      "link": "https://www.advanced-television.com/2026/10/23/judge-orders-trump-deposition-in-bbc-case/",
+      "outlet": "Advanced Television",
+      "region": "uk"
+    },
+    {
+      "ref": 6,
+      "title": "US judge orders Trump to sit for deposition in $10bn lawsuit against BBC",
+      "link": "https://www.theguardian.com/us-news/2026/oct/22/trump-bbc-lawsuit-deposition-discovery",
+      "outlet": "Guardian Media",
+      "region": "uk"
+    },
+    {
+      "ref": 7,
+      "title": "Sky Sports launches Minus 1 WSL social series",
+      "link": "https://www.advanced-television.com/2026/10/23/sky-sports-launches-minus-1-wsl-social-series/",
+      "outlet": "Advanced Television",
+      "region": "uk"
+    },
+    {
+      "ref": 8,
+      "title": "ITV tackles rugby with digital series The Sidestep",
+      "link": "https://www.c21media.net/news/itv-tackles-rugby-with-digital-series-the-sidestep/",
+      "outlet": "C21Media",
+      "region": "uk"
+    },
+    {
+      "ref": 9,
+      "title": "Sky, BBC News automation and Newsmax Ukraine recognised at RTS Technology Awards",
+      "link": "https://www.broadbandtvnews.com/2026/10/23/sky-bbc-news-automation-and-newsmax-ukraine-recognised-at-rts-technology-awards/",
+      "outlet": "Broadband TV News",
+      "region": "uk"
+    },
+    {
+      "ref": 10,
+      "title": "Comcast Q3 Sees Continued Broadband Downturn, Despite Boosts From World Cup, Peacock",
+      "link": "https://variety.com/2026/tv/news/comcast-q3-boosted-fifa-world-cup-odyssey-revenue-downturn-1236919567/",
+      "outlet": "Variety",
+      "region": "americas"
+    },
+    {
+      "ref": 11,
+      "title": "10/23/2026: NBCUniversal Is Doing Great – Comcast, Not So Much",
+      "link": "https://www.cynopsis.com/10-23-2026-nbcuniversal-is-doing-great-comcast-not-so-much/",
+      "outlet": "Cynopsis",
+      "region": "americas"
+    },
+    {
+      "ref": 12,
+      "title": "NBCUniversal’s Peacock Posts Second Consecutive Profit in Third Quarter",
+      "link": "https://www.hollywoodreporter.com/business/business-news/nbcuniversals-peacock-1236738039/",
+      "outlet": "Hollywood Reporter",
+      "region": "americas"
+    },
+    {
+      "ref": 13,
+      "title": "Peacock Delivers 2nd Consecutive Quarterly Profit of $261 Million in Q3",
+      "link": "https://www.thewrap.com/industry-news/business/comcast-earnings-q3-2026/",
+      "outlet": "The Wrap",
+      "region": "americas"
+    },
+    {
+      "ref": 14,
+      "title": "OpenAI, Anthropic, and Nvidia had record lobbying quarters",
+      "link": "https://www.theverge.com/policy/1016585/openai-anthropic-nvidia-lobbying-records",
+      "outlet": "The Verge",
+      "region": "americas"
+    },
+    {
+      "ref": 15,
+      "title": "John Malone Says Trump Administration Told Netflix They Had ‘No Chance’ Of Getting Regulatory Greenlight For Merger With WBD",
+      "link": "https://tvnewscheck.com/business/article/john-malone-says-trump-administration-told-netflix-they-had-no-chance-of-getting-regulatory-greenlight-for-merger-with-wbd/",
+      "outlet": "TVNewsCheck",
+      "region": "americas"
+    },
+    {
+      "ref": 16,
+      "title": "Meta’s AI could still scrape news sites, legal experts say",
+      "link": "https://www.theverge.com/tech/1017082/meta-terms-update-ai-training-concerns",
+      "outlet": "The Verge",
+      "region": "americas"
+    },
+    {
+      "ref": 17,
+      "title": "Publishers pressure Meta to nix new terms that would let the company scrape their websites",
+      "link": "https://www.niemanlab.org/2026/10/publishers-pressure-meta-to-nix-new-terms-that-would-let-it-scrape-their-websites/",
+      "outlet": "Nieman Lab",
+      "region": "americas"
+    },
+    {
+      "ref": 18,
+      "title": "Meta’s new scraping terms galvanize publishers into collective action",
+      "link": "https://digiday.com/media/metas-new-scraping-terms-galvanize-publishers-into-collective-action/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+      "outlet": "Digiday",
+      "region": "americas"
+    },
+    {
+      "ref": 19,
+      "title": "Rogers, Corus reach deal to end carriage dispute",
+      "link": "https://playbackonline.ca/2026/10/22/rogers-corus-reach-deal-to-end-carriage-dispute/",
+      "outlet": "Playback",
+      "region": "americas"
+    },
+    {
+      "ref": 20,
+      "title": "Disney’s Multiplatform Super Bowl Plan Frustrates ABC Affiliates",
+      "link": "https://tvnewscheck.com/business/article/disneys-multiplatform-super-bowl-plan-frustrates-abc-affiliates/",
+      "outlet": "TVNewsCheck",
+      "region": "americas"
+    },
+    {
+      "ref": 21,
+      "title": "CBC/Radio-Canada Turns To Dalet For News Transformation",
+      "link": "https://tvnewscheck.com/tech/article/cbc-radio-canada-turns-to-dalet-for-news-transformation/",
+      "outlet": "TVNewsCheck",
+      "region": "americas"
+    },
+    {
+      "ref": 22,
+      "title": "Kate Squire to leave BBC after almost 42 years",
+      "link": "https://radiotoday.co.uk/2026/10/kate-squire-to-leave-bbc-after-almost-42-years/",
+      "outlet": "RadioToday",
+      "region": "uk"
+    },
+    {
+      "ref": 23,
+      "title": "Susie Fowler-Watt to leave BBC after 35 years",
+      "link": "https://radiotoday.co.uk/2026/10/susie-fowler-watt-to-leave-bbc-after-35-years/",
+      "outlet": "RadioToday",
+      "region": "uk"
+    },
+    {
+      "ref": 24,
+      "title": "Paramount+ Head Of Originals Jane Wiseman Leaving",
+      "link": "https://tvnewscheck.com/programming/article/paramount-head-of-originals-jane-wiseman-leaving/",
+      "outlet": "TVNewsCheck",
+      "region": "americas"
+    },
+    {
+      "ref": 25,
+      "title": "Paramount+ Originals Head Jane Wiseman to Exit as Casey Bloys Restructures Skydance DTC Leadership",
+      "link": "https://www.thewrap.com/culture-lifestyle/culture/paramount-plus-originals-head-jane-wiseman-exit/",
+      "outlet": "The Wrap",
+      "region": "americas"
+    },
+    {
+      "ref": 26,
+      "title": "Paramount+ Head of Originals Jane Wiseman Exits as Skydance Streaming Announces New Structure",
+      "link": "https://www.hollywoodreporter.com/business/business-news/jane-wiseman-leaving-paramount-plus-head-of-originals-1236739081/",
+      "outlet": "Hollywood Reporter",
+      "region": "americas"
+    },
+    {
+      "ref": 27,
+      "title": "Ticker: Christiane Amanpour to Exit From CNN in 2027",
+      "link": "https://www.adweek.com/tvnewser/ticker-christiane-amanpour-to-exit-from-cnn-in-2027/",
+      "outlet": "Adweek",
+      "region": "americas"
+    },
+    {
+      "ref": 28,
+      "title": "Bianna Golodryga In Talks For New Roles At Politico, CBS News",
+      "link": "https://tvnewscheck.com/journalism/article/bianna-golodryga-in-talks-for-new-roles-at-politico-cbs-news/",
+      "outlet": "TVNewsCheck",
+      "region": "americas"
+    },
+    {
+      "ref": 29,
+      "title": "Jon Tower Takes Executive Producer Role At Revamped ‘CBS Mornings’",
+      "link": "https://tvnewscheck.com/journalism/article/jon-tower-takes-executive-producer-role-at-revamped-cbs-mornings/",
+      "outlet": "TVNewsCheck",
+      "region": "americas"
+    },
+    {
+      "ref": 30,
+      "title": "JJ Watt Permanently Replaces Tony Romo As Top Game Analyst For NFL On CBS",
+      "link": "https://tvnewscheck.com/people/article/jj-watt-permanently-replaces-tony-romo-as-top-game-analyst-for-nfl-on-cbs/",
+      "outlet": "TVNewsCheck",
+      "region": "americas"
+    },
+    {
+      "ref": 31,
+      "title": "NPR To Move Public Editor Partnership To University Of Maryland",
+      "link": "https://tvnewscheck.com/journalism/article/npr-to-move-public-editor-partnership-to-university-of-maryland/",
+      "outlet": "TVNewsCheck",
+      "region": "americas"
+    },
+    {
+      "ref": 32,
+      "title": "‘We’re looking for fresh ideas that push the boundaries of innovation’: Entries open for IBC2027 Accelerators",
+      "link": "https://www.tvbeurope.com/business/were-looking-for-fresh-ideas-that-push-the-boundaries-of-innovation-entries-open-for-ibc2027-accelerators",
+      "outlet": "TVBEurope",
+      "region": "uk"
+    },
+    {
+      "ref": 33,
+      "title": "Judge Orders Trump To Sit For Deposition In His Defamation Lawsuit Against The BBC",
+      "link": "https://tvnewscheck.com/regulation/article/judge-orders-trump-to-sit-for-deposition-in-his-defamation-lawsuit-against-the-bbc/",
+      "outlet": "TVNewsCheck",
+      "region": "americas"
+    },
+    {
+      "ref": 34,
+      "title": "BBC Merges TV & Audio Commissioning Teams Amid Plan To Cut 100 Content Roles",
+      "link": "https://tvnewscheck.com/business/article/bbc-merges-tv-audio-commissioning-teams-amid-plan-to-cut-100-content-roles/",
+      "outlet": "TVNewsCheck",
+      "region": "americas"
+    }
+  ]
+}

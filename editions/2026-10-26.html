@@ -1,0 +1,666 @@
+<!DOCTYPE html>
+<html lang="en-GB" data-mode="standard" data-theme="light">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Media giants face restructuring and regulatory scrutiny across North America and Britain &mdash; Media &amp; Tech Digest</title>
+<meta name="description" content="An independent, AI-summarised digest of UK media and broadcast industry news.">
+<link rel="icon" href="../icon.svg" type="image/svg+xml">
+<link rel="icon" href="../favicon-32.png" sizes="32x32" type="image/png">
+<link rel="apple-touch-icon" href="../apple-touch-icon.png">
+<link rel="manifest" href="../site.webmanifest">
+<meta name="apple-mobile-web-app-title" content="Digest">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="theme-color" content="#12181D">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@600;700;800&family=Big+Shoulders:wght@600;700;800&family=Public+Sans:wght@400;500;600;700&family=IBM+Plex+Mono:wght@500;600&family=Atkinson+Hyperlegible:wght@400;700&display=swap" rel="stylesheet">
+<style>
+
+
+  /* ============================================================
+     TOKENS
+     Cool grey-green paper rather than warm cream. One warm accent
+     (the tally light), one deep teal for structure and tags.
+     ============================================================ */
+  :root {
+    --paper:      #ECEFE8;
+    --card:       #F7F8F3;
+    --ink:        #12181D;
+    --ink-soft:   #4B5560;
+    --rule:       #D7DCD2;
+    --signal:     #C4581F;
+    --signal-bg:  #F6E3D3;
+    --wire:       #1F6B63;
+    --wire-bg:    #DCEAE7;
+    --slate:      #5B6472;
+    --slate-bg:   #E4E6E1;
+    --overlay:    rgba(18, 24, 29, 0.45);
+
+    --font-display: 'Big Shoulders', 'Arial Narrow', sans-serif;
+    --font-body:    'Public Sans', -apple-system, sans-serif;
+    --font-mono:    'IBM Plex Mono', monospace;
+
+    --size-body: 16.5px;
+    --leading-body: 1.6;
+    --tracking-body: 0em;
+    --spacing-word: normal;
+  }
+
+  html[data-theme="dark"] {
+    --paper:     #10151A;
+    --card:      #171D23;
+    --ink:       #E9EDE7;
+    --ink-soft:  #A7B0A9;
+    --rule:      #2A3239;
+    --signal:    #E8925A;
+    --signal-bg: #3A2418;
+    --wire:      #5FB3A8;
+    --wire-bg:   #16302C;
+    --slate:     #9BA5AD;
+    --slate-bg:  #232A30;
+    --overlay:   rgba(0, 0, 0, 0.6);
+  }
+
+  /* Easy read: swaps the body face for Atkinson Hyperlegible, which was
+     designed for low-vision and dyslexic readers, and opens up line
+     height, letter spacing and word spacing. Layout and colour are
+     untouched, only the type changes. */
+  html[data-mode="easy"] {
+    --font-body: 'Atkinson Hyperlegible', -apple-system, sans-serif;
+    --size-body: 18.5px;
+    --leading-body: 1.85;
+    --tracking-body: 0.013em;
+    --spacing-word: 0.09em;
+  }
+
+  * { box-sizing: border-box; }
+  html, body { margin: 0; padding: 0; }
+  body {
+    background: var(--paper);
+    color: var(--ink);
+    font-family: var(--font-body);
+    font-size: var(--size-body);
+    line-height: var(--leading-body);
+    letter-spacing: var(--tracking-body);
+    word-spacing: var(--spacing-word);
+    -webkit-font-smoothing: antialiased;
+  }
+  a { color: inherit; }
+  :focus-visible { outline: 2px solid var(--signal); outline-offset: 2px; border-radius: 4px; }
+
+  /* ---------------- masthead ---------------- */
+  .masthead {
+    position: sticky; top: 0; z-index: 40;
+    display: flex; align-items: center; gap: 14px;
+    padding: 12px 22px;
+    background: var(--card);
+    border-bottom: 1px solid var(--rule);
+  }
+  .tally {
+    width: 11px; height: 11px; border-radius: 50%;
+    background: var(--signal);
+    box-shadow: 0 0 0 3px var(--signal-bg);
+    flex-shrink: 0;
+  }
+  @media (prefers-reduced-motion: no-preference) {
+    .tally.live { animation: pulse 2.4s ease-in-out infinite; }
+  }
+  @keyframes pulse {
+    0%, 100% { box-shadow: 0 0 0 3px var(--signal-bg); }
+    50%      { box-shadow: 0 0 0 6px var(--signal-bg); }
+  }
+  .mast-title { display: flex; flex-direction: column; min-width: 0; }
+  .mast-name {
+    font-family: var(--font-display);
+    font-weight: 800; font-size: 24px; line-height: 1.05;
+    text-transform: uppercase; letter-spacing: 0.012em;
+  }
+  .mast-sub {
+    font-size: 12px; color: var(--ink-soft); margin-top: 3px; line-height: 1.45;
+  }
+  .mast-spacer { flex: 1; }
+  .sub-short { display: none; }
+  /* The masthead doubles as a link back to the latest edition, which is
+     the usual convention, and costs no space in an already tight bar. */
+  a.mast-title { text-decoration: none; color: inherit; }
+  a.mast-title:hover .mast-name { color: var(--wire); }
+  @media (max-width: 560px) {
+    .sub-long { display: none; }
+    .sub-short { display: inline; }
+  }
+
+  .controls { display: flex; align-items: center; gap: 9px; flex-shrink: 0; }
+  .pill { display: flex; border: 1px solid var(--rule); border-radius: 999px; overflow: hidden; }
+  .pill button {
+    font-family: var(--font-body); font-weight: 700; font-size: 14px;
+    border: 0; background: var(--paper); color: var(--ink-soft);
+    padding: 0 13px; height: 36px; cursor: pointer; line-height: 1;
+  }
+  .pill button.active { background: var(--wire); color: var(--card); }
+  .icon-btn {
+    border: 1px solid var(--rule); background: var(--paper); color: var(--ink-soft);
+    border-radius: 999px; width: 36px; height: 36px; cursor: pointer;
+    display: flex; align-items: center; justify-content: center; padding: 0;
+  }
+  .icon-btn svg { width: 17px; height: 17px; }
+  html[data-theme="light"] .icon-moon { display: none; }
+  html[data-theme="dark"]  .icon-sun  { display: none; }
+
+  .burger {
+    display: none;
+    border: 1px solid var(--rule); background: var(--paper); color: var(--ink);
+    border-radius: 10px; width: 38px; height: 38px; cursor: pointer;
+    align-items: center; justify-content: center; padding: 0; flex-shrink: 0;
+  }
+  .burger svg { width: 19px; height: 19px; }
+
+  /* ---------------- layout ---------------- */
+  .layout { display: flex; max-width: 1180px; margin: 0 auto; }
+  .sidebar {
+    width: 232px; flex-shrink: 0;
+    padding: 26px 18px 40px 22px;
+    border-right: 1px solid var(--rule);
+  }
+  .sidebar-eyebrow {
+    font-family: var(--font-mono); font-size: 11px; font-weight: 600;
+    letter-spacing: 0.1em; text-transform: uppercase; color: var(--ink-soft);
+    margin-bottom: 16px;
+  }
+  .drawer-close { display: none; }
+  .month-label {
+    font-family: var(--font-mono); font-size: 11px; color: var(--ink-soft);
+    letter-spacing: 0.06em; text-transform: uppercase;
+    margin: 22px 0 8px 0;
+  }
+  .month-label.first { margin-top: 0; }
+  .epg-item { display: block; text-decoration: none; padding: 9px 10px; border-radius: 8px; margin-bottom: 3px; }
+  .epg-item:hover { background: var(--paper); }
+  .epg-item.current { background: var(--signal-bg); }
+  .epg-date {
+    font-family: var(--font-mono); font-size: 12px; font-weight: 600;
+    color: var(--ink); display: flex; align-items: center; gap: 7px;
+  }
+  .epg-date::before {
+    content: ""; width: 6px; height: 6px; border-radius: 50%;
+    background: var(--rule); flex-shrink: 0;
+  }
+  .epg-item.current .epg-date::before { background: var(--signal); }
+  .epg-teaser { font-size: 12.5px; color: var(--ink-soft); margin-top: 3px; line-height: 1.4; padding-left: 13px; }
+
+  .scrim {
+    display: none; position: fixed; inset: 0; background: var(--overlay); z-index: 45;
+  }
+  .scrim.open { display: block; }
+
+  main { flex: 1; min-width: 0; padding: 30px 40px 60px 40px; }
+
+  .edition-head { margin-bottom: 26px; }
+  .status-row {
+    display: flex; align-items: center; gap: 8px; margin-bottom: 10px;
+    font-family: var(--font-mono); font-size: 12px; letter-spacing: 0.04em;
+    text-transform: uppercase; color: var(--signal); font-weight: 600;
+  }
+  h1.headline {
+    font-family: var(--font-display); font-weight: 800;
+    font-size: 38px; line-height: 1.08; letter-spacing: 0.002em;
+    margin: 0 0 10px 0; text-transform: uppercase;
+  }
+  .date-line { color: var(--ink-soft); font-size: 14px; }
+  .lead { font-size: 1.18em; line-height: 1.6; font-weight: 600; margin: 20px 0 0 0; }
+
+  hr.rule { border: 0; border-top: 1px solid var(--rule); margin: 30px 0; }
+
+  section.block { margin-bottom: 34px; }
+  .block-title {
+    font-family: var(--font-display); font-weight: 700; font-size: 20px;
+    text-transform: uppercase; letter-spacing: 0.01em;
+    display: flex; align-items: center; gap: 10px; margin-bottom: 16px;
+  }
+  .block-title::before { content: ""; width: 16px; height: 3px; background: var(--wire); display: inline-block; }
+
+  /* A bulletin running order is genuinely sequential, so numbering
+     here carries real information rather than decorating the list. */
+  .rundown-item { display: flex; gap: 14px; margin-bottom: 16px; align-items: baseline; }
+  .rundown-num { font-family: var(--font-mono); font-size: 13px; color: var(--ink-soft); flex-shrink: 0; width: 22px; }
+
+  .tag {
+    display: inline-block; font-family: var(--font-mono); font-size: 10.5px;
+    font-weight: 600; letter-spacing: 0.05em; text-transform: uppercase;
+    padding: 3px 8px; border-radius: 5px; margin-right: 8px; vertical-align: 1px;
+  }
+  .tag.wire   { color: var(--wire);   background: var(--wire-bg); }
+  .tag.signal { color: var(--signal); background: var(--signal-bg); }
+  .tag.slate  { color: var(--slate);  background: var(--slate-bg); }
+
+  p { margin: 0 0 16px 0; }
+  p:last-child { margin-bottom: 0; }
+
+  .people-list { list-style: none; padding: 0; margin: 0; }
+  .people-list li { padding: 10px 0; border-top: 1px solid var(--rule); }
+  .people-list li.first { border-top: 0; }
+
+  .coming-up-list { list-style: none; padding: 0; margin: 0; }
+  .coming-up-list li { display: flex; gap: 12px; padding: 8px 0; align-items: baseline; }
+  .coming-up-date {
+    font-family: var(--font-mono); font-size: 12.5px; color: var(--wire);
+    font-weight: 600; flex-shrink: 0; width: 92px;
+  }
+
+  .sources { font-size: 13.5px; color: var(--ink-soft); }
+  .sources ol { padding-left: 20px; margin: 0; }
+  .sources li { margin-bottom: 10px; word-break: break-word; }
+  .sources a { text-decoration: underline; text-underline-offset: 3px; }
+  .source-outlet { font-family: var(--font-mono); font-size: 11.5px; color: var(--ink-soft); }
+
+  .sample-note {
+    background: var(--slate-bg); color: var(--ink-soft);
+    font-family: var(--font-mono); font-size: 11.5px;
+    padding: 10px 14px; border-radius: 8px; margin-bottom: 26px; letter-spacing: 0.02em;
+  }
+
+  footer {
+    border-top: 1px solid var(--rule);
+    background: var(--card);
+    color: var(--ink-soft);
+    font-size: 12.5px;
+    line-height: 1.7;
+    margin-top: 28px;
+  }
+  .footer-inner {
+    max-width: 1180px; margin: 0 auto;
+    padding: 26px 40px 44px 40px;
+    display: flex; gap: 48px; align-items: flex-start;
+  }
+  .footer-col { flex: 1 1 0; min-width: 0; }
+  .footer-col strong { color: var(--ink); font-weight: 600; }
+
+  /* ---------------- narrow screens ---------------- */
+  @media (max-width: 860px) {
+    .burger { display: flex; }
+    .mast-name { font-size: 15.5px; line-height: 1.03; }
+    .mast-sub { font-size: 11px; margin-top: 2px; }
+    .masthead { padding: 9px 14px; gap: 10px; }
+    .controls { gap: 7px; }
+    .pill button { padding: 0 11px; height: 34px; font-size: 13.5px; }
+    .icon-btn { width: 34px; height: 34px; }
+    .icon-btn svg { width: 16px; height: 16px; }
+    .burger { width: 36px; height: 36px; }
+
+    .sidebar {
+      position: fixed; top: 0; left: 0; bottom: 0; z-index: 50;
+      width: 280px; max-width: 84vw;
+      background: var(--card);
+      border-right: 1px solid var(--rule);
+      overflow-y: auto;
+      transform: translateX(-100%);
+      padding: 20px 18px 40px 20px;
+    }
+    .sidebar.open { transform: translateX(0); }
+    @media (prefers-reduced-motion: no-preference) {
+      .sidebar { transition: transform 0.24s ease; }
+    }
+    .drawer-close {
+      display: flex; align-items: center; justify-content: center;
+      position: absolute; top: 14px; right: 14px;
+      width: 34px; height: 34px; border-radius: 999px;
+      border: 1px solid var(--rule); background: var(--paper);
+      color: var(--ink-soft); cursor: pointer; padding: 0; font-size: 17px;
+    }
+    main { padding: 24px 20px 50px 20px; }
+    h1.headline { font-size: 27px; }
+    .footer-inner {
+      flex-direction: column; gap: 14px;
+      padding: 22px 20px 40px 20px;
+    }
+  }
+  /* Narrowest phones: shave the title and controls a little further so the
+     masthead stays compact rather than growing to three stacked lines. */
+  @media (max-width: 380px) {
+    .mast-name { font-size: 14px; }
+    .mast-sub { font-size: 10.5px; }
+    .masthead { padding: 8px 12px; gap: 8px; }
+    .pill button { padding: 0 9px; font-size: 13px; }
+  }
+
+
+  /* Citations rendered as a group after a statement */
+  .cites a {
+    color: var(--ink-soft); text-decoration: none; font-weight: 600;
+    font-size: 0.85em;
+  }
+  .cites a:hover { text-decoration: underline; }
+  /* Sidebar is populated from manifest.json at load time */
+  .sidebar-status { font-size: 12.5px; color: var(--ink-soft); padding: 4px 10px; }
+  .sources li a { color: var(--ink); }
+  .coming-up-list li span:last-child { flex: 1; }
+
+  /* Regional grouping, used when both UK and Americas have content */
+  .region-head {
+    font-family: var(--font-display); font-weight: 800;
+    font-size: 13px; letter-spacing: 0.16em; text-transform: uppercase;
+    color: var(--card); background: var(--wire);
+    padding: 9px 26px; margin: 34px 0 4px 0;
+  }
+  .region-head:first-of-type { margin-top: 20px; }
+  .tag.region {
+    color: var(--ink-soft); background: transparent;
+    border: 1px solid var(--rule); margin-right: 6px;
+  }
+  @media (max-width: 860px) {
+    .region-head { padding: 9px 20px; }
+  }
+
+</style>
+</head>
+<body data-root="../" data-current="2026-10-26">
+
+<div class="masthead">
+  <button class="burger" aria-label="Previous editions" aria-expanded="false" aria-controls="editions" onclick="toggleNav()">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round">
+      <path d="M3 6h18M3 12h18M3 18h18"/>
+    </svg>
+  </button>
+
+  <span class="tally " aria-hidden="true"></span>
+
+  <a class="mast-title" href="../">
+    <span class="mast-name">Media &amp; Tech Digest</span>
+    <span class="mast-sub"><span class="sub-long">UK and Americas · Summarised with AI</span><span class="sub-short">Summarised with AI</span></span>
+  </a>
+
+  <div class="mast-spacer"></div>
+
+  <div class="controls">
+    <a class="icon-btn" href="../" title="Latest edition" aria-label="Go to the latest edition"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 10.5 12 3l9 7.5"/><path d="M5.5 9.5V20h13V9.5"/><path d="M9.75 20v-5.5h4.5V20"/></svg></a>
+    <div class="pill" role="group" aria-label="Reading mode">
+      <button id="modeStandard" class="active" onclick="setMode('standard')"
+              title="Standard reading" aria-label="Standard reading">A&#8722;</button>
+      <button id="modeEasy" onclick="setMode('easy')"
+              title="Easy read: larger text, more spacing, dyslexia-friendly typeface"
+              aria-label="Easy read: larger text, more spacing, dyslexia-friendly typeface">A&#43;</button>
+    </div>
+    <button class="icon-btn" onclick="toggleTheme()" aria-label="Switch between light and dark">
+      <svg class="icon-sun" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round">
+        <circle cx="12" cy="12" r="4"/>
+        <path d="M12 2.5v2M12 19.5v2M4.6 4.6l1.4 1.4M18 18l1.4 1.4M2.5 12h2M19.5 12h2M4.6 19.4L6 18M18 6l1.4-1.4"/>
+      </svg>
+      <svg class="icon-moon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M21 12.8A9 9 0 1 1 11.2 3a7 7 0 0 0 9.8 9.8z"/>
+      </svg>
+    </button>
+  </div>
+</div>
+
+<div class="scrim" id="scrim" onclick="closeNav()"></div>
+
+<div class="layout">
+
+  <aside class="sidebar" id="editions">
+    <button class="drawer-close" onclick="closeNav()" aria-label="Close previous editions">&#10005;</button>
+    <div class="sidebar-eyebrow">Previous editions</div>
+    <div id="editionList">
+      <div class="sidebar-status">Loading&hellip;</div>
+    </div>
+  </aside>
+
+  <main>
+    <div class="edition-head">
+      <div class="status-row"><span aria-hidden="true">&#9679;</span> Archived edition</div>
+      <h1 class="headline">Media giants face restructuring and regulatory scrutiny across North America and Britain</h1>
+      <div class="date-line">Monday 26 October 2026 · covering Thu 22 Oct to Sun 25 Oct</div>
+      <p class="lead">The BBC faces intense criticism over proposed service closures and job cuts as UK regulators acknowledge failures in online safety. Meanwhile, North American media firms report earnings and navigate major restructuring efforts alongside record lobbying spending by technology companies.</p>
+    </div>
+
+    <hr class="rule">
+
+    <section class="block">
+      <div class="block-title">At a glance</div>
+      
+        <div class="rundown-item">
+          <span class="rundown-num">01</span>
+          <div><span class="tag region">UK</span><span class="tag wire">Regulation</span>Television executives condemned proposed UK government plans for a YouTube tax to fund the BBC as institutional protectionism. <span class="cites"><a href="#ref1">[1]</a></span></div>
+        </div>
+        <div class="rundown-item">
+          <span class="rundown-num">02</span>
+          <div><span class="tag region">UK</span><span class="tag wire">Regulation</span>Media figures expressed dismay over BBC plans to close linear services for BBC Three, BBC Scotland and Radio 4 Extra. <span class="cites"><a href="#ref2">[2]</a></span></div>
+        </div>
+        <div class="rundown-item">
+          <span class="rundown-num">03</span>
+          <div><span class="tag region">UK</span><span class="tag wire">Regulation</span>BBC News is axing 100 jobs including its education editor role to deliver five million pounds in cost savings. <span class="cites"><a href="#ref3">[3]</a></span></div>
+        </div>
+        <div class="rundown-item">
+          <span class="rundown-num">04</span>
+          <div><span class="tag region">UK</span><span class="tag wire">Regulation</span>Ofcom admitted landmark online safety laws failed to reduce social media harm suffered by children in the UK. <span class="cites"><a href="#ref4">[4]</a></span></div>
+        </div>
+        <div class="rundown-item">
+          <span class="rundown-num">05</span>
+          <div><span class="tag region">UK</span><span class="tag wire">Regulation</span>A US judge ordered Donald Trump to sit for a deposition by December in his lawsuit against the BBC. <span class="cites"><a href="#ref5">[5]</a><a href="#ref6">[6]</a></span></div>
+        </div>
+        <div class="rundown-item">
+          <span class="rundown-num">06</span>
+          <div><span class="tag region">UK</span><span class="tag signal">Audience</span>Sky Sports launched a new social series named Minus 1 focused on the Women&#x27;s Super League. <span class="cites"><a href="#ref7">[7]</a></span></div>
+        </div>
+        <div class="rundown-item">
+          <span class="rundown-num">07</span>
+          <div><span class="tag region">UK</span><span class="tag signal">Audience</span>ITV commissioned new rugby digital series The Sidestep featuring Marcus Smith and Louis Rees-Zammit. <span class="cites"><a href="#ref8">[8]</a></span></div>
+        </div>
+        <div class="rundown-item">
+          <span class="rundown-num">08</span>
+          <div><span class="tag region">UK</span><span class="tag slate">Tech</span>Sky and BBC News automation project Sofie earned honours at the RTS Technology Awards 2026. <span class="cites"><a href="#ref9">[9]</a></span></div>
+        </div>
+        <div class="rundown-item">
+          <span class="rundown-num">09</span>
+          <div><span class="tag region">Americas</span><span class="tag signal">Results</span>Comcast&#x27;s Peacock posted its second consecutive profitable quarter with $261 million in pre-tax revenue. <span class="cites"><a href="#ref10">[10]</a><a href="#ref11">[11]</a><a href="#ref12">[12]</a><a href="#ref13">[13]</a></span></div>
+        </div>
+        <div class="rundown-item">
+          <span class="rundown-num">10</span>
+          <div><span class="tag region">Americas</span><span class="tag wire">Regulation</span>Nvidia, Anthropic and OpenAI spent record sums on federal lobbying between July and September. <span class="cites"><a href="#ref14">[14]</a></span></div>
+        </div>
+        <div class="rundown-item">
+          <span class="rundown-num">11</span>
+          <div><span class="tag region">Americas</span><span class="tag wire">Deals</span>John Malone said the Trump administration blocked Netflix&#x27;s proposed merger with Warner Bros. Discovery. <span class="cites"><a href="#ref15">[15]</a></span></div>
+        </div>
+        <div class="rundown-item">
+          <span class="rundown-num">12</span>
+          <div><span class="tag region">Americas</span><span class="tag wire">Regulation</span>Publishers and trade groups urged Meta to withdraw new terms allowing its AI to scrape news sites. <span class="cites"><a href="#ref16">[16]</a><a href="#ref17">[17]</a><a href="#ref18">[18]</a></span></div>
+        </div>
+        <div class="rundown-item">
+          <span class="rundown-num">13</span>
+          <div><span class="tag region">Americas</span><span class="tag wire">Deals</span>Rogers and Corus reached an agreement to end their carriage dispute. <span class="cites"><a href="#ref19">[19]</a></span></div>
+        </div>
+        <div class="rundown-item">
+          <span class="rundown-num">14</span>
+          <div><span class="tag region">Americas</span><span class="tag signal">Audience</span>ABC affiliates voiced concern over Disney distributing the Super Bowl across multiple digital platforms. <span class="cites"><a href="#ref20">[20]</a></span></div>
+        </div>
+        <div class="rundown-item">
+          <span class="rundown-num">15</span>
+          <div><span class="tag region">Americas</span><span class="tag slate">Tech</span>CBC/Radio-Canada selected Dalet Pyramid to modernize its news operations across Canada. <span class="cites"><a href="#ref21">[21]</a></span></div>
+        </div>
+    </section>
+
+    <div class="region-head">United Kingdom</div>
+    <section class="block">
+      <div class="block-title">Regulation &amp; policy</div>
+      <p>Media figures strongly criticised proposals to close linear services for BBC Three, BBC Scotland and Radio 4 Extra. Television executives also attacked potential UK government plans for a YouTube tax to fund the public broadcaster.</p><p>BBC News will eliminate 100 jobs to save five point five million pounds. The cuts include losing dedicated education and health editor positions, raising concerns among educational leaders about future sector scrutiny.</p><p>Regulator Ofcom admitted that UK online safety laws have failed to reduce social media harm among children during their first nine months. Separately, a US judge ordered Donald Trump to sit for a deposition by 11 December in his defamation lawsuit against the BBC.</p>
+    </section>
+    <section class="block">
+      <div class="block-title">Audience &amp; ratings</div>
+      <p>Commercial broadcaster ITV commissioned a sports focused digital series titled The Sidestep. The show is produced by BE Studio and stars British rugby players Marcus Smith and Louis Rees-Zammit.</p><p>Sky Sports launched Minus 1, a social content series focused on the Barclays Women&#x27;s Super League. The format pairs professional footballers with personalities from music, culture and sport.</p>
+    </section>
+    <section class="block">
+      <div class="block-title">Technology &amp; AI</div>
+      <p>Sky and BBC News received honours at the RTS Technology Awards 2026. Sky won recognition for its live HDR and Sky Glass technology, while BBC News won for its Sofie automation system.</p><p>Entries opened for the IBC2027 Accelerator Media Innovation Programme. Nine selected projects will present their concepts at the Kickstart Day hosted at the BBC Radio Theatre in London.</p>
+    </section>
+    <section class="block">
+      <div class="block-title">Radio &amp; audio</div>
+      <p>Classic FM announced the return of its Pet Classics strand for 2026. The station will expand the broadcast across three evenings, offering five hours of calming music each night.</p><p>BBC local news executive Kate Squire is leaving the corporation after almost 42 years leading northern news teams. Long serving presenter Susie Fowler-Watt is also departing the BBC after 35 years.</p>
+    </section>
+    <section class="block">
+      <div class="block-title">People moves</div>
+      <ul class="people-list"><li class="first">Kate Squire, Head of Local News across Northern England, BBC <span class="cites"><a href="#ref22">[22]</a></span></li><li>Susie Fowler-Watt, Presenter, BBC Look East <span class="cites"><a href="#ref23">[23]</a></span></li></ul>
+    </section>
+    <section class="block">
+      <div class="block-title">Coming up</div>
+      <ul class="coming-up-list"><li><span class="coming-up-date">25 Oct 2026</span><span>Sky Sports drops the first episode of Women&#x27;s Super League social series Minus 1 <span class="cites"><a href="#ref7">[7]</a></span></span></li><li><span class="coming-up-date">11 Dec 2026</span><span>Deadline for Donald Trump to sit for deposition in BBC defamation lawsuit <span class="cites"><a href="#ref5">[5]</a><a href="#ref6">[6]</a></span></span></li><li><span class="coming-up-date">18 Mar 2027</span><span>IBC2027 Accelerators Kickstart Day takes place at the BBC Radio Theatre in London <span class="cites"><a href="#ref32">[32]</a></span></span></li></ul>
+    </section>
+    <div class="region-head">United States &amp; Canada</div>
+    <section class="block">
+      <div class="block-title">Deals &amp; business</div>
+      <p>Media mogul John Malone stated that the Trump administration informed Netflix that an acquisition of Warner Bros. Discovery would face regulatory blocks. The decision prompted Netflix to withdraw, clearing the path for Paramount to buy the company.</p><p>In Canada, Rogers and Corus reached a deal to settle a carriage dispute that began in 2024. Rogers noted that CRTC fee rules had a significant impact on its quarterly revenue per user.</p>
+    </section>
+    <section class="block">
+      <div class="block-title">Results &amp; money</div>
+      <p>Comcast reported a strong quarter for NBCUniversal and its Peacock streaming service. Peacock delivered a pre-tax revenue profit of $261 million, marking its second consecutive profitable quarter.</p><p>However, Comcast continues to face challenges in its cable and media empire. Declines in broadband and video subscribers weigh down overall performance despite boosts from sporting events and box-office releases.</p>
+    </section>
+    <section class="block">
+      <div class="block-title">Regulation &amp; policy</div>
+      <p>Tech firms significantly increased spending on federal lobbying during the third quarter. Nvidia led AI lobbying expenditures with $2.2 million, followed by Anthropic at $2.1 million and OpenAI at $1.5 million.</p><p>News publishers are pushing back against Meta&#x27;s updated terms of service, which take effect on 30 October. The News/Media Alliance called on CEO Mark Zuckerberg to halt changes that permit AI scraping of news content.</p>
+    </section>
+    <section class="block">
+      <div class="block-title">Audience &amp; ratings</div>
+      <p>CBS recorded strong multiplatform ratings for its premiere week starting 4 October. The network averaged 8.63 million viewers, representing a 14% increase compared to its 2025 premiere week.</p><p>ABC broadcast affiliates expressed frustration over Disney&#x27;s multiplatform Super Bowl plans. Affiliates warned that streaming on platforms like Disney+ and ESPN2 could reduce broadcast advertising revenue by up to 35%.</p>
+    </section>
+    <section class="block">
+      <div class="block-title">Technology &amp; AI</div>
+      <p>CBC/Radio-Canada partnered with Dalet to modernise its newsrooms across Canada. The broadcaster will implement Dalet Pyramid to support digital-first news operations.</p><p>Roku released its Pro Series LX OLED TVs on Amazon in 55-inch and 65-inch models. Meanwhile, Samsung began selling certified renewed smartphones on Amazon with a one-year warranty.</p>
+    </section>
+    <section class="block">
+      <div class="block-title">People moves</div>
+      <ul class="people-list"><li class="first">Jane Wiseman, Head of Originals at Paramount+, leaving the organisation <span class="cites"><a href="#ref24">[24]</a><a href="#ref25">[25]</a><a href="#ref26">[26]</a></span></li><li>Christiane Amanpour, leaving role at CNN in 2027 <span class="cites"><a href="#ref27">[27]</a></span></li><li>Bianna Golodryga, leaving CNN and in talks for roles at Politico and CBS News <span class="cites"><a href="#ref27">[27]</a><a href="#ref28">[28]</a></span></li><li>Jon Tower, named Executive Producer at CBS Mornings <span class="cites"><a href="#ref29">[29]</a></span></li><li>JJ Watt, named lead game analyst for NFL on CBS <span class="cites"><a href="#ref30">[30]</a></span></li><li>Kelly McBride, stepping down as Public Editor at NPR at the end of the year <span class="cites"><a href="#ref31">[31]</a></span></li></ul>
+    </section>
+    <section class="block">
+      <div class="block-title">Coming up</div>
+      <ul class="coming-up-list"><li><span class="coming-up-date">30 Oct 2026</span><span>Meta&#x27;s new commercial terms of service come into effect <span class="cites"><a href="#ref17">[17]</a></span></span></li><li><span class="coming-up-date">11 Dec 2026</span><span>Deadline for Donald Trump to sit for a deposition in his BBC defamation lawsuit <span class="cites"><a href="#ref33">[33]</a></span></span></li><li><span class="coming-up-date">18 Dec 2026</span><span>Discovery period deadline in Donald Trump&#x27;s defamation lawsuit against the BBC <span class="cites"><a href="#ref33">[33]</a></span></span></li><li><span class="coming-up-date">Jan 2027</span><span>BBC merges TV and audio commissioning teams across select genres <span class="cites"><a href="#ref34">[34]</a></span></span></li></ul>
+    </section>
+    <hr class="rule">
+
+    <section class="block sources">
+      <div class="block-title">Sources</div>
+      <ol><li id="ref1"><a href="https://www.c21media.net/news/politicians-and-tv-execs-blast-uk-governments-mooted-youtube-tax-to-fund-bbc/" rel="noopener">Politicians and TV execs blast UK government’s mooted ‘YouTube tax’ to fund BBC</a><br><span class="source-outlet">C21Media &middot; UK</span></li><li id="ref2"><a href="https://www.c21media.net/news/bbc-channel-closures-slammed-as-act-of-mindless-vandalism-as-media-figures-react/" rel="noopener">BBC channel closures slammed as ‘act of mindless vandalism’ as media figures react</a><br><span class="source-outlet">C21Media &middot; UK</span></li><li id="ref3"><a href="https://www.theguardian.com/media/2026/oct/22/bbc-news-to-axe-education-editor-role-in-cost-cutting-move" rel="noopener">BBC News to axe education editor role in cost-cutting move</a><br><span class="source-outlet">Guardian Media &middot; UK</span></li><li id="ref4"><a href="https://www.theguardian.com/society/2026/oct/23/uk-children-just-as-likely-to-have-suffered-harm-on-social-media-despite-crackdown-ofcom-online-safety-act" rel="noopener">Online safety laws have failed to protect children in UK, Ofcom admits</a><br><span class="source-outlet">Guardian Media &middot; UK</span></li><li id="ref5"><a href="https://www.advanced-television.com/2026/10/23/judge-orders-trump-deposition-in-bbc-case/" rel="noopener">Judge orders Trump deposition in BBC case</a><br><span class="source-outlet">Advanced Television &middot; UK</span></li><li id="ref6"><a href="https://www.theguardian.com/us-news/2026/oct/22/trump-bbc-lawsuit-deposition-discovery" rel="noopener">US judge orders Trump to sit for deposition in $10bn lawsuit against BBC</a><br><span class="source-outlet">Guardian Media &middot; UK</span></li><li id="ref7"><a href="https://www.advanced-television.com/2026/10/23/sky-sports-launches-minus-1-wsl-social-series/" rel="noopener">Sky Sports launches Minus 1 WSL social series</a><br><span class="source-outlet">Advanced Television &middot; UK</span></li><li id="ref8"><a href="https://www.c21media.net/news/itv-tackles-rugby-with-digital-series-the-sidestep/" rel="noopener">ITV tackles rugby with digital series The Sidestep</a><br><span class="source-outlet">C21Media &middot; UK</span></li><li id="ref9"><a href="https://www.broadbandtvnews.com/2026/10/23/sky-bbc-news-automation-and-newsmax-ukraine-recognised-at-rts-technology-awards/" rel="noopener">Sky, BBC News automation and Newsmax Ukraine recognised at RTS Technology Awards</a><br><span class="source-outlet">Broadband TV News &middot; UK</span></li><li id="ref10"><a href="https://variety.com/2026/tv/news/comcast-q3-boosted-fifa-world-cup-odyssey-revenue-downturn-1236919567/" rel="noopener">Comcast Q3 Sees Continued Broadband Downturn, Despite Boosts From World Cup, Peacock</a><br><span class="source-outlet">Variety &middot; Americas</span></li><li id="ref11"><a href="https://www.cynopsis.com/10-23-2026-nbcuniversal-is-doing-great-comcast-not-so-much/" rel="noopener">10/23/2026: NBCUniversal Is Doing Great – Comcast, Not So Much</a><br><span class="source-outlet">Cynopsis &middot; Americas</span></li><li id="ref12"><a href="https://www.hollywoodreporter.com/business/business-news/nbcuniversals-peacock-1236738039/" rel="noopener">NBCUniversal’s Peacock Posts Second Consecutive Profit in Third Quarter</a><br><span class="source-outlet">Hollywood Reporter &middot; Americas</span></li><li id="ref13"><a href="https://www.thewrap.com/industry-news/business/comcast-earnings-q3-2026/" rel="noopener">Peacock Delivers 2nd Consecutive Quarterly Profit of $261 Million in Q3</a><br><span class="source-outlet">The Wrap &middot; Americas</span></li><li id="ref14"><a href="https://www.theverge.com/policy/1016585/openai-anthropic-nvidia-lobbying-records" rel="noopener">OpenAI, Anthropic, and Nvidia had record lobbying quarters</a><br><span class="source-outlet">The Verge &middot; Americas</span></li><li id="ref15"><a href="https://tvnewscheck.com/business/article/john-malone-says-trump-administration-told-netflix-they-had-no-chance-of-getting-regulatory-greenlight-for-merger-with-wbd/" rel="noopener">John Malone Says Trump Administration Told Netflix They Had ‘No Chance’ Of Getting Regulatory Greenlight For Merger With WBD</a><br><span class="source-outlet">TVNewsCheck &middot; Americas</span></li><li id="ref16"><a href="https://www.theverge.com/tech/1017082/meta-terms-update-ai-training-concerns" rel="noopener">Meta’s AI could still scrape news sites, legal experts say</a><br><span class="source-outlet">The Verge &middot; Americas</span></li><li id="ref17"><a href="https://www.niemanlab.org/2026/10/publishers-pressure-meta-to-nix-new-terms-that-would-let-it-scrape-their-websites/" rel="noopener">Publishers pressure Meta to nix new terms that would let the company scrape their websites</a><br><span class="source-outlet">Nieman Lab &middot; Americas</span></li><li id="ref18"><a href="https://digiday.com/media/metas-new-scraping-terms-galvanize-publishers-into-collective-action/?utm_campaign=digidaydis&amp;utm_medium=rss&amp;utm_source=general-rss" rel="noopener">Meta’s new scraping terms galvanize publishers into collective action</a><br><span class="source-outlet">Digiday &middot; Americas</span></li><li id="ref19"><a href="https://playbackonline.ca/2026/10/22/rogers-corus-reach-deal-to-end-carriage-dispute/" rel="noopener">Rogers, Corus reach deal to end carriage dispute</a><br><span class="source-outlet">Playback &middot; Americas</span></li><li id="ref20"><a href="https://tvnewscheck.com/business/article/disneys-multiplatform-super-bowl-plan-frustrates-abc-affiliates/" rel="noopener">Disney’s Multiplatform Super Bowl Plan Frustrates ABC Affiliates</a><br><span class="source-outlet">TVNewsCheck &middot; Americas</span></li><li id="ref21"><a href="https://tvnewscheck.com/tech/article/cbc-radio-canada-turns-to-dalet-for-news-transformation/" rel="noopener">CBC/Radio-Canada Turns To Dalet For News Transformation</a><br><span class="source-outlet">TVNewsCheck &middot; Americas</span></li><li id="ref22"><a href="https://radiotoday.co.uk/2026/10/kate-squire-to-leave-bbc-after-almost-42-years/" rel="noopener">Kate Squire to leave BBC after almost 42 years</a><br><span class="source-outlet">RadioToday &middot; UK</span></li><li id="ref23"><a href="https://radiotoday.co.uk/2026/10/susie-fowler-watt-to-leave-bbc-after-35-years/" rel="noopener">Susie Fowler-Watt to leave BBC after 35 years</a><br><span class="source-outlet">RadioToday &middot; UK</span></li><li id="ref24"><a href="https://tvnewscheck.com/programming/article/paramount-head-of-originals-jane-wiseman-leaving/" rel="noopener">Paramount+ Head Of Originals Jane Wiseman Leaving</a><br><span class="source-outlet">TVNewsCheck &middot; Americas</span></li><li id="ref25"><a href="https://www.thewrap.com/culture-lifestyle/culture/paramount-plus-originals-head-jane-wiseman-exit/" rel="noopener">Paramount+ Originals Head Jane Wiseman to Exit as Casey Bloys Restructures Skydance DTC Leadership</a><br><span class="source-outlet">The Wrap &middot; Americas</span></li><li id="ref26"><a href="https://www.hollywoodreporter.com/business/business-news/jane-wiseman-leaving-paramount-plus-head-of-originals-1236739081/" rel="noopener">Paramount+ Head of Originals Jane Wiseman Exits as Skydance Streaming Announces New Structure</a><br><span class="source-outlet">Hollywood Reporter &middot; Americas</span></li><li id="ref27"><a href="https://www.adweek.com/tvnewser/ticker-christiane-amanpour-to-exit-from-cnn-in-2027/" rel="noopener">Ticker: Christiane Amanpour to Exit From CNN in 2027</a><br><span class="source-outlet">Adweek &middot; Americas</span></li><li id="ref28"><a href="https://tvnewscheck.com/journalism/article/bianna-golodryga-in-talks-for-new-roles-at-politico-cbs-news/" rel="noopener">Bianna Golodryga In Talks For New Roles At Politico, CBS News</a><br><span class="source-outlet">TVNewsCheck &middot; Americas</span></li><li id="ref29"><a href="https://tvnewscheck.com/journalism/article/jon-tower-takes-executive-producer-role-at-revamped-cbs-mornings/" rel="noopener">Jon Tower Takes Executive Producer Role At Revamped ‘CBS Mornings’</a><br><span class="source-outlet">TVNewsCheck &middot; Americas</span></li><li id="ref30"><a href="https://tvnewscheck.com/people/article/jj-watt-permanently-replaces-tony-romo-as-top-game-analyst-for-nfl-on-cbs/" rel="noopener">JJ Watt Permanently Replaces Tony Romo As Top Game Analyst For NFL On CBS</a><br><span class="source-outlet">TVNewsCheck &middot; Americas</span></li><li id="ref31"><a href="https://tvnewscheck.com/journalism/article/npr-to-move-public-editor-partnership-to-university-of-maryland/" rel="noopener">NPR To Move Public Editor Partnership To University Of Maryland</a><br><span class="source-outlet">TVNewsCheck &middot; Americas</span></li><li id="ref32"><a href="https://www.tvbeurope.com/business/were-looking-for-fresh-ideas-that-push-the-boundaries-of-innovation-entries-open-for-ibc2027-accelerators" rel="noopener">‘We’re looking for fresh ideas that push the boundaries of innovation’: Entries open for IBC2027 Accelerators</a><br><span class="source-outlet">TVBEurope &middot; UK</span></li><li id="ref33"><a href="https://tvnewscheck.com/regulation/article/judge-orders-trump-to-sit-for-deposition-in-his-defamation-lawsuit-against-the-bbc/" rel="noopener">Judge Orders Trump To Sit For Deposition In His Defamation Lawsuit Against The BBC</a><br><span class="source-outlet">TVNewsCheck &middot; Americas</span></li><li id="ref34"><a href="https://tvnewscheck.com/business/article/bbc-merges-tv-audio-commissioning-teams-amid-plan-to-cut-100-content-roles/" rel="noopener">BBC Merges TV &amp; Audio Commissioning Teams Amid Plan To Cut 100 Content Roles</a><br><span class="source-outlet">TVNewsCheck &middot; Americas</span></li></ol>
+    </section>
+  </main>
+</div>
+
+<footer>
+  <div class="footer-inner">
+    <div class="footer-col">
+      <strong>An independent personal project.</strong> Not affiliated with, endorsed by,
+      or representing any employer. Built and maintained in a personal capacity.
+      <br><br>Built from 34 cited articles across 16 outlets. Written by gemini-3.1-flash-lite, gemini-3.5-flash.
+    </div>
+    <div class="footer-col">
+      <strong>Every summary here is generated by AI</strong> from the linked sources, and
+      may contain errors or omissions. Follow the links for the full stories, and check
+      other reputable outlets before relying on anything you read here.
+    </div>
+  </div>
+</footer>
+
+<script>
+  var root = document.body.getAttribute('data-root') || '';
+  var currentIso = document.body.getAttribute('data-current') || '';
+
+  /* ---- reading preferences, remembered between visits ---- */
+  function setMode(mode, remember) {
+    document.documentElement.setAttribute('data-mode', mode);
+    document.getElementById('modeStandard').classList.toggle('active', mode === 'standard');
+    document.getElementById('modeEasy').classList.toggle('active', mode === 'easy');
+    if (remember !== false) {
+      try { localStorage.setItem('digest-mode', mode); } catch (e) {}
+    }
+  }
+  function applyTheme(theme, remember) {
+    document.documentElement.setAttribute('data-theme', theme);
+    // Keep the phone's browser chrome in step with the chosen theme,
+    // otherwise a dark page sits under a light status bar.
+    var meta = document.querySelector('meta[name="theme-color"]');
+    if (meta) meta.setAttribute('content', theme === 'dark' ? '#10151A' : '#F7F8F3');
+    if (remember !== false) {
+      try { localStorage.setItem('digest-theme', theme); } catch (e) {}
+    }
+  }
+  function toggleTheme() {
+    var now = document.documentElement.getAttribute('data-theme');
+    applyTheme(now === 'dark' ? 'light' : 'dark');
+  }
+  (function restore() {
+    var mode = null, theme = null;
+    try {
+      mode = localStorage.getItem('digest-mode');
+      theme = localStorage.getItem('digest-theme');
+    } catch (e) {}
+    if (mode) setMode(mode, false);
+    if (theme) {
+      applyTheme(theme, false);
+    } else if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) {
+      applyTheme('dark', false);
+    }
+  })();
+
+  /* ---- mobile drawer ---- */
+  function openNav() {
+    document.getElementById('editions').classList.add('open');
+    document.getElementById('scrim').classList.add('open');
+    document.querySelector('.burger').setAttribute('aria-expanded', 'true');
+  }
+  function closeNav() {
+    document.getElementById('editions').classList.remove('open');
+    document.getElementById('scrim').classList.remove('open');
+    document.querySelector('.burger').setAttribute('aria-expanded', 'false');
+  }
+  function toggleNav() {
+    document.getElementById('editions').classList.contains('open') ? closeNav() : openNav();
+  }
+  document.addEventListener('keydown', function (e) {
+    if (e.key === 'Escape') closeNav();
+  });
+
+  /* ---- sidebar, built from manifest.json ---- */
+  function escapeHtml(s) {
+    return String(s == null ? '' : s)
+      .replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;')
+      .replace(/"/g, '&quot;');
+  }
+
+  fetch(root + 'manifest.json', { cache: 'no-cache' })
+    .then(function (r) {
+      if (!r.ok) throw new Error('manifest ' + r.status);
+      return r.json();
+    })
+    .then(function (editions) {
+      var target = document.getElementById('editionList');
+      if (!editions.length) {
+        target.innerHTML = '<div class="sidebar-status">No editions yet.</div>';
+        return;
+      }
+      var html = '';
+      var lastMonth = null;
+      var first = true;
+      editions.forEach(function (ed) {
+        if (ed.month !== lastMonth) {
+          html += '<div class="month-label' + (first ? ' first' : '') + '">'
+                + escapeHtml(ed.month) + '</div>';
+          lastMonth = ed.month;
+          first = false;
+        }
+        var isCurrent = ed.iso === currentIso;
+        html += '<a class="epg-item' + (isCurrent ? ' current' : '') + '" href="'
+              + escapeHtml(root + ed.path) + '">'
+              + '<div class="epg-date">' + escapeHtml(ed.label) + '</div>'
+              + '<div class="epg-teaser">' + escapeHtml(ed.teaser || ed.headline) + '</div>'
+              + '</a>';
+      });
+      target.innerHTML = html;
+      target.querySelectorAll('.epg-item').forEach(function (a) {
+        a.addEventListener('click', closeNav);
+      });
+    })
+    .catch(function (err) {
+      document.getElementById('editionList').innerHTML =
+        '<div class="sidebar-status">Couldn\'t load previous editions.</div>';
+      console.error(err);
+    });
+</script>
+
+</body>
+</html>
