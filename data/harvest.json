@@ -1,9 +1,639 @@
 {
- "updated": "2026-10-29T20:35:13+00:00",
+ "updated": "2026-10-30T01:20:55+00:00",
  "items": [
+  {
+   "key": "youdontneedtobelieveinagodtogetareligiousexemptionfromusingaiatwork",
+   "title": "You don’t need to believe in a god to get a religious exemption from using AI at work",
+   "summary": "David Durman, a University of Kentucky administrator, recently earned a religious exemption from using AI in the workplace.",
+   "link": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/",
+   "outlet": "TechCrunch",
+   "feed_region": "global",
+   "published": "2026-10-30T01:20:48+00:00"
+  },
+  {
+   "key": "cryptogiantbinancefreezes25bnofassetsoversuspectedhack",
+   "title": "Crypto giant Binance freezes $2.5bn of assets over suspected hack",
+   "summary": "The firm said transactions are suspended while it conducts security checks and will \"cover all losses\".",
+   "link": "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss",
+   "outlet": "BBC Technology",
+   "feed_region": "uk",
+   "published": "2026-10-30T01:11:02+00:00"
+  },
+  {
+   "key": "beefactorjustinhminsjourneytherehongsangsooslocarnowinnernowheretolaym",
+   "title": "‘Beef’ Actor Justin H. Min’s ‘Journey There,’ Hong Sangsoo’s Locarno Winner ‘Nowhere to Lay My Eyes’ Rack Up International Sales for Finecut",
+   "summary": "Hong Sangsoo’s “Nowhere to Lay My Eyes,” a triple prizewinner at the 79th Locarno Film Festival, and Kim Jin-yu’s “Journey There,” the first Korean production to star “Beef” actor Justin H. Min, have picked up a new batch of territory deals through Seoul-based sales outfit Finecut. For “Nowhere to Lay My Eyes,”...",
+   "link": "https://variety.com/2026/film/news/beef-actor-justin-h-min-journey-there-hong-sangsoo-film-sales-1236934722/",
+   "outlet": "Variety",
+   "feed_region": "americas",
+   "published": "2026-10-30T01:06:54+00:00"
+  },
+  {
+   "key": "currybarkerreturnstohisyoutubehorrorrootswithmamabearamidobsessionsucc",
+   "title": "Curry Barker Returns to His YouTube Horror Roots With ‘Mama Bear’ Amid ‘Obsession’ Success",
+   "summary": "The filmmaker's five-minute short reunited him with 'Obsession' costume designer Blair James, who tells The Hollywood Reporter the project was filmed just three and a half weeks before its release.",
+   "link": "https://www.hollywoodreporter.com/movies/movie-news/curry-barker-youtube-horror-roots-mama-bear-obsession-1236742675/",
+   "outlet": "Hollywood Reporter",
+   "feed_region": "americas",
+   "published": "2026-10-30T01:01:13+00:00"
+  },
+  {
+   "key": "eternallyyoursallegraedwardsbreaksdownthathalloweenepisodewhatsnextaft",
+   "title": "‘Eternally Yours’: Allegra Edwards Breaks Down That Halloween Episode, What’s Next After Liz and Charles’ Rekindling",
+   "summary": "\"That to me bodes very, very well,\" the actress tells TheWrap The post ‘Eternally Yours’: Allegra Edwards Breaks Down That Halloween Episode, What’s Next After Liz and Charles’ Rekindling appeared first on TheWrap .",
+   "link": "https://www.thewrap.com/creative-content/tv-shows/eternally-yours-halloween-episode-allegra-edwards-interview/",
+   "outlet": "The Wrap",
+   "feed_region": "americas",
+   "published": "2026-10-30T01:00:00+00:00"
+  },
+  {
+   "key": "ianmckellenpaystributetopatrickstewartamantorelyonadmireandinmycaselov",
+   "title": "Ian McKellen Pays Tribute to Patrick Stewart: “A Man to Rely on, Admire and in My Case, Love”",
+   "summary": "McKellen and Stewart led the original 'X-Men' franchise for 20th Century Fox, portraying Magneto/Erik Lehnsherr and Professor Charles Xavier, respectively.",
+   "link": "https://www.hollywoodreporter.com/movies/movie-news/patrick-stewart-ian-mckellen-tribute-1236743258/",
+   "outlet": "Hollywood Reporter",
+   "feed_region": "americas",
+   "published": "2026-10-30T00:54:30+00:00"
+  },
+  {
+   "key": "megynkellysaysdanabashlookssostupidafteralaskademocratsdansullivanscam",
+   "title": "Megyn Kelly Says Dana Bash ‘Looks So Stupid’ After Alaska Democrats’ Dan Sullivan Scam",
+   "summary": "The CNN anchor butt heads with Attorney General Todd Blanche over the White House's lawsuit against Alaskan Democrats The post Megyn Kelly Says Dana Bash ‘Looks So Stupid’ After Alaska Democrats’ Dan Sullivan Scam appeared first on TheWrap .",
+   "link": "https://www.thewrap.com/creative-content/tv-shows/megyn-kelly-dana-bash-alaska-democrats-dan-sullivan-scam/",
+   "outlet": "The Wrap",
+   "feed_region": "americas",
+   "published": "2026-10-30T00:51:43+00:00"
+  },
+  {
+   "key": "madmencreatormatthewweinerexitseddiemurphyledthechairmanduetocreatived",
+   "title": "‘Mad Men’ Creator Matthew Weiner Exits Eddie Murphy-Led ‘The Chairman’ Due to Creative Differences",
+   "summary": "New leadership is already in place for the 101 Studios and Universal Television-produced series in development at Peacock The post ‘Mad Men’ Creator Matthew Weiner Exits Eddie Murphy-Led ‘The Chairman’ Due to Creative Differences appeared first on TheWrap .",
+   "link": "https://www.thewrap.com/media-platforms/tv/mad-men-creator-matthew-weiner-exits-the-chairman-peacock-eddie-murphy/",
+   "outlet": "The Wrap",
+   "feed_region": "americas",
+   "published": "2026-10-30T00:47:06+00:00"
+  },
+  {
+   "key": "ianmckellenremembersbelovedfriendpatrickstewartworehisheartonhissleeve",
+   "title": "Ian McKellen Remembers Beloved Friend Patrick Stewart: ‘Wore His Heart on His Sleeve’",
+   "summary": "The actor says his \"X-Men\" co-star was \"a man to rely on, to admire and in my case, love\" The post Ian McKellen Remembers Beloved Friend Patrick Stewart: ‘Wore His Heart on His Sleeve’ appeared first on TheWrap .",
+   "link": "https://www.thewrap.com/creative-content/movies/ian-mckellen-remembers-patrick-stewart/",
+   "outlet": "The Wrap",
+   "feed_region": "americas",
+   "published": "2026-10-30T00:43:30+00:00"
+  },
+  {
+   "key": "hereswhyyoureabouttoseemoreadsingooglesaioverviews",
+   "title": "Here’s Why You’re About to See More Ads in Google’s AI Overviews",
+   "summary": "With Google now injecting “sponsored” links directly into AI follow-up queries, traffic to online publishers will suffer even more.",
+   "link": "https://www.cnet.com/tech/services-and-software/google-expands-advertising-ai-mode-overviews/",
+   "outlet": "CNET News",
+   "feed_region": "global",
+   "published": "2026-10-30T00:43:22+00:00"
+  },
+  {
+   "key": "rememberpatrickstewartbystreamingstartrekxmenandothergenredefiningrole",
+   "title": "Remember Patrick Stewart by Streaming Star Trek, X-Men and Other Genre-Defining Roles",
+   "summary": "Celebrate the life of Patrick Stewart through his iconic roles in TV and movies.",
+   "link": "https://www.cnet.com/tech/services-and-software/where-to-stream-patrick-stewart-star-trek-x-men/",
+   "outlet": "CNET News",
+   "feed_region": "global",
+   "published": "2026-10-30T00:36:58+00:00"
+  },
+  {
+   "key": "ianmckellenpaystributetoclosefriendpatrickstewartheworehisheartonhissl",
+   "title": "Ian McKellen Pays Tribute to Close Friend Patrick Stewart: ‘He Wore His Heart on His Sleeve’",
+   "summary": "Ian McKellen wrote a moving tribute to Patrick Stewart, his close friend of many years, following his death Thursday at age 86 after suffering from Alzheimer’s and Lewy Body Dementia. “Before everything else, Patrick was defined by being born and bred in Yorkshire, the proud county in the north of England which he...",
+   "link": "https://variety.com/2026/film/news/ian-mckellen-patrick-stewart-tribute-1236934477/",
+   "outlet": "Variety",
+   "feed_region": "americas",
+   "published": "2026-10-30T00:35:36+00:00"
+  },
+  {
+   "key": "patrickstewartrosefromobscuritytoboldlyandbaldlygowherenoyorkshiremanh",
+   "title": "Patrick Stewart Rose From Obscurity to Boldly (and Baldly) Go Where No Yorkshireman Had Gone Before",
+   "summary": "Sir Pat Stew's collaborator on his 2023 memoir, 'Making It So,' retraces the late actor's unlikely second act, plucked from the Shakespearean stage and placed at the helm 'USS Enterprise' — and a nonpareil Hollywood career.",
+   "link": "https://www.hollywoodreporter.com/movies/movie-features/patrick-stewart-shakespeare-star-trek-make-it-so-memoir-1236743227/",
+   "outlet": "Hollywood Reporter",
+   "feed_region": "americas",
+   "published": "2026-10-30T00:22:36+00:00"
+  },
+  {
+   "key": "patrickstewartspenthiscareerleadingusforwardappreciation",
+   "title": "Patrick Stewart Spent His Career Leading Us Forward | Appreciation",
+   "summary": "As the captain of the Starship Enterprise, the leader of a school for gifted youngsters or the wise sage in a flock of sheep, he was always there — until he wasn’t The post Patrick Stewart Spent His Career Leading Us Forward | Appreciation appeared first on TheWrap .",
+   "link": "https://www.thewrap.com/creative-content/movies/patrick-stewart-retrospective-star-trek-x-men-green-room/",
+   "outlet": "The Wrap",
+   "feed_region": "americas",
+   "published": "2026-10-30T00:22:15+00:00"
+  },
+  {
+   "key": "californiabeginsdiscussiononunlimitedfilmincentivesthatisaheavylift",
+   "title": "California Begins Discussion on Unlimited Film Incentives: ‘That Is a Heavy Lift’",
+   "summary": "California lawmakers began a discussion Thursday about removing the cap on the state’s $750 million incentive for film and TV production, while acknowledging that such a move would face budget hurdles. At an Assembly committee hearing in North Hollywood, a handful of state lawmakers heard testimony from union...",
+   "link": "https://variety.com/2026/film/news/california-film-incentives-unlimited-1236934661/",
+   "outlet": "Variety",
+   "feed_region": "americas",
+   "published": "2026-10-30T00:16:35+00:00"
+  },
+  {
+   "key": "matthewweinerexitspeacock101studiosseriesthechairmanstarringeddiemurph",
+   "title": "Matthew Weiner Exits Peacock, 101 Studios Series ‘The Chairman’ Starring Eddie Murphy (EXCLUSIVE)",
+   "summary": "Matthew Weiner is no longer involved with the drama series “The Chairman” that is currently in development at Peacock, Variety has learned exclusively from sources. The project was first reported to be in the works at the streamer less than a month ago, with Eddie Murphy attached to star. According to sources,...",
+   "link": "https://variety.com/2026/tv/news/matthew-weiner-peacock-101-studios-chairman-eddie-murphy-1236934392/",
+   "outlet": "Variety",
+   "feed_region": "americas",
+   "published": "2026-10-30T00:15:00+00:00"
+  },
+  {
+   "key": "spainlineartvleadstheratings",
+   "title": "Spain: Linear TV leads the ratings",
+   "summary": "Linear TV continues to play a central role in Spain’s TV market, retaining a substantial share of viewing time, while pay-TV services account for almost one-third of total TV consumption. According to Barlovento Comunicación’s September 2026 audiovisual consumption report, adults aged 18 and over spent an average...",
+   "link": "https://www.advanced-television.com/2026/10/30/spain-linear-tv-leads-the-ratings/",
+   "outlet": "Advanced Television",
+   "feed_region": "uk",
+   "published": "2026-10-30T00:01:31+00:00"
+  },
+  {
+   "key": "dynamictelevisionnzonairskynzlaunchscriptedseriesinitiative",
+   "title": "Dynamic Television, NZ On Air, Sky NZ launch scripted series initiative",
+   "summary": "Dynamic Television has partnered with Sky New Zealand and NZ On Air to launch the Aotearoa Scripted Series Initiative, supporting the development of up to three original New Zealand drama series for domestic and international audiences. The initiative will offer development funding of up to NZ$75,000 (€37,820) per...",
+   "link": "https://www.advanced-television.com/2026/10/30/dynamic-television-nz-on-air-sky-nz-launch-scripted-series-initiative/",
+   "outlet": "Advanced Television",
+   "feed_region": "uk",
+   "published": "2026-10-30T00:00:47+00:00"
+  },
+  {
+   "key": "fromworkshopstothecatwalkwhymendedclothesaregoingmainstream",
+   "title": "From workshops to the catwalk - why mended clothes are going mainstream",
+   "summary": "A new generation is embracing eye-catching patching and visible mends.",
+   "link": "https://www.bbc.co.uk/news/articles/cmwy9qe5r1z3o?at_medium=RSS&at_campaign=rss",
+   "outlet": "BBC Business",
+   "feed_region": "uk",
+   "published": "2026-10-30T00:00:35+00:00"
+  },
+  {
+   "key": "jetexcellenceequipscitationxaircraftwithgogoconnectivity",
+   "title": "Jet Excellence equips Citation X aircraft with Gogo connectivity",
+   "summary": "Gogo has announced that Jet Excellence, the US-based charter operator, will equip its fleet of Cessna Citation X aircraft with the Gogo Galileo HDX connectivity system. Jet Excellence is also taking advantage of Gogo’s flexible financing solution, helping the operator manage the cost of upgrading all of its...",
+   "link": "https://www.advanced-television.com/2026/10/30/jet-excellence-equips-citation-x-aircraft-with-gogo-connectivity/",
+   "outlet": "Advanced Television",
+   "feed_region": "uk",
+   "published": "2026-10-30T00:00:21+00:00"
+  },
+  {
+   "key": "fccspectrumauctionboostford2d5ginus",
+   "title": "FCC spectrum auction boost for D2D, 5G in US",
+   "summary": "The Federal Communications Commission (FCC) has proposed a new spectrum auction which it suggests will supercharge wireless competition in the US. This auction would put 25 megahertz of prime, mid-band spectrum in the 1675-1695 MHz and 2020-2025 MHz bands up for auction. Ths auction would harness this spectrum for...",
+   "link": "https://www.advanced-television.com/2026/10/30/294965/",
+   "outlet": "Advanced Television",
+   "feed_region": "uk",
+   "published": "2026-10-30T00:00:19+00:00"
+  },
+  {
+   "key": "tokyofinecutinksdealsforjustinhminsjourneytherehongsangsoosnowheretola",
+   "title": "Tokyo: Finecut Inks Deals for Justin H. Min’s ‘Journey There,’ Hong Sangsoo’s ‘Nowhere to Lay My Eyes’",
+   "summary": "Hong’s Locarno winner added buyers in France, Japan, Argentina and Portugal, while Min’s first Korean production secured deals across Asia.",
+   "link": "https://www.hollywoodreporter.com/movies/movie-news/tokyo-finecut-inks-deals-justin-min-journey-there-hong-sangsoo-nowhere-to-lay-my-eyes-1236742357/",
+   "outlet": "Hollywood Reporter",
+   "feed_region": "americas",
+   "published": "2026-10-30T00:00:00+00:00"
+  },
+  {
+   "key": "thedirectorofobsessionputanewhorrorshortonyoutube",
+   "title": "The director of Obsession put a new horror short on YouTube",
+   "summary": "Curry Barker, the director behind the hit horror film Obsession, just published a new horror short on YouTube. The short, titled \"Mama Bear,\" is nearly five minutes long. The video is pretty unnerving, and fair warning that it gets a little graphic, but it's a fun one to watch if you're looking for something scary […]",
+   "link": "https://www.theverge.com/streaming/1022934/curry-barker-obsession-horror-short-youtube-mama-bear",
+   "outlet": "The Verge",
+   "feed_region": "global",
+   "published": "2026-10-29T23:57:18+00:00"
+  },
+  {
+   "key": "luxuryfashionslaseasonmeetskimkardashiansnewpartnership",
+   "title": "Luxury Fashion’s LA Season Meets Kim Kardashian’s New Partnership",
+   "summary": "WrapStyle: Plus, an afternoon of fashion, philanthropy and wine with Simkhai and Frank Family Vineyards in Napa Valley The post Luxury Fashion’s LA Season Meets Kim Kardashian’s New Partnership appeared first on TheWrap .",
+   "link": "https://www.thewrap.com/culture-lifestyle/fashion/wrapstyle-kim-kardashian-law-roach/",
+   "outlet": "The Wrap",
+   "feed_region": "americas",
+   "published": "2026-10-29T23:49:38+00:00"
+  },
+  {
+   "key": "andyjassysaysprimevideoisontracktoearntensofbillionsofdollars",
+   "title": "Andy Jassy says Prime Video is on track to earn ‘tens of billions of dollars’",
+   "summary": "The success of blockbuster hits like Project Hail Mary and Verity is only part of the story, Amazon's CEO says.",
+   "link": "https://techcrunch.com/2026/10/29/andy-jassy-says-prime-video-is-on-track-to-earn-tens-of-billions-of-dollars/",
+   "outlet": "TechCrunch",
+   "feed_region": "global",
+   "published": "2026-10-29T23:44:56+00:00"
+  },
+  {
+   "key": "earlbarrettvwriterandcocreatoroftoocloseforcomfortdiesat94",
+   "title": "Earl Barret, TV Writer and Co-Creator of ‘Too Close for Comfort,’ Dies at 94",
+   "summary": "Comedy writer Earl Barret died in his home in Sherman Oaks, California, on Oct. 22. He was 94. Barret began his career in TV writing in 1961 after taking Robert C. Dennis’s weekly free TV writing class. The two would go on to write episodes for several shows together. Over the next 30 years, Barret […]",
+   "link": "https://variety.com/2026/tv/people-news/earl-barret-dead-too-close-for-comfort-1236934343/",
+   "outlet": "Variety",
+   "feed_region": "americas",
+   "published": "2026-10-29T23:42:58+00:00"
+  },
+  {
+   "key": "awswillbea1tbusinessjassysaysbutfirstitwillspendbig",
+   "title": "AWS will be a $1T business, Jassy says. But first, it will spend big.",
+   "summary": "Amazon wants to be the king of AI cloud computing and become the first $1 trillion revenue business. But to do that it will have to continue on its capex spending spree, its CEO said Thursday.",
+   "link": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
+   "outlet": "TechCrunch",
+   "feed_region": "global",
+   "published": "2026-10-29T23:42:22+00:00"
+  },
+  {
+   "key": "intelsaysitssellingeveryaffordablelaptopchipitcanmake",
+   "title": "Intel says it’s selling every affordable laptop chip it can make",
+   "summary": "During Intel's latest earnings call, CEO Lip-Bu Tan said that demand for its budget-focused Wildcat Lake chips \"is outstripping supply.\" According to CFO David Zinsner, the chips are now sold out. Zinsner said Intel has \"seen significant growth in Wildcat Lake. It's coming exactly at the right time because it's...",
+   "link": "https://www.theverge.com/tech/1022911/intel-wildcat-lake-sold-out-ram-shortage",
+   "outlet": "The Verge",
+   "feed_region": "global",
+   "published": "2026-10-29T23:42:21+00:00"
+  },
+  {
+   "key": "themassivedhsbreachishacktivistpaybackforgovernmentsurveillance",
+   "title": "The Massive DHS Breach Is Hacktivist Payback for Government Surveillance",
+   "summary": "The personal information of more than 41,000 Department of Homeland Security employees was exposed by a hacker group.",
+   "link": "https://www.cnet.com/news/privacy/homeland-security-leak-government-surveillance-icepick/",
+   "outlet": "CNET News",
+   "feed_region": "global",
+   "published": "2026-10-29T23:40:54+00:00"
+  },
+  {
+   "key": "itlookslikeahackcryptoworthbillionstolenfromexchange",
+   "title": "'It looks like a hack': Crypto worth billion stolen from exchange",
+   "summary": "Cryptocurrency worth billions of dollars has been stolen from a major exchange - in what experts have described as \"the largest bank heist in human history\".",
+   "link": "https://news.sky.com/story/crypto-worth-billions-frozen-over-potential-security-issue-13605627",
+   "outlet": "Sky News Tech",
+   "feed_region": "uk",
+   "published": "2026-10-29T23:40:00+00:00"
+  },
+  {
+   "key": "byronallensellshis10stakeinstarzafter7months",
+   "title": "Byron Allen Sells His 10% Stake In Starz After 7 Months",
+   "summary": "The media mogul sold all of his shares, which he acquired earlier this year, throughout August and September for almost $45 million in total. The post Byron Allen Sells His 10% Stake In Starz After 7 Months appeared first on TV News Check .",
+   "link": "https://tvnewscheck.com/business/article/byron-allen-sells-his-10-stake-in-starz-after-7-months/",
+   "outlet": "TVNewsCheck",
+   "feed_region": "americas",
+   "published": "2026-10-29T23:36:22+00:00"
+  },
+  {
+   "key": "patrickstewartsaidhedneverretirefromactinginfinalinterviewillalwaysand",
+   "title": "Patrick Stewart Said He’d Never Retire From Acting in Final Interview: “I’ll Always and Forever Be an Actor”",
+   "summary": "Stewart died Wednesday at his home in Los Angeles at 86 following “a brief and poignant journey with Alzheimer’s disease and Lewy body dementia,” longtime spokesperson Kelly Bush Novak announced.",
+   "link": "https://www.hollywoodreporter.com/movies/movie-news/patrick-stewart-final-interview-never-retire-acting-1236743142/",
+   "outlet": "Hollywood Reporter",
+   "feed_region": "americas",
+   "published": "2026-10-29T23:29:33+00:00"
+  },
+  {
+   "key": "heybiohackersbryanjohnsonslongevitydietjusthitmealdelivery",
+   "title": "Hey, Biohackers: Bryan Johnson’s Longevity Diet Just Hit Meal Delivery",
+   "summary": "Thanks to a first-of-its-kind partnership with food delivery service Tovala, the biohacker's Blueprint-certified menu now comes straight to your door — no cooking necessary.",
+   "link": "https://www.hollywoodreporter.com/lifestyle/shopping/bryan-johnson-tovala-longevity-meal-delivery-line-blueprint-1236743115/",
+   "outlet": "Hollywood Reporter",
+   "feed_region": "americas",
+   "published": "2026-10-29T23:23:25+00:00"
+  },
+  {
+   "key": "frenchactionfilmredbirdlandscisdealasdcromancestepbackdoorsclosingbows",
+   "title": "French Action Film ‘Red Bird’ Lands CIS Deal as D.C. Romance ‘Step Back, Doors Closing’ Bows at Tokyo Market (EXCLUSIVE)",
+   "summary": "A French action film and an American indie romance are both up for grabs with international buyers at the Tokyo International Film Festival’s TIFFCOM market. Cappu Films has sold “Red Bird” to Kinologistika LLC for the CIS region, which covers Russia and other former Soviet states, and has taken on international...",
+   "link": "https://variety.com/2026/film/markets-festivals/french-actioner-red-bird-cis-deal-dc-romance-tokyo-1236934672/",
+   "outlet": "Variety",
+   "feed_region": "americas",
+   "published": "2026-10-29T23:16:37+00:00"
+  },
+  {
+   "key": "researchersfindbugsin5aidevelopertoolswithopenaiandmicrosoftflawsstill",
+   "title": "Researchers find bugs in 5 AI developer tools, with OpenAI and Microsoft flaws still unpatched",
+   "summary": "Embedded browsers are at the heart of the problem",
+   "link": "https://www.theregister.com/security/2026/10/29/researchers-find-bugs-in-5-ai-developer-tools-with-openai-and-microsoft-flaws-still-unpatched/5306508",
+   "outlet": "The Register",
+   "feed_region": "global",
+   "published": "2026-10-29T23:12:26+00:00"
+  },
+  {
+   "key": "dcusbatmanisntfarawayfromgettingcastjamesgunnsays",
+   "title": "DCU’s Batman ‘Isn’t Far Away’ From Getting Cast, James Gunn Says",
+   "summary": "\"One of the things that excites me about casting Batman is being able to pick a Batman who’s actually the best actor for that role,\" the DC Studios co-chief adds The post DCU’s Batman ‘Isn’t Far Away’ From Getting Cast, James Gunn Says appeared first on TheWrap .",
+   "link": "https://www.thewrap.com/creative-content/movies/batman-dcu-casting-james-gunn-update/",
+   "outlet": "The Wrap",
+   "feed_region": "americas",
+   "published": "2026-10-29T23:06:46+00:00"
+  },
+  {
+   "key": "xmenstarsianmckellenhughjackmanrebeccaromijnfamkejanssenhonorfellowmut",
+   "title": "‘X-Men’ Stars Ian McKellen, Hugh Jackman, Rebecca Romijn, Famke Janssen Honor “Fellow Mutant” Patrick Stewart: “One of the Greats”",
+   "summary": "The actor originated the role of Prof. Charles Xavier for 20th Century Fox in 2000, and will reprise the role in Marvel's upcoming 'Avengers: Doomsday.'",
+   "link": "https://www.hollywoodreporter.com/movies/movie-news/patrick-stewart-dead-tributes-x-men-marvel-1236743118/",
+   "outlet": "Hollywood Reporter",
+   "feed_region": "americas",
+   "published": "2026-10-29T22:55:29+00:00"
+  },
+  {
+   "key": "sonyisworkingonafilmadaptationofviralindiehorrorgamemouthwashing",
+   "title": "Sony is working on a film adaptation of viral indie horror game Mouthwashing",
+   "summary": "The adaptation will be directed by Karyn Kusama, and scripted by the writers of The Invitation.",
+   "link": "https://www.engadget.com/2301826/sony-is-working-on-a-film-adaptation-of-viral-indie-horror-game-mouthwashing/",
+   "outlet": "Engadget",
+   "feed_region": "global",
+   "published": "2026-10-29T22:52:36+00:00"
+  },
+  {
+   "key": "josephmazzelloleadscecilhotelhorroragrimlifecappufilmsboardssalesexclu",
+   "title": "Joseph Mazzello Leads Cecil Hotel Horror ‘A Grim Life,’ Cappu Films Boards Sales (EXCLUSIVE)",
+   "summary": "Joseph Mazzello, the “Bohemian Rhapsody” and “Jurassic Park” actor, heads the cast of “A Grim Life,” a supernatural thriller set inside Los Angeles’ Cecil Hotel. Hong Kong outfit Cappu Films has picked up international sales, it was unveiled at the Tokyo International Film Festival’s TIFFCOM market. Francesco...",
+   "link": "https://variety.com/2026/film/markets-festivals/joseph-mazzello-cecil-hotel-horror-grim-life-1236934654/",
+   "outlet": "Variety",
+   "feed_region": "americas",
+   "published": "2026-10-29T22:52:20+00:00"
+  },
+  {
+   "key": "chasesuiwondersintalkstojoina24sgoblin",
+   "title": "Chase Sui Wonders in Talks to Join A24’s ‘Goblin’",
+   "summary": "Wonders joins previously announced castmembers Kenneth Branagh, Skyler Gisondo and Will Forte.",
+   "link": "https://www.hollywoodreporter.com/movies/movie-news/chase-sui-wonders-talks-goblin-cast-1236743116/",
+   "outlet": "Hollywood Reporter",
+   "feed_region": "americas",
+   "published": "2026-10-29T22:49:50+00:00"
+  },
+  {
+   "key": "mathislandwehrmartialartsfilmslionfistthelastkumitelandkorealatinameri",
+   "title": "Mathis Landwehr Martial Arts Films ‘Lion Fist,’ ‘The Last Kumite’ Land Korea, Latin America Deals at Tokyo Market (EXCLUSIVE)",
+   "summary": "Mathis Landwehr-led martial arts feature “Lion Fist” has been picked up for South Korea, Latin America and the CIS. Fellow Landwehr starrer “The Last Kumite” has also found a South Korean home, sales outfit Cappu Films revealed at the Tokyo International Film Festival’s TIFFCOM market. Studio DHL has taken South...",
+   "link": "https://variety.com/2026/film/markets-festivals/mathis-landwehr-martial-arts-films-lion-fist-the-last-kumite-land-deals-1236934651/",
+   "outlet": "Variety",
+   "feed_region": "americas",
+   "published": "2026-10-29T22:41:36+00:00"
+  },
+  {
+   "key": "binancepauseswithdrawalsashackerssuspectedofstealingbillionsincrypto",
+   "title": "Binance pauses withdrawals as hackers suspected of stealing billions in crypto",
+   "summary": "Some estimates say hackers stole billions in crypto from Binance, the world's largest cryptocurrency exchange, during a cyberattack on Thursday.",
+   "link": "https://techcrunch.com/2026/10/29/binance-pauses-withdrawals-as-hackers-suspected-of-stealing-billions-in-crypto/",
+   "outlet": "TechCrunch",
+   "feed_region": "global",
+   "published": "2026-10-29T22:27:23+00:00"
+  },
+  {
+   "key": "redditsceosaysgooglesaimodedoesnotdrivetraffic",
+   "title": "Reddit’s CEO says Google’s AI Mode ‘does not drive traffic’",
+   "summary": "Reddit CEO Steve Huffman said in an earnings call today that Google's AI-powered search modes do not help with traffic to the platform, echoing problems facing other websites and publishers. As part of its Q3 2026 earnings, Reddit revealed that search traffic in October has \"dropped by more than 1 million referrals...",
+   "link": "https://www.theverge.com/tech/1022848/reddit-ceo-google-ai-mode-traffic",
+   "outlet": "The Verge",
+   "feed_region": "global",
+   "published": "2026-10-29T22:19:32+00:00"
+  },
+  {
+   "key": "nocturnereviewlievschreiberandstephengrahamgethandcuffedbyclichsinappl",
+   "title": "‘Nocturne’ Review: Liev Schreiber and Stephen Graham Get Handcuffed by Clichés in Apple’s Dully Competent Serial Killer Thriller",
+   "summary": "Zazie Beetz also stars in the series from Rowan Joffé, based on a Swedish novel about a retired cop who must once again confront the murderer he helped put behind bars.",
+   "link": "https://www.hollywoodreporter.com/tv/tv-reviews/nocturne-review-liev-schreiber-stephen-graham-apple-1236741410/",
+   "outlet": "Hollywood Reporter",
+   "feed_region": "americas",
+   "published": "2026-10-29T22:18:11+00:00"
+  },
+  {
+   "key": "googlevalueplungesby500bnasaifearsrattlewallstreet",
+   "title": "Google value plunges by $500bn as AI fears rattle Wall Street",
+   "summary": "Google spooked investors so badly that its stock hit a six-month low, after it revealed its AI search summaries were affecting ad revenue.",
+   "link": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss",
+   "outlet": "BBC Technology",
+   "feed_region": "uk",
+   "published": "2026-10-29T22:17:52+00:00"
+  },
+  {
+   "key": "margotrobbiemaybeoverplayingharleyquinnbutjamesgunnwouldbendoverbackwa",
+   "title": "Margot Robbie ‘May Be Over’ Playing Harley Quinn, but James Gunn Would ‘Bend Over Backwards’ to Include Her in the DCU",
+   "summary": "As James Gunn’s fledgling DC Universe continues to grow, he’s revealed that one key character will “almost certainly” return: Harley Quinn. But Margot Robbie, who played the anti-hero in three DCEU movies, may not be back. On “The Suicide Squad: Is It Canon? The Official Podcast,” Gunn was joined by Jennifer...",
+   "link": "https://variety.com/2026/film/news/margot-robbie-harley-quinn-james-gunn-bend-over-backwards-1236934404/",
+   "outlet": "Variety",
+   "feed_region": "americas",
+   "published": "2026-10-29T22:10:39+00:00"
+  },
+  {
+   "key": "metaistestingthreadsfriendsforsharingpostswithsmallergroups",
+   "title": "Meta is testing 'Threads Friends' for sharing posts with smaller groups",
+   "summary": "Twitter Circle, anyone?",
+   "link": "https://www.engadget.com/2301804/meta-is-testing-threads-friends-for-sharing-posts-with-smaller-groups/",
+   "outlet": "Engadget",
+   "feed_region": "global",
+   "published": "2026-10-29T22:05:39+00:00"
+  },
+  {
+   "key": "patrickstewartsfinalmovieisavengersdoomsdayhesaidbeforehisdeaththatica",
+   "title": "Patrick Stewart’s Final Movie Is ‘Avengers: Doomsday’; He Said Before His Death That ‘I Can’t Imagine Retiring. I’ll Forever Be an Actor’",
+   "summary": "Patrick Stewart’s final movie role will be in the upcoming “Avengers: Doomsday,” which marks his ninth time playing the “X-Men” character Charles Xavier on the big screen. Marvel Studios confirmed the news in their tribute to the late actor, who died at 86 years old after a brief battle with Alzheimer’s and Lewy...",
+   "link": "https://variety.com/2026/film/news/patrick-stewart-last-movie-role-avengers-doomsday-1236934590/",
+   "outlet": "Variety",
+   "feed_region": "americas",
+   "published": "2026-10-29T22:05:09+00:00"
+  },
+  {
+   "key": "patrickstewartrevealedwhyheneverretiredfromactinginhisfinalinterview",
+   "title": "Patrick Stewart Revealed Why He Never Retired From Acting in His Final Interview",
+   "summary": "\"I’ll always and forever be an actor,\" he said months before his death The post Patrick Stewart Revealed Why He Never Retired From Acting in His Final Interview appeared first on TheWrap .",
+   "link": "https://www.thewrap.com/culture-lifestyle/culture/patrick-stewart-reason-he-never-retired-final-interview-death/",
+   "outlet": "The Wrap",
+   "feed_region": "americas",
+   "published": "2026-10-29T22:04:17+00:00"
+  },
+  {
+   "key": "skydancerevealskeytvandstreamingleadershiproles",
+   "title": "Skydance Reveals Key TV and Streaming Leadership Roles",
+   "summary": "As part of the changes in JB Perrette's team, multiple former direct-to-consumer and streaming executives for Warner Bros. Discovery and Paramount Skydance are departing.",
+   "link": "https://www.hollywoodreporter.com/business/business-news/skydance-tv-streaming-leadership-roles-1236743077/",
+   "outlet": "Hollywood Reporter",
+   "feed_region": "americas",
+   "published": "2026-10-29T21:58:43+00:00"
+  },
+  {
+   "key": "patrickstewartslifeandcareerinphotosfromshakespearetostartrek",
+   "title": "Patrick Stewart’s Life and Career in Photos: From Shakespeare to ‘Star Trek’",
+   "summary": "The iconic stage and screen actor died Wednesday at age 86 The post Patrick Stewart’s Life and Career in Photos: From Shakespeare to ‘Star Trek’ appeared first on TheWrap .",
+   "link": "https://www.thewrap.com/culture-lifestyle/culture/patrick-stewart-life-in-photos-gallery/",
+   "outlet": "The Wrap",
+   "feed_region": "americas",
+   "published": "2026-10-29T21:52:47+00:00"
+  },
+  {
+   "key": "elonmuskistrulyageniussaysvladimirputin",
+   "title": "Elon Musk is ‘truly a genius,’ says Vladimir Putin",
+   "summary": "Putin said that he and Musk are in \"close contact\" about Rassvet, Russia's Starlink-like satellite connectivity project.",
+   "link": "https://techcrunch.com/2026/10/29/elon-musk-is-truly-a-genius-says-vladimir-putin/",
+   "outlet": "TechCrunch",
+   "feed_region": "global",
+   "published": "2026-10-29T21:51:29+00:00"
+  },
+  {
+   "key": "vrchatsaysitsnotaddingailabelsdespiteusersurveyshowingpeoplewantthat",
+   "title": "VRChat says it's not adding AI labels despite user survey showing people want that",
+   "summary": "Trying to make everyone happy could make no one happy.",
+   "link": "https://www.engadget.com/2301786/vrchat-says-its-not-adding-ai-labels-despite-user-survey-showing-people-want-that/",
+   "outlet": "Engadget",
+   "feed_region": "global",
+   "published": "2026-10-29T21:48:05+00:00"
+  },
+  {
+   "key": "redditismovingtoaloggedinonlyexperienceceosays",
+   "title": "Reddit is moving to “a logged-in-only experience,” CEO says",
+   "summary": "Reddit's search traffic \"was down meaningfully\" last quarter.",
+   "link": "https://arstechnica.com/gadgets/2026/10/reddit-will-require-you-to-log-in-eventually-ceo-confirms/",
+   "outlet": "Ars Technica",
+   "feed_region": "global",
+   "published": "2026-10-29T21:47:57+00:00"
+  },
+  {
+   "key": "patrickstewartwhogracefullysteeredstartrekintoitsnextgenerationdiesat8",
+   "title": "Patrick Stewart, Who Gracefully Steered Star Trek Into Its Next Generation, Dies at 86",
+   "summary": "“Captain Picard stood for the best of us,” wrote William Shatner, who played Captain James T. Kirk.",
+   "link": "https://www.cnet.com/culture/entertainment/patrick-stewart-death-star-trek-next-generation/",
+   "outlet": "CNET News",
+   "feed_region": "global",
+   "published": "2026-10-29T21:45:26+00:00"
+  },
+  {
+   "key": "skydancepostmergertvshakeupmarconobilidomenicdimeglioandpankpateltoexi",
+   "title": "Skydance Post-Merger TV Shakeup: Marco Nobili, Domenic DiMeglio and Pank Patel to Exit",
+   "summary": "Dan Barnes, Michael Bishara, Jamie Cooke and Juan Sola will also depart as JB Perrette firms up leadership teams The post Skydance Post-Merger TV Shakeup: Marco Nobili, Domenic DiMeglio and Pank Patel to Exit appeared first on TheWrap .",
+   "link": "https://www.thewrap.com/media-platforms/tv/skydance-post-merger-tv-shakeup-exits/",
+   "outlet": "The Wrap",
+   "feed_region": "americas",
+   "published": "2026-10-29T21:28:40+00:00"
+  },
+  {
+   "key": "coheredealwontbelasttimefedstakestakeincanadiantechcompaniesaiminister",
+   "title": "Cohere deal won’t be last time feds take stake in Canadian tech companies, AI minister says",
+   "summary": "Evan Solomon says forthcoming $500-million tech fund will consider equity stakes. The post Cohere deal won’t be last time feds take stake in Canadian tech companies, AI minister says first appeared on BetaKit .",
+   "link": "https://betakit.com/cohere-deal-wont-be-last-time-feds-take-stake-in-canadian-tech-companies-ai-minister-says/",
+   "outlet": "BetaKit",
+   "feed_region": "americas",
+   "published": "2026-10-29T21:24:27+00:00"
+  },
+  {
+   "key": "virginradiochristmasreturnsforsecondyear",
+   "title": "Virgin Radio Christmas returns for second year",
+   "summary": "Virgin Radio's seasonal station returns on 1 November with Chris Evans at breakfast and Christmas music through to Boxing Day",
+   "link": "https://radiotoday.co.uk/2026/10/virgin-radio-christmas-returns-for-second-year/",
+   "outlet": "RadioToday",
+   "feed_region": "uk",
+   "published": "2026-10-29T21:23:24+00:00"
+  },
+  {
+   "key": "amazonreportedboomingcloudrevenuebutotherwisemissedexpectations",
+   "title": "Amazon reported booming cloud revenue but otherwise missed expectations",
+   "summary": "The biggest ouch of the report was its negative free cash flow of $2.4 billion.",
+   "link": "https://techcrunch.com/2026/10/29/amazon-reported-booming-cloud-revenue-but-otherwise-missed-expectations/",
+   "outlet": "TechCrunch",
+   "feed_region": "global",
+   "published": "2026-10-29T21:20:47+00:00"
+  },
+  {
+   "key": "fanfictionwebsiteao3isdownanditcouldtakeweekstorecover",
+   "title": "Fan fiction website AO3 is down, and it could take weeks to recover",
+   "summary": "The site's data is reportedly intact, but the cause of the outage is still unknown.",
+   "link": "https://www.engadget.com/2301753/ao3-fanfiction-website-down-for-weeks/",
+   "outlet": "Engadget",
+   "feed_region": "global",
+   "published": "2026-10-29T21:18:22+00:00"
+  },
+  {
+   "key": "dowdrops133nasdaqtumbles365ap500falls24",
+   "title": "Dow Drops 133, Nasdaq Tumbles 365, A&P 500 Falls 24",
+   "summary": "A historic drop for Alphabet's stock dragged the U.S. market lower Thursday. The post Dow Drops 133, Nasdaq Tumbles 365, A&P 500 Falls 24 appeared first on TV News Check .",
+   "link": "https://tvnewscheck.com/business/article/dow-drops-133-nasdaq-tumbles-365-ap-500-falls-24/",
+   "outlet": "TVNewsCheck",
+   "feed_region": "americas",
+   "published": "2026-10-29T21:07:26+00:00"
+  },
+  {
+   "key": "canadasnewnationalsecuritystrategyputstechfrontandcentre",
+   "title": "Canada’s new national security strategy puts tech front and centre",
+   "summary": "Prime minister promises Canadian tech will “contribute to a more secure and prosperous world.” The post Canada’s new national security strategy puts tech front and centre first appeared on BetaKit .",
+   "link": "https://betakit.com/canadas-new-national-security-strategy-puts-tech-front-and-centre/",
+   "outlet": "BetaKit",
+   "feed_region": "americas",
+   "published": "2026-10-29T21:06:44+00:00"
+  },
+  {
+   "key": "competitiontribunalordersrogerstopay15mindeceptivemarketingcase",
+   "title": "Competition Tribunal orders Rogers to pay $15M in deceptive marketing case",
+   "summary": "This content is restricted to subscribers The post Competition Tribunal orders Rogers to pay $15M in deceptive marketing case appeared first on Cartt.ca .",
+   "link": "https://cartt.ca/competition-tribunal-orders-rogers-to-pay-15m-in-deceptive-marketing-case/",
+   "outlet": "Cartt.ca",
+   "feed_region": "americas",
+   "published": "2026-10-29T21:02:13+00:00"
+  },
+  {
+   "key": "gmreaches220msettlementoversellingdriversprivatedata",
+   "title": "GM reaches $220M settlement over selling drivers’ private data",
+   "summary": "As part of the settlement, GM must get drivers’ express consent before it collects or shares their driving and location data.",
+   "link": "https://techcrunch.com/2026/10/29/gm-reaches-220m-settlement-over-selling-drivers-private-data/",
+   "outlet": "TechCrunch",
+   "feed_region": "global",
+   "published": "2026-10-29T21:01:04+00:00"
+  },
+  {
+   "key": "pressforwardgave20millionto205localnewsroomsovertwoyearshereshowsomeof",
+   "title": "Press Forward gave $20 million to 205 local newsrooms over two years. Here’s how some of them spent it.",
+   "summary": "Most local newsrooms in the U.S. have one thing in common: They need more money, and many dream of dollars they can use however they want. In 2024, Press Forward, the nonprofit trying to mobilize a philanthropic army for local news, announced it would give at least 100 small local newsrooms — those with annual...",
+   "link": "https://www.niemanlab.org/2026/10/press-forward-gave-20-million-to-205-local-newsrooms-over-two-years-heres-how-some-of-them-spent-it/",
+   "outlet": "Nieman Lab",
+   "feed_region": "americas",
+   "published": "2026-10-29T20:52:01+00:00"
+  },
+  {
+   "key": "amazonsharesfallonq3earningsmissasbigtechmarketroutcontinues",
+   "title": "Amazon Shares Fall On Q3 Earnings Miss As Big Tech Market Rout Continues",
+   "summary": "Amazon shares fell as much as 9% in after-market trading Thursday after the tech giant reported third-quarter earnings below Wall Street analysts’ expectations. The post Amazon Shares Fall On Q3 Earnings Miss As Big Tech Market Rout Continues appeared first on TV News Check .",
+   "link": "https://tvnewscheck.com/business/article/amazon-shares-fall-on-q3-earnings-miss-as-big-tech-market-rout-continues/",
+   "outlet": "TVNewsCheck",
+   "feed_region": "americas",
+   "published": "2026-10-29T20:45:20+00:00"
+  },
+  {
+   "key": "fanfictionsitearchiveofourowncouldbeofflineforupto4weeks",
+   "title": "Fan-fiction site Archive of Our Own could be offline for up to 4 weeks",
+   "summary": "The site has such a passionate user base that, within two hours of the announcement, its status page's posts had garnered millions of views (and much panicked commentary) across social media.",
+   "link": "https://techcrunch.com/2026/10/29/fan-fiction-site-archive-of-our-own-could-be-offline-for-up-to-4-weeks/",
+   "outlet": "TechCrunch",
+   "feed_region": "global",
+   "published": "2026-10-29T20:43:56+00:00"
+  },
+  {
+   "key": "fifaworldcupliftstelevisaunivisioninmexicolowersitinus",
+   "title": "FIFA World Cup Lifts TelevisaUnivision In Mexico, Lowers It In U.S.",
+   "summary": "The company takes a $372 million write-down on its U.S. TV stations. The post FIFA World Cup Lifts TelevisaUnivision In Mexico, Lowers It In U.S. appeared first on TV News Check .",
+   "link": "https://tvnewscheck.com/business/article/fifa-world-cup-lifts-televisaunivision-in-mexico-lowers-it-in-u-s/",
+   "outlet": "TVNewsCheck",
+   "feed_region": "americas",
+   "published": "2026-10-29T20:41:22+00:00"
+  },
+  {
+   "key": "nvidiafindsitselfatthecenterofanaispysaga",
+   "title": "Nvidia Finds Itself at the Center of an AI Spy Saga",
+   "summary": "CEO Jensen Huang may have been the target of Chinese espionage activity, The New York Times reports.",
+   "link": "https://www.cnet.com/tech/computing/nvidia-ai-spy-saga-jensen-huang-china-chips/",
+   "outlet": "CNET News",
+   "feed_region": "global",
+   "published": "2026-10-29T20:40:40+00:00"
+  },
   {
    "key": "redditwillmovetologgedinonlyasaieatssearchtraffic",
    "title": "Reddit will move to logged-in only as AI eats search traffic",
+   "summary": "The company is starting with tests outside of the US.",
+   "link": "https://www.engadget.com/2301687/reddit-will-move-to-logged-in-only-as-ai-eats-search-traffic/",
+   "outlet": "Engadget",
+   "feed_region": "global",
+   "published": "2026-10-29T20:32:49+00:00"
+  },
+  {
+   "key": "redditwillforceuserstologinasaiiskillingsearchtraffic",
+   "title": "Reddit will force users to log in as AI is killing search traffic",
    "summary": "The company is starting with tests outside of the US.",
    "link": "https://www.engadget.com/2301687/reddit-will-move-to-logged-in-only-as-ai-eats-search-traffic/",
    "outlet": "Engadget",
@@ -65,6 +695,15 @@
    "published": "2026-10-29T20:25:58+00:00"
   },
   {
+   "key": "ao3suffersmajoroutagepossiblynofanficfor2weeksorlonger",
+   "title": "AO3 Suffers Major Outage: Possibly No Fanfic for 2 Weeks or Longer",
+   "summary": "Archive of Our Own, one of the world’s biggest fanfiction sites, went down hard.",
+   "link": "https://www.cnet.com/tech/services-and-software/ao3-suffers-major-outage/",
+   "outlet": "CNET News",
+   "feed_region": "global",
+   "published": "2026-10-29T20:25:58+00:00"
+  },
+  {
    "key": "amazonadrevenuegrowthslowsinq3ecommercegiantundershootsearningsestimat",
    "title": "Amazon Ad Revenue Growth Slows in Q3, Ecommerce Giant Undershoots Earnings Estimates",
    "summary": "Amazon saw slowed growth in its advertising revenue in the year’s third quarter, claiming its decision to host Prime Day for most larger countries in the year’s second quarter and a shift in foreign exchange rates contributed to a softer earnings report than Wall Street analysts expected. Past quarters for the...",
@@ -76,6 +715,15 @@
   {
    "key": "windows11getsrightclickmenuimprovementsaspcrevenueslides",
    "title": "Windows 11 gets right-click menu improvements as PC revenue slides",
+   "summary": "The latest update also brings a cloud recovery option for PCs that won't boot.",
+   "link": "https://arstechnica.com/gadgets/2026/10/windows-11-gets-right-click-menu-improvements-as-pc-revenue-slides/",
+   "outlet": "Ars Technica",
+   "feed_region": "global",
+   "published": "2026-10-29T20:18:49+00:00"
+  },
+  {
+   "key": "microsoftfixesawindows11annoyanceaspcrevenuedeclines",
+   "title": "Microsoft fixes a Windows 11 annoyance as PC revenue declines",
    "summary": "The latest update also brings a cloud recovery option for PCs that won't boot.",
    "link": "https://arstechnica.com/gadgets/2026/10/windows-11-gets-right-click-menu-improvements-as-pc-revenue-slides/",
    "outlet": "Ars Technica",
@@ -200,6 +848,15 @@
    "published": "2026-10-29T20:05:00+00:00"
   },
   {
+   "key": "howlerwillhaveaiansweryourquestionsthenburnthechat",
+   "title": "Howler will have AI answer your questions, then burn the chat",
+   "summary": "Ask AI dumb things and leave no local chat history, all with the style of a kids' fantasy novel – or rather, one of its magical letters",
+   "link": "https://www.theregister.com/offbeat/2026/10/29/howler-will-have-ai-answer-your-questions-then-burn-the-chat/5306484",
+   "outlet": "The Register",
+   "feed_region": "global",
+   "published": "2026-10-29T20:04:05+00:00"
+  },
+  {
    "key": "starzshrinkslossgrowsrevenueinthirdquarteramiddigitalledtransformation",
    "title": "Starz Shrinks Loss, Grows Revenue in Third Quarter Amid Digital-Led Transformation",
    "summary": "The now-solo premium cabler reiterated its 2026 outlook in key metrics as it charts a streaming TV future fueled by franchises like ‘Outlander’ and ‘Power.’",
@@ -306,6 +963,15 @@
    "outlet": "The Wrap",
    "feed_region": "americas",
    "published": "2026-10-29T19:49:27+00:00"
+  },
+  {
+   "key": "startupwantstomakeaiagentssafefordevopsduty",
+   "title": "Startup wants to make AI agents safe for DevOps duty",
+   "summary": "Infrastructure automation needs something better than prompt and pray",
+   "link": "https://www.theregister.com/ai-and-ml/2026/10/29/startup-wants-to-make-ai-agents-safe-for-devops-duty/5306477",
+   "outlet": "The Register",
+   "feed_region": "global",
+   "published": "2026-10-29T19:46:08+00:00"
   },
   {
    "key": "popcornbucketinnovationisatanalltimelowandthedunepartthreedoublesandwo",
@@ -522,6 +1188,15 @@
    "outlet": "TVNewsCheck",
    "feed_region": "americas",
    "published": "2026-10-29T18:57:49+00:00"
+  },
+  {
+   "key": "amazonsaysexternalaiagentsarenthurtingitsadbusiness",
+   "title": "Amazon Says External AI Agents Aren’t Hurting Its Ad Business",
+   "summary": "The company reported its highest-ever operating margin in Q3 of 13.9%",
+   "link": "https://www.adweek.com/commerce/amazon-says-external-ai-agents-arent-hurting-its-ad-business/",
+   "outlet": "Adweek",
+   "feed_region": "americas",
+   "published": "2026-10-29T18:55:36+00:00"
   },
   {
    "key": "earlbarrettoocloseforcomfortwriterproducerdiesat94",
@@ -1136,6 +1811,15 @@
    "published": "2026-10-29T16:06:00+00:00"
   },
   {
+   "key": "googleowneralphabetsuffersitsworsteverdayonstockmarketasvalueplunges50",
+   "title": "Google owner Alphabet suffers its worst-ever day on stock market - as value plunges $500bn",
+   "summary": "Shares in Google's parent company Alphabet have suffered their worst-ever day on the US stock market, falling more than 12% and knocking around half a trillion dollars off its value.",
+   "link": "https://news.sky.com/story/google-parent-alphabet-takes-500bn-hit-on-ai-worries-13605428",
+   "outlet": "Sky News Tech",
+   "feed_region": "uk",
+   "published": "2026-10-29T16:06:00+00:00"
+  },
+  {
    "key": "thermoworksdebutsshorterversionofitsrfxmeatwirelessprobeforsmallcuts",
    "title": "ThermoWorks debuts shorter version of its RFX Meat wireless probe for small cuts",
    "summary": "The RFX Meat Mini offers nearly identical performance to the full-sized grilling probe.",
@@ -1246,6 +1930,15 @@
   {
    "key": "readerqasendaquestiontoguardianeconomicswriteradityachakrabortty",
    "title": "Reader Q&A: Send a question to Guardian economics writer Aditya Chakrabortty",
+   "summary": "Guardian columnist, senior economics commentator and host of the new Radical Thinking podcast Aditya Chakrabortty will be online at 2pm GMT (9am EDT) on Friday to answer your questions on the big ideas around economics, society and democracy Send your questions to conversations@theguardian.com or join the...",
+   "link": "https://www.theguardian.com/community/live/2026/oct/29/reader-qa-aditya-chakrabortty-answers-your-questions",
+   "outlet": "Guardian Media",
+   "feed_region": "uk",
+   "published": "2026-10-29T15:31:25+00:00"
+  },
+  {
+   "key": "readerqasendaquestiontoguardiancolumnistadityachakrabortty",
+   "title": "Reader Q&A: Send a question to Guardian columnist Aditya Chakrabortty",
    "summary": "Guardian columnist, senior economics commentator and host of the new Radical Thinking podcast Aditya Chakrabortty will be online at 2pm GMT (9am EDT) on Friday to answer your questions on the big ideas around economics, society and democracy Send your questions to conversations@theguardian.com or join the...",
    "link": "https://www.theguardian.com/community/live/2026/oct/29/reader-qa-aditya-chakrabortty-answers-your-questions",
    "outlet": "Guardian Media",
@@ -30573,645 +31266,6 @@
    "outlet": "CNET News",
    "feed_region": "global",
    "published": "2026-10-20T01:25:15+01:00"
-  },
-  {
-   "key": "deepseekdeepsixedatallusfederalcivilianagencies",
-   "title": "DeepSeek deep-sixed at all US federal civilian agencies",
-   "summary": "Order disallowing use of Chinese AI service is unhelpfully vague and broad",
-   "link": "https://www.theregister.com/security/2026/10/20/deepseek-deep-sixed-at-all-us-federal-civilian-agencies/5304010",
-   "outlet": "The Register",
-   "feed_region": "global",
-   "published": "2026-10-20T01:11:10+01:00"
-  },
-  {
-   "key": "foxlegalchiefadamciongolisetsexitnicholastrutanichtobegeneralcounsel",
-   "title": "Fox Legal Chief Adam Ciongoli Sets Exit, Nicholas Trutanich to Be General Counsel",
-   "summary": "\"I'd like to thank Adam for his many immense contributions over the last three years,\" Lachlan Murdoch says The post Fox Legal Chief Adam Ciongoli Sets Exit, Nicholas Trutanich to Be General Counsel appeared first on TheWrap .",
-   "link": "https://www.thewrap.com/industry-news/business/fox-legal-chief-adam-ciongoli-exits-nicholas-trutanich-promoted-general-counsel/",
-   "outlet": "The Wrap",
-   "feed_region": "americas",
-   "published": "2026-10-20T01:04:49+01:00"
-  },
-  {
-   "key": "starship15scheduledfornovemberwithdualcatch",
-   "title": "Starship #15 scheduled for November with dual catch",
-   "summary": "SpaceX’s giant Starship is scheduling the next test flight for November 8th subject to the usual weather and technical limitations. The difference for this test is that SpaceX is looking to catch both portions of the rocket with its ‘chopstick’ apparatus.. There’s also a tentative date for Starship #16 to launch...",
-   "link": "https://www.advanced-television.com/2026/10/20/starship-15-scheduled-for-november-with-dual-catch/",
-   "outlet": "Advanced Television",
-   "feed_region": "uk",
-   "published": "2026-10-20T01:00:02+01:00"
-  },
-  {
-   "key": "timodonnellveterantvcomedywriterdirectorknownforgrowingpainsanddaveswo",
-   "title": "Tim O’Donnell, Veteran TV Comedy Writer-Director Known for ‘Growing Pains’ and ‘Dave’s World,’ Dies at 77",
-   "summary": "Tim O’Donnell, the veteran comedy writer-director known for his work on sitcoms including “Growing Pains,” “Dave’s World” and “Phil of the Future,” has died. He was 77. O’Donnell died at his home in Glendale, Calif. on July 27. He had struggled with bladder cancer for three years. A memorial service will be held at...",
-   "link": "https://variety.com/2026/tv/news/tim-odonnell-dead-77-writer-growing-pains-daves-world-1236916117/",
-   "outlet": "Variety",
-   "feed_region": "americas",
-   "published": "2026-10-20T00:56:09+01:00"
-  },
-  {
-   "key": "howtostreamsanantoniospurs202627nbaseasongameswithdazn",
-   "title": "How to Stream San Antonio Spurs 2026-27 NBA Season Games With DAZN",
-   "summary": "The regular season officially kicks off on Tuesday, Oct. 20.",
-   "link": "https://www.hollywoodreporter.com/tv/tv-news/stream-san-antonio-spurs-2026-27-nba-games-dazn-free-trial-1236735846/",
-   "outlet": "Hollywood Reporter",
-   "feed_region": "americas",
-   "published": "2026-10-20T00:55:13+01:00"
-  },
-  {
-   "key": "danacarveydoesntunderstandthekerfuffleovershanegilliswhoresjokedidijus",
-   "title": "Dana Carvey Doesn’t ‘Understand the Kerfuffle’ Over Shane Gillis’ ‘Whores’ Joke: ‘Did I Just Get Canceled?’",
-   "summary": "The \"Saturday Night Live\" alum says that the joke likely \"destroyed\" in comedy clubs, but Studio 8H was \"not the right place\" The post Dana Carvey Doesn’t ‘Understand the Kerfuffle’ Over Shane Gillis’ ‘Whores’ Joke: ‘Did I Just Get Canceled?’ appeared first on TheWrap .",
-   "link": "https://www.thewrap.com/creative-content/tv-shows/dana-carvey-shane-gillis-snl-whores-joke-david-spade/",
-   "outlet": "The Wrap",
-   "feed_region": "americas",
-   "published": "2026-10-20T00:46:54+01:00"
-  },
-  {
-   "key": "foxcorptoplawyeradamciongolisteppingdown",
-   "title": "Fox Corp. Top Lawyer Adam Ciongoli Stepping Down",
-   "summary": "Ciongoli, who will continue as a special advisor, helped steer the company through several lawsuits involving allegations of election falsehoods. Nicholas Trutanich will take over as general counsel.",
-   "link": "https://www.hollywoodreporter.com/business/business-news/fox-corp-top-lawyer-adam-ciongoli-stepping-down-1236735886/",
-   "outlet": "Hollywood Reporter",
-   "feed_region": "americas",
-   "published": "2026-10-20T00:44:13+01:00"
-  },
-  {
-   "key": "nscaleandanthropicarereportedlyintalksforyetanother45billioncomputedea",
-   "title": "Nscale and Anthropic are reportedly in talks for yet another $45 billion compute deal",
-   "summary": "In August, Nscale and Anthropic announced a $45 billion compute deal. The two companies are reportedly discussing yet another deal of the same magnitude.",
-   "link": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/",
-   "outlet": "TechCrunch",
-   "feed_region": "global",
-   "published": "2026-10-20T00:39:38+01:00"
-  },
-  {
-   "key": "nscaleandanthropicarereportedlyintalksforyetanother45bcomputedeal",
-   "title": "Nscale and Anthropic are reportedly in talks for yet another $45B compute deal",
-   "summary": "If the deal goes through, it would be the latest in a long string of giant compute deals Anthropic has struck over the past year.",
-   "link": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/",
-   "outlet": "TechCrunch",
-   "feed_region": "global",
-   "published": "2026-10-20T00:39:38+01:00"
-  },
-  {
-   "key": "ritawilsonsaysshesreprisinggirlsroleforlenadunhamsreunionseriesiwouldd",
-   "title": "Rita Wilson Says She’s Reprising ‘Girls’ Role for Lena Dunham’s Reunion Series: ‘I Would Do Anything for Her’",
-   "summary": "The \"Sleepless in Seattle\" actress plays Evie Michaels, the mother of Allison Williams’ character The post Rita Wilson Says She’s Reprising ‘Girls’ Role for Lena Dunham’s Reunion Series: ‘I Would Do Anything for Her’ appeared first on TheWrap .",
-   "link": "https://www.thewrap.com/creative-content/tv-shows/rita-wilson-returns-girls-reunion/",
-   "outlet": "The Wrap",
-   "feed_region": "americas",
-   "published": "2026-10-20T00:31:26+01:00"
-  },
-  {
-   "key": "dwaynejohnsonrevealsjumanjiopenworldnewlookaheadofholidayreleaseonefin",
-   "title": "Dwayne Johnson Reveals ‘Jumanji: Open World’ New Look Ahead of Holiday Release: “One Final Game”",
-   "summary": "Jack Black, Kevin Hart and Karen Gillan also reprise their roles for Jake Kasdan's final installment in the Sony trilogy that hits theaters this December.",
-   "link": "https://www.hollywoodreporter.com/movies/movie-news/jumanji-open-world-poster-dwayne-johnson-jack-black-release-1236735778/",
-   "outlet": "Hollywood Reporter",
-   "feed_region": "americas",
-   "published": "2026-10-20T00:31:14+01:00"
-  },
-  {
-   "key": "whatcanyouusethehdmiportonyourugreennasfor",
-   "title": "What can you use the HDMI port on your Ugreen NAS for?",
-   "summary": "You can use it to watch media files on the device, but you'll need to use your phone as a remote.",
-   "link": "https://www.engadget.com/2288161/ugreen-nas-hdmi-port-uses/",
-   "outlet": "Engadget",
-   "feed_region": "global",
-   "published": "2026-10-20T00:30:00+01:00"
-  },
-  {
-   "key": "youcanseeeverythingsetsoscarcampaignsforbestpicturesupportingactressan",
-   "title": "‘You Can See Everything’ Sets Oscar Campaigns for Best Picture, Supporting Actress and More Categories",
-   "summary": "SPOILER ALERT: This article contains major spoilers for “You Can See Everything,” now playing in theaters. “You Can See Everything” may rewrite the rules of the Oscar season. Nathan Fielder and Lance Oppenheim’s A24 documentary, which follows the Theranos founder through the 34 days before she reported to prison...",
-   "link": "https://variety.com/2026/film/awards/you-can-see-everything-oscars-eligibility-awards-1236916699/",
-   "outlet": "Variety",
-   "feed_region": "americas",
-   "published": "2026-10-20T00:20:05+01:00"
-  },
-  {
-   "key": "polandpolsatviewershipovertakeswbd",
-   "title": "Poland: Polsat viewership overtakes WBD",
-   "summary": "Nielsen, the specialist in audience measurement, has published its All Screens Video Landscape report for Poland during September 2026. The report measures total household viewership across the country – defined as a combination of total reach and time spent – across four screens: TVs, PCs/laptops, smartphones, and...",
-   "link": "https://www.advanced-television.com/2026/10/20/poland-polsat-viewership-overtakes-wbd/",
-   "outlet": "Advanced Television",
-   "feed_region": "uk",
-   "published": "2026-10-20T00:02:51+01:00"
-  },
-  {
-   "key": "bigbrotherexceeds200mstreamsonitvx",
-   "title": "Big Brother exceeds 200m streams on ITVX",
-   "summary": "ITV has reported that its Big Brother brand, produced by Initial (part of Banijay UK), has now achieved 202 million streams on ITVX. The success of this scurrent season has seen Big Brother and Big Brother: The Group Chat accumulate 37 million streams alone, up almost 14 million streams (+58 per cent) compared to...",
-   "link": "https://www.advanced-television.com/2026/10/20/big-brother-exceeds-200m-streams-on-itvx/",
-   "outlet": "Advanced Television",
-   "feed_region": "uk",
-   "published": "2026-10-20T00:01:40+01:00"
-  },
-  {
-   "key": "netflixtostreamlaveladadelaoevents",
-   "title": "Netflix to stream La Velada del Año events",
-   "summary": "Netflix has announced that La Velada del Año will stream on its platform for the next three years (the 2027, 2028 and 2029 editions), expanding the reach of the event created by Ibai Llanos to a global audience. La Velada del Año has established itself as one of the biggest Spanish-language streaming events. Its...",
-   "link": "https://www.advanced-television.com/2026/10/20/netflix-to-stream-la-velada-del-ano-events/",
-   "outlet": "Advanced Television",
-   "feed_region": "uk",
-   "published": "2026-10-20T00:00:23+01:00"
-  },
-  {
-   "key": "imfedupofswipingwhysinglesnowwanttomeetirl",
-   "title": "'I'm fed up of swiping': Why singles now want to meet IRL",
-   "summary": "The BBC hears from people who think dating events are better value for money than dating apps.",
-   "link": "https://www.bbc.co.uk/news/articles/cj62y9dnd6pwo?at_medium=RSS&at_campaign=rss",
-   "outlet": "BBC Business",
-   "feed_region": "uk",
-   "published": "2026-10-20T00:00:21+01:00"
-  },
-  {
-   "key": "robotvacuumshaveamajorprivacyproblemyoushouldbeawareof",
-   "title": "Robot vacuums have a major privacy problem you should be aware of",
-   "summary": "Your robot vacuum's microphone and camera are useful for more efficient cleaning, but it's vital to know how that information is stored and shared.",
-   "link": "https://www.engadget.com/2288133/robot-vacuum-major-privacy-problem-you-should-know/",
-   "outlet": "Engadget",
-   "feed_region": "global",
-   "published": "2026-10-20T00:00:00+01:00"
-  },
-  {
-   "key": "embeddedaievaluatorswontbeaneasysolutionhuggingfacespolicychiefsays",
-   "title": "Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says",
-   "summary": "AI labs have staked their reputations on model benchmarking — the supposedly neutral and accurate system of evaluations that are designed to measure whether one AI product is better than another. However, the methods behind these evaluations are complicated and still maturing, said Irene Solaiman, Hugging Face’s...",
-   "link": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/",
-   "outlet": "TechCrunch",
-   "feed_region": "global",
-   "published": "2026-10-19T23:49:27+01:00"
-  },
-  {
-   "key": "metatweaksitsnewtermsofserviceafterbacklashagainstscraping",
-   "title": "Meta tweaks its new terms of service after backlash against scraping",
-   "summary": "The changes have alarmed publishers and others with business accounts.",
-   "link": "https://www.engadget.com/2291188/meta-tweaks-its-new-terms-of-service-after-backlash-against-scraping/",
-   "outlet": "Engadget",
-   "feed_region": "global",
-   "published": "2026-10-19T23:47:00+01:00"
-  },
-  {
-   "key": "pennsylvaniaissuesalertoncongenitalmeaslessomethingushasntseenfordecad",
-   "title": "Pennsylvania issues alert on congenital measles—something US hasn't seen for decades",
-   "summary": "Congenital measles can be fatal, and survivors require monitoring for years.",
-   "link": "https://arstechnica.com/health/2026/10/pennsylvania-issues-alert-on-congenital-measles-something-us-hasnt-seen-for-decades/",
-   "outlet": "Ars Technica",
-   "feed_region": "global",
-   "published": "2026-10-19T23:44:26+01:00"
-  },
-  {
-   "key": "shopifyctomikhailparakhintodepartaftertwoyears",
-   "title": "Shopify CTO Mikhail Parakhin to depart after two years",
-   "summary": "Parakhin, who helped Shopify “level up” in engineering and ML, is transitioning to advisor. The post Shopify CTO Mikhail Parakhin to depart after two years first appeared on BetaKit .",
-   "link": "https://betakit.com/shopify-cto-mikhail-parakhin-to-depart-after-two-years/",
-   "outlet": "BetaKit",
-   "feed_region": "americas",
-   "published": "2026-10-19T23:42:03+01:00"
-  },
-  {
-   "key": "howtowatchmemphisgrizzliesgamesforthe202627nbaseasonunderonestreamingp",
-   "title": "How to Watch Memphis Grizzlies Games for the 2026–27 NBA Season Under One Streaming Platform",
-   "summary": "The Grizzlies open their 2026–27 NBA season against the Utah Jazz on Wednesday, Oct. 21, with regular-season play running through April 2027.",
-   "link": "https://www.hollywoodreporter.com/tv/tv-news/how-to-watch-memphis-grizzlies-2026-27-nba-season-dazn-1236733099/",
-   "outlet": "Hollywood Reporter",
-   "feed_region": "americas",
-   "published": "2026-10-19T23:38:57+01:00"
-  },
-  {
-   "key": "gopsues11tvstationstoblockdemocratshopefloridaadthreatenscriminalcharg",
-   "title": "GOP Sues 11 TV Stations to Block Democrats’ Hope Florida Ad, Threatens Criminal Charges",
-   "summary": "The lawsuit seeks to stop broadcasters from airing a campaign ad about the Hope Florida scandal, drawing criticism from press freedom groups The post GOP Sues 11 TV Stations to Block Democrats’ Hope Florida Ad, Threatens Criminal Charges appeared first on TheWrap .",
-   "link": "https://www.thewrap.com/industry-news/public-policy-legal/florida-gop-sues-tv-stations-democratic-ad-hope-florida/",
-   "outlet": "The Wrap",
-   "feed_region": "americas",
-   "published": "2026-10-19T23:33:24+01:00"
-  },
-  {
-   "key": "elonmusksproposedspacexstockgiveawaywouldgointotrumpaccounts",
-   "title": "Elon Musk’s proposed SpaceX stock giveaway would go into ‘Trump Accounts’",
-   "summary": "President Donald Trump announced this afternoon that Elon Musk's SpaceX shares for children will be given through Trump Accounts. Musk said earlier today that he would give one of his SpaceX shares to \"every kid in America\" sometime next year. Musk had thanked Trump Account booster Brad Gerstner for \"helping enable...",
-   "link": "https://www.theverge.com/tech/1014115/elon-musk-spacex-trump-account",
-   "outlet": "The Verge",
-   "feed_region": "global",
-   "published": "2026-10-19T23:30:42+01:00"
-  },
-  {
-   "key": "whyyourexpensivewifi7routercouldbedeliveringslowerspeeds",
-   "title": "Why your expensive Wi-Fi 7 router could be delivering slower speeds",
-   "summary": "Don't tuck your router away in a corner, even if it is a bit of an eyesore.",
-   "link": "https://www.engadget.com/2288083/wifi-7-router-delivering-lower-speeds-reasons/",
-   "outlet": "Engadget",
-   "feed_region": "global",
-   "published": "2026-10-19T23:30:00+01:00"
-  },
-  {
-   "key": "youcanseeeverythingisagothicromancefortheages",
-   "title": "‘You Can See Everything’ Is a Gothic Romance for the Ages",
-   "summary": "Here’s why Nathan Fielder and Lance Oppenheim’s hit doc is a shared-unreality narrative soon to be taught in film schools alongside 'Rebecca,' 'Gaslight' and 'Mulholland Drive.'",
-   "link": "https://www.hollywoodreporter.com/movies/movie-features/you-can-see-everything-gothic-romance-for-ages-1236735800/",
-   "outlet": "Hollywood Reporter",
-   "feed_region": "americas",
-   "published": "2026-10-19T23:23:46+01:00"
-  },
-  {
-   "key": "ritawilsonsaysshesreturningforlenadunhamsgirlsrevivaliwoulddoanythingf",
-   "title": "Rita Wilson Says She’s Returning for Lena Dunham’s ‘Girls’ Revival: ‘I Would Do Anything for Her’",
-   "summary": "Evie Michaels is back! Rita Wilson is teasing plans to reprise her “Girls” role as Marnie Michael’s eccentric mother in Lena Dunham’s much-anticipated revival. When asked by People if she’ll be returning for the new iteration of the hit show, Wilson told the publication, “That is what I’m hearing, so I don’t think...",
-   "link": "https://variety.com/2026/tv/news/rita-wilson-returning-for-lena-dunhams-girls-revival-1236916942/",
-   "outlet": "Variety",
-   "feed_region": "americas",
-   "published": "2026-10-19T23:18:06+01:00"
-  },
-  {
-   "key": "jasonsegelmarrieskaylaradomski",
-   "title": "Jason Segel Marries Kayla Radomski",
-   "summary": "The 'Shrinking' star and 'So You Think You Can Dance' alum have tied the knot after more than two years together.",
-   "link": "https://www.hollywoodreporter.com/lifestyle/lifestyle-news/jason-segel-married-kayla-radomski-shrinking-himym-1236735763/",
-   "outlet": "Hollywood Reporter",
-   "feed_region": "americas",
-   "published": "2026-10-19T23:16:15+01:00"
-  },
-  {
-   "key": "oscarpredictionsviafeinbergforecastscottsmidoctoberchartsanddissection",
-   "title": "Oscar Predictions via Feinberg Forecast: Scott’s Mid-October Charts and Dissection of the Race",
-   "summary": "The Hollywood Reporter's executive editor of awards offers his latest assessment following a slew of film festivals, the theatrical unveilings of 'You Can See Everything' and 'La Bola Negra,' the Academy Museum Gala at which Taylor Swift performed and more.",
-   "link": "https://www.hollywoodreporter.com/lists/oscar-predictions-feinberg-forecast-2027-race/",
-   "outlet": "Hollywood Reporter",
-   "feed_region": "americas",
-   "published": "2026-10-19T23:11:42+01:00"
-  },
-  {
-   "key": "bobbuziakformerpresidentofrcarecordsandsonystristarmusicgroupdiesat83",
-   "title": "Bob Buziak, Former President of RCA Records and Sony’s Tristar Music Group, Dies at 83",
-   "summary": "Bob Buziak, former president of both RCA Records and Sony’s TriStar Music Group, died on October 19, a rep confirms to Variety. No cause of death was announced; he was 83. Buziak was best known for reviving RCA’s fortunes in the 1980s with hit albums by Bruce Hornsby, Eurythmics and Love and Rockets, not to […]",
-   "link": "https://variety.com/2026/music/news/bob-buziak-dead-rca-records-president-1236916935/",
-   "outlet": "Variety",
-   "feed_region": "americas",
-   "published": "2026-10-19T23:06:34+01:00"
-  },
-  {
-   "key": "microsoftsaysaiagentsarelikeinsiderthreatsasfrontiermodelscantbetruste",
-   "title": "Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’",
-   "summary": "Microsoft wants enterprises to closely watch the agents employees use with systems not controlled by AI labs like OpenAI and Anthropic.",
-   "link": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/",
-   "outlet": "TechCrunch",
-   "feed_region": "global",
-   "published": "2026-10-19T23:04:28+01:00"
-  },
-  {
-   "key": "disneyaskedcharacteraitogobankruptforagetoutoflawsuitscard",
-   "title": "Disney Asked Character.AI To Go Bankrupt For A Get-Out-Of-Lawsuits Card",
-   "summary": "The entertainment giant hopes to get trust and safety tech, among other IP, from a startup whose chatbots dozens of states allege encouraged minors to self-harm and kill their parents. The post Disney Asked Character.AI To Go Bankrupt For A Get-Out-Of-Lawsuits Card appeared first on TV News Check .",
-   "link": "https://tvnewscheck.com/ai/article/disney-asked-character-ai-to-go-bankrupt-for-a-get-out-of-lawsuits-card/",
-   "outlet": "TVNewsCheck",
-   "feed_region": "americas",
-   "published": "2026-10-19T23:03:47+01:00"
-  },
-  {
-   "key": "teluschallengesspectrumeligibilityofprospectivemvno",
-   "title": "Telus challenges spectrum eligibility of prospective MVNO",
-   "summary": "This content is restricted to subscribers The post Telus challenges spectrum eligibility of prospective MVNO appeared first on Cartt.ca .",
-   "link": "https://cartt.ca/telus-challenges-spectrum-eligibility-of-prospective-mvno/",
-   "outlet": "Cartt.ca",
-   "feed_region": "americas",
-   "published": "2026-10-19T23:00:35+01:00"
-  },
-  {
-   "key": "nicholastrutanichtobenamedfoxcorpgeneralcounsel",
-   "title": "Nicholas Trutanich To Be Named Fox Corp. General Counsel",
-   "summary": "The move comes as Adam Ciongoli is stepping down as fox chief legal & policy officer. The post Nicholas Trutanich To Be Named Fox Corp. General Counsel appeared first on TV News Check .",
-   "link": "https://tvnewscheck.com/business/article/nicholas-trutanich-to-be-named-fox-corp-general-counsel/",
-   "outlet": "TVNewsCheck",
-   "feed_region": "americas",
-   "published": "2026-10-19T23:00:04+01:00"
-  },
-  {
-   "key": "whatdoesmlomeanonyourrouterandshouldyouenableit",
-   "title": "What does MLO mean on your router and should you enable it?",
-   "summary": "Multi-link operation is a key part of Wi-Fi 7 routers.",
-   "link": "https://www.engadget.com/2288038/mlo-router-meaning-should-you-enable/",
-   "outlet": "Engadget",
-   "feed_region": "global",
-   "published": "2026-10-19T23:00:00+01:00"
-  },
-  {
-   "key": "our7burningquestionsfornetflixsbigearningsreport",
-   "title": "Our 7 Burning Questions for Netflix’s Big Earnings Report",
-   "summary": "The streaming giant will need to address concerns about its engagement problem as well as its recent leadership shakeup The post Our 7 Burning Questions for Netflix’s Big Earnings Report appeared first on TheWrap .",
-   "link": "https://www.thewrap.com/industry-news/business/netflix-q3-2026-earnings-preview-burning-questions/",
-   "outlet": "The Wrap",
-   "feed_region": "americas",
-   "published": "2026-10-19T22:52:46+01:00"
-  },
-  {
-   "key": "thefossilfuelcomebackishere",
-   "title": "The fossil fuel comeback is here",
-   "summary": "The US is building more fossil fuel infrastructure than it has in a decade while renewable energy growth slows down, a new report shows. Electricity demand is also climbing faster than it has in more than a decade with more data centers, factories, and electric vehicles plugging into the grid. Despite those growing...",
-   "link": "https://www.theverge.com/science/1013954/fossil-fuel-power-infrastructure-data-centers-report",
-   "outlet": "The Verge",
-   "feed_region": "global",
-   "published": "2026-10-19T22:48:01+01:00"
-  },
-  {
-   "key": "howtowatchtherecordbreakingcelebritytraitorsukonlinefromthestates",
-   "title": "How to Watch the Record-Breaking ‘Celebrity Traitors’ U.K. Online From the States",
-   "summary": "The second season airs twice a week on Thursdays and Fridays at 8:00 p.m. U.K. time (12 p.m. PT/3 p.m. ET).",
-   "link": "https://www.hollywoodreporter.com/tv/tv-news/where-to-watch-celebrity-traitors-uk-season-2-online-2026-1236717306/",
-   "outlet": "Hollywood Reporter",
-   "feed_region": "americas",
-   "published": "2026-10-19T22:44:36+01:00"
-  },
-  {
-   "key": "rolemodelshoutsoutjakeshaneandreneerappchannelschucktimelyonfinalnorth",
-   "title": "Role Model Shouts Out Jake Shane and Renee Rapp, Channels Chuck Timely on Final North American Tour Date: Concert Report",
-   "summary": "Without stretching the metaphor too far, Chuck Timely’s hourglass was closer to running out than he might have thought: While the second of two Los Angeles dates of Role Model’s “Chuck on Tour” jaunt in support of his third studio album — titled (naturally enough) “Chuck Timely & the Hourglass” — was scheduled to...",
-   "link": "https://variety.com/2026/music/news/role-model-jake-shane-renee-rapp-concert-report-1236916776/",
-   "outlet": "Variety",
-   "feed_region": "americas",
-   "published": "2026-10-19T22:37:29+01:00"
-  },
-  {
-   "key": "burnhamvowsendtoripoffparkingchargesundernewrules",
-   "title": "Burnham vows end to 'rip-off parking charges' under new rules",
-   "summary": "Penalties are seen as too harsh on motorists who are penalised for parking on private land.",
-   "link": "https://www.bbc.co.uk/news/articles/ck87ze7wl4qno?at_medium=RSS&at_campaign=rss",
-   "outlet": "BBC Business",
-   "feed_region": "uk",
-   "published": "2026-10-19T22:30:06+01:00"
-  },
-  {
-   "key": "coreweavesdebtisbecomingthewholeaiindustrysproblem",
-   "title": "CoreWeave’s debt is becoming the whole AI industry’s problem",
-   "summary": "CoreWeave had a bad week last week. Its bonds slipped into distressed territory by a common definition - when investors demand 1,000 basis points more in yield than they'd get from government bonds. Last Tuesady Chamath \"SPAC King\" Palihapitiya noticed the distressed debt, and also asked whether the AI buildout was...",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1014045/coreweave-stock-debt-sector-ai",
-   "outlet": "The Verge",
-   "feed_region": "global",
-   "published": "2026-10-19T22:28:20+01:00"
-  },
-  {
-   "key": "friendstoreturntochannel4fromjanuary",
-   "title": "Friends to return to Channel 4 from January",
-   "summary": "NEWS BRIEF: The UK's Channel 4 has sealed a deal with Skydance-owned US studio Warner Bros to broadcast Emmy-winning US comedy Friends from January 2027. The iconic sitcom last aired on C4 back in 2011...",
-   "link": "https://www.c21media.net/news/friends-to-return-to-channel-4-from-january/",
-   "outlet": "C21Media",
-   "feed_region": "uk",
-   "published": "2026-10-19T22:25:41+01:00"
-  },
-  {
-   "key": "rogersclaimsconcordenforcing300perunitbuildingaccessfee",
-   "title": "Rogers claims Concord enforcing $300-per-unit building access fee",
-   "summary": "This content is restricted to subscribers The post Rogers claims Concord enforcing $300-per-unit building access fee appeared first on Cartt.ca .",
-   "link": "https://cartt.ca/rogers-claims-concord-enforcing-300-per-unit-building-access-fee/",
-   "outlet": "Cartt.ca",
-   "feed_region": "americas",
-   "published": "2026-10-19T22:17:07+01:00"
-  },
-  {
-   "key": "exopenaiworkeraccusedofplantingbughadsaudisupportclaimsprosecutors",
-   "title": "Ex-OpenAI worker accused of planting bug had Saudi support, claims prosecutors",
-   "summary": "Abdulrahman Alfozan, who is accused of planting a recording device, has been denied bail.",
-   "link": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&at_campaign=rss",
-   "outlet": "BBC Technology",
-   "feed_region": "uk",
-   "published": "2026-10-19T22:12:30+01:00"
-  },
-  {
-   "key": "michaeldouglassaysmarvelwouldntletmequitafteraskingstudioforantmanchar",
-   "title": "Michael Douglas Says Marvel ‘Wouldn’t Let Me’ Quit After Asking Studio for ‘Ant-Man’ Character to Be Killed Off",
-   "summary": "Michael Douglas reached his limit playing Hank Pym (the original Ant-Man) after two Marvel movies, but the studio refused to grant him his wish when he asked for the character to be killed off. The Oscar winner was asked during a recent “Happy Sad Confused” interview if the stories were true about him wanting to […]",
-   "link": "https://variety.com/2026/film/news/michael-douglas-marvel-quit-killed-off-1236916599/",
-   "outlet": "Variety",
-   "feed_region": "americas",
-   "published": "2026-10-19T22:10:07+01:00"
-  },
-  {
-   "key": "italianproducersproposeinvestmentfundtogrowindiesector",
-   "title": "Italian producers propose investment fund to grow indie sector",
-   "summary": "MIA: The Italian producers' association Associazione Produttori Audiovisivi (APA) has proposed what it describes as the first dedicated investment fund for the country's audiovisual industry. The plann...",
-   "link": "https://www.c21media.net/news/italian-producers-propose-investment-fund-to-grow-indie-sector/",
-   "outlet": "C21Media",
-   "feed_region": "uk",
-   "published": "2026-10-19T22:02:46+01:00"
-  },
-  {
-   "key": "jaafarjacksononplayinghisuncleinmichaellosingtheoriginalthirdactandthe",
-   "title": "Jaafar Jackson on Playing His Uncle in ‘Michael,’ Losing the Original Third Act and the Upcoming Sequel: ‘My Job Is to Come Prepared’",
-   "summary": "Two years before a frame of “Michael” was shot, Jaafar Jackson wrote down a list of goals. One was to beat “Bohemian Rhapsody” and cross $1 billion at the worldwide box office. He did both. Antoine Fuqua’s film, which opened April 24, became the first biopic in history to surpass $1 billion worldwide and...",
-   "link": "https://variety.com/2026/film/awards/jaafar-jackson-michael-oscars-sequel-third-act-cut-1236913769/",
-   "outlet": "Variety",
-   "feed_region": "americas",
-   "published": "2026-10-19T22:01:51+01:00"
-  },
-  {
-   "key": "netflixfilmbossdanlinbecomeslatestexecshownthedoor",
-   "title": "Netflix film boss Dan Lin becomes latest exec shown the door",
-   "summary": "Dan Lin is exiting his role as chairman of film at Netflix as the shake-up within its content team continues. The exec, who joined the streaming giant in April 2024, is leaving on the heels of chief co...",
-   "link": "https://www.c21media.net/news/netflix-film-boss-dan-lin-becomes-latest-exec-shown-the-door/",
-   "outlet": "C21Media",
-   "feed_region": "uk",
-   "published": "2026-10-19T22:00:30+01:00"
-  },
-  {
-   "key": "itrieda99plugthatpromisestotrackyourcarandsendhelpwhenneededwithoutsel",
-   "title": "I tried a $99 plug that promises to track your car and send help when needed — without selling your data",
-   "summary": "My 15-year-old daughter just got her learner's permit, so when I was pitched a new gadget tailored to teen drivers, I was intrigued. The Miles Plug is a small device that plugs into your car's OBD-II port and monitors location, driving habits, and vehicle health, along with emergency accident response and roadside...",
-   "link": "https://www.theverge.com/tech/1013918/miles-plug-vehicle-tracking-data-privacy-specs-price-launch-date",
-   "outlet": "The Verge",
-   "feed_region": "global",
-   "published": "2026-10-19T22:00:17+01:00"
-  },
-  {
-   "key": "elizabethholmesexposbookbadbloodreturnstobestsellerlistsfollowingnatha",
-   "title": "Elizabeth Holmes Exposé Book ‘Bad Blood’ Returns to Bestseller Lists Following Nathan Fielder Doc",
-   "summary": "Eight years after its publication, John Carreyrou’s “Bad Blood” is getting another moment in the spotlight — this time courtesy of Nathan Fielder. The Wall Street Journal reporter’s bestselling exposé of Elizabeth Holmes and her fraudulent blood-testing startup Theranos has climbed back up Amazon’s book charts...",
-   "link": "https://variety.com/2026/shopping/news/elizabeth-holmes-biography-bad-blood-buy-online-1236916791/",
-   "outlet": "Variety",
-   "feed_region": "americas",
-   "published": "2026-10-19T22:00:00+01:00"
-  },
-  {
-   "key": "russianspacecraftmaneuversinextremeproximitytosatelliteusedbyukraine",
-   "title": "Russian spacecraft maneuvers in \"extreme proximity\" to satellite used by Ukraine",
-   "summary": "\"Kosmos 2612 closed from hundreds of kilometers away to extreme proximity to ICEYE-X36.\"",
-   "link": "https://arstechnica.com/space/2026/10/russian-spacecraft-maneuvers-in-extreme-proximity-to-satellite-used-by-ukraine/",
-   "outlet": "Ars Technica",
-   "feed_region": "global",
-   "published": "2026-10-19T21:54:17+01:00"
-  },
-  {
-   "key": "5newshowstostreamthisweekonnetflixprimevideoandmore",
-   "title": "5 New Shows to Stream This Week on Netflix, Prime Video and More",
-   "summary": "From \"Nobody Wants This\" to \"The Terminal List\" The post 5 New Shows to Stream This Week on Netflix, Prime Video and More appeared first on TheWrap .",
-   "link": "https://www.thewrap.com/creative-content/what-to-watch/new-shows-streaming-this-week-oct-18-24/",
-   "outlet": "The Wrap",
-   "feed_region": "americas",
-   "published": "2026-10-19T21:50:38+01:00"
-  },
-  {
-   "key": "megynkellybemoansyoucanseeeverythingpoliticalcharliekirkmentionscannot",
-   "title": "Megyn Kelly Bemoans ‘You Can See Everything’ ‘Political’ Charlie Kirk Mentions: ‘Cannot Go Anywhere’",
-   "summary": "\"Does this make me want to say don't go see the movie to you? No, it doesn't,\" the host says The post Megyn Kelly Bemoans ‘You Can See Everything’ ‘Political’ Charlie Kirk Mentions: ‘Cannot Go Anywhere’ appeared first on TheWrap .",
-   "link": "https://www.thewrap.com/creative-content/movies/megyn-kelly-you-can-see-everything-charlie-kirk-mention/",
-   "outlet": "The Wrap",
-   "feed_region": "americas",
-   "published": "2026-10-19T21:47:15+01:00"
-  },
-  {
-   "key": "inoviasecures200millionusdfirstcloseforsixthearlystagevcfund",
-   "title": "Inovia secures $200-million USD first close for sixth early-stage VC fund",
-   "summary": "Fund VI will be Inovia’s “first completely AI-native fund” and focus on frontier tech. The post Inovia secures $200-million USD first close for sixth early-stage VC fund first appeared on BetaKit .",
-   "link": "https://betakit.com/inovia-secures-200-million-usd-first-close-for-sixth-early-stage-vc-fund/",
-   "outlet": "BetaKit",
-   "feed_region": "americas",
-   "published": "2026-10-19T21:45:52+01:00"
-  },
-  {
-   "key": "metablamesbottrafficfornokingsdayinstagramsuspension",
-   "title": "Meta Blames Bot Traffic for No Kings Day Instagram Suspension",
-   "summary": "The No Kings Coalition says that even after the account was visible again, they couldn’t access it for hours.",
-   "link": "https://www.cnet.com/tech/services-and-software/meta-bot-traffic-no-kings-day-instagram-suspension/",
-   "outlet": "CNET News",
-   "feed_region": "global",
-   "published": "2026-10-19T21:39:50+01:00"
-  },
-  {
-   "key": "foxcorptoplawyeradamciongoliisexitingnicktrutanichtotakeoverasgeneralc",
-   "title": "Fox Corp. Top Lawyer Adam Ciongoli Is Exiting, Nick Trutanich to Take Over as General Counsel",
-   "summary": "Fox Corp. said Adam Ciongoli, chief legal and policy officer, will not renew his contract — and that he will step down from the role effective Dec. 1. Ciongoli will serve as a special adviser to Fox through June 2028. Nicholas Trutanich, currently Fox Corp.’s executive vice president, principal deputy general...",
-   "link": "https://variety.com/2026/tv/news/fox-corp-adam-ciongoli-exiting-nicholas-trutanich-general-counsel-1236916844/",
-   "outlet": "Variety",
-   "feed_region": "americas",
-   "published": "2026-10-19T21:31:42+01:00"
-  },
-  {
-   "key": "grocerygiantaholddelhaizeconfirmscyberattackforcedusandeuropeansystems",
-   "title": "Grocery giant Ahold Delhaize confirms cyberattack forced US and European systems offline",
-   "summary": "Second security snafu in two years",
-   "link": "https://www.theregister.com/security/2026/10/19/grocery-giant-ahold-delhaize-confirms-cyberattack-forced-us-and-european-systems-offline/5303970",
-   "outlet": "The Register",
-   "feed_region": "global",
-   "published": "2026-10-19T21:26:21+01:00"
-  },
-  {
-   "key": "manitobasaystaxondatacentrescryptominerswillbeusedtolowerutilityrates",
-   "title": "Manitoba says tax on data centres, crypto miners will be used to lower utility rates",
-   "summary": "Government predicts levy could draw as much as $20 million in revenue. The post Manitoba says tax on data centres, crypto miners will be used to lower utility rates first appeared on BetaKit .",
-   "link": "https://betakit.com/manitoba-says-tax-on-data-centres-crypto-miners-will-be-used-to-lower-utility-rates/",
-   "outlet": "BetaKit",
-   "feed_region": "americas",
-   "published": "2026-10-19T21:25:38+01:00"
-  },
-  {
-   "key": "amazonmakesvaguecommitmenttounprovennucleartechtopowerindianadatacente",
-   "title": "Amazon makes vague commitment to unproven nuclear tech to power Indiana datacenters",
-   "summary": "Partner X-energy has not built a single working reactor yet",
-   "link": "https://www.theregister.com/offbeat/2026/10/19/amazon-makes-vague-commitment-to-unproven-nuclear-tech-to-power-indiana-datacenters/5303974",
-   "outlet": "The Register",
-   "feed_region": "global",
-   "published": "2026-10-19T21:22:47+01:00"
-  },
-  {
-   "key": "accusedopenaispyhadfoldercalledsaudigovdocsfbisays",
-   "title": "Accused OpenAI spy had folder called “Saudi Gov Docs,” FBI says",
-   "summary": "US fears Saudi government will help ex-OpenAI engineer flee spying charges.",
-   "link": "https://arstechnica.com/tech-policy/2026/10/accused-openai-spy-had-folder-called-saudi-gov-docs-fbi-says/",
-   "outlet": "Ars Technica",
-   "feed_region": "global",
-   "published": "2026-10-19T21:21:53+01:00"
-  },
-  {
-   "key": "bbcseeksjacksmithdepositionintrumps10billiondefamationcase",
-   "title": "BBC Seeks Jack Smith Deposition in Trump’s $10 Billion Defamation Case",
-   "summary": "The broadcaster says the former special counsel may have evidence relevant to the president's Jan. 6 intent The post BBC Seeks Jack Smith Deposition in Trump’s $10 Billion Defamation Case appeared first on TheWrap .",
-   "link": "https://www.thewrap.com/industry-news/public-policy-legal/bbc-trump-defamation-lawsuit-jack-smith-deposition/",
-   "outlet": "The Wrap",
-   "feed_region": "americas",
-   "published": "2026-10-19T21:18:26+01:00"
-  },
-  {
-   "key": "richardriehleofficespaceactordiesat78",
-   "title": "Richard Riehle, ‘Office Space’ Actor, Dies at 78",
-   "summary": "The mustachioed character actor also was memorable in ‘The Fugitive,’ ‘Glory,’ ‘Casino,’ ‘Deuce Bigalow: Male Gigolo’ and ‘Grounded for Life.’",
-   "link": "https://www.hollywoodreporter.com/movies/movie-news/richard-riehle-dead-office-space-1236735653/",
-   "outlet": "Hollywood Reporter",
-   "feed_region": "americas",
-   "published": "2026-10-19T21:17:41+01:00"
-  },
-  {
-   "key": "chelseysummeydepartswarnerbrosasskydanceplanscommsreshuffle",
-   "title": "Chelsey Summey Departs Warner Bros. as Skydance Plans Comms Reshuffle",
-   "summary": "Paramount comms EVP Brooke Robertson will handle Warner Bros.' film division The post Chelsey Summey Departs Warner Bros. as Skydance Plans Comms Reshuffle appeared first on TheWrap .",
-   "link": "https://www.thewrap.com/culture-lifestyle/culture/chelsey-summey-departs-warner-bros-skydance/",
-   "outlet": "The Wrap",
-   "feed_region": "americas",
-   "published": "2026-10-19T21:10:18+01:00"
-  },
-  {
-   "key": "amazonistakingitsbiggestshotatnvidiayetwithnewtorchneurondevtool",
-   "title": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool",
-   "summary": "Amazon wants to break Nvidia’s hold on PyTorch, the free toolkit used to build most AI apps, so that more developers run their apps on alternative chips like its own.",
-   "link": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/",
-   "outlet": "TechCrunch",
-   "feed_region": "global",
-   "published": "2026-10-19T21:09:24+01:00"
-  },
-  {
-   "key": "japanlaunchesmissiontomarstobringbacksamplesfromitsmoon",
-   "title": "Japan launches mission to Mars to bring back samples from its moon",
-   "summary": "Japan launched a spacecraft towards Mars in a ground-breaking mission to bring back samples from the largest of the planet's two moons.",
-   "link": "https://news.sky.com/story/japan-launches-mission-to-mars-to-bring-back-samples-from-one-of-its-moons-13601139",
-   "outlet": "Sky News Tech",
-   "feed_region": "uk",
-   "published": "2026-10-19T21:04:00+01:00"
-  },
-  {
-   "key": "batterieshelpreduceemissionsbuthowdowereducetheiremissions",
-   "title": "Batteries help reduce emissions, but how do we reduce their emissions?",
-   "summary": "One way to make batteries cleaner is to make fewer of them.",
-   "link": "https://arstechnica.com/science/2026/10/batteries-have-a-small-carbon-footprint-we-can-make-it-smaller/",
-   "outlet": "Ars Technica",
-   "feed_region": "global",
-   "published": "2026-10-19T21:03:55+01:00"
-  },
-  {
-   "key": "maxwellgivessuboptimalcodearuntimeglowup",
-   "title": "Maxwell gives sub-optimal code a runtime glow-up",
-   "summary": "Finally, your hardware has its own agent",
-   "link": "https://www.theregister.com/ai-and-ml/2026/10/19/maxwell-gives-sub-optimal-code-a-runtime-glow-up/5303961",
-   "outlet": "The Register",
-   "feed_region": "global",
-   "published": "2026-10-19T20:57:49+01:00"
-  },
-  {
-   "key": "krisbowerssettocomposeoriginalscorefordisneysanimatedfeaturehexedexclu",
-   "title": "Kris Bowers Set to Compose Original Score For Disney’s Animated Feature ‘Hexed’ (EXCLUSIVE)",
-   "summary": "Academy Award winning composer Kris Bowers is set to score the music for the upcoming Disney animated feature “Hexed.” The film stars Hailee Steinfeld, Rashida Jones, Jodie Foster and Walton Goggins in a magical coming-of-age saga. “Hexed” follows an unconventional teenage girl who discovers secret magical...",
-   "link": "https://variety.com/2026/artisans/news/kris-bowers-composer-original-score-hexed-disney-1236916751/",
-   "outlet": "Variety",
-   "feed_region": "americas",
-   "published": "2026-10-19T20:48:06+01:00"
-  },
-  {
-   "key": "hunterschaferrevealsshehadgenderaffirmingbottomsurgery",
-   "title": "Hunter Schafer Reveals She Had Gender-Affirming Bottom Surgery",
-   "summary": "Hunter Schafer has undergone bottom surgery, the “Euphoria” star revealed. “I just had bottom surgery in December, which was amazing, and I love it so much,” Schafer told Elle magazine, referring to the gender-affirming operation that alters a person’s genitals to align with their gender identity. “For a long time...",
-   "link": "https://variety.com/2026/film/news/hunter-schafer-bottom-surgery-1236916742/",
-   "outlet": "Variety",
-   "feed_region": "americas",
-   "published": "2026-10-19T20:47:48+01:00"
-  },
-  {
-   "key": "psapatchyourplexmediaserverbeforesomeonehacksit",
-   "title": "PSA: Patch your Plex media server before someone hacks it",
-   "summary": "A researcher says attacks chaining 4 vulnerabilities is hacking unpatched boxes.",
-   "link": "https://arstechnica.com/security/2026/10/recently-fixed-plex-media-vulnerabilities-are-being-exploited-to-install-malware/",
-   "outlet": "Ars Technica",
-   "feed_region": "global",
-   "published": "2026-10-19T20:39:19+01:00"
   }
  ]
 }
