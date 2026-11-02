@@ -1,0 +1,442 @@
+{
+  "schema": 1,
+  "iso": "2026-11-02",
+  "headline": "Alphabet shares tumble as tech giants face new AI industry regulations",
+  "date_line": "Monday 02 November 2026 · covering Thu 29 Oct to Sun 01 Nov",
+  "footer_note": "Built from 26 cited articles across 15 outlets. Written by gemini-3.1-flash-lite, gemini-3.5-flash.",
+  "model": "gemini-3.1-flash-lite, gemini-3.5-flash",
+  "backfilled": false,
+  "generated_at": "2026-11-02T07:41:56+00:00",
+  "digest": {
+    "headline": "Alphabet shares tumble as tech giants face new AI industry regulations",
+    "lead": "Alphabet shares fell sharply after AI search features impacted advertising revenues in the United Kingdom. Meanwhile, major technology firms in the United States and Canada have agreed to a unified web standard that allows publishers to restrict content scraping for artificial intelligence model training.",
+    "glance": [
+      {
+        "text": "Alphabet lost half a trillion dollars in market value after reporting that AI search features hit ad revenues.",
+        "section": "results",
+        "refs": [
+          1,
+          2
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "UK regulator Ofcom outlined age verification methods for social platforms ahead of planned restrictions for under-16s.",
+        "section": "regulation",
+        "refs": [
+          3,
+          4
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "Virgin Media O2 plans to cut thousands of jobs across its workforce to reduce costs.",
+        "section": "results",
+        "refs": [
+          5,
+          6
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "UK commercial radio reached 40m weekly listeners in Q3 2026, outperforming the BBC by nine million.",
+        "section": "radio",
+        "refs": [
+          7
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "Meta, TikTok and X lost a legal challenge against UK watchdog data demands under new regulations.",
+        "section": "regulation",
+        "refs": [
+          8
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "Ampere Analysis reported that non-English content makes up 65% of acquisitions on Netflix.",
+        "section": "audience",
+        "refs": [
+          9,
+          10
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "Microsoft will withdraw its Copilot AI assistant from Samsung and LG smart TVs before the end of the year.",
+        "section": "tech",
+        "refs": [
+          11,
+          12
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "Google, OpenAI, Anthropic, and Microsoft pledged support for a new common robots.txt signal to block AI training scrapers.",
+        "section": "tech",
+        "refs": [
+          13,
+          14
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "Microsoft generated $10bn in revenue from its commercial agreements with OpenAI during the third calendar quarter.",
+        "section": "results",
+        "refs": [
+          15
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "Amazon reported slowed third-quarter ad revenue growth, missing Wall Street expectations partly due to Prime Day timing shifts.",
+        "section": "results",
+        "refs": [
+          16
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "The US Supreme Court will consider whether to review an antitrust appeal involving Nielsen's radio rating pricing methods.",
+        "section": "radio",
+        "refs": [
+          17
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "Paramount+ acquired non-exclusive rights to several kids franchises from Moonbug Entertainment, including CoComelon and Blippi content.",
+        "section": "deals",
+        "refs": [
+          18
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "The CRTC launched a free downloadable music database to help Canadian broadcasters ensure Canadian content compliance.",
+        "section": "regulation",
+        "refs": [
+          19,
+          20
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "South Korean regulators fined Apple and Google over violations of the country's Telecommunications Business Act.",
+        "section": "regulation",
+        "refs": [
+          21
+        ],
+        "region": "americas"
+      }
+    ],
+    "sections": [
+      {
+        "id": "results",
+        "paragraphs": [
+          "Alphabet experienced its worst day on the US stock market, with its valuation falling by roughly $500bn. Shares dropped over 12% to a six-month low after the firm acknowledged that its AI search summaries are dragging down ad sales.",
+          "On the network side, Virgin Media O2 is preparing to cut thousands of jobs as part of a cost reduction drive. The telecommunications provider has not finalized the precise headcount reduction, but sources indicate a sizeable portion of staff will be affected."
+        ],
+        "region": "uk"
+      },
+      {
+        "id": "regulation",
+        "paragraphs": [
+          "Ofcom has set out age verification options for social media platforms ahead of proposed UK legislation targeting under-16s. Recommended solutions include facial age estimation, digital IDs, photo verification and banking checks.",
+          "Separately, Meta, TikTok and X lost a legal challenge against the UK media regulator regarding moderation data requests. The platforms had contested the amount of internal information Ofcom is demanding under upgraded statutory powers."
+        ],
+        "region": "uk"
+      },
+      {
+        "id": "radio",
+        "paragraphs": [
+          "Commercial radio reached 40 million weekly listeners in Q3 2026 according to the latest Rajar figures, outperforming the BBC by nine million. Global's Heart maintained a total audience of 13 million, although its flagship breakfast show dipped below four million.",
+          "BBC Radio 2 Breakfast delivered audience gains over the period, while Times Radio Breakfast and talkSPORT also recorded year-on-year growth. Meanwhile, BBC Radio 1 selected three new DJs for its Annie Nightingale Pioneers initiative."
+        ],
+        "region": "uk"
+      },
+      {
+        "id": "tech",
+        "paragraphs": [
+          "Microsoft is shutting down its Copilot AI functionality on Samsung and LG smart televisions before the end of the year. Support will cease on 1 December 2026, though the assistant will remain active on desktop, mobile and web platforms.",
+          "Research from TiVo shows UK viewers now spend over £82 per month on streaming services. Audiences are paying more while managing an increasingly fragmented market of apps and television platforms."
+        ],
+        "region": "uk"
+      },
+      {
+        "id": "tech",
+        "paragraphs": [
+          "Major technology leaders including Google, OpenAI, Anthropic, and Microsoft have agreed to support a unified web control mechanism. The standard will allow content owners to opt out of AI training scraping across multiple platforms through a single signal.",
+          "Separately, OpenAI chief executive Sam Altman publicly defended centralized data center infrastructure during a recent podcast appearance. He stated that concentrating RAM resources inside data centers is preferable to distributing memory across individual personal computers."
+        ],
+        "region": "americas"
+      },
+      {
+        "id": "results",
+        "paragraphs": [
+          "Microsoft disclosed $10 billion in revenue from its commercial arrangements with OpenAI for the third calendar quarter of 2026. The firm's overall quarterly revenue grew by 19 percent to reach $92.3 billion.",
+          "Amazon experienced slower growth in its advertising sector during the same period. The ecommerce company missed broader market expectations, pointing to shifting foreign exchange rates and moving Prime Day into the second quarter."
+        ],
+        "region": "americas"
+      },
+      {
+        "id": "regulation",
+        "paragraphs": [
+          "The Federal Communications Commission fined Nexstar $80,500 over regulatory breaches. The violations involved children's advertising standards, political ad file maintenance, and station modification rules.",
+          "In Canada, the CRTC introduced a national music database to aid broadcast regulatory compliance. The public resource allows radio stations to identify Canadian content easily."
+        ],
+        "region": "americas"
+      },
+      {
+        "id": "radio",
+        "paragraphs": [
+          "Nielsen's legal battles over radio measurement pricing are moving to the US Supreme Court. Justices will evaluate whether to hear an appeal regarding antitrust claims made against the agency.",
+          "House Democrats urged the US Senate to retain Commissioner Anna Gomez at the FCC. Lawmakers cited the need to protect the bipartisan commission structure and editorial independence for local broadcasters."
+        ],
+        "region": "americas"
+      }
+    ],
+    "people_moves": [
+      {
+        "text": "Adam Adler appointed as creative director of Channel 4's in-house production business",
+        "refs": [
+          22
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "Damla Dogan, Head of Unscripted, Paramount+",
+        "refs": [
+          23
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "David Berzin, Senior Vice President of Product and Data Strategy, NPR",
+        "refs": [
+          24
+        ],
+        "region": "americas"
+      }
+    ],
+    "coming_up": [
+      {
+        "date": "01 Dec 2026",
+        "text": "Microsoft to discontinue Copilot AI assistant on Samsung and LG smart TVs",
+        "refs": [
+          11
+        ],
+        "region": "uk"
+      },
+      {
+        "date": "01 Nov 2026",
+        "text": "Moonbug kids programming begins arriving on Paramount+",
+        "refs": [
+          18
+        ],
+        "region": "americas"
+      },
+      {
+        "date": "03 Nov 2026",
+        "text": "Sinclair airs live Election Night coverage on CW and MyNetworkTV stations",
+        "refs": [
+          25
+        ],
+        "region": "americas"
+      },
+      {
+        "date": "16 Nov 2026",
+        "text": "Alliance for Women in Media presents Gracies Icon Award to Hannah Storm",
+        "refs": [
+          26
+        ],
+        "region": "americas"
+      }
+    ]
+  },
+  "articles": [
+    {
+      "ref": 1,
+      "title": "Google owner Alphabet suffers worst-ever day - as value plunges $500bn",
+      "link": "https://news.sky.com/story/google-parent-alphabet-takes-500bn-hit-on-ai-worries-13605428",
+      "outlet": "Sky News Tech",
+      "region": "uk"
+    },
+    {
+      "ref": 2,
+      "title": "Google value plunges by $500bn as its own AI search hits ad sales",
+      "link": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss",
+      "outlet": "BBC Technology",
+      "region": "uk"
+    },
+    {
+      "ref": 3,
+      "title": "Ofcom sets out age verification options",
+      "link": "https://www.advanced-television.com/2026/10/29/ofcom-sets-out-age-verification-options/",
+      "outlet": "Advanced Television",
+      "region": "uk"
+    },
+    {
+      "ref": 4,
+      "title": "Ofcom outlines age check methods ahead of social media ban for under-16s",
+      "link": "https://www.bbc.co.uk/news/articles/c6ly3027820lo?at_medium=RSS&at_campaign=rss",
+      "outlet": "BBC Technology",
+      "region": "uk"
+    },
+    {
+      "ref": 5,
+      "title": "Thousands of jobs at Virgin Media O2 to be cut",
+      "link": "https://www.bbc.co.uk/news/articles/c6rry8x9d9qko?at_medium=RSS&at_campaign=rss",
+      "outlet": "BBC Business",
+      "region": "uk"
+    },
+    {
+      "ref": 6,
+      "title": "Virgin Media O2 set to cut thousands of jobs to reduce costs",
+      "link": "https://www.bbc.co.uk/news/articles/c6rry8x9d9qko?at_medium=RSS&at_campaign=rss",
+      "outlet": "BBC Business",
+      "region": "uk"
+    },
+    {
+      "ref": 7,
+      "title": "Rajar Q3 2026: 40m people tune into commercial radio each week",
+      "link": "https://uk.themedialeader.com/rajar-q3-2026-40m-people-tune-into-commercial-radio-each-week/",
+      "outlet": "The Media Leader",
+      "region": "uk"
+    },
+    {
+      "ref": 8,
+      "title": "Meta, TikTok and X lose hearing against UK watchdog over moderation data demands",
+      "link": "https://news.sky.com/story/meta-tiktok-and-x-lose-hearing-against-uk-watchdog-over-moderation-data-demands-13605731",
+      "outlet": "Sky News Tech",
+      "region": "uk"
+    },
+    {
+      "ref": 9,
+      "title": "Non-English content makes up 65% of Netflix acquisitions, 50% on Disney+ – Ampere",
+      "link": "https://www.c21media.net/news/non-english-content-makes-up-65-of-netflix-acquisitions-50-on-disney-ampere/",
+      "outlet": "C21Media",
+      "region": "uk"
+    },
+    {
+      "ref": 10,
+      "title": "Research: Netflix, Disney+ increase non-English content acquisitions",
+      "link": "https://www.advanced-television.com/2026/10/29/research-netflix-disney-increasing-non-english-content-acquisitions/",
+      "outlet": "Advanced Television",
+      "region": "uk"
+    },
+    {
+      "ref": 11,
+      "title": "Microsoft to withdraw Copilot from Samsung and LG TVs",
+      "link": "https://www.broadbandtvnews.com/2026/10/30/microsoft-to-withdraw-copilot-from-samsung-and-lg-tvs/",
+      "outlet": "Broadband TV News",
+      "region": "uk"
+    },
+    {
+      "ref": 12,
+      "title": "Microsoft pulling Copilot from smart TVs",
+      "link": "https://www.advanced-television.com/2026/10/30/microsoft-pulling-copilot-from-smart-tvs/",
+      "outlet": "Advanced Television",
+      "region": "uk"
+    },
+    {
+      "ref": 13,
+      "title": "Google joins OpenAI and Anthropic in promising new scraping controls",
+      "link": "https://www.engadget.com/2303225/google-openai-anthropic-ai-crawling-controls/",
+      "outlet": "Engadget",
+      "region": "americas"
+    },
+    {
+      "ref": 14,
+      "title": "The biggest names in AI are backing a new way to opt out of scraping",
+      "link": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out",
+      "outlet": "The Verge",
+      "region": "americas"
+    },
+    {
+      "ref": 15,
+      "title": "Microsoft Generated $10B In Revenue From OpenAI",
+      "link": "https://tvnewscheck.com/ai/article/microsoft-generated-10b-in-revenue-from-openai/",
+      "outlet": "TVNewsCheck",
+      "region": "americas"
+    },
+    {
+      "ref": 16,
+      "title": "Amazon Ad Revenue Growth Slows in Q3, Ecommerce Giant Undershoots Earnings Estimates",
+      "link": "https://variety.com/2026/biz/news/amazon-q3-2026-earnings-1236934415/",
+      "outlet": "Variety",
+      "region": "americas"
+    },
+    {
+      "ref": 17,
+      "title": "Supreme Court to Consider Nielsen’s Antitrust Appeal",
+      "link": "https://radioink.com/2026/10/29/supreme-court-to-consider-nielsens-antitrust-appeal/",
+      "outlet": "Radio Ink",
+      "region": "americas"
+    },
+    {
+      "ref": 18,
+      "title": "Paramount+ Acquires Rights to Moonbug Series From the ‘Blippi’ and ‘CoComelon’ Universes (EXCLUSIVE)",
+      "link": "https://variety.com/2026/tv/news/paramount-blippi-cocomelon-moonbug-series-1236935530/",
+      "outlet": "Variety",
+      "region": "americas"
+    },
+    {
+      "ref": 19,
+      "title": "CRTC launches music database to aid radio Cancon compliance",
+      "link": "https://broadcastdialogue.com/crtc-launches-music-database-to-aid-radio-cancon-compliance/",
+      "outlet": "Broadcast Dialogue",
+      "region": "americas"
+    },
+    {
+      "ref": 20,
+      "title": "CRTC launches public database for Canadian music",
+      "link": "https://cartt.ca/crtc-launches-public-database-for-canadian-music/",
+      "outlet": "Cartt.ca",
+      "region": "americas"
+    },
+    {
+      "ref": 21,
+      "title": "Apple and Google fined in South Korea over app store violations",
+      "link": "https://www.engadget.com/2300690/apple-google-fined-south-korea-app-store-violations/",
+      "outlet": "Engadget",
+      "region": "americas"
+    },
+    {
+      "ref": 22,
+      "title": "Adam Adler joins Channel 4’s in-house production business as creative director",
+      "link": "https://www.c21media.net/news/adam-adler-joins-channel-4s-in-house-production-business-as-creative-director/",
+      "outlet": "C21Media",
+      "region": "uk"
+    },
+    {
+      "ref": 23,
+      "title": "Paramount+ Taps Former Netflix Exec Damla Dogan as Head of Unscripted",
+      "link": "https://www.thewrap.com/industry-news/business/paramount-plus-damla-dogan-head-of-unscripted/",
+      "outlet": "The Wrap",
+      "region": "americas"
+    },
+    {
+      "ref": 24,
+      "title": "NPR Hires Hearst Magazines’ Berzin To Lead Product",
+      "link": "https://radioink.com/2026/11/01/npr-hires-hearst-magazines-berzin-to-lead-product/",
+      "outlet": "Radio Ink",
+      "region": "americas"
+    },
+    {
+      "ref": 25,
+      "title": "Sinclair Plans Live Election Night Coverage Across Stations",
+      "link": "https://tvnewscheck.com/journalism/article/sinclair-plans-live-election-night-coverage-across-stations/",
+      "outlet": "TVNewsCheck",
+      "region": "americas"
+    },
+    {
+      "ref": 26,
+      "title": "AWM to Honor ESPN’s Hannah Storm With Gracies Icon Award",
+      "link": "https://radioink.com/2026/10/29/awm-to-honor-espns-hannah-storm-with-gracies-icon-award/",
+      "outlet": "Radio Ink",
+      "region": "americas"
+    }
+  ]
+}
