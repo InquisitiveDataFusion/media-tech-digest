@@ -1,0 +1,535 @@
+{
+  "schema": 1,
+  "iso": "2026-11-05",
+  "headline": "Culture Secretary intervenes in Sky proposed takeover of ITV Media",
+  "date_line": "Thursday 05 November 2026 · covering Mon 02 Nov to Wed 04 Nov",
+  "footer_note": "Built from 35 cited articles across 14 outlets. Written by gemini-3.5-flash.",
+  "model": "gemini-3.5-flash",
+  "backfilled": false,
+  "generated_at": "2026-11-05T07:55:08+00:00",
+  "digest": {
+    "headline": "Culture Secretary intervenes in Sky proposed takeover of ITV Media",
+    "lead": "",
+    "glance": [
+      {
+        "text": "Lisa Nandy has referred Sky's proposed acquisition of ITV's Media & Entertainment arm to Ofcom and the CMA.",
+        "section": "regulation",
+        "refs": [
+          1,
+          2,
+          3
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "Sky News expanded its partnership with Arc XP to build a new video-led app and website for 2027.",
+        "section": "tech",
+        "refs": [
+          4,
+          5,
+          6
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "BBC Deputy Director-General Rhodri Talfan Davies reported the corporation has reached £200m of its £500m savings goal.",
+        "section": "results",
+        "refs": [
+          7
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "ITV extended its anti-piracy partnership with Friend MTS for two more years across broadcast and streaming channels.",
+        "section": "tech",
+        "refs": [
+          8,
+          9
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "Sky Sports secured UK broadcast rights to the new WTGL women's team golf league alongside TGL.",
+        "section": "deals",
+        "refs": [
+          10,
+          11
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "Bauer and the IPA released research linking combined audio, outdoor and publishing campaigns to increased brand trust.",
+        "section": "radio",
+        "refs": [
+          12
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "Global paired LBC and The News Agents for live overnight coverage of the US midterm elections.",
+        "section": "radio",
+        "refs": [
+          13
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "Roku reported $1.5 billion in third-quarter revenue and $183 million in net income amidst its pending merger with Fox.",
+        "section": "results",
+        "refs": [
+          14,
+          15,
+          16
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "OpenAI announced that search query volume through ChatGPT has reached 20 percent of Google's search volume.",
+        "section": "tech",
+        "refs": [
+          17
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "Major AI developers agreed to support a unified robots.txt signal allowing publishers to opt out of content scraping.",
+        "section": "tech",
+        "refs": [
+          18
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "Sinclair Broadcast Group recorded a 16 percent revenue surge to $893 million driven by record political ad spending.",
+        "section": "results",
+        "refs": [
+          19
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "Google helped dismantle the X.CPE botnet after an Android manufacturing partner infected 1.3 million set-top boxes.",
+        "section": "tech",
+        "refs": [
+          20,
+          21
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "Senate Commerce Committee rescheduled a nomination hearing for Republican Danielle Thumann Severs for an open FCC seat.",
+        "section": "regulation",
+        "refs": [
+          22,
+          23
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "Netflix hired Google executive Darshan Kantak to lead its global advertising product, engineering and data teams.",
+        "section": "people",
+        "refs": [
+          24
+        ],
+        "region": "americas"
+      }
+    ],
+    "sections": [
+      {
+        "id": "regulation",
+        "paragraphs": [
+          "Culture Secretary Lisa Nandy has formally intervened in Sky's planned acquisition of ITV's Media & Entertainment business. She issued a Public Interest Intervention Notice to trigger investigations by UK watchdogs.",
+          "Ofcom will examine public interest concerns and apply a streaming test to the deal. The Competition and Markets Authority will review the transaction from a competition perspective."
+        ],
+        "region": "uk"
+      },
+      {
+        "id": "tech",
+        "paragraphs": [
+          "Sky News has expanded its strategic partnership with Arc XP as part of its 'Sky News 2030' initiative. Arc XP will supply technology for a redesigned app and website targeted to launch by the end of 2027.",
+          "ITV has renewed its partnership with video cybersecurity firm Friend MTS for two years. The anti-piracy vendor will continue providing 24/7 defence across ITV's linear channels and streaming platforms."
+        ],
+        "region": "uk"
+      },
+      {
+        "id": "results",
+        "paragraphs": [
+          "BBC Deputy Director-General Rhodri Talfan Davies gave an update on the corporation's financial targets at a Broadcasting Press Guild event. The pubcaster has surpassed £200m in savings as it works towards a £500m target by 2028."
+        ],
+        "region": "uk"
+      },
+      {
+        "id": "radio",
+        "paragraphs": [
+          "Bauer and the IPA published a joint study examining audio campaign effectiveness. The research shows that combining audio with outdoor and publishing platforms delivers stronger brand trust and commercial outcomes.",
+          "Global united LBC and podcast studio team The News Agents for overnight coverage of the US midterm elections. Presenters reported live from the US throughout the night."
+        ],
+        "region": "uk"
+      },
+      {
+        "id": "results",
+        "paragraphs": [
+          "Roku delivered strong financial results for the third quarter of 2026, generating $1.5 billion in total revenue. The streaming provider earned $183 million in net income, easily beating Wall Street expectations due to robust subscription growth and higher media ad spending.",
+          "Sinclair Broadcast Group also posted notable growth, with total revenue rising 16 percent to $893 million. A 55 percent surge in political ad spend and strong live sports viewership helped the company top its full-year guidance."
+        ],
+        "region": "americas"
+      },
+      {
+        "id": "tech",
+        "paragraphs": [
+          "OpenAI, Anthropic, Google and Microsoft announced support for a common robots.txt signal. This initiative aims to let publishers opt out of AI scraping through a single standard rather than managing each crawler individually.",
+          "OpenAI revealed that ChatGPT search queries have reached 20 percent of Google's search volume. Meanwhile, Google cut ties with set-top box maker Videostrong Technology after discovering a backdoor that turned 1.3 million devices into a global botnet."
+        ],
+        "region": "americas"
+      },
+      {
+        "id": "regulation",
+        "paragraphs": [
+          "The US Senate Commerce Committee rescheduled a hearing for Danielle Thumann Severs' nomination to the FCC. If confirmed, she will fill a Republican seat and establish a 3-1 conservative majority on the commission.",
+          "In Canada, the CRTC will hold a virtual hearing regarding an application for a new radio licence in Glencoe, Ontario. The regulator also approved an application by U Multicultural to add an Indigenous subchannel to its station in Winnipeg."
+        ],
+        "region": "americas"
+      }
+    ],
+    "people_moves": [
+      {
+        "text": "Rhuanedd Richards appointed Director of BBC Nations permanently",
+        "refs": [
+          25,
+          26
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "Jatin Aythora steps down as Director of Research and Development at BBC",
+        "refs": [
+          27,
+          28
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "Richard Spurr leaves LBC overnight show after four years",
+        "refs": [
+          29
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "Darshan Kantak joins Netflix as Vice President of Ads Platform from Google.",
+        "refs": [
+          24
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "Jenny Groom named Head of MGM Alternative at Amazon MGM Studios.",
+        "refs": [
+          30
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "Rich Latour appointed Lead of In-House Content Studio at Meta.",
+        "refs": [
+          31
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "Ariel Yang named Head of Digital Originals at CBC.",
+        "refs": [
+          32
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "Chantal Côté appointed Deputy Director at Telus Fund.",
+        "refs": [
+          33
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "Jennifer Lopez promoted to Vice President and General Manager of KBOI, KYUU and KNIN at Sinclair Broadcast Group.",
+        "refs": [
+          34
+        ],
+        "region": "americas"
+      }
+    ],
+    "coming_up": [
+      {
+        "date": "27 Jan",
+        "text": "Ofcom and CMA due to report to Culture Secretary on Sky-ITV deal",
+        "refs": [
+          2
+        ],
+        "region": "uk"
+      },
+      {
+        "date": "08 Nov",
+        "text": "Inaugural WTGL women's team golf league season begins on Sky Sports",
+        "refs": [
+          11
+        ],
+        "region": "uk"
+      },
+      {
+        "date": "19 Jan",
+        "text": "CRTC virtual hearing to consider the Lakeside Radio application for a Glencoe FM licence.",
+        "refs": [
+          35
+        ],
+        "region": "americas"
+      }
+    ]
+  },
+  "articles": [
+    {
+      "ref": 1,
+      "title": "Lisa Nandy asks Ofcom and CMA to investigate ITV/Sky deal",
+      "link": "https://www.tvbeurope.com/business/lisa-nandy-asks-ofcom-and-cma-to-investigate-itv-sky-deal",
+      "outlet": "TVBEurope",
+      "region": "uk"
+    },
+    {
+      "ref": 2,
+      "title": "Nandy refers Sky–ITV deal for scrutiny and adds streaming test",
+      "link": "https://www.broadbandtvnews.com/2026/11/04/nandy-refers-sky-itv-deal-for-scrutiny-and-adds-streaming-test/",
+      "outlet": "Broadband TV News",
+      "region": "uk"
+    },
+    {
+      "ref": 3,
+      "title": "UK Culture Secretary intervenes in Sky, ITV deal",
+      "link": "https://www.advanced-television.com/2026/11/04/uk-culture-secretary-intervenes-in-sky-itv-deald/",
+      "outlet": "Advanced Television",
+      "region": "uk"
+    },
+    {
+      "ref": 4,
+      "title": "Sky News expands Arc XP partnership",
+      "link": "https://www.advanced-television.com/2026/11/02/sky-news-expands-arc-xp-partnership/",
+      "outlet": "Advanced Television",
+      "region": "uk"
+    },
+    {
+      "ref": 5,
+      "title": "Sky News expands Arc XP deal for video-led app and website",
+      "link": "https://www.broadbandtvnews.com/2026/11/03/sky-news-expands-arc-xp-deal-for-video-led-app-and-website/",
+      "outlet": "Broadband TV News",
+      "region": "uk"
+    },
+    {
+      "ref": 6,
+      "title": "Sky News expands Arc XP partnership for a new app and website",
+      "link": "https://news.sky.com/story/sky-news-expands-arc-xp-partnership-to-create-next-generation-app-and-website-13607052",
+      "outlet": "Sky News Tech",
+      "region": "uk"
+    },
+    {
+      "ref": 7,
+      "title": "BBC deputy DG discusses £500m savings target as pubcaster passes £200m mark",
+      "link": "https://www.c21media.net/news/bbc-deputy-dg-discusses-500m-savings-target-as-pubcaster-passes-200m-mark/",
+      "outlet": "C21Media",
+      "region": "uk"
+    },
+    {
+      "ref": 8,
+      "title": "ITV extends piracy defence with Friend MTS partnership renewal",
+      "link": "https://www.tvbeurope.com/media-delivery/itv-extends-piracy-defence-with-friend-mts-partnership-renewal",
+      "outlet": "TVBEurope",
+      "region": "uk"
+    },
+    {
+      "ref": 9,
+      "title": "ITV extends piracy partnership with Friend MTS",
+      "link": "https://www.advanced-television.com/2026/11/04/itv-extends-piracy-partnership-with-friend-mts/",
+      "outlet": "Advanced Television",
+      "region": "uk"
+    },
+    {
+      "ref": 10,
+      "title": "Sky Sports adds new women’s golf league WTGL",
+      "link": "https://www.broadbandtvnews.com/2026/11/04/sky-sports-adds-new-womens-golf-league-wtgl/",
+      "outlet": "Broadband TV News",
+      "region": "uk"
+    },
+    {
+      "ref": 11,
+      "title": "Sky Sports acquires WTGL rights",
+      "link": "https://www.advanced-television.com/2026/11/04/sky-sports-acquires-wtgl-rights/",
+      "outlet": "Advanced Television",
+      "region": "uk"
+    },
+    {
+      "ref": 12,
+      "title": "Bauer study links audio campaigns with stronger results",
+      "link": "https://radiotoday.co.uk/2026/11/bauer-study-links-audio-campaigns-with-stronger-results/",
+      "outlet": "RadioToday",
+      "region": "uk"
+    },
+    {
+      "ref": 13,
+      "title": "LBC and The News Agents unite for US election night",
+      "link": "https://radiotoday.co.uk/2026/11/lbc-and-the-news-agents-unite-for-us-election-night/",
+      "outlet": "RadioToday",
+      "region": "uk"
+    },
+    {
+      "ref": 14,
+      "title": "As Roku’s Merger With Fox Clears More Hurdles, Streaming Provider Delivers Strong Q3 Results",
+      "link": "https://tvnewscheck.com/business/article/as-rokus-merger-with-fox-clears-more-hurdles-streaming-provider-delivers-strong-q3-results/",
+      "outlet": "TVNewsCheck",
+      "region": "americas"
+    },
+    {
+      "ref": 15,
+      "title": "Roku Q3 Profit, Revenue Soar on Higher Media & Entertainment Ad Spending, Subscription Growth",
+      "link": "https://www.thewrap.com/industry-news/business/roku-earnings-q3-2026/",
+      "outlet": "The Wrap",
+      "region": "americas"
+    },
+    {
+      "ref": 16,
+      "title": "Roku Sees Soaring Sales, Net Income Of $183M, As It Blasts Past Analyst Expectations",
+      "link": "https://tvnewscheck.com/business/article/roku-sees-soaring-sales-net-income-of-183m-as-it-blasts-past-analyst-expectations/",
+      "outlet": "TVNewsCheck",
+      "region": "americas"
+    },
+    {
+      "ref": 17,
+      "title": "OpenAI says ChatGPT is catching up to Google in search",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1025482/openai-says-chatgpt-is-catching-up-to-google-in-search",
+      "outlet": "The Verge",
+      "region": "americas"
+    },
+    {
+      "ref": 18,
+      "title": "Anthropic, OpenAI, Google, and Microsoft will make it easier for publishers to opt out of being scraped",
+      "link": "https://www.niemanlab.org/2026/11/anthropic-openai-google-and-microsoft-will-make-it-easier-for-publishers-to-opt-out-of-being-scraped/",
+      "outlet": "Nieman Lab",
+      "region": "americas"
+    },
+    {
+      "ref": 19,
+      "title": "Sinclair Rides Record Political Ad Spend to Strong Third-Quarter Growth",
+      "link": "https://tvnewscheck.com/business/article/sinclair-rides-record-political-ad-spend-to-strong-third-quarter-growth/",
+      "outlet": "TVNewsCheck",
+      "region": "americas"
+    },
+    {
+      "ref": 20,
+      "title": "Google leads coordinated takedown of X.CPE botnet hidden in 1.3M set-top boxes",
+      "link": "https://broadcastdialogue.com/google-leads-coordinated-takedown-of-x-cpe-botnet-hidden-in-1-3m-set-top-boxes/",
+      "outlet": "Broadcast Dialogue",
+      "region": "americas"
+    },
+    {
+      "ref": 21,
+      "title": "One of Google’s Android partners turned 1.3 million set-top boxes into a botnet",
+      "link": "https://www.theverge.com/1024807/google-botnet-android-tv-shut-down",
+      "outlet": "The Verge",
+      "region": "americas"
+    },
+    {
+      "ref": 22,
+      "title": "Hearing Scheduled For Thumann Severs’ FCC Nomination",
+      "link": "https://tvnewscheck.com/people/article/hearing-scheduled-for-thumann-severs-fcc-nomination/",
+      "outlet": "TVNewsCheck",
+      "region": "americas"
+    },
+    {
+      "ref": 23,
+      "title": "Cruz Presses On With FCC Pick As Senate Majority Shifts",
+      "link": "https://radioink.com/2026/11/04/cruz-presses-on-with-fcc-pick-as-senate-majority-shifts/",
+      "outlet": "Radio Ink",
+      "region": "americas"
+    },
+    {
+      "ref": 24,
+      "title": "Netflix Taps Google’s Darshan Kantak as Ads Platform VP",
+      "link": "https://www.thewrap.com/industry-news/business/netflix-darshan-kantak-ads-platform-vp/",
+      "outlet": "The Wrap",
+      "region": "americas"
+    },
+    {
+      "ref": 25,
+      "title": "Rhuanedd Richards to head BBC Nations as pubcaster makes board appointments",
+      "link": "https://www.c21media.net/news/rhuanedd-richards-to-head-bbc-nations-as-pubcaster-makes-board-appointments/",
+      "outlet": "C21Media",
+      "region": "uk"
+    },
+    {
+      "ref": 26,
+      "title": "Rhuanedd Richards confirmed as BBC Nations director",
+      "link": "https://radiotoday.co.uk/2026/11/rhuanedd-richards-confirmed-as-bbc-nations-director/",
+      "outlet": "RadioToday",
+      "region": "uk"
+    },
+    {
+      "ref": 27,
+      "title": "BBC R&D’s Jatin Aythora to leave corporation after 11 years",
+      "link": "https://www.broadbandtvnews.com/2026/11/04/bbc-rds-jatin-aythora-to-leave-corporation-after-11-years/",
+      "outlet": "Broadband TV News",
+      "region": "uk"
+    },
+    {
+      "ref": 28,
+      "title": "BBC director of research and development to step down",
+      "link": "https://www.tvbeurope.com/business/people/bbc-director-of-research-and-development-to-step-down",
+      "outlet": "TVBEurope",
+      "region": "uk"
+    },
+    {
+      "ref": 29,
+      "title": "Richard Spurr leaves LBC overnight show after four years",
+      "link": "https://radiotoday.co.uk/2026/11/richard-spurr-leaves-lbc-overnight-show-after-four-years/",
+      "outlet": "RadioToday",
+      "region": "uk"
+    },
+    {
+      "ref": 30,
+      "title": "Amazon MGM Studios Names Jenny Groom Head of MGM Alternative",
+      "link": "https://www.hollywoodreporter.com/tv/tv-news/amazon-mgm-jenny-groom-head-alternative-1236747755/",
+      "outlet": "Hollywood Reporter",
+      "region": "americas"
+    },
+    {
+      "ref": 31,
+      "title": "Meta Hires Rich Latour To Lead In-House Content Studio",
+      "link": "https://tvnewscheck.com/people/article/meta-hires-rich-latour-to-lead-in-house-content-studio/",
+      "outlet": "TVNewsCheck",
+      "region": "americas"
+    },
+    {
+      "ref": 32,
+      "title": "CBC taps Ariel Yang as head of digital originals",
+      "link": "https://playbackonline.ca/2026/11/03/cbc-taps-ariel-yang-as-head-of-digital-originals/",
+      "outlet": "Playback",
+      "region": "americas"
+    },
+    {
+      "ref": 33,
+      "title": "Telus Fund appoints Chantal Côté as deputy director",
+      "link": "https://playbackonline.ca/2026/11/03/telus-fund-appoints-chantal-cote-as-deputy-director/",
+      "outlet": "Playback",
+      "region": "americas"
+    },
+    {
+      "ref": 34,
+      "title": "Sinclair Names Jennifer Lopez To Boise Leadership Role",
+      "link": "https://tvnewscheck.com/uncategorized/article/sinclair-names-jennifer-lopez-to-boise-leadership-role/",
+      "outlet": "TVNewsCheck",
+      "region": "americas"
+    },
+    {
+      "ref": 35,
+      "title": "CRTC to consider Lakeside Radio application for first Glencoe FM licence",
+      "link": "https://broadcastdialogue.com/crtc-to-consider-lakeside-radio-application-for-first-glencoe-fm-licence/",
+      "outlet": "Broadcast Dialogue",
+      "region": "americas"
+    }
+  ]
+}
