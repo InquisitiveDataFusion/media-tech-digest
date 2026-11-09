@@ -1,0 +1,462 @@
+{
+  "schema": 1,
+  "iso": "2026-11-09",
+  "headline": "Fox completes 22 billion dollar acquisition of streaming platform Roku",
+  "date_line": "Monday 09 November 2026 · covering Thu 05 Nov to Sun 08 Nov",
+  "footer_note": "Built from 32 cited articles across 16 outlets. Written by gemini-3.1-flash-lite, gemini-3.5-flash.",
+  "model": "gemini-3.1-flash-lite, gemini-3.5-flash",
+  "backfilled": false,
+  "generated_at": "2026-11-09T07:59:30+00:00",
+  "digest": {
+    "headline": "Fox completes 22 billion dollar acquisition of streaming platform Roku",
+    "lead": "Fox Corporation has finalised its purchase of Roku to bolster its digital operations in North America. Meanwhile, the UK Culture Secretary has launched a formal regulatory review into Sky's proposed 1.6 billion pound acquisition of ITV's broadcasting unit as both regions navigate significant shifts in media ownership and infrastructure.",
+    "glance": [
+      {
+        "text": "Culture Secretary Lisa Nandy launched a formal review into Sky's £1.6bn acquisition of ITV's broadcasting arm.",
+        "section": "regulation",
+        "refs": [
+          1,
+          2
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "ITVX surpassed its entire 2025 streaming total in ten months after reaching 3.6 billion streams.",
+        "section": "results",
+        "refs": [
+          3,
+          4,
+          5
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "Channel 4 cancelled Married at First Sight UK following an external review into contributor welfare.",
+        "section": "regulation",
+        "refs": [
+          6,
+          7
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "Sky Sports expanded low-latency Real Time viewing across all sports channels on Sky Glass and Stream.",
+        "section": "tech",
+        "refs": [
+          8,
+          9
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "Sky Sports partnered with Sir Gareth Southgate's 1071 Media to produce digital football content.",
+        "section": "deals",
+        "refs": [
+          10
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "Vodafone launched Pro 4 broadband across CityFibre's network, offering speeds up to 8Gbps.",
+        "section": "tech",
+        "refs": [
+          11
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "The UK government confirmed it has no plans to slow down AI data centre construction.",
+        "section": "tech",
+        "refs": [
+          12
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "Fox Corporation completed its 22 billion dollar acquisition of Roku, integrating the platform into Fox Digital Platforms.",
+        "section": "deals",
+        "refs": [
+          13,
+          14
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "Meta, Google and TikTok sued California to block a social media law restricting features for minors under 16.",
+        "section": "regulation",
+        "refs": [
+          15,
+          16,
+          17
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "BCE reported a 9.7 percent rise in Bell Media revenue for Q3 2026 as Crave reached 5.15 million subscribers.",
+        "section": "results",
+        "refs": [
+          18,
+          19,
+          20
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "NBC News led primetime broadcast ratings during the 2026 midterm election night coverage.",
+        "section": "audience",
+        "refs": [
+          21,
+          22
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "OpenAI pledged to end non-disclosure agreements for data centre projects following election backlash over AI infrastructure.",
+        "section": "tech",
+        "refs": [
+          23,
+          24,
+          25
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "The Canadian federal budget allocated 300 million dollars in additional funding for public broadcaster CBC/Radio-Canada over two years.",
+        "section": "regulation",
+        "refs": [
+          26,
+          27
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "Titan OS raised 46 million dollars in new financing to expand its connected television operating system.",
+        "section": "tech",
+        "refs": [
+          28
+        ],
+        "region": "americas"
+      }
+    ],
+    "sections": [
+      {
+        "id": "regulation",
+        "paragraphs": [
+          "Culture Secretary Lisa Nandy has triggered a formal intervention in Sky's £1.6bn takeover of ITV's broadcasting business. The move directs Ofcom and the Competition and Markets Authority to examine the deal. Rivals including Channel 4 and Paramount welcomed the regulatory scrutiny.",
+          "Channel 4 has permanently cancelled Married at First Sight UK after an external review into contributor welfare. Chief Executive Priya Dogra confirmed the budget will be reinvested into new original programming. The decision follows serious allegations made by female participants during production."
+        ],
+        "region": "uk"
+      },
+      {
+        "id": "results",
+        "paragraphs": [
+          "ITV reported that streaming platform ITVX delivered 3.6 billion streams by 30 October. This performance beat its full-year 2025 streaming total within just ten months. Drama releases, soaps and an expanding FAST offering drove the accelerated growth."
+        ],
+        "region": "uk"
+      },
+      {
+        "id": "deals",
+        "paragraphs": [
+          "Sky Sports partnered with Sir Gareth Southgate's production company 1071 Media to produce football content. The deal will deliver long-form and social programming featuring analysis and topical chat for digital audiences.",
+          "ITV commissioned original thriller series Nightswimming from Two Brothers Pictures. The commercial broadcaster also extended its anti-piracy contract with Friend MTS for two years to protect live events on ITV4."
+        ],
+        "region": "uk"
+      },
+      {
+        "id": "tech",
+        "paragraphs": [
+          "Sky rolled out low-latency Real Time viewing across all Sky Sports channels on Sky Glass and Sky Stream. The update reduces internet broadcast delays to keep live sports coverage aligned with real-time action.",
+          "Vodafone launched its Pro 4 broadband package on CityFibre's full-fibre network. The service provides internet speeds reaching 8Gbps alongside WiFi 7 routers. Meanwhile, UK ministers confirmed AI data centres remain essential infrastructure despite local protests."
+        ],
+        "region": "uk"
+      },
+      {
+        "id": "deals",
+        "paragraphs": [
+          "Fox Corporation has completed its acquisition of Roku for 22 billion dollars. The transaction brings the streaming platform into Fox Digital Platforms alongside Tubi and FOX One.",
+          "In data centre infrastructure, Crusoe sold its troubled Wyoming data centre project to Google. The sale underscores the ongoing operational challenges of expanding massive AI facilities."
+        ],
+        "region": "americas"
+      },
+      {
+        "id": "regulation",
+        "paragraphs": [
+          "Meta, Google and TikTok have filed a lawsuit against California to block Assembly Bill 1709. The law prohibits social media platforms from offering addictive feeds and autoplay videos to users under 16.",
+          "Following midterm election opposition to data centre expansions, OpenAI committed to ending non-disclosure agreements with public officials. Meta also warned that growing political pushback against infrastructure projects could hinder future artificial intelligence investments.",
+          "In Canada, the federal government announced 300 million dollars in additional funding for CBC/Radio-Canada over two years as part of a broader arts and culture budget."
+        ],
+        "region": "americas"
+      },
+      {
+        "id": "results",
+        "paragraphs": [
+          "BCE announced its third-quarter financial results for 2026, showing a 9.7 percent revenue increase at Bell Media. Crave subscriptions grew to 5.15 million, supported by sports broadcasts and digital expansion.",
+          "Quebecor reported a 69.7 percent jump in media adjusted EBITDA for Q3. Growth was driven by TVA Group, which expanded its television market share to 43.5 percent and secured a 12-year French-language NHL rights extension.",
+          "Nexstar reported record third-quarter net revenue of 2.13 billion dollars, up 78 percent year-over-year. The growth was boosted by its Tegna acquisition and political advertising revenue."
+        ],
+        "region": "americas"
+      },
+      {
+        "id": "audience",
+        "paragraphs": [
+          "NBC News earned the highest overall audience among broadcast networks for its 2026 midterm election night coverage. Fox News topped total cable viewership during primetime, while CNN led the key demographic.",
+          "HBO series The Gilded Age recorded its highest season premiere ratings to date, averaging nearly 4 million viewers across platforms over its first three days."
+        ],
+        "region": "americas"
+      }
+    ],
+    "people_moves": [
+      {
+        "text": "Jodie Bryant and Luke Carr, Presenters, BBC Radio 1 weekend early show",
+        "refs": [
+          29
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "Shari Rosenblum, Head of Publicity, 20th Television and 20th TV Animation (exited via voluntary early retirement)",
+        "refs": [
+          30,
+          31
+        ],
+        "region": "americas"
+      }
+    ],
+    "coming_up": [
+      {
+        "date": "30 Nov 2026",
+        "text": "Deadline set by senator for FCC Chair to submit files regarding investigations into First Amendment violations",
+        "refs": [
+          32
+        ],
+        "region": "americas"
+      }
+    ]
+  },
+  "articles": [
+    {
+      "ref": 1,
+      "title": "UK culture secretary triggers CMA, Ofcom review of Sky’s $2bn ITV deal",
+      "link": "https://www.c21media.net/news/uk-culture-secretary-triggers-cma-ofcom-review-of-skys-1-6bn-itv-deal/",
+      "outlet": "C21Media",
+      "region": "uk"
+    },
+    {
+      "ref": 2,
+      "title": "Week in Review: Culture Secretary Intervenes in Sky/ITV Deal, People Inc. Sees Growth in Social Video and CTV, and ProSieben Unveils Social Sales Unit",
+      "link": "https://videoweek.com/2026/11/06/week-in-review-culture-secretary-intervenes-in-sky-itv-deal-people-inc-sees-growth-in-social-video-and-ctv-and-prosieben-unveils-social-sales-unit/",
+      "outlet": "VideoWeek",
+      "region": "uk"
+    },
+    {
+      "ref": 3,
+      "title": "ITVX outperforms 2025 FY inside 10 months",
+      "link": "https://www.advanced-television.com/2026/11/06/itvx-outperforms-2025-fy-inside-10-months/",
+      "outlet": "Advanced Television",
+      "region": "uk"
+    },
+    {
+      "ref": 4,
+      "title": "ITVX passes annual streaming record as FAST offering expands",
+      "link": "https://www.broadbandtvnews.com/2026/11/06/itvx-passes-annual-streaming-record-as-fast-offering-expands/",
+      "outlet": "Broadband TV News",
+      "region": "uk"
+    },
+    {
+      "ref": 5,
+      "title": "ITVX passes 3.6 billion streams in just 10 months",
+      "link": "https://www.tvbeurope.com/media-consumption/itvx-passes-3-6-billion-streams-in-just-10-months",
+      "outlet": "TVBEurope",
+      "region": "uk"
+    },
+    {
+      "ref": 6,
+      "title": "Channel 4 axes Married at First Sight",
+      "link": "https://www.advanced-television.com/2026/11/05/channel-4-axes-married-at-first-sight/",
+      "outlet": "Advanced Television",
+      "region": "uk"
+    },
+    {
+      "ref": 7,
+      "title": "Channel 4 axes Married at First Sight UK after rape allegations",
+      "link": "https://www.theguardian.com/tv-and-radio/2026/nov/05/channel-4-axes-married-at-first-sight-uk-over-rape-allegations",
+      "outlet": "Guardian Media",
+      "region": "uk"
+    },
+    {
+      "ref": 8,
+      "title": "Sky expands Real Time viewing to Sky Sports channels",
+      "link": "https://www.advanced-television.com/2026/11/06/sky-expands-real-time-viewing-to-sky-sports-channels/",
+      "outlet": "Advanced Television",
+      "region": "uk"
+    },
+    {
+      "ref": 9,
+      "title": "Sky extends Real Time viewing across all Sky Sports channels",
+      "link": "https://www.broadbandtvnews.com/2026/11/06/sky-extends-real-time-viewing-across-all-sky-sports-channels/",
+      "outlet": "Broadband TV News",
+      "region": "uk"
+    },
+    {
+      "ref": 10,
+      "title": "Sky Sports partners with Southgate’s 1071 Media",
+      "link": "https://www.advanced-television.com/2026/11/05/sky-sports-partners-with-southgates-1071-media/",
+      "outlet": "Advanced Television",
+      "region": "uk"
+    },
+    {
+      "ref": 11,
+      "title": "Vodafone launches Pro 4 with WiFi 7 and 8Gbps broadband",
+      "link": "https://www.broadbandtvnews.com/2026/11/05/vodafone-launches-pro-4-with-wifi-7-and-8gbps-broadband/",
+      "outlet": "Broadband TV News",
+      "region": "uk"
+    },
+    {
+      "ref": 12,
+      "title": "UK has no plans to slow down AI data center construction",
+      "link": "https://www.engadget.com/2310304/uk-has-no-plans-to-slow-down-ai-data-center-construction/",
+      "outlet": "Engadget",
+      "region": "uk"
+    },
+    {
+      "ref": 13,
+      "title": "Fox Completes Roku Acquisition",
+      "link": "https://tvnewscheck.com/business/article/fox-completes-roku-acquisition/",
+      "outlet": "TVNewsCheck",
+      "region": "americas"
+    },
+    {
+      "ref": 14,
+      "title": "Fox Corp. Completes $22 Billion Deal for Roku",
+      "link": "https://www.adweek.com/convergent-tv/fox-corp-completes-22-billion-deal-for-roku/",
+      "outlet": "Adweek",
+      "region": "americas"
+    },
+    {
+      "ref": 15,
+      "title": "Meta, Google and TikTok Sue to Block California Law Protecting Minors on Social Media",
+      "link": "https://www.thewrap.com/industry-news/tech/google-meta-tiktok-lawsuit-california-social-media-minor-safety-law/",
+      "outlet": "The Wrap",
+      "region": "americas"
+    },
+    {
+      "ref": 16,
+      "title": "Meta, Google, and TikTok sue California AG over teen social media law",
+      "link": "https://techcrunch.com/2026/11/05/meta-google-and-tiktok-sue-california-ag-over-teen-social-media-law/",
+      "outlet": "TechCrunch",
+      "region": "americas"
+    },
+    {
+      "ref": 17,
+      "title": "Google, Meta and TikTok are all suing California to block social media law intended to help kids",
+      "link": "https://www.engadget.com/2308280/google-meta-and-tiktok-are-all-suing-california-to-block-social-media-law-intended-to-help-kids/",
+      "outlet": "Engadget",
+      "region": "americas"
+    },
+    {
+      "ref": 18,
+      "title": "BCE reports strong Q3 2026 as Bell Media revenue climbs 9.7%, Crave hits 5.15M subscribers",
+      "link": "https://broadcastdialogue.com/bce-reports-strong-q3-2026-as-bell-media-revenue-climbs-9-7-crave-hits-5-15m-subscribers/",
+      "outlet": "Broadcast Dialogue",
+      "region": "americas"
+    },
+    {
+      "ref": 19,
+      "title": "Bell Media revenue climbs 9.7% on sports and streaming growth",
+      "link": "https://mediaincanada.com/2026/11/05/bell-media-revenue-climbs-9-7-on-sports-and-streaming-growth/",
+      "outlet": "Media in Canada",
+      "region": "americas"
+    },
+    {
+      "ref": 20,
+      "title": "Bell Media sees ad, subscriber revenue uptick in Q3",
+      "link": "https://playbackonline.ca/2026/11/05/bell-media-sees-ad-subscriber-revenue-uptick-in-q3/",
+      "outlet": "Playback",
+      "region": "americas"
+    },
+    {
+      "ref": 21,
+      "title": "Election Night 2026 Ratings: NBC News is the Most Watched Network",
+      "link": "https://www.adweek.com/tvnewser/election-night-2026-ratings-nbc-news-is-the-most-watched-network/",
+      "outlet": "Adweek",
+      "region": "americas"
+    },
+    {
+      "ref": 22,
+      "title": "TV Ratings: Blue Wave Fuels Surge in Midterm Election Night Viewing, NBC Leads Primetime",
+      "link": "https://tvnewscheck.com/journalism/article/tv-ratings-blue-wave-fuels-surge-in-midterm-election-night-viewing-nbc-leads-primetime/",
+      "outlet": "TVNewsCheck",
+      "region": "americas"
+    },
+    {
+      "ref": 23,
+      "title": "OpenAI is stepping back from NDAs for data center projects",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda",
+      "outlet": "The Verge",
+      "region": "americas"
+    },
+    {
+      "ref": 24,
+      "title": "Meta warns that election backlash against data centers could make AI expansion harder",
+      "link": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/",
+      "outlet": "TechCrunch",
+      "region": "americas"
+    },
+    {
+      "ref": 25,
+      "title": "OpenAI says it will protect local resources and report on the impact of its data centers",
+      "link": "https://www.engadget.com/2307590/openai-says-it-will-protect-local-resources-and-report-on-the-impact-of-its-data-centers/",
+      "outlet": "Engadget",
+      "region": "americas"
+    },
+    {
+      "ref": 26,
+      "title": "CBC/Radio-Canada welcomes $300M federal budget investment over two years",
+      "link": "https://broadcastdialogue.com/cbc-radio-canada-welcomes-300m-federal-budget-investment-over-two-years/",
+      "outlet": "Broadcast Dialogue",
+      "region": "americas"
+    },
+    {
+      "ref": 27,
+      "title": "CBC/Radio-Canada receives $300 million in federal budget",
+      "link": "https://playbackonline.ca/2026/11/05/cbc-radio-canada-receives-300-million-in-federal-budget/",
+      "outlet": "Playback",
+      "region": "americas"
+    },
+    {
+      "ref": 28,
+      "title": "Titan OS Raises $46M To Expand Connected TV Platform",
+      "link": "https://tvnewscheck.com/business/article/titan-os-raises-46m-to-expand-connected-tv-platform/",
+      "outlet": "TVNewsCheck",
+      "region": "americas"
+    },
+    {
+      "ref": 29,
+      "title": "Jodie Bryant and Luke Carr get Radio 1 early slot",
+      "link": "https://radiotoday.co.uk/2026/11/jodie-bryant-and-luke-carr-get-radio-1-early-slot/",
+      "outlet": "RadioToday",
+      "region": "uk"
+    },
+    {
+      "ref": 30,
+      "title": "Disney Comms Exec Shari Rosenblum Exits After Nearly 3 Decades",
+      "link": "https://tvnewscheck.com/promotion/article/disney-comms-exec-shari-rosenblum-exits-after-nearly-3-decades/",
+      "outlet": "TVNewsCheck",
+      "region": "americas"
+    },
+    {
+      "ref": 31,
+      "title": "Disney Comms Exec Shari Rosenblum Exits After Nearly Three Decades",
+      "link": "https://tvnewscheck.com/promotion/article/disney-comms-exec-shari-rosenblum-exits-after-nearly-3-decades/",
+      "outlet": "TVNewsCheck",
+      "region": "americas"
+    },
+    {
+      "ref": 32,
+      "title": "Senator Gives FCC Chair Nov. 30 Deadline To Submit Files",
+      "link": "https://tvnewscheck.com/regulation/article/senator-gives-fcc-chair-november-30th-deadline-to-submit-files/",
+      "outlet": "TVNewsCheck",
+      "region": "americas"
+    }
+  ]
+}
