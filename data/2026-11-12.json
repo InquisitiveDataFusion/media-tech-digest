@@ -1,0 +1,472 @@
+{
+  "schema": 1,
+  "iso": "2026-11-12",
+  "headline": "ITV cuts content spending by £30m as advertising revenues fall",
+  "date_line": "Thursday 12 November 2026 · covering Mon 09 Nov to Wed 11 Nov",
+  "footer_note": "Built from 31 cited articles across 13 outlets. Written by gemini-3.5-flash.",
+  "model": "gemini-3.5-flash",
+  "backfilled": false,
+  "generated_at": "2026-11-12T08:23:19+00:00",
+  "digest": {
+    "headline": "ITV cuts content spending by £30m as advertising revenues fall",
+    "lead": "ITV is introducing £30m in temporary savings following an eight per cent drop in third-quarter advertising revenue. Meanwhile, total UK subscription video-on-demand household penetration has hit a record high.",
+    "glance": [
+      {
+        "text": "ITV identified £30m in temporary cost cuts after Q3 advertising revenues fell eight per cent.",
+        "section": "results",
+        "refs": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "UK subscription video-on-demand penetration reached 21 million homes in the third quarter of 2026, according to Barb data.",
+        "section": "audience",
+        "refs": [
+          5
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "Nearly four in five UK adults believe the government should guarantee Freeview broadcasting until 2044.",
+        "section": "audience",
+        "refs": [
+          6
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "Ofcom has strengthened guidance for UK broadcasters to protect the welfare of participants in constructed reality shows.",
+        "section": "regulation",
+        "refs": [
+          7,
+          8
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "Sky has begun rolling out its updated operating system to Sky Glass and Sky Stream devices.",
+        "section": "tech",
+        "refs": [
+          9,
+          10
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "ITV Chief Executive Carolyn McCall remains confident that Sky's broadcast asset acquisition will complete in late 2027.",
+        "section": "deals",
+        "refs": [
+          11
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "Skydance is targeting 6 billion dollars in cost savings following its acquisition of Warner Bros Discovery.",
+        "section": "deals",
+        "refs": [
+          12,
+          13,
+          14
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "A combined HBO Max and Paramount Plus streaming bundle is scheduled to launch early next year.",
+        "section": "deals",
+        "refs": [
+          12,
+          15,
+          16,
+          17
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "Skydance Games has laid off at least 25 employees following the consolidation of its internal studios.",
+        "section": "deals",
+        "refs": [
+          18,
+          13
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "The Fox and Roku merger transaction has officially completed.",
+        "section": "deals",
+        "refs": [
+          19
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "New York state is beginning enforcement of a new safety law targeting artificial intelligence developers.",
+        "section": "regulation",
+        "refs": [
+          20
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "Google has launched its new 30 dollar Pixel Tag tracking device for Android users.",
+        "section": "tech",
+        "refs": [
+          21,
+          22
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "Walt Disney and Adobe have partnered to build proprietary generative artificial intelligence tools for production pipelines.",
+        "section": "tech",
+        "refs": [
+          23
+        ],
+        "region": "americas"
+      }
+    ],
+    "sections": [
+      {
+        "id": "results",
+        "paragraphs": [
+          "ITV reported a two per cent decline in group external revenue for the first nine months of 2026, reaching £2.76bn. Advertising demand weakened significantly in the third quarter, dropping eight per cent due to macroeconomic headwinds and shifting digital spend.",
+          "To offset the downturn, the commercial broadcaster will slash £30m from its programming budget. Despite linear advertising pressure, viewing on ITVX rose 29 per cent over the nine-month period."
+        ],
+        "region": "uk"
+      },
+      {
+        "id": "audience",
+        "paragraphs": [
+          "Barb reported that 21 million UK households had access to a subscription video-on-demand service in the third quarter of 2026. This represents 71 per cent of UK homes, up from 20.7 million in the previous quarter.",
+          "Separately, a poll revealed that 79 per cent of the public wants the government to guarantee Freeview services until at least 2044. Campaigners are calling on the Prime Minister to include this protection in the next BBC Charter."
+        ],
+        "region": "uk"
+      },
+      {
+        "id": "regulation",
+        "paragraphs": [
+          "Media regulator Ofcom has updated its guidance under Section Seven of the Broadcasting Code. The new rules require broadcasters to step up welfare measures for participants in constructed reality programmes.",
+          "The guidelines focus on formats involving emotional or physical intimacy. Broadcasters must ensure adequate risk assessments and support systems for contributors before, during and after production."
+        ],
+        "region": "uk"
+      },
+      {
+        "id": "tech",
+        "paragraphs": [
+          "Sky has started rolling out a refreshed version of Sky OS to Sky Glass and Sky Stream subscribers across the UK. The update adds conversational voice search, updated navigation and clearer recording controls.",
+          "Ozone has launched OzoneOS to help publishers pass first-party audience insights into programmatic transactions. The platform aims to ensure premium publisher inventory is accurately valued by buyers."
+        ],
+        "region": "uk"
+      },
+      {
+        "id": "deals",
+        "paragraphs": [
+          "Skydance has outlined major operational changes following its acquisition of Warner Bros Discovery. The company expects to achieve 6 billion dollars in synergies by eliminating management layers, combining operations and reducing technology spend.",
+          "The media group confirmed plans to launch a joint streaming bundle featuring HBO Max and Paramount Plus. Meanwhile, restructuring has already hit the interactive unit, with Skydance Games cutting at least 25 staff following the merger of Paramount Games Studio and Warner Bros Games."
+        ],
+        "region": "americas"
+      },
+      {
+        "id": "tech",
+        "paragraphs": [
+          "Google has released its Pixel Tag item tracker, priced at 30 dollars, to compete with existing Bluetooth trackers on its Find Hub network. The company has also integrated its Gemini application into Apple CarPlay for automotive users.",
+          "Walt Disney and Adobe have announced a multiyear partnership to develop custom generative artificial intelligence tools for artists. The proprietary models will integrate into Disney's production pipelines using Adobe's latest technology."
+        ],
+        "region": "americas"
+      },
+      {
+        "id": "regulation",
+        "paragraphs": [
+          "New York state has enacted a comprehensive artificial intelligence safety law targeting major developers such as OpenAI and Anthropic. The legislation requires companies to register, outline safety protocols, and report critical safety incidents under penalty of financial fines.",
+          "FCC nominee Danielle Thumann Severs faced questioning regarding Chairman Brendan Carr's disputes with broadcast networks. Separately, Democratic Senator Richard Blumenthal demanded the release of FCC records concerning First Amendment investigations."
+        ],
+        "region": "americas"
+      }
+    ],
+    "people_moves": [
+      {
+        "text": "Sreya Biswas promoted to Head of Natural History Unit at BBC Studios",
+        "refs": [
+          24
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "Sreya Biswas appointed as Head of Natural History Unit at BBC Studios",
+        "refs": [
+          25
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "Will Holloway appointed as Legal Adviser to FCC Chairman Brendan Carr",
+        "refs": [
+          26
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "Nelson Boyce appointed as Senior Vice President of Ad Sales at Samsung Ads",
+        "refs": [
+          27
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "Mary Hager retired from CBS News Face The Nation",
+        "refs": [
+          28
+        ],
+        "region": "americas"
+      }
+    ],
+    "coming_up": [
+      {
+        "date": "13 Nov 2026",
+        "text": "Apple TV launches selectable sign language interpretation on supported Apple Original titles",
+        "refs": [
+          29
+        ],
+        "region": "uk"
+      },
+      {
+        "date": "30 Nov 2026",
+        "text": "Deadline set by Sen. Richard Blumenthal for FCC Chairman Brendan Carr to release records on First Amendment investigations",
+        "refs": [
+          30
+        ],
+        "region": "americas"
+      },
+      {
+        "date": "15 Dec 2026",
+        "text": "Ross Dagan delivers keynote interview at TVNewsCheck's NewsTECHForum",
+        "refs": [
+          31
+        ],
+        "region": "americas"
+      }
+    ]
+  },
+  "articles": [
+    {
+      "ref": 1,
+      "title": "ITVX viewing rises 29% as ITV cuts spending amid advertising slowdown",
+      "link": "https://www.broadbandtvnews.com/2026/11/11/itvx-viewing-rises-29-as-itv-cuts-spending-amid-advertising-slowdown/",
+      "outlet": "Broadband TV News",
+      "region": "uk"
+    },
+    {
+      "ref": 2,
+      "title": "ITV plans £30m in “temporary savings” as ad revenue falls",
+      "link": "https://www.advanced-television.com/2026/11/11/itv-plans-30m-in-temporary-savings-as-ad-revenue-falls/",
+      "outlet": "Advanced Television",
+      "region": "uk"
+    },
+    {
+      "ref": 3,
+      "title": "ITV reports ‘weakened’ ad demand in H2 as it plans £30m in additional cost savings",
+      "link": "https://uk.themedialeader.com/itv-reports-weakened-ad-demand-in-h2-as-it-plans-30m-in-additional-cost-savings/",
+      "outlet": "The Media Leader",
+      "region": "uk"
+    },
+    {
+      "ref": 4,
+      "title": "ITV to cut show budgets as UK TV and film production spend drops by more than £2bn",
+      "link": "https://www.theguardian.com/business/2026/nov/11/itv-cut-costs-falling-advertising-sales",
+      "outlet": "Guardian Media",
+      "region": "uk"
+    },
+    {
+      "ref": 5,
+      "title": "Barb: UK SVoD homes pass 21m for the first time",
+      "link": "https://www.advanced-television.com/2026/11/12/barb-uk-svod-homes-pass-21m-for-the-first-time/",
+      "outlet": "Advanced Television",
+      "region": "uk"
+    },
+    {
+      "ref": 6,
+      "title": "Poll: 79% of public say Freeview should stay on air until 2044",
+      "link": "https://www.advanced-television.com/2026/11/12/poll-79-of-public-say-freeview-should-stay-on-air-until-2044/",
+      "outlet": "Advanced Television",
+      "region": "uk"
+    },
+    {
+      "ref": 7,
+      "title": "Ofcom toughens up guidance to protect reality show participants’ welfare",
+      "link": "https://www.c21media.net/news/ofcom-toughens-up-guidance-to-protect-reality-show-participants-welfare/",
+      "outlet": "C21Media",
+      "region": "uk"
+    },
+    {
+      "ref": 8,
+      "title": "Ofcom strengthens welfare guidance for reality TV participants",
+      "link": "https://www.broadbandtvnews.com/2026/11/10/ofcom-strengthens-welfare-guidance-for-reality-tv-participants/",
+      "outlet": "Broadband TV News",
+      "region": "uk"
+    },
+    {
+      "ref": 9,
+      "title": "Sky begins rolling out revamped Sky OS to Glass and Stream",
+      "link": "https://www.broadbandtvnews.com/2026/11/10/sky-begins-rolling-out-revamped-sky-os-to-glass-and-stream/",
+      "outlet": "Broadband TV News",
+      "region": "uk"
+    },
+    {
+      "ref": 10,
+      "title": "Sky rolls out revamped OS",
+      "link": "https://www.advanced-television.com/2026/11/10/sky-rolls-out-revamped-os/",
+      "outlet": "Advanced Television",
+      "region": "uk"
+    },
+    {
+      "ref": 11,
+      "title": "ITV’s McCall confident Sky assets deal will complete in second half of 2027",
+      "link": "https://www.c21media.net/news/itvs-mccall-confident-sky-assets-deal-will-complete-in-second-half-of-2027/",
+      "outlet": "C21Media",
+      "region": "uk"
+    },
+    {
+      "ref": 12,
+      "title": "Skydance Details Cost Savings & Plans HBO Max-Paramount+ Bundle In First Post-Deal Earnings Report",
+      "link": "https://tvnewscheck.com/business/article/skydance-details-cost-savings-plans-hbo-max-paramount-bundle-in-first-post-deal-earnings-report/",
+      "outlet": "TVNewsCheck",
+      "region": "americas"
+    },
+    {
+      "ref": 13,
+      "title": "Skydance Games Cuts Staff Amid Reorg One Month After Warner Bros. Merger",
+      "link": "https://tvnewscheck.com/business/article/skydance-games-cuts-staff-amid-reorg-one-month-after-warner-bros-merger/",
+      "outlet": "TVNewsCheck",
+      "region": "americas"
+    },
+    {
+      "ref": 14,
+      "title": "Skydance Plans To Cut $6 Billion In Costs Following Warner Bros. Deal",
+      "link": "https://tvnewscheck.com/business/article/skydance-plans-to-cut-6-billion-in-costs-following-warner-bros-deal/",
+      "outlet": "TVNewsCheck",
+      "region": "americas"
+    },
+    {
+      "ref": 15,
+      "title": "HBO Max-Paramount+ Bundle Set To Launch In Early 2027, David Ellison Confirms",
+      "link": "https://tvnewscheck.com/business/article/hbo-max-paramount-bundle-set-to-launch-in-early-2027-david-ellison-confirms/",
+      "outlet": "TVNewsCheck",
+      "region": "americas"
+    },
+    {
+      "ref": 16,
+      "title": "Skydance Details Cost Savings and Plans HBO Max-Paramount+ Bundle in First Post-Deal Earnings Report",
+      "link": "https://www.hollywoodreporter.com/business/business-news/skydance-first-earnings-q3-post-wb-deal-1236751164/",
+      "outlet": "Hollywood Reporter",
+      "region": "americas"
+    },
+    {
+      "ref": 17,
+      "title": "New Paramount Plus and HBO Max Bundle to Arrive Early Next Year",
+      "link": "https://www.cnet.com/tech/services-and-software/new-paramount-plus-and-hbo-max-bundle-to-arrive-early-next-year/",
+      "outlet": "CNET News",
+      "region": "americas"
+    },
+    {
+      "ref": 18,
+      "title": "Skydance Games Layoffs Hit Following Warner Bros. Merger",
+      "link": "https://variety.com/2026/gaming/news/skydance-games-warner-bros-layoffs-1236943276/",
+      "outlet": "Variety",
+      "region": "americas"
+    },
+    {
+      "ref": 19,
+      "title": "Cynopsis 11/9/2026: The Fox-Roku Merger Is Complete",
+      "link": "https://www.cynopsis.com/cynopsis-11-9-2026-the-fox-roku-merger-is-complete/",
+      "outlet": "Cynopsis",
+      "region": "americas"
+    },
+    {
+      "ref": 20,
+      "title": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
+      "link": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
+      "outlet": "TechCrunch",
+      "region": "americas"
+    },
+    {
+      "ref": 21,
+      "title": "Pixel Tag, Google’s $30 Android-ready answer to Apple’s AirTag, is now available",
+      "link": "https://techcrunch.com/2026/11/10/pixel-tag-googles-30-android-ready-answer-to-apples-airtag-is-now-available/",
+      "outlet": "TechCrunch",
+      "region": "americas"
+    },
+    {
+      "ref": 22,
+      "title": "Google’s Pixel Tag tracker is now available",
+      "link": "https://www.theverge.com/tech/1030766/google-pixel-tag-tracker-find-hub-uwb-bluetooth-sounding",
+      "outlet": "The Verge",
+      "region": "americas"
+    },
+    {
+      "ref": 23,
+      "title": "Disney and Adobe are building generative AI tools together",
+      "link": "https://www.theverge.com/tech/1029773/disney-adobe-generative-ai-partnership",
+      "outlet": "The Verge",
+      "region": "americas"
+    },
+    {
+      "ref": 24,
+      "title": "BBC Studios appoints Sreya Biswas as head of Natural History Unit",
+      "link": "https://www.c21media.net/news/bbc-studios-appoints-sreya-biswas-as-head-of-natural-history-unit/",
+      "outlet": "C21Media",
+      "region": "uk"
+    },
+    {
+      "ref": 25,
+      "title": "BBC Studios Names Sreya Biswas New Head Of Its Natural History Unit",
+      "link": "https://tvnewscheck.com/programming/article/bbc-studios-names-sreya-biswas-new-head-of-its-natural-history-unit/",
+      "outlet": "TVNewsCheck",
+      "region": "americas"
+    },
+    {
+      "ref": 26,
+      "title": "Carr Names Will Holloway As FCC Legal Adviser",
+      "link": "https://tvnewscheck.com/regulation/article/carr-names-will-holloway-as-fcc-legal-adviser/",
+      "outlet": "TVNewsCheck",
+      "region": "americas"
+    },
+    {
+      "ref": 27,
+      "title": "Nelson Boyce Named Samsung Ads SVP Ad Sales",
+      "link": "https://www.adweek.com/agencies/nelson-boyce-named-samsung-ads-svp-ad-sales/",
+      "outlet": "Adweek",
+      "region": "americas"
+    },
+    {
+      "ref": 28,
+      "title": "CBS News’ ‘Face The Nation’ Loses 2 Top Producers, Mary Hager Retires",
+      "link": "https://tvnewscheck.com/journalism/article/cbs-news-face-the-nation-loses-2-top-producers-mary-hager-retires/",
+      "outlet": "TVNewsCheck",
+      "region": "americas"
+    },
+    {
+      "ref": 29,
+      "title": "Apple TV adds selectable sign language interpretation",
+      "link": "https://www.broadbandtvnews.com/2026/11/11/apple-tv-adds-selectable-sign-language-interpretation/",
+      "outlet": "Broadband TV News",
+      "region": "uk"
+    },
+    {
+      "ref": 30,
+      "title": "Democratic Senator Sends Warning To FCC Chairman Carr",
+      "link": "https://tvnewscheck.com/regulation/article/democratic-senator-sends-warning-to-fcc-chairman-carr/",
+      "outlet": "TVNewsCheck",
+      "region": "americas"
+    },
+    {
+      "ref": 31,
+      "title": "NewsTECHForum: CBS’s Ross Dagan On Paving News’ Future",
+      "link": "https://tvnewscheck.com/tech/article/newstechforum-cbss-ross-dagan-on-paving-news-future/",
+      "outlet": "TVNewsCheck",
+      "region": "americas"
+    }
+  ]
+}
