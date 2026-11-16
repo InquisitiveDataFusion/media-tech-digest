@@ -1,0 +1,539 @@
+{
+  "schema": 1,
+  "iso": "2026-11-16",
+  "headline": "Jensen Huang resigns as Nvidia chief executive",
+  "date_line": "Monday 16 November 2026 · covering Thu 12 Nov to Sun 15 Nov",
+  "footer_note": "Built from 33 cited articles across 14 outlets. Written by gemini-3.5-flash.",
+  "model": "gemini-3.5-flash",
+  "backfilled": false,
+  "generated_at": "2026-11-16T07:59:31+00:00",
+  "digest": {
+    "headline": "Jensen Huang resigns as Nvidia chief executive",
+    "lead": "",
+    "glance": [
+      {
+        "text": "Barb reported that UK subscription video-on-demand home access reached 21 million in the third quarter of 2026.",
+        "section": "audience",
+        "refs": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "HBO Max entered the official Barb streaming data with access in 3.1 million UK homes.",
+        "section": "audience",
+        "refs": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "New smart speaker regulations taking effect in April 2027 will protect UK radio station access and advertising.",
+        "section": "radio",
+        "refs": [
+          5
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "Samsung TV Plus launched a 24-hour FAST channel dedicated to ITV quiz show The Chase in the UK.",
+        "section": "tech",
+        "refs": [
+          6,
+          7,
+          8
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "Channel 4 leadership faces questioning by the Culture, Media and Sport Select Committee regarding industry behaviour standards.",
+        "section": "regulation",
+        "refs": [
+          9
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "Grand Theft Auto VI pre-loads generated peak traffic records on the Virgin Media O2 broadband network.",
+        "section": "tech",
+        "refs": [
+          10
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "BBC Studios expanded its BBC Player subscription channel partnership with Prime Video across Spain, Poland and Switzerland.",
+        "section": "deals",
+        "refs": [
+          11,
+          12,
+          13
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "The Ontario Court of Appeal rejected an appeal by OpenAI, allowing Canadian news publishers to proceed with their lawsuit.",
+        "section": "regulation",
+        "refs": [
+          14
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "Jensen Huang resigned as chief executive of Nvidia, with chief financial officer Colette Kress named as interim chief executive.",
+        "section": "people",
+        "refs": [
+          15
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "A consumer lawsuit has targeted the planned HBO Max and Paramount+ streaming bundle over potential price increases.",
+        "section": "deals",
+        "refs": [
+          16,
+          17
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "Industry analysts are speculating that Netflix may make an acquisition play for NBCUniversal following its planned spin-off.",
+        "section": "deals",
+        "refs": [
+          18,
+          19
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "Reporters Without Borders called for the impeachment of FCC Chair Brendan Carr over alleged political weaponisation of regulatory authority.",
+        "section": "regulation",
+        "refs": [
+          20
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "Microsoft experienced widespread global outages affecting its 365 platform, Outlook email, and other core business services.",
+        "section": "tech",
+        "refs": [
+          21,
+          22
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "NBC News cancelled its streaming show Stay Tuned on NBC News Now as part of broader staff cuts.",
+        "section": "audience",
+        "refs": [
+          23,
+          24
+        ],
+        "region": "americas"
+      }
+    ],
+    "sections": [
+      {
+        "id": "audience",
+        "paragraphs": [
+          "Barb's Establishment Survey revealed that 21 million UK homes had access to an SVoD service in Q3 2026. This equates to 71 per cent of households across the country.",
+          "HBO Max debuted in the Barb report with access in 3.1 million UK homes. This represents 10 per cent of households, while ad-tier subscriptions on rival services also gained viewer traction."
+        ],
+        "region": "uk"
+      },
+      {
+        "id": "regulation",
+        "paragraphs": [
+          "The Digital, Culture, Media and Sport Committee will question Channel 4 executives on November 17th. Chair Geoff Cooper and Chief Executive Priya Dogra face scrutiny over industry behaviour standards.",
+          "New regulations covering tech platforms will protect UK radio stations on smart devices. The rules apply to Amazon Alexa, Apple Siri and Google devices from April 2027."
+        ],
+        "region": "uk"
+      },
+      {
+        "id": "tech",
+        "paragraphs": [
+          "Samsung TV Plus partnered with ITV Studios digital division Zoo 55 to launch a dedicated FAST channel for quiz show The Chase. The channel offers more than 150 hours of content in the UK.",
+          "Pre-load downloads for Grand Theft Auto VI created record traffic volumes on Virgin Media O2's network on November 10th. Network activity reached its highest-ever daily data peak ahead of the game launch."
+        ],
+        "region": "uk"
+      },
+      {
+        "id": "deals",
+        "paragraphs": [
+          "BBC Studios expanded its distribution agreement with Amazon Prime Video. Subscription channel BBC Player is launching in Spain, Poland and Switzerland.",
+          "Sky Sports secured exclusive UK broadcast rights for The Icons Series golf tournament. Live coverage of the Icons Cup South Africa will broadcast from December 11th to 13th."
+        ],
+        "region": "uk"
+      },
+      {
+        "id": "regulation",
+        "paragraphs": [
+          "Artificial intelligence developers face growing legal pressure across North America. The Ontario Court of Appeal dismissed an appeal by OpenAI, allowing top Canadian news publishers to push forward with their legal action against the platform.",
+          "In broadcast regulation, Reporters Without Borders called for the impeachment of FCC Chair Brendan Carr. The organisation accused Carr of using regulatory powers for politically motivated investigations and influencing media mergers to benefit political allies."
+        ],
+        "region": "americas"
+      },
+      {
+        "id": "deals",
+        "paragraphs": [
+          "A consumer group has refiled an antitrust lawsuit targeting Skydance and major media mergers. The legal challenge targets the proposed streaming bundle between HBO Max and Paramount+, arguing it will lead to higher consumer prices and reduced market competition.",
+          "Speculation is also mounting across the entertainment industry regarding potential media consolidation. Insiders and financial analysts suggest Netflix could pursue an acquisition of NBCUniversal once the company spins off from Comcast."
+        ],
+        "region": "americas"
+      },
+      {
+        "id": "tech",
+        "paragraphs": [
+          "Microsoft suffered severe operational disruptions following a widespread outage of its Microsoft 365 suite. The incident left business communications paralyzed as Outlook email and related infrastructure failed globally.",
+          "Hardware and platform strategies are evolving among tech giants. Roku is winding down its smart home business following its sale to Fox, opting to refocus entirely on its core streaming platform. Meanwhile, Amazon lost its first batch of broadband satellites after its custom rocket failed to reach orbit."
+        ],
+        "region": "americas"
+      },
+      {
+        "id": "audience",
+        "paragraphs": [
+          "NBC News has restructured its digital operations by cancelling its 8 p.m. west coast streaming show Stay Tuned on NBC News Now. The network will fill the slot with reruns while trimming staff positions during a resource realignment.",
+          "Local station ownership is undergoing consolidation in North Carolina. PBS North Carolina agreed to acquire PBS Charlotte from Central Piedmont Community College, pending approval from the FCC."
+        ],
+        "region": "americas"
+      }
+    ],
+    "people_moves": [
+      {
+        "text": "Sean Styles, presenter, leaving BBC Radio Merseyside weekend programmes after almost three decades",
+        "refs": [
+          25
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "Jensen Huang resigned as CEO of Nvidia; CFO Colette Kress named interim CEO",
+        "refs": [
+          15
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "Tom Wheeler, former Obama-era FCC Chair, joined Known Systems as an advisor",
+        "refs": [
+          26,
+          27
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "Savannah Guthrie signed a contract extension to remain at NBC News and Today",
+        "refs": [
+          28,
+          29
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "Tegna elevated three sales executives to President and General Manager roles in Iowa, Arizona, and Virginia",
+        "refs": [
+          30
+        ],
+        "region": "americas"
+      }
+    ],
+    "coming_up": [
+      {
+        "date": "17 Nov 2026",
+        "text": "DCMS Committee questions Channel 4 Chair Geoff Cooper and CEO Priya Dogra",
+        "refs": [
+          9
+        ],
+        "region": "uk"
+      },
+      {
+        "date": "19 Nov 2026",
+        "text": "Grand Theft Auto VI official release date following record UK network pre-loads",
+        "refs": [
+          10
+        ],
+        "region": "uk"
+      },
+      {
+        "date": "28 Nov 2026",
+        "text": "BBC broadcasts U2 live performance recorded at London Tate Modern",
+        "refs": [
+          31
+        ],
+        "region": "uk"
+      },
+      {
+        "date": "03 Dec 2026",
+        "text": "BBC Player launches on Prime Video in Switzerland",
+        "refs": [
+          11,
+          12
+        ],
+        "region": "uk"
+      },
+      {
+        "date": "11 Dec 2026",
+        "text": "Sky Sports begins exclusive UK coverage of The Icons Cup South Africa",
+        "refs": [
+          32
+        ],
+        "region": "uk"
+      },
+      {
+        "date": "01 Apr 2027",
+        "text": "New regulations protect UK radio station access on smart platforms",
+        "refs": [
+          5
+        ],
+        "region": "uk"
+      },
+      {
+        "date": "8 Feb",
+        "text": "NBC comedy series Sunset P.I. premieres at 8:30 pm ET/PT before streaming on Peacock the next day",
+        "refs": [
+          33
+        ],
+        "region": "americas"
+      }
+    ]
+  },
+  "articles": [
+    {
+      "ref": 1,
+      "title": "Netflix and Disney+ ad-tiers gain traction with UK viewers",
+      "link": "https://www.tvbeurope.com/media-consumption/netflix-and-disney-ad-tiers-gain-traction-with-uk-viewers",
+      "outlet": "TVBEurope",
+      "region": "uk"
+    },
+    {
+      "ref": 2,
+      "title": "Netflix, Amazon and Disney boost UK subs in Q3",
+      "link": "https://uk.themedialeader.com/netflix-amazon-and-disney-boost-uk-subs-in-q3/",
+      "outlet": "The Media Leader",
+      "region": "uk"
+    },
+    {
+      "ref": 3,
+      "title": "HBO Max reaches 3.1m UK homes as streaming subscriptions overlap grows",
+      "link": "https://www.broadbandtvnews.com/2026/11/12/hbo-max-reaches-3-1m-uk-homes-as-streaming-subscriptions-overlap-grows/",
+      "outlet": "Broadband TV News",
+      "region": "uk"
+    },
+    {
+      "ref": 4,
+      "title": "Barb: UK SVoD homes pass 21m for first time",
+      "link": "https://www.advanced-television.com/2026/11/12/barb-uk-svod-homes-pass-21m-for-the-first-time/",
+      "outlet": "Advanced Television",
+      "region": "uk"
+    },
+    {
+      "ref": 5,
+      "title": "Alexa and Siri face new rules to protect UK radio",
+      "link": "https://radiotoday.co.uk/2026/11/alexa-and-siri-face-new-rules-to-protect-uk-radio/",
+      "outlet": "RadioToday",
+      "region": "uk"
+    },
+    {
+      "ref": 6,
+      "title": "Samsung TV Plus launches The Chase FAST channel in the UK",
+      "link": "https://www.c21media.net/news/samsung-tv-plus-launches-the-chase-fast-channel-in-the-uk/",
+      "outlet": "C21Media",
+      "region": "uk"
+    },
+    {
+      "ref": 7,
+      "title": "Samsung TV Plus launches The Chase FAST channel",
+      "link": "https://www.advanced-television.com/2026/11/13/samsung-tv-plus-launches-the-chase-fast-channel/",
+      "outlet": "Advanced Television",
+      "region": "uk"
+    },
+    {
+      "ref": 8,
+      "title": "Samsung TV Plus launches The Chase FAST channel in UK",
+      "link": "https://www.broadbandtvnews.com/2026/11/13/samsung-tv-plus-launches-the-chase-fast-channel-in-uk/",
+      "outlet": "Broadband TV News",
+      "region": "uk"
+    },
+    {
+      "ref": 9,
+      "title": "MPs to quiz Channel 4 chiefs",
+      "link": "https://www.advanced-television.com/2026/11/16/mps-to-quiz-channel-4-chiefs/",
+      "outlet": "Advanced Television",
+      "region": "uk"
+    },
+    {
+      "ref": 10,
+      "title": "GTA VI breaks Virgin Media broadband records",
+      "link": "https://www.advanced-television.com/2026/11/13/gta-vi-breaks-virgin-media-broadband-records/",
+      "outlet": "Advanced Television",
+      "region": "uk"
+    },
+    {
+      "ref": 11,
+      "title": "BBC Studios takes BBC Player to Prime Video in Spain, Poland and Switzerland",
+      "link": "https://www.c21media.net/news/bbc-studios-takes-bbc-player-to-prime-video-in-spain-poland-and-switzerland/",
+      "outlet": "C21Media",
+      "region": "uk"
+    },
+    {
+      "ref": 12,
+      "title": "BBC Player on Prime Video expands into more markets",
+      "link": "https://www.advanced-television.com/2026/11/12/bbc-player-on-prime-video-expands-into-more-markets/",
+      "outlet": "Advanced Television",
+      "region": "uk"
+    },
+    {
+      "ref": 13,
+      "title": "BBC Player expands Prime Video distribution to three European markets",
+      "link": "https://www.broadbandtvnews.com/2026/11/12/bbc-player-expands-prime-video-distribution-to-three-european-markets/",
+      "outlet": "Broadband TV News",
+      "region": "uk"
+    },
+    {
+      "ref": 14,
+      "title": "Ontario court rejects OpenAI appeal in Canadian media lawsuit",
+      "link": "https://broadcastdialogue.com/ontario-court-rejects-openai-appeal-in-canadian-media-lawsuit/",
+      "outlet": "Broadcast Dialogue",
+      "region": "americas"
+    },
+    {
+      "ref": 15,
+      "title": "Nvidia’s Jensen Huang resigns, chipmaker names CFO Colette Kress as interim CEO",
+      "link": "https://techcrunch.com/2026/11/12/nvidias-jensen-huang-resigns-chipmaker-names-cfo-colette-kress-as-interim-ceo/",
+      "outlet": "TechCrunch",
+      "region": "americas"
+    },
+    {
+      "ref": 16,
+      "title": "HBO Max-Paramount+ Bundle Targeted by Subscribers in Lawsuit Challenging Megamerger",
+      "link": "https://www.hollywoodreporter.com/business/business-news/hbo-max-paramount-bundle-lawsuit-1236754933/",
+      "outlet": "Hollywood Reporter",
+      "region": "americas"
+    },
+    {
+      "ref": 17,
+      "title": "Skydance Sued Again: Consumers Target DC Shakeup, Cost Cuts, Streaming Combo in Refiled Antitrust Suit",
+      "link": "https://www.thewrap.com/industry-news/public-policy-legal/skydance-consumer-lawsuit-paramount-warner-bros-discovery-merger-refiled/",
+      "outlet": "The Wrap",
+      "region": "americas"
+    },
+    {
+      "ref": 18,
+      "title": "Cynopsis 11/13/2026: What If Netflix Buys NBCU?",
+      "link": "https://www.cynopsis.com/cynopsis-11-13-2026-what-if-netflix-buys-nbcu/",
+      "outlet": "Cynopsis",
+      "region": "americas"
+    },
+    {
+      "ref": 19,
+      "title": "Hollywood’s Next Big Deal: Will Netflix Make An M&A Play For NBCU?",
+      "link": "https://tvnewscheck.com/business/article/hollywoods-next-big-deal-will-netflix-make-an-ma-play-for-nbcu/",
+      "outlet": "TVNewsCheck",
+      "region": "americas"
+    },
+    {
+      "ref": 20,
+      "title": "Reporters Without Borders Calls For Carr To Be Impeached For ‘Weaponizing’ FCC",
+      "link": "https://tvnewscheck.com/journalism/article/reporters-without-borders-calls-for-carr-to-be-impeached-for-weaponizing-fcc/",
+      "outlet": "TVNewsCheck",
+      "region": "americas"
+    },
+    {
+      "ref": 21,
+      "title": "Microsoft’s global outage may be worse than Amazon's or CrowdStrike's, expert says",
+      "link": "https://arstechnica.com/tech-policy/2026/11/microsoft-blames-failed-server-health-checks-not-hackers-for-global-outage/",
+      "outlet": "Ars Technica",
+      "region": "americas"
+    },
+    {
+      "ref": 22,
+      "title": "Microsoft Outlook Goes Down In 365 Outage, Paralyzing Business Communication",
+      "link": "https://tvnewscheck.com/tech/article/microsoft-outlook-goes-down-in-365-outage-paralyzing-business-communication/",
+      "outlet": "TVNewsCheck",
+      "region": "americas"
+    },
+    {
+      "ref": 23,
+      "title": "NBC News Cancels ‘Stay Tuned’ Streaming Show Amid Staff Cuts",
+      "link": "https://tvnewscheck.com/journalism/article/nbc-news-cancels-stay-tuned-streaming-show-amid-staff-cuts/",
+      "outlet": "TVNewsCheck",
+      "region": "americas"
+    },
+    {
+      "ref": 24,
+      "title": "NBC News Will Cancel Streaming Show ‘Stay Tuned,’ Trim Some Positions in Staff Realignment",
+      "link": "https://variety.com/2026/tv/news/nbc-news-cancel-streaming-stay-tuned-layoffs-1236946410/",
+      "outlet": "Variety",
+      "region": "americas"
+    },
+    {
+      "ref": 25,
+      "title": "Sean Styles to retire from BBC Radio Merseyside",
+      "link": "https://radiotoday.co.uk/2026/11/sean-styles-to-retire-from-bbc-radio-merseyside/",
+      "outlet": "RadioToday",
+      "region": "uk"
+    },
+    {
+      "ref": 26,
+      "title": "Obama-era FCC Chair To Serve As Advisor To AI Firm",
+      "link": "https://www.tvtechnology.com/business/people/former-fcc-chair-tom-wheeler-to-advise-ai-startup",
+      "outlet": "TVNewsCheck",
+      "region": "americas"
+    },
+    {
+      "ref": 27,
+      "title": "Former FCC Chair To Serve As Adviser To AI Firm",
+      "link": "https://tvnewscheck.com/ai/article/obama-era-fcc-chair-to-serve-as-advisor-to-ai-firm/",
+      "outlet": "TVNewsCheck",
+      "region": "americas"
+    },
+    {
+      "ref": 28,
+      "title": "Savannah Gutherie Signs Contract Extension With NBC News",
+      "link": "https://tvnewscheck.com/people/article/savannah-gutherie-signs-contract-extension-with-nbc-news/",
+      "outlet": "TVNewsCheck",
+      "region": "americas"
+    },
+    {
+      "ref": 29,
+      "title": "Savannah Guthrie Extends NBC News Contract, Staying at ‘Today’ After Difficult Year",
+      "link": "https://www.thewrap.com/media-platforms/tv/savannah-guthrie-nbc-news-today-contract-extension/",
+      "outlet": "The Wrap",
+      "region": "americas"
+    },
+    {
+      "ref": 30,
+      "title": "Tegna Promotes Sales Leaders To President-GM Roles",
+      "link": "https://tvnewscheck.com/business/article/tegna-promotes-sales-leaders-to-president-gm-roles/",
+      "outlet": "TVNewsCheck",
+      "region": "americas"
+    },
+    {
+      "ref": 31,
+      "title": "BBC to air U2 live at Tate Modern",
+      "link": "https://www.advanced-television.com/2026/11/13/bbc-to-air-u2-live-at-tate-modern/",
+      "outlet": "Advanced Television",
+      "region": "uk"
+    },
+    {
+      "ref": 32,
+      "title": "The Icons Series returning to Sky Sports",
+      "link": "https://www.advanced-television.com/2026/11/13/the-icons-series-returning-to-sky-sports/",
+      "outlet": "Advanced Television",
+      "region": "uk"
+    },
+    {
+      "ref": 33,
+      "title": "‘Sunset P.I.’ Sets NBC Release Date, Jake Johnson Comedy Series Drops New First-Look Photos",
+      "link": "https://variety.com/2026/tv/news/sunset-p-i-nbc-release-date-jake-johnson-1236947108/",
+      "outlet": "Variety",
+      "region": "americas"
+    }
+  ]
+}
