@@ -1,0 +1,602 @@
+{
+  "schema": 1,
+  "iso": "2026-11-19",
+  "headline": "Disney boosts content spending as global media landscape faces major consolidation",
+  "date_line": "Thursday 19 November 2026 · covering Mon 16 Nov to Wed 18 Nov",
+  "footer_note": "Built from 37 cited articles across 16 outlets. Written by gemini-3-flash-preview, gemini-3.1-flash-lite.",
+  "model": "gemini-3-flash-preview, gemini-3.1-flash-lite",
+  "backfilled": false,
+  "generated_at": "2026-11-19T08:48:18+00:00",
+  "digest": {
+    "headline": "Disney boosts content spending as global media landscape faces major consolidation",
+    "lead": "Disney is increasing content investment following strong financial results in both the United Kingdom and North America. Meanwhile, the media sector faces significant structural changes, including Quebecor launching a hostile bid for Telus and public service broadcasters planning for the end of digital terrestrial television by 2034.",
+    "glance": [
+      {
+        "text": "Channel 4 has joined other public service broadcasters in supporting a 2034 deadline for ending digital terrestrial television broadcasts.",
+        "section": "regulation",
+        "refs": [
+          1,
+          2
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "Disney plans to triple its international original programming output over the next three years following a sharp rise in streaming profitability.",
+        "section": "results",
+        "refs": [
+          3,
+          4
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "Sky has launched a major update to Sky OS for Glass and Stream featuring conversational voice search and improved recording controls.",
+        "section": "tech",
+        "refs": [
+          5,
+          6
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "ITVX recorded its highest sports viewing figures outside major tournaments during England's UEFA Nations League victory over Spain.",
+        "section": "audience",
+        "refs": [
+          7,
+          8
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "Sky and NOW have partnered with Platform Media to integrate video podcasts covering entertainment, comedy and sport into their platforms.",
+        "section": "deals",
+        "refs": [
+          9,
+          10,
+          11
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "Emma Barnett is leaving the BBC Radio 4 Today programme to lead a new project launching in 2027.",
+        "section": "radio",
+        "refs": [
+          12,
+          13
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "Quebecor has proposed a 31 billion dollar takeover of Telus to unite Eastern and Western Canadian telecommunications networks.",
+        "section": "deals",
+        "refs": [
+          14,
+          15,
+          16
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "Warner Bros. TV and Paramount TV Studios will merge in early 2027 following the broader corporate tie-up.",
+        "section": "deals",
+        "refs": [
+          17
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "Disney reported strong fiscal fourth quarter results with revenue hitting 25.95 billion dollars driven by streaming and advertising.",
+        "section": "results",
+        "refs": [
+          18,
+          19
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "Newsmax has sued Fox and Roku alleging their integration creates an illegal monopoly in the free ad-supported television market.",
+        "section": "regulation",
+        "refs": [
+          20,
+          21
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "The Senate Commerce Committee approved Danielle Thumann Severs for the FCC despite a boycott by Democratic members.",
+        "section": "regulation",
+        "refs": [
+          22,
+          23,
+          24
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "Microsoft and OpenAI released new AI models for coding and work to compete with Anthropic and Nvidia.",
+        "section": "tech",
+        "refs": [
+          25,
+          26
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "Apple is expanding its video podcast support to more than 1 billion devices including Rokus and smart TVs.",
+        "section": "tech",
+        "refs": [
+          27
+        ],
+        "region": "americas"
+      }
+    ],
+    "sections": [
+      {
+        "id": "regulation",
+        "paragraphs": [
+          "Channel 4 has reinforced the position of UK public service broadcasters by calling for a managed switch off of digital terrestrial television in 2034. The broadcaster argues that extending Freeview beyond this date would be unsustainable.",
+          "This move is a formal response to the government Media Green Paper. The broadcasters are seeking a certain and sustainable future for television distribution as audiences migrate to internet based platforms."
+        ],
+        "region": "uk"
+      },
+      {
+        "id": "results",
+        "paragraphs": [
+          "The Walt Disney Company reported strong fourth quarter results with revenue reaching 25.9 billion dollars. Streaming businesses delivered significant growth with operating income for the company growing by 43 per cent.",
+          "Disney intends to raise its 2027 content budget by 9 per cent to 26 billion dollars. A key focus of this investment will be tripling the output of international original programming for Disney plus."
+        ],
+        "region": "uk"
+      },
+      {
+        "id": "tech",
+        "paragraphs": [
+          "Sky is rolling out a free upgrade to Sky OS for its Glass and Stream customers. The update includes a refreshed homepage and a simplified top menu to improve navigation.",
+          "New features include conversational voice search and greater control over cloud recordings. This represents the most significant update to the platform since its initial launch."
+        ],
+        "region": "uk"
+      },
+      {
+        "id": "deals",
+        "paragraphs": [
+          "UKTV and Masterpiece have joined a new period crime drama titled Fleet Street from the creators of Miss Scarlet. The six part series will launch on the free streaming service U and the U&DRAMA channel.",
+          "Disney plus has greenlit a five part adaptation of Bob Mortimer's mystery novel The Satsuma Complex. The series will be produced by ITV Studios label Mainstreet Pictures as a Hulu Original.",
+          "Amazon Kids plus and ITV have co-commissioned a new children's competition format called Shrunk. The show features participants taking part in challenges within gigantic worlds."
+        ],
+        "region": "uk"
+      },
+      {
+        "id": "deals",
+        "paragraphs": [
+          "Quebecor has gone public with a non-binding 31 billion dollar proposal to acquire Telus Corporation. The deal aims to protect Canadian digital sovereignty by combining networks across the country. Telus directors have acknowledged the unsolicited offer but expressed initial concerns.",
+          "Following the merger of Paramount and Warner Bros. Discovery into Skydance, the company is consolidating its production assets. Warner Bros. Television Group and Paramount Television Studios will merge into a single unit in early 2027. This move follows a strategic review of the combined company's television operations.",
+          "Skydance and Comcast have also decided to wind down their European streaming joint venture SkyShowtime in 2027. This follows the closing of the 110 billion dollar Paramount and Warner Bros. Discovery merger. Netflix CEO Ted Sarandos noted that while Warner would have been a nice acquisition, the price was too high."
+        ],
+        "region": "americas"
+      },
+      {
+        "id": "results",
+        "paragraphs": [
+          "Disney posted revenue of 25.95 billion dollars for its fiscal fourth quarter, beating Wall Street estimates. Growth was driven by streaming gains, advertising, and strong performance at its theme parks. The company is now exploring a free streaming product to complement its existing services.",
+          "Fubo reported a net loss of 51.8 million dollars for the last quarter. To add value for customers, Fubo is now offering the Disney Plus and Hulu ad-supported bundle for free to its Pro and Elite subscribers. This comes as Disney prepares to fully merge the Disney Plus and Hulu apps in December."
+        ],
+        "region": "americas"
+      },
+      {
+        "id": "regulation",
+        "paragraphs": [
+          "Newsmax is suing to block the integration of Fox and Roku, claiming the 22 billion dollar deal creates an unfair competitor. The lawsuit alleges the combined entity would control 71 percent of the American FAST market. Newsmax claims this dominance threatens the rapidly expanding market for free advertising-supported television.",
+          "Republicans are rushing to confirm Danielle Thumann Severs as the third Republican on the FCC before the new year. Democratic members boycotted the Senate Commerce Committee meeting in protest. The move aims to secure a Republican quorum on the commission before the change in government control."
+        ],
+        "region": "americas"
+      },
+      {
+        "id": "tech",
+        "paragraphs": [
+          "Microsoft has launched new AI coding models that it claims rival Claude 5.5 at a fraction of the cost. These models are intended to reduce reliance on external partners like OpenAI and Anthropic. Meanwhile, Amazon and Google are set to own nearly 30 percent of Anthropic following its initial public offering.",
+          "Apple faces criticism from iFixit over its new HomeView hub, which proved difficult to repair during a teardown. The company also dealt with widespread service outages affecting iCloud, the App Store, and Apple Music this week. Separately, California has sued OpenAI over alleged failures to implement appropriate AI safety safeguards."
+        ],
+        "region": "americas"
+      }
+    ],
+    "people_moves": [
+      {
+        "text": "Bree Frank, senior VP of production in LA, BBC Studios",
+        "refs": [
+          28
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "Emma Barnett, stepping down as presenter, BBC Radio 4 Today",
+        "refs": [
+          12,
+          13
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "Tom Beck, executive producer for comedy and entertainment, Avalon",
+        "refs": [
+          29
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "Michael Jochnowitz, head of constructed reality and studio, BBC",
+        "refs": [
+          30
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "Channing Dungey, President of the merged Warner Bros. and Paramount TV studio",
+        "refs": [
+          17
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "Matt Thunell, President of the merged Warner Bros. and Paramount TV studio",
+        "refs": [
+          17
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "Kira Goldberg, President of Motion Picture Group at Paramount",
+        "refs": [
+          31
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "Don Granger, President of Motion Picture Group at Paramount",
+        "refs": [
+          31
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "Jesse Ehrman, Upped at Warner Bros. Motion Picture Group",
+        "refs": [
+          31
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "Monty Sarhan, CEO of SkyShowtime to exit",
+        "refs": [
+          32
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "Bill Fanshawe, Group Manager and GM of WBFF Baltimore at Sinclair to retire",
+        "refs": [
+          33
+        ],
+        "region": "americas"
+      }
+    ],
+    "coming_up": [
+      {
+        "date": "24 Nov 2026",
+        "text": "Season four finale of Reasonable Doubt streams on Hulu",
+        "refs": [
+          34
+        ],
+        "region": "uk"
+      },
+      {
+        "date": "05 Dec 2026",
+        "text": "French crime drama Dead Water debuts on BBC Four and iPlayer",
+        "refs": [
+          35
+        ],
+        "region": "uk"
+      },
+      {
+        "date": "December 2026",
+        "text": "Unified Disney Plus and Hulu app scheduled to arrive",
+        "refs": [
+          36,
+          37
+        ],
+        "region": "americas"
+      },
+      {
+        "date": "31 Dec 2026",
+        "text": "Bill Fanshawe retires from Sinclair",
+        "refs": [
+          33
+        ],
+        "region": "americas"
+      },
+      {
+        "date": "January 2027",
+        "text": "Democrats take majority in Congress",
+        "refs": [
+          23
+        ],
+        "region": "americas"
+      },
+      {
+        "date": "Early 2027",
+        "text": "Warner Bros. TV and Paramount TV Studios merger planned for completion",
+        "refs": [
+          17
+        ],
+        "region": "americas"
+      },
+      {
+        "date": "2027",
+        "text": "Skydance and Comcast to wind down SkyShowtime",
+        "refs": [
+          32
+        ],
+        "region": "americas"
+      }
+    ]
+  },
+  "articles": [
+    {
+      "ref": 1,
+      "title": "Channel 4 backs 2034 DTT switch-off",
+      "link": "https://www.broadbandtvnews.com/2026/11/18/channel-4-backs-2034-dtt-switch-off/",
+      "outlet": "Broadband TV News",
+      "region": "uk"
+    },
+    {
+      "ref": 2,
+      "title": "Channel 4 calls for UK government to confirm DTT switch off in 2034",
+      "link": "https://www.tvbeurope.com/media-delivery/channel-4-calls-for-government-to-confirm-dtt-switch-off-in-2034",
+      "outlet": "TVBEurope",
+      "region": "uk"
+    },
+    {
+      "ref": 3,
+      "title": "Disney to triple international originals as streaming profits double",
+      "link": "https://www.broadbandtvnews.com/2026/11/18/disney-to-triple-international-originals-as-streaming-profits-double/",
+      "outlet": "Broadband TV News",
+      "region": "uk"
+    },
+    {
+      "ref": 4,
+      "title": "Disney raises 2027 content budget 9% to US$26bn, targets more local originals",
+      "link": "https://www.c21media.net/news/disney-raises-2027-content-budget-9-to-us26bn-targets-more-local-originals/",
+      "outlet": "C21Media",
+      "region": "uk"
+    },
+    {
+      "ref": 5,
+      "title": "Sky rolls out new Sky OS",
+      "link": "https://www.advanced-television.com/2026/11/17/sky-rolls-out-new-sky-os/",
+      "outlet": "Advanced Television",
+      "region": "uk"
+    },
+    {
+      "ref": 6,
+      "title": "Sky OS upgrade adds conversational search and greater recording control",
+      "link": "https://www.broadbandtvnews.com/2026/11/17/sky-os-upgrade-adds-conversational-search-and-greater-recording-control/",
+      "outlet": "Broadband TV News",
+      "region": "uk"
+    },
+    {
+      "ref": 7,
+      "title": "ITVX sports viewing hits two-year high as England match peaks at 7.5m",
+      "link": "https://www.broadbandtvnews.com/2026/11/17/itvx-sports-viewing-hits-two-year-high-as-england-match-peaks-at-7-5m/",
+      "outlet": "Broadband TV News",
+      "region": "uk"
+    },
+    {
+      "ref": 8,
+      "title": "Millions tune in to ITV for weekend of sporting drama",
+      "link": "https://www.advanced-television.com/2026/11/17/millions-tune-in-to-itv-for-weekend-of-sporting-drama/",
+      "outlet": "Advanced Television",
+      "region": "uk"
+    },
+    {
+      "ref": 9,
+      "title": "Platform Media partners Sky and cricketer Ben Stokes on vodcasts",
+      "link": "https://www.c21media.net/news/platform-media-partners-sky-and-cricketer-ben-stokes-on-vodcasts/",
+      "outlet": "C21Media",
+      "region": "uk"
+    },
+    {
+      "ref": 10,
+      "title": "Sky and NOW add video podcasts through Platform Media deal",
+      "link": "https://www.broadbandtvnews.com/2026/11/17/sky-and-now-add-video-podcasts-through-platform-media-deal/",
+      "outlet": "Broadband TV News",
+      "region": "uk"
+    },
+    {
+      "ref": 11,
+      "title": "Sky brings visual podcasts to its platforms",
+      "link": "https://www.tvbeurope.com/media-consumption/sky-brings-visual-podcasts-to-its-platforms",
+      "outlet": "TVBEurope",
+      "region": "uk"
+    },
+    {
+      "ref": 12,
+      "title": "Emma Barnett steps down from BBC Radio 4’s Today programme",
+      "link": "https://www.theguardian.com/media/2026/nov/16/emma-barnett-steps-down-bbc-radio-4-today-programme",
+      "outlet": "Guardian Media",
+      "region": "uk"
+    },
+    {
+      "ref": 13,
+      "title": "Emma Barnett to leave Today for new BBC show",
+      "link": "https://radiotoday.co.uk/2026/11/emma-barnett-to-leave-today-for-new-bbc-show/",
+      "outlet": "RadioToday",
+      "region": "uk"
+    },
+    {
+      "ref": 14,
+      "title": "Telus directors have issues with Quebecor offer to buy telco giant",
+      "link": "https://cartt.ca/telus-directors-have-issues-with-quebecor-offer-to-buy-telco-giant/",
+      "outlet": "Cartt.ca",
+      "region": "americas"
+    },
+    {
+      "ref": 15,
+      "title": "Quebecor goes public with takeover bid for TELUS Corporation",
+      "link": "https://broadcastdialogue.com/quebecor-goes-public-with-takeover-bid-for-telus-corporation/",
+      "outlet": "Broadcast Dialogue",
+      "region": "americas"
+    },
+    {
+      "ref": 16,
+      "title": "Quebecor makes $31B proposal to acquire Telus",
+      "link": "https://playbackonline.ca/2026/11/16/quebecor-makes-31b-proposal-to-acquire-telus/",
+      "outlet": "Playback",
+      "region": "americas"
+    },
+    {
+      "ref": 17,
+      "title": "Warner Bros. TV & Paramount TV Studios To Merge With Channing Dungey & Matt Thunell As Presidents",
+      "link": "https://tvnewscheck.com/business/article/warner-bros-tv-paramount-tv-studios-to-merge-with-channing-dungey-matt-thunell-as-presidents/",
+      "outlet": "TVNewsCheck",
+      "region": "americas"
+    },
+    {
+      "ref": 18,
+      "title": "Disney Posts Strong Quarter As Streaming, Ads Gain Ground",
+      "link": "https://tvnewscheck.com/business/article/disney-posts-strong-quarter-as-streaming-ads-gain-ground/",
+      "outlet": "TVNewsCheck",
+      "region": "americas"
+    },
+    {
+      "ref": 19,
+      "title": "Disney Rides Streaming, Studio & Parks Gains In Fiscal Q4, Cruising Past Wall Street Estimates",
+      "link": "https://tvnewscheck.com/business/article/disney-rides-streaming-studio-parks-gains-in-fiscal-q4-cruising-past-wall-street-estimates/",
+      "outlet": "TVNewsCheck",
+      "region": "americas"
+    },
+    {
+      "ref": 20,
+      "title": "Newsmax Sues To Block Fox-Roku Integration After $22B Deal",
+      "link": "https://tvnewscheck.com/regulation/article/newsmax-sues-to-block-fox-roku-integration-after-22b-deal/",
+      "outlet": "TVNewsCheck",
+      "region": "americas"
+    },
+    {
+      "ref": 21,
+      "title": "Newsmax Sues Fox Over Roku Deal, Alleging Antitrust Violation",
+      "link": "https://www.adweek.com/tvnewser/newsmax-sues-fox-over-roku-deal-alleging-antitrust-violation/",
+      "outlet": "Adweek",
+      "region": "americas"
+    },
+    {
+      "ref": 22,
+      "title": "Senate Commerce Committee Approves Thumann Severs For FCC Commissioner",
+      "link": "https://tvnewscheck.com/regulation/article/senate-commerce-committee-approves-thumann-severs-for-fcc-commissioner/",
+      "outlet": "TVNewsCheck",
+      "region": "americas"
+    },
+    {
+      "ref": 23,
+      "title": "Cruz Accelerates FCC Nomination in Lame Duck Rush",
+      "link": "https://radioink.com/2026/11/16/cruz-accelerates-fcc-nomination-in-lame-duck-rush/",
+      "outlet": "Radio Ink",
+      "region": "americas"
+    },
+    {
+      "ref": 24,
+      "title": "GOP Moves Thumann Severs FCC Pick Without Democrats",
+      "link": "https://radioink.com/2026/11/18/gop-moves-thumann-severs-fcc-pick-without-democrats/",
+      "outlet": "Radio Ink",
+      "region": "americas"
+    },
+    {
+      "ref": 25,
+      "title": "Amid AI Industry Chaos, Microsoft and OpenAI Drop New Models for Coding and Work",
+      "link": "https://www.cnet.com/tech/services-and-software/openai-chatgpt-astra-6-2-microsoft-ignite-news/",
+      "outlet": "CNET News",
+      "region": "americas"
+    },
+    {
+      "ref": 26,
+      "title": "Microsoft says its new AI coding model rivals Claude Opus 5.5 at 5% of the cost",
+      "link": "https://www.zdnet.com/innovation/microsoft-ai-coding-model-rivals-claude-opus-5-5-ignite/",
+      "outlet": "ZDNet",
+      "region": "americas"
+    },
+    {
+      "ref": 27,
+      "title": "Apple Was Late To Video Podcasts. Now It’s Trying To Catch Up",
+      "link": "https://tvnewscheck.com/digital/article/apple-was-late-to-video-podcasts-now-its-trying-to-catch-up/",
+      "outlet": "TVNewsCheck",
+      "region": "americas"
+    },
+    {
+      "ref": 28,
+      "title": "BBC Studios taps Bree Frank to head unscripted series production in LA",
+      "link": "https://www.c21media.net/news/bbc-studios-taps-bree-frank-to-head-unscripted-series-production-in-la/",
+      "outlet": "C21Media",
+      "region": "uk"
+    },
+    {
+      "ref": 29,
+      "title": "Channel 4’s Tom Beck joins Avalon as comedy and entertainment EP",
+      "link": "https://www.c21media.net/news/channel-4s-tom-beck-joins-avalon-as-comedy-and-entertainment-ep/",
+      "outlet": "C21Media",
+      "region": "uk"
+    },
+    {
+      "ref": 30,
+      "title": "Michael Jochnowitz to head constructed reality in BBC entertainment restructure",
+      "link": "https://www.c21media.net/news/michael-jochnowitz-to-head-constructed-reality-in-bbc-entertainment-restructure/",
+      "outlet": "C21Media",
+      "region": "uk"
+    },
+    {
+      "ref": 31,
+      "title": "Kira Goldberg Leaving Netflix As VP Film To Join Paramount As President Of Motion Picture Group Alongside Don Granger; WB’s Jesse Ehrman Upped",
+      "link": "https://tvnewscheck.com/business/article/kira-goldberg-leaving-netflix-as-vp-film-to-join-paramount-as-president-of-motion-picture-group-alongside-don-granger-wbs-jesse-ehrman-upped/",
+      "outlet": "TVNewsCheck",
+      "region": "americas"
+    },
+    {
+      "ref": 32,
+      "title": "Skydance, Comcast Will Wind Down SkyShowtime in 2027, CEO Monty Sarhan to Exit",
+      "link": "https://www.thewrap.com/industry-news/business/skyshowtime-streaming-joint-venture-shutting-down-comcast-skydance/",
+      "outlet": "The Wrap",
+      "region": "americas"
+    },
+    {
+      "ref": 33,
+      "title": "Sinclair Names Retirement Date For Bill Fanshawe",
+      "link": "https://tvnewscheck.com/business/article/sinclair-names-retirement-date-for-bill-fanshawe/",
+      "outlet": "TVNewsCheck",
+      "region": "americas"
+    },
+    {
+      "ref": 34,
+      "title": "Hulu renews legal drama Reasonable Doubt for season five",
+      "link": "https://www.c21media.net/news/hulu-renews-legal-drama-reasonable-doubt-for-season-five/",
+      "outlet": "C21Media",
+      "region": "uk"
+    },
+    {
+      "ref": 35,
+      "title": "BBC dips its toes into Dead Water",
+      "link": "https://www.c21media.net/news/bbc-dips-its-toes-into-dead-water/",
+      "outlet": "C21Media",
+      "region": "uk"
+    },
+    {
+      "ref": 36,
+      "title": "The unified Disney+ and Hulu app is set to arrive in December",
+      "link": "https://www.engadget.com/2319193/unified-disney-plus-and-hulu-app-is-set-to-arrive-in-december/",
+      "outlet": "Engadget",
+      "region": "americas"
+    },
+    {
+      "ref": 37,
+      "title": "Disney Plus and Hulu Apps to Merge Next Month, Free Tier Still in the Works",
+      "link": "https://www.cnet.com/tech/services-and-software/disney-ceo-gives-update-on-disney-plus-hulu-combined-app-free-tier/",
+      "outlet": "CNET News",
+      "region": "americas"
+    }
+  ]
+}
