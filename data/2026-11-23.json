@@ -1,0 +1,436 @@
+{
+  "schema": 1,
+  "iso": "2026-11-23",
+  "headline": "Media and technology sectors navigate regulatory shifts and strategic infrastructure changes",
+  "date_line": "Monday 23 November 2026 · covering Thu 19 Nov to Sun 22 Nov",
+  "footer_note": "Built from 27 cited articles across 14 outlets. Written by gemini-3.1-flash-lite, gemini-3.5-flash.",
+  "model": "gemini-3.1-flash-lite, gemini-3.5-flash",
+  "backfilled": false,
+  "generated_at": "2026-11-23T09:04:48+00:00",
+  "digest": {
+    "headline": "Media and technology sectors navigate regulatory shifts and strategic infrastructure changes",
+    "lead": "From the United Kingdom to North America, media and technology sectors are adapting to evolving regulatory scrutiny and infrastructure demands. While UK broadcasters and service providers face oversight on savings and content strategies, North American firms are pivoting AI and smart home operations alongside updated audience measurement standards.",
+    "glance": [
+      {
+        "text": "Ofcom and the National Audit Office warned that the BBC's £500m savings plan could undermine public service obligations and tech infrastructure.",
+        "section": "regulation",
+        "refs": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "Digital i research suggests Disney+ could fix its UK viewing deficit through its recent content partnership deal with Channel 4.",
+        "section": "audience",
+        "refs": [
+          7,
+          8
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "Vodafone expanded its television hub to 5G home broadband users, introducing a bundled plan with Netflix.",
+        "section": "deals",
+        "refs": [
+          9,
+          10
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "The UK government rejected recommendations to implement a blanket ban on gambling advertising.",
+        "section": "regulation",
+        "refs": [
+          11
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "ITV secured exclusive UK broadcast rights for the Invictus Games Birmingham 2027.",
+        "section": "deals",
+        "refs": [
+          12
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "Channel 4.0 expanded its YouTube offerings with its first long-form digital format commissioned for online audiences.",
+        "section": "tech",
+        "refs": [
+          13,
+          14
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "Grand Theft Auto VI generated record broadband traffic peaks across BT and EE networks.",
+        "section": "tech",
+        "refs": [
+          15,
+          16
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "Nielsen is introducing a one-minute listening qualifier to its Audio Portable People Meter to reflect modern consumption habits.",
+        "section": "radio",
+        "refs": [
+          17,
+          18
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "Google plans to retire Google Assistant on smart home devices next year while moving Nest users to the Google Home app.",
+        "section": "tech",
+        "refs": [
+          19
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "Apple is extending its podcast network into Apple TV, positioning audio shows directly against video platforms like YouTube and Netflix.",
+        "section": "tech",
+        "refs": [
+          20
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "The FCC has updated nationwide licensing rules to modernize drone communications and detection infrastructure.",
+        "section": "regulation",
+        "refs": [
+          21
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "Paramount+ has reintroduced its discounted subscription offering at two dollars and ninety-nine cents a month for Black Friday.",
+        "section": "deals",
+        "refs": [
+          22
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "Meta is re-evaluating its 2030 sustainability targets due to rising emissions from artificial intelligence data centres.",
+        "section": "tech",
+        "refs": [
+          23
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "The CRTC introduced fast-tracked cost rules and an honorarium to help Canadians participate in regulatory proceedings.",
+        "section": "regulation",
+        "refs": [
+          24
+        ],
+        "region": "americas"
+      }
+    ],
+    "sections": [
+      {
+        "id": "regulation",
+        "paragraphs": [
+          "Regulator Ofcom warned that the BBC faces declining trust in its news output and persistent funding pressures. Despite meeting strong overall performance standards, the public broadcaster must execute its £500 million savings strategy without damaging core public services.",
+          "A National Audit Office report noted that the BBC expects to reach its £700 million annual savings target early. However, the NAO cautioned that deep budget cuts risk reducing data and cybersecurity capabilities, while delaying critical updates to legacy technology."
+        ],
+        "region": "uk"
+      },
+      {
+        "id": "audience",
+        "paragraphs": [
+          "Data from streaming research firm Digital i indicates UK-produced programming underperforms on Disney+ compared to competitors Netflix and Amazon Prime Video. While British content drives high engagement elsewhere, Disney+ has struggled to convert its regional catalogue into viewing hours.",
+          "Analytic models suggest the platform's recent content agreement with Channel 4 could address this engagement deficit. Integrating established UK programming may help elevate Disney+ viewing shares across British households."
+        ],
+        "region": "uk"
+      },
+      {
+        "id": "tech",
+        "paragraphs": [
+          "Vodafone expanded its Vodafone TV service to 5G home broadband customers across the UK. The telecom operator launched a £13 monthly tier combining its TV platform with access to Netflix.",
+          "Netgem introduced PLEIO Cinema for independent UK fibre operators, offering transactional video-on-demand content. Separately, Channel 4.0 expanded its YouTube footprint by commissioning its first long-form digital series running over 45 minutes."
+        ],
+        "region": "uk"
+      },
+      {
+        "id": "radio",
+        "paragraphs": [
+          "BBC Radio 2 will broadcast a Royal Albert Hall orchestral concert by RAYE in December. Presented by Jo Whiley, the performance will air on radio ahead of a television broadcast on BBC One.",
+          "BBC Radio 4 launched Chasing Mr Sunshine, an investigative audio series produced by Whistledown. The programme covers the financial collapse of Thurrock Council's investment strategy."
+        ],
+        "region": "uk"
+      },
+      {
+        "id": "regulation",
+        "paragraphs": [
+          "A conservative legal activist is pressing FCC Chairman Brendan Carr to eliminate local radio ownership caps entirely. Broadcasters argue that existing limits hinder their ability to compete with global technology platforms.",
+          "Disagreements persist within the agency, as Commissioner Anna Gomez calls for strict limits on FCC authority and increased Congressional oversight. Meanwhile, Sinclair has successfully navigated local television ownership restrictions using a simplified waiver strategy under existing rules."
+        ],
+        "region": "americas"
+      },
+      {
+        "id": "tech",
+        "paragraphs": [
+          "Google has partnered with Blue Origin to test satellite data centres in orbit as part of its Project Suncatcher AI experiment. Concurrently, Apple is reportedly developing native AI agents designed to automate Mac system tasks.",
+          "Hardware shifts continue as Apple expands HomeView smart display features, while leaks reveal Motorola may adopt widescreen as the primary format for its next Razr foldable. Meta is also preparing a standalone AI wearable called the Muse Charm."
+        ],
+        "region": "americas"
+      },
+      {
+        "id": "radio",
+        "paragraphs": [
+          "Nielsen is shortening its measurement threshold for radio stations using Portable People Meter technology. Stations will receive credit after just one minute of listener exposure starting next spring.",
+          "The change follows an earlier measurement update and aims to align audience tracking with modern audio consumption across platforms."
+        ],
+        "region": "americas"
+      }
+    ],
+    "people_moves": [
+      {
+        "text": "Tendo Nagenda, President, Proximity Media",
+        "refs": [
+          25
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "John Muszynski, U.S. chairman at Publicis Media Exchange, to retire.",
+        "refs": [
+          26
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "Willie Geist, anchor, departing MS NOW to focus fully on NBC News.",
+        "refs": [
+          27
+        ],
+        "region": "americas"
+      }
+    ],
+    "coming_up": [
+      {
+        "date": "10 Jul 2027",
+        "text": "Invictus Games Birmingham 2027 Opening Ceremony airs on ITV",
+        "refs": [
+          12
+        ],
+        "region": "uk"
+      },
+      {
+        "date": "17 Jul 2027",
+        "text": "Invictus Games Birmingham 2027 Closing Ceremony airs on ITV",
+        "refs": [
+          12
+        ],
+        "region": "uk"
+      },
+      {
+        "date": "25 Jan 2027",
+        "text": "Google will shut down the standalone Nest app.",
+        "refs": [
+          19
+        ],
+        "region": "americas"
+      }
+    ]
+  },
+  "articles": [
+    {
+      "ref": 1,
+      "title": "Ofcom: Transformation, trust tests remain for BBC",
+      "link": "https://www.advanced-television.com/2026/11/19/ofcom-transformation-trust-tests-remain-for-bbc/",
+      "outlet": "Advanced Television",
+      "region": "uk"
+    },
+    {
+      "ref": 2,
+      "title": "Ofcom warns BBC over trust and impact of £500m savings",
+      "link": "https://www.broadbandtvnews.com/2026/11/19/ofcom-warns-bbc-over-trust-and-impact-of-500m-savings/",
+      "outlet": "Broadband TV News",
+      "region": "uk"
+    },
+    {
+      "ref": 3,
+      "title": "Ofcom warns BBC over trust and major savings",
+      "link": "https://radiotoday.co.uk/2026/11/ofcom-warns-bbc-over-trust-and-major-savings/",
+      "outlet": "RadioToday",
+      "region": "uk"
+    },
+    {
+      "ref": 4,
+      "title": "Report warns of risks to BBC’s tech infrastructure from proposed savings",
+      "link": "https://www.tvbeurope.com/business/report-warns-of-risks-to-bbcs-tech-infrastructure-from-proposed-savings",
+      "outlet": "TVBEurope",
+      "region": "uk"
+    },
+    {
+      "ref": 5,
+      "title": "BBC faces deeper content cuts as NAO warns over £500m savings plan",
+      "link": "https://www.broadbandtvnews.com/2026/11/20/bbc-faces-deeper-content-cuts-as-nao-warns-over-500m-savings-plan/",
+      "outlet": "Broadband TV News",
+      "region": "uk"
+    },
+    {
+      "ref": 6,
+      "title": "NAO: BBC to achieve £700m savings target ahead of schedule",
+      "link": "https://www.advanced-television.com/2026/11/20/nao-bbc-to-achieve-700m-annual-savings-target-ahead-of-schedule/",
+      "outlet": "Advanced Television",
+      "region": "uk"
+    },
+    {
+      "ref": 7,
+      "title": "Analysis: Channel 4 deal could solve Disney+’s local content gap",
+      "link": "https://www.advanced-television.com/2026/11/19/analysis-channel-4-deal-could-solve-disneys-local-content-gap/",
+      "outlet": "Advanced Television",
+      "region": "uk"
+    },
+    {
+      "ref": 8,
+      "title": "Digital i shows Disney+ lags rivals on UK viewing but says C4 deal could help",
+      "link": "https://www.c21media.net/news/digital-i-shows-disney-lags-rivals-on-uk-viewing-but-says-c4-deal-could-help/",
+      "outlet": "C21Media",
+      "region": "uk"
+    },
+    {
+      "ref": 9,
+      "title": "Vodafone expands TV service to 5G broadband customers",
+      "link": "https://www.broadbandtvnews.com/2026/11/19/vodafone-expands-tv-service-to-5g-broadband-customers/",
+      "outlet": "Broadband TV News",
+      "region": "uk"
+    },
+    {
+      "ref": 10,
+      "title": "Vodafone expands TV to 5G broadband customers",
+      "link": "https://www.advanced-television.com/2026/11/19/vodafone-expands-tv-to-5g-broadband-customers/",
+      "outlet": "Advanced Television",
+      "region": "uk"
+    },
+    {
+      "ref": 11,
+      "title": "Week in Review: UK Government Rejects Gambling Ad Ban, Sky Brings Outcomes Optimisation to Addressable TV, and Unilever’s Creator Count Tops 500,000",
+      "link": "https://videoweek.com/2026/11/20/week-in-review-uk-government-rejects-gambling-ad-ban-sky-brings-outcomes-optimisation-to-addressable-tv-and-unilevers-creator-count-tops-500000/",
+      "outlet": "VideoWeek",
+      "region": "uk"
+    },
+    {
+      "ref": 12,
+      "title": "ITV to air Invictus Games Birmingham 2027",
+      "link": "https://www.advanced-television.com/2026/11/20/itv-to-broadcast-invictus-games-birmingham-2027/",
+      "outlet": "Advanced Television",
+      "region": "uk"
+    },
+    {
+      "ref": 13,
+      "title": "Channel 4.0 expands into long-form YouTube programming",
+      "link": "https://www.broadbandtvnews.com/2026/11/20/channel-4-0-expands-into-long-form-youtube-programming/",
+      "outlet": "Broadband TV News",
+      "region": "uk"
+    },
+    {
+      "ref": 14,
+      "title": "Channel 4.0 debuts longform series The Secret, orders creator-led Boss Battle",
+      "link": "https://www.c21media.net/news/channel-4-0-debuts-longform-series-the-secret-orders-creator-led-boss-battle/",
+      "outlet": "C21Media",
+      "region": "uk"
+    },
+    {
+      "ref": 15,
+      "title": "GTA VI sets record broadband traffic for BT, EE",
+      "link": "https://www.advanced-television.com/2026/11/19/gta-vi-sets-record-broadband-traffic-for-bt-ee/",
+      "outlet": "Advanced Television",
+      "region": "uk"
+    },
+    {
+      "ref": 16,
+      "title": "GTA VI sets broadband traffic record for BT, EE",
+      "link": "https://www.advanced-television.com/2026/11/19/gta-vi-sets-record-broadband-traffic-for-bt-ee/",
+      "outlet": "Advanced Television",
+      "region": "uk"
+    },
+    {
+      "ref": 17,
+      "title": "After 3-Minute Lift, Nielsen Moves PPM to One Minute",
+      "link": "https://radioink.com/2026/11/19/after-3-minute-lift-nielsen-moves-ppm-to-one-minute/",
+      "outlet": "Radio Ink",
+      "region": "americas"
+    },
+    {
+      "ref": 18,
+      "title": "Nielsen To Introduce 1-Minute Qualifier For Audio Measurement",
+      "link": "https://tvnewscheck.com/tech/article/nielsen-to-introduce-1-minute-qualifier-for-audio-measurement/",
+      "outlet": "TVNewsCheck",
+      "region": "americas"
+    },
+    {
+      "ref": 19,
+      "title": "Google says it’s going to shut off Google Assistant on smart speakers next year",
+      "link": "https://www.theverge.com/tech/1038834/google-assistant-smart-speakers-nest-app-killed-shut-down",
+      "outlet": "The Verge",
+      "region": "americas"
+    },
+    {
+      "ref": 20,
+      "title": "Apple to bridge Apple Podcasts to Apple TV, opening competition with YouTube and Netflix",
+      "link": "https://rainnews.com/apple-to-bridge-apple-podcasts-to-apple-tv-opening-competition-with-youtube-and-netflix/",
+      "outlet": "RAIN News",
+      "region": "americas"
+    },
+    {
+      "ref": 21,
+      "title": "FCC Modernizes Drone Communications, Detection Rules",
+      "link": "https://tvnewscheck.com/promotion/article/fcc-modernizes-drone-communications-detection-rules/",
+      "outlet": "TVNewsCheck",
+      "region": "americas"
+    },
+    {
+      "ref": 22,
+      "title": "Paramount+ Is Down to $2.99 a Month With This Black Friday Deal",
+      "link": "https://variety.com/2026/shopping/news/paramount-black-friday-streaming-deals-1236953772/",
+      "outlet": "Variety",
+      "region": "americas"
+    },
+    {
+      "ref": 23,
+      "title": "Meta reconsiders 2030 net-zero goal amid record emissions from AI data centers",
+      "link": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/",
+      "outlet": "Ars Technica",
+      "region": "americas"
+    },
+    {
+      "ref": 24,
+      "title": "CRTC unveils fast-tracked cost rules, $250 honorarium for hearings",
+      "link": "https://broadcastdialogue.com/crtc-unveils-new-cost-rules-and-250-honorarium-for-hearings/",
+      "outlet": "Broadcast Dialogue",
+      "region": "americas"
+    },
+    {
+      "ref": 25,
+      "title": "Netflix, Disney alum Tendo Nagenda named president at Proximity Media",
+      "link": "https://www.c21media.net/news/netflix-disney-alum-tendo-nagenda-named-president-at-proximity-media/",
+      "outlet": "C21Media",
+      "region": "uk"
+    },
+    {
+      "ref": 26,
+      "title": "John Muszynski, Who Spent Decades Carefully Deciding Whether Disney, Fox, Even Netflix, Would Get Millions In Ad Dollars, Plans To Retire",
+      "link": "https://tvnewscheck.com/business/article/john-muszynski-who-spent-decades-carefully-deciding-whether-disney-fox-even-netflix-would-get-millions-in-ad-dollars-plans-to-retire/",
+      "outlet": "TVNewsCheck",
+      "region": "americas"
+    },
+    {
+      "ref": 27,
+      "title": "Ticker: Willie Geist to Depart MS NOW, Committing to NBC News Full-time",
+      "link": "https://www.adweek.com/tvnewser/ticker-willie-geist-to-depart-ms-now-committing-to-nbc-news-full-time/",
+      "outlet": "Adweek",
+      "region": "americas"
+    }
+  ]
+}
