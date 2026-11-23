@@ -1,6 +1,456 @@
 {
- "updated": "2026-11-22T19:57:59+00:00",
+ "updated": "2026-11-23T01:57:56+00:00",
  "items": [
+  {
+   "key": "marvelstudiosconfirmshaileesteinfeldsreturnashawkeyeinavengersdoomsday",
+   "title": "Marvel Studios Confirms Hailee Steinfeld’s Return as Hawkeye in ‘Avengers: Doomsday’",
+   "summary": "The actress made the announcement while promoting her upcoming animated movie \"Hexed\" The post Marvel Studios Confirms Hailee Steinfeld’s Return as Hawkeye in ‘Avengers: Doomsday’ appeared first on TheWrap .",
+   "link": "https://www.thewrap.com/creative-content/movies/hailee-steinfeld-will-be-in-avengers-doomsday/",
+   "outlet": "The Wrap",
+   "feed_region": "americas",
+   "published": "2026-11-23T01:47:31+00:00"
+  },
+  {
+   "key": "haileesteinfeldconfirmsavengersdoomsdayreturnaskatebishop",
+   "title": "Hailee Steinfeld Confirms ‘Avengers: Doomsday’ Return as Kate Bishop",
+   "summary": "Hailee Steinfeld will return to the Marvel Cinematic Universe as Kate Bishop in the forthcoming “Avengers: Doomsday.” Marvel Studios and Disney Animation announced the news Sunday with an Instagram post featuring Steinfeld. “Hey, so I’m here with my movie ‘Hexed,’ but it looks like they delivered a chair from a...",
+   "link": "https://variety.com/2026/film/news/hailee-steinfeld-avengers-doomsday-kate-bishop-1236955585/",
+   "outlet": "Variety",
+   "feed_region": "americas",
+   "published": "2026-11-23T01:32:26+00:00"
+  },
+  {
+   "key": "hereshowmuchstarlinkcostin2020vs2026",
+   "title": "Here's how much Starlink cost in 2020 vs. 2026",
+   "summary": "Throw in discounts and fluctuating rates, and two customers could end up paying vastly different bills for the same Starlink satellite service.",
+   "link": "https://www.engadget.com/2319572/how-much-starlink-cost-2020-vs-2026/",
+   "outlet": "Engadget",
+   "feed_region": "global",
+   "published": "2026-11-23T01:30:00+00:00"
+  },
+  {
+   "key": "hownotablecapitalgicandbailliegiffordbetbigonanthropicbeforeitsipo",
+   "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
+   "summary": "Three significant backers share what gave them conviction to bet billions on Anthropic.",
+   "link": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
+   "outlet": "TechCrunch",
+   "feed_region": "global",
+   "published": "2026-11-23T01:25:53+00:00"
+  },
+  {
+   "key": "adamdriverandstevensoderberghworkedforfreeonscrappedstarwarsbensolomov",
+   "title": "Adam Driver and Steven Soderbergh Worked for Free on Scrapped ‘Star Wars’ Ben Solo Movie",
+   "summary": "The actor says the pair developed \"The Hunt for Ben Solo\" out of their love for the character and confidence from Lucasfilm The post Adam Driver and Steven Soderbergh Worked for Free on Scrapped ‘Star Wars’ Ben Solo Movie appeared first on TheWrap .",
+   "link": "https://www.thewrap.com/creative-content/movies/adam-driver-steven-soderbergh-worked-for-free-ben-solo-star-wars-movie/",
+   "outlet": "The Wrap",
+   "feed_region": "americas",
+   "published": "2026-11-23T01:06:15+00:00"
+  },
+  {
+   "key": "energybillswillsoarhereshowyoucaneasethepain",
+   "title": "Energy bills will soar - here's how you can ease the pain",
+   "summary": "Household energy bills are about to increase but there are ways to keep a lid on your expenditure.",
+   "link": "https://www.bbc.co.uk/news/articles/crm4rygl4m3o?at_medium=RSS&at_campaign=rss",
+   "outlet": "BBC Business",
+   "feed_region": "uk",
+   "published": "2026-11-23T01:05:07+00:00"
+  },
+  {
+   "key": "howtoclearyourcacheongoogletv",
+   "title": "How to clear your cache on Google TV",
+   "summary": "Clearing your Google TV's cache isn't a one-size-fits-all solution, but it's a useful first step if you're having performance issues or glitches.",
+   "link": "https://www.engadget.com/2319567/how-to-clear-cache-google-tv/",
+   "outlet": "Engadget",
+   "feed_region": "global",
+   "published": "2026-11-23T01:00:00+00:00"
+  },
+  {
+   "key": "thisfreeswissarmyknifeformacoscanreplaceyourutilityapps",
+   "title": "This free 'Swiss Army Knife' for macOS can replace your utility apps",
+   "summary": "Vorssaint is a powerful, modular utility suite, provided permissions are carefully managed.",
+   "link": "https://www.engadget.com/2319565/vorssaint-free-swiss-army-knife-macos-replace-utility-apps/",
+   "outlet": "Engadget",
+   "feed_region": "global",
+   "published": "2026-11-23T00:45:00+00:00"
+  },
+  {
+   "key": "shouldyougowithaheadphonedacampcomboorastack",
+   "title": "Should you go with a headphone DAC/amp combo or a stack?",
+   "summary": "If your computer's headphone jack isn't cutting it anymore, it's time to get a DAC and headphone amp. But do you go for a combo DAC/amp or a stack?",
+   "link": "https://www.engadget.com/2311788/headphone-dac-amp-combo-vs-stack/",
+   "outlet": "Engadget",
+   "feed_region": "global",
+   "published": "2026-11-23T00:30:00+00:00"
+  },
+  {
+   "key": "1ofgpt51tokensfindsnewwaysaroundchinasgreatfirewall",
+   "title": "$1 of GPT-5.1 tokens finds new ways around China’s Great Firewall",
+   "summary": "PLUS: Lenovo's infra group finally makes big profit; Indonesia’s glaciers are gone; Australian bank releases its AI bug-finder; and more!",
+   "link": "https://www.theregister.com/security/2026/11/23/1-of-gpt-51-tokens-finds-new-ways-around-chinas-great-firewall/5311532",
+   "outlet": "The Register",
+   "feed_region": "global",
+   "published": "2026-11-23T00:23:31+00:00"
+  },
+  {
+   "key": "whatisgoingonwithpoundland",
+   "title": "What is going on with Poundland?",
+   "summary": "Poundland has a matter of days to find a buyer or face collapsing into administration. Why?",
+   "link": "https://www.bbc.co.uk/news/articles/cm4g10p2r0g9o?at_medium=RSS&at_campaign=rss",
+   "outlet": "BBC Business",
+   "feed_region": "uk",
+   "published": "2026-11-23T00:22:27+00:00"
+  },
+  {
+   "key": "8windowsappsyoushouldprobablyremovefromyourpc",
+   "title": "8 Windows apps you should probably remove from your PC",
+   "summary": "From pre-installed junk to popular apps that have better alternatives, these are the apps you should clean off your PC if they're present.",
+   "link": "https://www.engadget.com/2317781/windows-apps-remove-from-pc/",
+   "outlet": "Engadget",
+   "feed_region": "global",
+   "published": "2026-11-23T00:15:00+00:00"
+  },
+  {
+   "key": "sanfranciscoisenjoyinganaiboombutworriesaboutacrasharegrowing",
+   "title": "San Francisco is enjoying an AI boom, but worries about a crash are growing",
+   "summary": "AI employees in the industry's epicentre - San Francisco - worry that the sector is overheated.",
+   "link": "https://www.bbc.co.uk/news/articles/cqe9k09j9jv4o?at_medium=RSS&at_campaign=rss",
+   "outlet": "BBC Technology",
+   "feed_region": "uk",
+   "published": "2026-11-23T00:08:00+00:00"
+  },
+  {
+   "key": "majortrialtoexamineifaicanhelpdetectbreastcancerearlier",
+   "title": "Major trial to examine if AI can help detect breast cancer earlier",
+   "summary": "Hundreds of thousands of women taking part in the NHS breast cancer screening programme could have their scans assessed by AI to see if it leads to earlier diagnosis.",
+   "link": "https://news.sky.com/story/major-trial-to-examine-if-ai-can-help-detect-breast-cancer-earlier-13615166",
+   "outlet": "Sky News Tech",
+   "feed_region": "uk",
+   "published": "2026-11-23T00:01:00+00:00"
+  },
+  {
+   "key": "publicvsprivateipaddresseswhatsthedifference",
+   "title": "Public vs. private IP addresses: what's the difference?",
+   "summary": "One identifies your network, the other identifies the devices using your network.",
+   "link": "https://www.engadget.com/2310692/public-vs-private-ip-addresses-differences/",
+   "outlet": "Engadget",
+   "feed_region": "global",
+   "published": "2026-11-23T00:00:00+00:00"
+  },
+  {
+   "key": "whatisthebestwaytosecureyourplaystation5foraflight",
+   "title": "What is the best way to secure your PlayStation 5 for a flight?",
+   "summary": "You don't have to leave your precious PS5 behind when flying, but you will need to take some precautions or opt for a long-distance streaming relationship.",
+   "link": "https://www.engadget.com/2319558/best-way-secure-playstation-5-for-flight-travel/",
+   "outlet": "Engadget",
+   "feed_region": "global",
+   "published": "2026-11-22T23:45:00+00:00"
+  },
+  {
+   "key": "noahschnapprevealsheauditionedforhaymitchinthehungergamessunriseonther",
+   "title": "Noah Schnapp Reveals He Auditioned for Haymitch in ‘The Hunger Games: Sunrise on the Reaping’",
+   "summary": "The \"Stranger Things\" star shared a glimpse of his audition for the role The post Noah Schnapp Reveals He Auditioned for Haymitch in ‘The Hunger Games: Sunrise on the Reaping’ appeared first on TheWrap .",
+   "link": "https://www.thewrap.com/creative-content/movies/noah-schnapp-hunger-games-sunrise-on-the-reaping-haymitch-audition/",
+   "outlet": "The Wrap",
+   "feed_region": "americas",
+   "published": "2026-11-22T23:39:13+00:00"
+  },
+  {
+   "key": "howtouseaiglassesasateleprompter",
+   "title": "How to use AI glasses as a teleprompter",
+   "summary": "If you have the right type of smart glasses, this is an easy feature to enable.",
+   "link": "https://www.engadget.com/2319553/how-to-use-ai-glasses-as-teleprompter/",
+   "outlet": "Engadget",
+   "feed_region": "global",
+   "published": "2026-11-22T23:30:00+00:00"
+  },
+  {
+   "key": "ateezdebutsatno1onbillboard200forthethirdtimethisyearu2scarnavaldeluzb",
+   "title": "Ateez Debuts at No. 1 on Billboard 200 for the Third Time This Year; U2’s ‘Carnaval de Luz’ Bows at No. 4",
+   "summary": "The K-pop group Ateez continued its string of chart successes with the No. 1 bow on the Billboard 200 album chart of “Golden Hour: Part 6.” It’s the third time in 2026 that the group has had an EP debut in the top spot; the last such occasion came in July, when they premiered at […]",
+   "link": "https://variety.com/2026/music/news/ateez-u2-album-chart-debut-billboard-1236955537/",
+   "outlet": "Variety",
+   "feed_region": "americas",
+   "published": "2026-11-22T23:27:32+00:00"
+  },
+  {
+   "key": "theprosandconsofsharingyourlocation",
+   "title": "The pros and cons of sharing your location",
+   "summary": "Location sharing has perks from tracking lost gear to staying safe on a night out. Learn what you gain and what you give up before you share.",
+   "link": "https://www.engadget.com/2319550/pros-and-cons-sharing-your-location/",
+   "outlet": "Engadget",
+   "feed_region": "global",
+   "published": "2026-11-22T23:00:00+00:00"
+  },
+  {
+   "key": "wehaventseenthelastofthemajortechoutages",
+   "title": "We haven’t seen the last of the major tech outages",
+   "summary": "Over the last week or so, we have seen a nationwide FAA ground stop, a multi-day Outlook outage that brought entire companies to a standstill, and a banking outage at JPMorgan Chase. But the consensus is that there are more to come. Director of National Intelligence Jay Clayton told CNN: \"The American people should...",
+   "link": "https://www.theverge.com/tech/1039851/major-tech-outages",
+   "outlet": "The Verge",
+   "feed_region": "global",
+   "published": "2026-11-22T22:48:02+00:00"
+  },
+  {
+   "key": "whyanotherhungergamesmovieisntcominganytimesoon",
+   "title": "Why Another ‘Hunger Games’ Movie Isn’t Coming Anytime Soon",
+   "summary": "“The Hunger Games” franchise has caught fire once again. “Sunrise on the Reaping,” the sixth installment in the billion-dollar dystopian franchise, has defied expectations and opened to $120 million at the box office, nearly tripling the $44 million opening of the 2023 prequel “The Ballad of Songbirds and Snakes.”...",
+   "link": "https://variety.com/2026/film/news/hunger-games-another-movie-isnt-coming-anytime-soon-1236955499/",
+   "outlet": "Variety",
+   "feed_region": "americas",
+   "published": "2026-11-22T22:46:48+00:00"
+  },
+  {
+   "key": "roberteggerssaysheseagertotakeabreakfromhorrorgenreafterwerwulf",
+   "title": "Robert Eggers Says He’s “Eager” to Take a Break From Horror Genre After ‘Werwulf’",
+   "summary": "The filmmaker has focused on horror films in recent years, including 'The Witch,' 'The Lighthouse,' 'Nosferatu' and 'Werwulf.'",
+   "link": "https://www.hollywoodreporter.com/movies/movie-news/robert-eggers-eager-break-horror-genre-werwulf-nosferatu-1236760762/",
+   "outlet": "Hollywood Reporter",
+   "feed_region": "americas",
+   "published": "2026-11-22T22:44:25+00:00"
+  },
+  {
+   "key": "canyousafelyusea140wchargeronaniphone",
+   "title": "Can you safely use a 140w charger on an iPhone?",
+   "summary": "A 140-watt charger is far more juice than your iPhone needs, but does that really matter? Yes and no -- we can explain.",
+   "link": "https://www.engadget.com/2319546/can-iphone-safely-use-140w-charger/",
+   "outlet": "Engadget",
+   "feed_region": "global",
+   "published": "2026-11-22T22:30:00+00:00"
+  },
+  {
+   "key": "thisfreeappconnectsyourandroidphonetoyourwindowspcwirelessly",
+   "title": "This free app connects your Android phone to your Windows PC wirelessly",
+   "summary": "Connecting your Android phone to your Windows PC wirelessly doesn't have to cost money or require a multi-step setup, as this free app proves.",
+   "link": "https://www.engadget.com/2319544/free-app-connects-android-phone-windows-pc-wirelessly-plainapp/",
+   "outlet": "Engadget",
+   "feed_region": "global",
+   "published": "2026-11-22T22:15:00+00:00"
+  },
+  {
+   "key": "howtosafelycleanyourpcsgputoavoiddamagingitintheprocess",
+   "title": "How to safely clean your PC's GPU to avoid damaging it in the process",
+   "summary": "Removing and cleaning a GPU can be intimidating, but it's actually pretty simple.",
+   "link": "https://www.engadget.com/2319541/safely-clean-pc-gpu-avoid-damage/",
+   "outlet": "Engadget",
+   "feed_region": "global",
+   "published": "2026-11-22T22:00:00+00:00"
+  },
+  {
+   "key": "whyyourmonitorflickerswhenyouturnitonandcanitbefixed",
+   "title": "Why your monitor flickers when you turn it on and can it be fixed?",
+   "summary": "A flickering computer monitor can be a symptom of several different issues. Let's explore some common ones.",
+   "link": "https://www.engadget.com/2319538/monitor-flickering-when-turned-on-how-to-fix/",
+   "outlet": "Engadget",
+   "feed_region": "global",
+   "published": "2026-11-22T21:45:00+00:00"
+  },
+  {
+   "key": "youcanseeeverythinghasmademorethan100mworldwide",
+   "title": "‘You Can See Everything’ has made more than $100M worldwide",
+   "summary": "The new Elizabeth Holmes documentary is just beginning to roll out internationally.",
+   "link": "https://techcrunch.com/2026/11/22/you-can-see-everything-has-made-more-than-100m-worldwide/",
+   "outlet": "TechCrunch",
+   "feed_region": "global",
+   "published": "2026-11-22T21:42:48+00:00"
+  },
+  {
+   "key": "mahershalaalisaystherearenotrolesformeinvastmajorityofprojectsdespitew",
+   "title": "Mahershala Ali Says “There Are Not Roles for Me” in “Vast Majority of Projects,” Despite Winning Two Oscars",
+   "summary": "The actor previously took home Academy Awards for best supporting actor for 2016’s 'Moonlight' and 2018's 'Green Book.'",
+   "link": "https://www.hollywoodreporter.com/movies/movie-news/mahershala-ali-no-roles-majority-projects-despite-oscar-wins-1236760722/",
+   "outlet": "Hollywood Reporter",
+   "feed_region": "americas",
+   "published": "2026-11-22T21:41:46+00:00"
+  },
+  {
+   "key": "gleestarchriscolfersaysheforgotkurthummelmeantsomuchtopeoplebecauseoft",
+   "title": "‘Glee’ Star Chris Colfer Says He Forgot Kurt Hummel ‘Meant So Much to People’ Because of the ‘Homophobia and Hatred’ He Experienced During the Show",
+   "summary": "Chris Colfer is opening up about what it meant to play his now-beloved “Glee” character, Kurt Hummel, a month after reuniting on stage with his on-screen love interest and co-star, Darren Criss. Criss (who played Blaine Anderson on the hit show) and Colfer surprised audiences by performing “Baby It’s Cold Outside,”...",
+   "link": "https://variety.com/2026/tv/news/glee-chris-colfer-kurt-homophobia-1236955465/",
+   "outlet": "Variety",
+   "feed_region": "americas",
+   "published": "2026-11-22T21:31:30+00:00"
+  },
+  {
+   "key": "thecoolphonecameratrickthatcantestyourremotecontrolsbattery",
+   "title": "The cool phone camera trick that can test your remote control's battery",
+   "summary": "Trying to figure out whether a remote control needs new batteries? Your phone camera can tell you if it's time to replace them. Here's how.",
+   "link": "https://www.engadget.com/2319533/how-to-use-phone-test-remote-control-battery/",
+   "outlet": "Engadget",
+   "feed_region": "global",
+   "published": "2026-11-22T21:30:00+00:00"
+  },
+  {
+   "key": "oceans14directorsaysreunitingcastremainsachallengedespitegreatscript",
+   "title": "‘Ocean’s 14’ Director Says Reuniting Cast Remains a Challenge Despite ‘Great Script’",
+   "summary": "David Leitch gave an update on the long-awaited sequel The post ‘Ocean’s 14’ Director Says Reuniting Cast Remains a Challenge Despite ‘Great Script’ appeared first on TheWrap .",
+   "link": "https://www.thewrap.com/creative-content/movies/oceans-14-update-cast-scheduling-challenge/",
+   "outlet": "The Wrap",
+   "feed_region": "americas",
+   "published": "2026-11-22T21:27:22+00:00"
+  },
+  {
+   "key": "carrdefendsseversasgomezseekshardlimitsonfcc",
+   "title": "Carr Defends Severs as Gomez Seeks Hard Limits on FCC",
+   "summary": "The midterms hung over the FCC’s November Open Meeting, as Chairman Brendan Carr stood firmly behind his nominee and his approach to broadcasters, while Commissioner Anna Gomez called for limits on the agency’s power and more Congressional oversight.",
+   "link": "https://radioink.com/2026/11/22/carr-defends-severs-as-gomez-seeks-hard-limits-on-fcc/",
+   "outlet": "Radio Ink",
+   "feed_region": "americas",
+   "published": "2026-11-22T21:22:43+00:00"
+  },
+  {
+   "key": "whichsolarpaneltypeisbestforyourhome",
+   "title": "Which solar panel type is best for your home?",
+   "summary": "Find out how monocrystalline, polycrystalline and thin-film solar panels compare on efficiency, cost and roof space, and which type suits your home and budget.",
+   "link": "https://www.engadget.com/2319531/solar-panel-types-best-home-use/",
+   "outlet": "Engadget",
+   "feed_region": "global",
+   "published": "2026-11-22T21:15:00+00:00"
+  },
+  {
+   "key": "openaischiefscientisthasthoughtsonhowtolimitaidevelopment",
+   "title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
+   "summary": "To establish a speed limit on AI development, you need to agree on how to measure speed.",
+   "link": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
+   "outlet": "TechCrunch",
+   "feed_region": "global",
+   "published": "2026-11-22T21:14:07+00:00"
+  },
+  {
+   "key": "huelvaiberoamericanfilmfestivalprizesafterelenaalfredocastrolucapuenzo",
+   "title": "Huelva Ibero-American Film Festival Prizes: ‘After Elena,’ Alfredo Castro, Lucía Puenzo and ‘La Bola Negra’ Win Big",
+   "summary": "Spain’s Huelva Ibero-American Film Festival, one of Europe’s foremost Latin American cinema platforms, prized two of the region’s cinema greats, awarding top prizes to Chilean actor Alfredo Castro and Argentine writer-director Lucía Puenzo on Saturday night. “La Bola Negra” also reaped yet another plaudit, its...",
+   "link": "https://variety.com/2026/film/global/huelva-ibero-american-film-festival-prizes-after-elena-1236955462/",
+   "outlet": "Variety",
+   "feed_region": "americas",
+   "published": "2026-11-22T21:09:57+00:00"
+  },
+  {
+   "key": "thebestappstomakenewfriendsrightnow",
+   "title": "The best apps to make new friends right now",
+   "summary": "We've compiled a list of friendship apps, from friend discovery platforms like BFF to event-focused ones like Timeleft.",
+   "link": "https://techcrunch.com/2026/11/22/as-people-look-for-ways-to-make-new-friends-here-are-the-apps-promising-to-help/",
+   "outlet": "TechCrunch",
+   "feed_region": "global",
+   "published": "2026-11-22T21:00:00+00:00"
+  },
+  {
+   "key": "howsecureisyourpasswordhereshowtotestit",
+   "title": "How Secure Is Your Password? Here's How To Test It",
+   "summary": "Find out which common password habits leave your accounts exposed, from keyboard patterns to reused logins, and what a truly secure password needs to include.",
+   "link": "https://www.engadget.com/2319522/how-secure-is-password/",
+   "outlet": "Engadget",
+   "feed_region": "global",
+   "published": "2026-11-22T21:00:00+00:00"
+  },
+  {
+   "key": "todaysnytconnectionshintsandanswersformondaynov231261",
+   "title": "Today’s NYT Connections Hints and Answers for Monday, Nov. 23, #1261",
+   "summary": "Need a Connections hint today? Get a hint for each color group in NYT Connections No. 1,261 on Monday, Nov. 23, then all four answers.",
+   "link": "https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-november-23-1261/",
+   "outlet": "CNET News",
+   "feed_region": "global",
+   "published": "2026-11-22T21:00:00+00:00"
+  },
+  {
+   "key": "theseiossettingswillhelpyoucontrolyourmobiledatause",
+   "title": "These iOS settings will help you control your mobile data use",
+   "summary": "Keeping your mobile data usage under control is generally a good idea, doubly so if you're on a restrictive plan, and iOS offers a few ways to do so.",
+   "link": "https://www.engadget.com/2319519/ios-settings-help-control-mobile-data-use/",
+   "outlet": "Engadget",
+   "feed_region": "global",
+   "published": "2026-11-22T20:45:00+00:00"
+  },
+  {
+   "key": "sheglamopensthewizardsvaultwithitsthirdharrypottermakeupcollection",
+   "title": "SHEGLAM Opens the Wizards’ Vault With Its Third Harry Potter Makeup Collection",
+   "summary": "The set features playful, wearable essentials for eyes, lips and complexion, each inspired by a familiar corner of the wizarding world.",
+   "link": "https://www.hollywoodreporter.com/lifestyle/shopping/sheglam-harry-potter-makeup-collection-2026-products-review-1236759625/",
+   "outlet": "Hollywood Reporter",
+   "feed_region": "americas",
+   "published": "2026-11-22T20:40:18+00:00"
+  },
+  {
+   "key": "johnturturrosaysistillconsidermyselfabeginnerashegetsmarrakechfilmfest",
+   "title": "John Turturro Says ‘I Still Consider Myself a Beginner’ as He Gets Marrakech Film Festival Tribute Award: ‘Every Job Is Like a First Love’",
+   "summary": "Though his career has spanned over four decades, John Turturro still feels like it’s just the beginning. The 69-year-old actor and filmmaker was honored with a tribute award at Marrakech Film Festival on Sunday night, where he was greeted with roaring applause as he mimed the iconic bowling moves of his “The Big...",
+   "link": "https://variety.com/2026/film/festivals/john-turturro-marrakech-film-festival-award-still-beginner-1236955255/",
+   "outlet": "Variety",
+   "feed_region": "americas",
+   "published": "2026-11-22T20:39:11+00:00"
+  },
+  {
+   "key": "broncosalumespnhalloffamebroadcastertomjacksondiesat75",
+   "title": "Broncos Alum & ESPN Hall Of Fame Broadcaster Tom Jackson Dies At 75",
+   "summary": "Jackson’s family told ESPN that he passed on Friday, in what his longtime co-host Chris Berman called an “unexpected” death, having previously spoken “at length” with Jackson on Tuesday. The post Broncos Alum & ESPN Hall Of Fame Broadcaster Tom Jackson Dies At 75 appeared first on TV News Check .",
+   "link": "https://tvnewscheck.com/journalism/article/broncos-alum-espn-hall-of-fame-broadcaster-tom-jackson-dies-at-75/",
+   "outlet": "TVNewsCheck",
+   "feed_region": "americas",
+   "published": "2026-11-22T20:33:12+00:00"
+  },
+  {
+   "key": "whatthetinykeyiconmeansonyourandroiddevice",
+   "title": "What the tiny key icon means on your Android device",
+   "summary": "Some Android status bar icons are quite self-explanatory, but others aren't quite as clear-cut. That tiny key icon is a perfect example of the latter.",
+   "link": "https://www.engadget.com/2319509/what-tiny-key-icon-means-android-device/",
+   "outlet": "Engadget",
+   "feed_region": "global",
+   "published": "2026-11-22T20:30:00+00:00"
+  },
+  {
+   "key": "hungergamesleadjosephzadaonfilminghisbreakoutmovieroleandsunriseonther",
+   "title": "‘Hunger Games’ Lead Joseph Zada on Filming His Breakout Movie Role and ‘Sunrise on the Reaping’s’ Intense Stunts: ‘I Look Like a F—ing Action Star!’",
+   "summary": "When it comes to taking on the leading role in one of the most beloved film (and literary) franchises, sometimes you just have to jump right in. At least that was the case for Joseph Zada, whose first day on set of “The Hunger Games: Sunrise on the Reaping” was spent filming the opening cornucopia […]",
+   "link": "https://variety.com/2026/film/features/hunger-games-sunrise-on-the-reaping-joseph-zada-action-scenes-1236954627/",
+   "outlet": "Variety",
+   "feed_region": "americas",
+   "published": "2026-11-22T20:30:00+00:00"
+  },
+  {
+   "key": "skyshowtimestaffcomplainedaboutworkplaceculturehandlingofracistconduct",
+   "title": "SkyShowtime Staff Complained About Workplace Culture & Handling Of ‘Racist Conduct’ Before Comcast/Skydance Shuttered Streamer",
+   "summary": "Comcast and Skydance announced last week that they planned to shutter SkyShowtime for commercial reasons, but behind the scenes, the U.S. media giants have also been addressing serious unrest among employees at the joint-venture streamer. The post SkyShowtime Staff Complained About Workplace Culture & Handling Of...",
+   "link": "https://tvnewscheck.com/business/article/skyshowtime-staff-complained-about-workplace-culture-handling-of-racist-conduct-before-comcast-skydance-shuttered-streamer/",
+   "outlet": "TVNewsCheck",
+   "feed_region": "americas",
+   "published": "2026-11-22T20:26:31+00:00"
+  },
+  {
+   "key": "youdontneedafoldablephonetousesplitscreenonandroid",
+   "title": "You don't need a foldable phone to use split screen on Android",
+   "summary": "There are a few ways you can multitask on a traditional smartphone.",
+   "link": "https://www.engadget.com/2319499/you-dont-need-foldable-phone-use-split-screen-android/",
+   "outlet": "Engadget",
+   "feed_region": "global",
+   "published": "2026-11-22T20:15:00+00:00"
+  },
+  {
+   "key": "inagartensayssheturneddowndancingwiththestarsbecausethethoughtofcompet",
+   "title": "Ina Garten Says She Turned Down ‘Dancing With the Stars’ Because the Thought of Competing Gave Her ‘Nightmares’",
+   "summary": "Celebrity chef Ina Garten will not be cooking up a freestyle for “Dancing with the Stars” in the near future. Garten told Rose Byrne on a recent episode of her “Happy Hour” podcast that she would be too nervous to compete. She opened the floor by asking Byrne if she had ever “not done something […]",
+   "link": "https://variety.com/2026/tv/news/ina-garten-dancing-with-the-stars-1236955404/",
+   "outlet": "Variety",
+   "feed_region": "americas",
+   "published": "2026-11-22T20:14:53+00:00"
+  },
+  {
+   "key": "treasurysecretaryonjensenhuangsnvidiareturniassumehedidntknowshewasana",
+   "title": "Treasury Secretary on Jensen Huang’s Nvidia Return: ‘I Assume He Didn’t Know She Was an Alleged Spy’",
+   "summary": "Scott Bessent assumes the former Nvidia CEO was unaware of the allegations against Alice Huang as President Donald Trump voices support for his return to the company The post Treasury Secretary on Jensen Huang’s Nvidia Return: ‘I Assume He Didn’t Know She Was an Alleged Spy’ appeared first on TheWrap .",
+   "link": "https://www.thewrap.com/industry-news/tech/scott-bessent-jensen-huang-nvidia-return-alleged-spy/",
+   "outlet": "The Wrap",
+   "feed_region": "americas",
+   "published": "2026-11-22T20:12:35+00:00"
+  },
+  {
+   "key": "theadvantagesofusingausbcdockingstation",
+   "title": "The advantages of using a USB-C docking station",
+   "summary": "If you want to use many different accessories at the same time, consider adding more ports to your laptop with a USB-C docking station.",
+   "link": "https://www.engadget.com/2319496/advantages-using-usb-c-docking-station/",
+   "outlet": "Engadget",
+   "feed_region": "global",
+   "published": "2026-11-22T20:00:00+00:00"
+  },
   {
    "key": "youcanseeeverythingbecomesraredocumentarytosurpass100millionglobally",
    "title": "‘You Can See Everything’ Becomes Rare Documentary to Surpass $100 Million Globally",
@@ -24147,843 +24597,6 @@
    "outlet": "Advanced Television",
    "feed_region": "uk",
    "published": "2026-11-13T02:01:40+00:00"
-  },
-  {
-   "key": "microsoftstrugglingtorestoreserviceasglobaloutageaffectsoutlookandteam",
-   "title": "Microsoft struggling to restore service as global outage affects Outlook and Teams",
-   "summary": "Microsoft said the outage was caused by servers unexpected becoming unavailable, straining other systems.",
-   "link": "https://www.bbc.co.uk/news/articles/c5gm3g9ldz8xo?at_medium=RSS&at_campaign=rss",
-   "outlet": "BBC Technology",
-   "feed_region": "uk",
-   "published": "2026-11-13T01:53:55+00:00"
-  },
-  {
-   "key": "laikaswildwoodpasses60millionworldwideexclusive",
-   "title": "Laika’s ‘Wildwood’ Passes $60 Million Worldwide (EXCLUSIVE)",
-   "summary": "Laika’s stop-motion movie “Wildwood” has topped $60 million worldwide. After a sluggish start, the fantasy epic directed by Travis Knight has now amassed a box office of $41.86 million in the U.S. and Canada and $19.06 million across 49 international territories. The milestone follows a strong third weekend in...",
-   "link": "https://variety.com/2026/film/global/wildwood-passes-60-million-worldwide-box-office-1236946750/",
-   "outlet": "Variety",
-   "feed_region": "americas",
-   "published": "2026-11-13T01:43:39+00:00"
-  },
-  {
-   "key": "whyquentintarantinoinitiallyfiredmlanielaurentandisabellehuppertfromin",
-   "title": "Why Quentin Tarantino Initially Fired Mélanie Laurent and Isabelle Huppert From ‘Inglourious Basterds’",
-   "summary": "\"If it’s not right, it is not right. I don’t owe them sh**. I owe my film the best actors I can find. Period,\" the Oscar-winning filmmaker said in Jay Glennie’s new book.",
-   "link": "https://www.hollywoodreporter.com/movies/movie-news/quentin-tarantino-fired-melanie-laurent-isabelle-huppert-inglourious-basterds-1236754336/",
-   "outlet": "Hollywood Reporter",
-   "feed_region": "americas",
-   "published": "2026-11-13T01:40:43+00:00"
-  },
-  {
-   "key": "shawnmendesscoldedbyjewishnonprofitforcallinggazaconflictagenocideirre",
-   "title": "Shawn Mendes Scolded by Jewish Nonprofit for Calling Gaza Conflict a Genocide: ‘Irresponsible’",
-   "summary": "“Compassion without context is not education,” a Creative Community for Peace spokesperson says The post Shawn Mendes Scolded by Jewish Nonprofit for Calling Gaza Conflict a Genocide: ‘Irresponsible’ appeared first on TheWrap .",
-   "link": "https://www.thewrap.com/culture-lifestyle/culture/shawn-mendes-scolded-by-jewish-nonprofit-gaza-genocide-ccfp/",
-   "outlet": "The Wrap",
-   "feed_region": "americas",
-   "published": "2026-11-13T01:38:49+00:00"
-  },
-  {
-   "key": "trumpmusesaboutleadingisraelplanstogetcubaandadviceforspencerprattinwi",
-   "title": "Trump Muses About Leading Israel, Plans to ‘Get Cuba’ and Advice for Spencer Pratt in Wide-Ranging Radio Interview",
-   "summary": "\"You know, when this is over, I could go to Israel and be prime minister,\" the president says The post Trump Muses About Leading Israel, Plans to ‘Get Cuba’ and Advice for Spencer Pratt in Wide-Ranging Radio Interview appeared first on TheWrap .",
-   "link": "https://www.thewrap.com/media-platforms/politics/trump-hugh-hewitt-radio-interview-israel-cuba-spencer-pratt/",
-   "outlet": "The Wrap",
-   "feed_region": "americas",
-   "published": "2026-11-13T01:36:42+00:00"
-  },
-  {
-   "key": "kroonoilbelgianrallychampionshiphighlightsondazn",
-   "title": "Kroon-Oil Belgian Rally Championship highlights on DAZN",
-   "summary": "The Kroon-Oil Belgian Rally Championship (BRC) has announced a media partnership with DAZN, the sports streaming platform. Under the agreement, DAZN will offer free-to-air highlights of Belgium’s premier rally championship to its global audience, starting with the Spa Rally taking place on November 28th-29th. The...",
-   "link": "https://www.advanced-television.com/2026/11/13/kroon-oil-belgian-rally-championship-highlights-on-dazn/",
-   "outlet": "Advanced Television",
-   "feed_region": "uk",
-   "published": "2026-11-13T01:32:29+00:00"
-  },
-  {
-   "key": "mywindowfacesabrickwallwhatsyourrentinnyc",
-   "title": "'My window faces a brick wall': What's your rent in NYC?",
-   "summary": "We ask people in New York City how much they pay for their homes.",
-   "link": "https://www.bbc.co.uk/news/videos/c6wy9j9v7nl7o?at_medium=RSS&at_campaign=rss",
-   "outlet": "BBC Business",
-   "feed_region": "uk",
-   "published": "2026-11-13T01:30:31+00:00"
-  },
-  {
-   "key": "afterjensenhuangbigtechhasachancetolearnfromnvidiasmistakes",
-   "title": "After Jensen Huang, Big Tech Has a Chance to Learn From Nvidia’s Mistakes",
-   "summary": "Tech insiders and commentators say Nvidia will survive Huang’s departure, but it’s time for more accountability among CEOs.",
-   "link": "https://www.cnet.com/tech/services-and-software/jensen-huang-big-tech-learn-from-nvidias-mistakes/",
-   "outlet": "CNET News",
-   "feed_region": "global",
-   "published": "2026-11-13T01:30:20+00:00"
-  },
-  {
-   "key": "alibabasqwen38reeducatedwithamorewesternworldview",
-   "title": "Alibaba's Qwen3.8 re-educated with a more Western worldview",
-   "summary": "Open weight model can now say things Chinese authorities don't like",
-   "link": "https://www.theregister.com/ai-and-ml/2026/11/13/alibabas-qwen38-re-educated-with-a-more-western-worldview/5309555",
-   "outlet": "The Register",
-   "feed_region": "global",
-   "published": "2026-11-13T01:25:00+00:00"
-  },
-  {
-   "key": "oscarqualifyingshortsdirectorsonthepoweroftheyoutubegenerationyoucontr",
-   "title": "Oscar-Qualifying Shorts Directors on the Power of the YouTube Generation: ‘You Control Your Own Domain’",
-   "summary": "TheWrap Screening Series: Marcellus Cox and four fellow filmmakers discuss their shorts and how it's \"the greatest time\" for DIY movie-making The post Oscar-Qualifying Shorts Directors on the Power of the YouTube Generation: ‘You Control Your Own Domain’ appeared first on TheWrap .",
-   "link": "https://www.thewrap.com/creative-content/movies/thewrap-screening-series-oscar-qualifying-shorts-directors-2026/",
-   "outlet": "The Wrap",
-   "feed_region": "americas",
-   "published": "2026-11-13T01:20:00+00:00"
-  },
-  {
-   "key": "burnhamsayswinwindealcanbeagreedbetweenukandeu",
-   "title": "Burnham says 'win-win' deal can be agreed between UK and EU",
-   "summary": "The prime minister says the deal could be \"more like the Brexit people thought they were voting for\" in 2016.",
-   "link": "https://www.bbc.co.uk/news/articles/cm2l5n07l87vo?at_medium=RSS&at_campaign=rss",
-   "outlet": "BBC Business",
-   "feed_region": "uk",
-   "published": "2026-11-13T01:17:58+00:00"
-  },
-  {
-   "key": "allenreviewquirkyetrifftreatsnostalgialikealifelongdisease",
-   "title": "‘Allen’ Review: Quirky ‘E.T.’ Riff Treats Nostalgia Like a Lifelong Disease",
-   "summary": "T.J. Power stars in this oddball Netflix exclusive, about a lonely middle-aged man whose life is ruined by a friendly alien he met in the '90s The post ‘Allen’ Review: Quirky ‘E.T.’ Riff Treats Nostalgia Like a Lifelong Disease appeared first on TheWrap .",
-   "link": "https://www.thewrap.com/creative-content/movies/allen-review-netflix/",
-   "outlet": "The Wrap",
-   "feed_region": "americas",
-   "published": "2026-11-13T01:11:13+00:00"
-  },
-  {
-   "key": "chriscolfersaysgleerebootconversationsaboutkurtsreturnareongoing",
-   "title": "Chris Colfer Says ‘Glee’ Reboot Conversations About Kurt’s Return Are Ongoing",
-   "summary": "The actor previously said he had “heard absolutely nothing” about the revival back in October The post Chris Colfer Says ‘Glee’ Reboot Conversations About Kurt’s Return Are Ongoing appeared first on TheWrap .",
-   "link": "https://www.thewrap.com/creative-content/tv-shows/chris-colfer-glee-reboot-conversations-kurts-return/",
-   "outlet": "The Wrap",
-   "feed_region": "americas",
-   "published": "2026-11-13T01:06:47+00:00"
-  },
-  {
-   "key": "thewitcherstarfreyaallantoleadjoachimrnningshorrormoviesystemexclusive",
-   "title": "‘The Witcher’ Star Freya Allan to Lead Joachim Rønning’s Horror Movie ‘System’ (EXCLUSIVE)",
-   "summary": "“The Witcher” and “Planet of the Apes” star Freya Allan is set to star in “System,” the upcoming horror film from Norwegian director Joachim Rønning. Plot details remain under wraps, but production is currently underway on location in the old, abandoned underground stations and tunnels under London. Freya will be...",
-   "link": "https://variety.com/2026/film/global/freya-allan-horror-movie-system-joachim-ronning-1236946732/",
-   "outlet": "Variety",
-   "feed_region": "americas",
-   "published": "2026-11-13T01:04:29+00:00"
-  },
-  {
-   "key": "mikemyerssayshemightbeinshrekspinoffdonkeycallsfilmlongoverdue",
-   "title": "Mike Myers Says He “Might” Be in ‘Shrek’ Spinoff ‘Donkey,’ Calls Film “Long Overdue”",
-   "summary": "The veteran actor also confirmed to The Hollywood Reporter that a fourth 'Austin Powers' movie is in the works: \"I'm writing it right now; I'm having a great time.\"",
-   "link": "https://www.hollywoodreporter.com/movies/movie-news/mike-myers-shrek-spinoff-donkey-austin-powers-4-1236754333/",
-   "outlet": "Hollywood Reporter",
-   "feed_region": "americas",
-   "published": "2026-11-13T01:00:29+00:00"
-  },
-  {
-   "key": "documentariesattheoscarsahistoryofbreakingoutoftheircategoryandwhatitm",
-   "title": "Documentaries at the Oscars: A History of Breaking Out of Their Category — and What It Means for ‘You Can See Everything’",
-   "summary": "A documentary is a film, too. But at the Oscars, it still hasn’t been fully embraced as one. One of the breakout hits of the awards season is A24’s insanely entertaining “You Can See Everything” from directors Nathan Fielder and Lance Oppenheim, which had a surprise world premiere at the Telluride Film Festival in...",
-   "link": "https://variety.com/2026/film/awards/you-can-see-everything-documentary-oscars-history-1236946588/",
-   "outlet": "Variety",
-   "feed_region": "americas",
-   "published": "2026-11-13T00:51:28+00:00"
-  },
-  {
-   "key": "fbiseizes12bnstoleninbinancecryptocurrencyhack",
-   "title": "FBI seizes $1.2bn stolen in Binance cryptocurrency hack",
-   "summary": "The FBI has seized more than $1.2bn (£910m) of cryptocurrency stolen from Binance last month.",
-   "link": "https://news.sky.com/story/fbi-seizes-12bn-stolen-in-binance-cryptocurrency-hack-13611753",
-   "outlet": "Sky News Tech",
-   "feed_region": "uk",
-   "published": "2026-11-13T00:50:00+00:00"
-  },
-  {
-   "key": "googlecatchesuptoapplewithdigitalwalletkeysforyourphysicalhomelock",
-   "title": "Google Catches Up to Apple, With Digital Wallet Keys for Your Physical Home Lock",
-   "summary": "Google Wallet can unlock Android users’ doors who have compatible smart locks.",
-   "link": "https://www.cnet.com/home/security/google-aliro-digital-wallet-keys-home-locks/",
-   "outlet": "CNET News",
-   "feed_region": "global",
-   "published": "2026-11-13T00:49:36+00:00"
-  },
-  {
-   "key": "donaldtrumpreallywantstimcooktorunnvidia",
-   "title": "Donald Trump really wants Tim Cook to run Nvidia",
-   "summary": "Jensen Huang resigned this morning as Nvidia's CEO following reports of affairs, including one with an alleged Chinese spy. Right now, the company is being led by its CFO on an interim basis. But President Donald Trump is already throwing around one person he thinks should take over the chipmaking giant: former...",
-   "link": "https://www.theverge.com/tech/1032774/president-donald-trump-tim-cook-nvidia-jensen-huang",
-   "outlet": "The Verge",
-   "feed_region": "global",
-   "published": "2026-11-13T00:46:07+00:00"
-  },
-  {
-   "key": "tyresegibsontostarinsportsdramaundertheboardsfromhomealoneproducerscot",
-   "title": "Tyrese Gibson to Star in Sports Drama ‘Under the Boards’ From ‘Home Alone’ Producer Scott Rosenfelt (Exclusive)",
-   "summary": "The feature is set to begin production next year and takes inspiration from the real-life championship run for Atlantic City High School's basketball team.",
-   "link": "https://www.hollywoodreporter.com/movies/movie-news/tyrese-gibson-star-under-the-boards-scott-rosenfelt-1236754448/",
-   "outlet": "Hollywood Reporter",
-   "feed_region": "americas",
-   "published": "2026-11-13T00:44:44+00:00"
-  },
-  {
-   "key": "chaseinfiniticomingofagedramathejuliasetsellsoutforhanwayexclusive",
-   "title": "Chase Infiniti Coming-of-Age Drama ‘The Julia Set’ Sells Out for HanWay (EXCLUSIVE)",
-   "summary": "HanWay Films has sold out all territories globally for coming-of-age drama “The Julia Set,” starring “One Battle After Another” breakout Chase Infiniti, following its premiere in Toronto earlier this year. As previously announced, Sony Pictures Classics acquired U.S. and key international territories including...",
-   "link": "https://variety.com/2026/film/global/chase-infiniti-movie-the-julia-set-sells-out-hanway-1236946566/",
-   "outlet": "Variety",
-   "feed_region": "americas",
-   "published": "2026-11-13T00:33:18+00:00"
-  },
-  {
-   "key": "rocketlabreadiesfor100thflight",
-   "title": "Rocket Lab readies for 100th flight",
-   "summary": "Rocket Lab’s 100th Electron rocket is scheduled for launch on November 14th. The launch will be a historic moment for the global space industry, setting a new record for reaching 100 launches faster than any other commercially developed launch vehicle. The mission, named ‘The Mountain God Rises’, lifted off from...",
-   "link": "https://www.advanced-television.com/2026/11/13/rocket-lab-readies-for-100th-flight/",
-   "outlet": "Advanced Television",
-   "feed_region": "uk",
-   "published": "2026-11-13T00:30:52+00:00"
-  },
-  {
-   "key": "wolfenstein3indevelopmentatxboxsmachinegames",
-   "title": "‘Wolfenstein 3’ in Development at Xbox’s MachineGames",
-   "summary": "“Wolfenstein 3” is in the works at Xbox’s Machine Games. Xbox CEO Asha Sharma announced the news Thursday amid Xbox’s 25th anniversary celebration, sharing on X: “Wolfenstein 3 is officially in production at @MachineGames. One of gaming’s most important franchises, and a team that has done remarkable work bringing...",
-   "link": "https://variety.com/2026/gaming/news/wolfenstein-3-game-xbox-1236946715/",
-   "outlet": "Variety",
-   "feed_region": "americas",
-   "published": "2026-11-13T00:30:15+00:00"
-  },
-  {
-   "key": "frndlytvlaunchingchristmaspluschannel",
-   "title": "Frndly TV launching Christmas Plus channel",
-   "summary": "Frndly TV, the US streaming service, and OTT Studio have announced Frndly TV Christmas Plus, a new 24/7 ad-supported channel devoted entirely to holiday movies and shows, available exclusively on Frndly TV in the coming days. The channel will be available to all Frndly TV subscribers at no additional cost, on every...",
-   "link": "https://www.advanced-television.com/2026/11/13/frndly-tv-launching-christmas-plus-channel/",
-   "outlet": "Advanced Television",
-   "feed_region": "uk",
-   "published": "2026-11-13T00:28:46+00:00"
-  },
-  {
-   "key": "astspacemobileshowsoffblackliftrocket",
-   "title": "AST SpaceMobile shows off BlackLift rocket",
-   "summary": "At an event in New York on November 12th, AST SpaceMobile showed off a giant – but dummy – rocket as it presented its Q3 financial numbers. AST is investing $1.3 billion (€1.1bn) in its own rocket system and insists that it could have the vehicle ready within two years. AST CEO Abel Avellan laid […]",
-   "link": "https://www.advanced-television.com/2026/11/13/ast-spacemobile-shows-off-blacklift-rocket/",
-   "outlet": "Advanced Television",
-   "feed_region": "uk",
-   "published": "2026-11-13T00:26:08+00:00"
-  },
-  {
-   "key": "ohmarymaniatakesoverladirectorsampinkletononbringingtheunrulybroadwayc",
-   "title": "‘Oh, Mary!’ Mania Takes Over L.A.: Director Sam Pinkleton on Bringing the Unruly Broadway Comedy Phenomenon to Full Houses at the Ahmanson",
-   "summary": "As most theater fans already know, “Oh, Mary!,” which is as hysterical as it is ahistorical, is the story of possibly unhinged presidential spouse Mary Todd Lincoln, and her thwarted aspirations to escape life in the parlors of the White House for a career in show business. If there is anything Mary would...",
-   "link": "https://variety.com/2026/legit/news/oh-mary-ahmanson-director-sam-pinkleton-theater-interview-1236946678/",
-   "outlet": "Variety",
-   "feed_region": "americas",
-   "published": "2026-11-13T00:23:09+00:00"
-  },
-  {
-   "key": "bbctoairu2liveattatemodern",
-   "title": "BBC to air U2 live at Tate Modern",
-   "summary": "On November 28th, the BBC will broadcast U2: Live on the BBC at Tate Modern, an exclusive concert recorded at London’s Tate Modern earlier this month. Presented by Radio 2’s Jo Whiley, it saw the celebrated, Irish rockers band perform songs from across their extensive catalogue, including Bad and With Or Without...",
-   "link": "https://www.advanced-television.com/2026/11/13/bbc-to-air-u2-live-at-tate-modern/",
-   "outlet": "Advanced Television",
-   "feed_region": "uk",
-   "published": "2026-11-13T00:14:08+00:00"
-  },
-  {
-   "key": "theriseofhousefishingwhendoesusingaigofromenhancingtomisleading",
-   "title": "The rise of 'housefishing' - when does using AI go from enhancing to misleading?",
-   "summary": "Experts warn that using AI to enhance property images can go too far and mislead prospective buyers.",
-   "link": "https://www.bbc.co.uk/news/articles/cm62y0wrnz9zo?at_medium=RSS&at_campaign=rss",
-   "outlet": "BBC Technology",
-   "feed_region": "uk",
-   "published": "2026-11-13T00:13:35+00:00"
-  },
-  {
-   "key": "xboxannounceswolfenstein3",
-   "title": "Xbox announces Wolfenstein 3",
-   "summary": "It's been nearly a decade since Bethesda's MachineGames released Wolfenstein II: The New Colossus in 2017, and now Xbox is ready to announce a sequel from the studio. Wolfenstein 3 was officially announced today, just days after Bethesda also confirmed that the next Elder Scrolls game will be called The Elder...",
-   "link": "https://www.theverge.com/news/1032431/xbox-bethesda-wolfenstein-3",
-   "outlet": "The Verge",
-   "feed_region": "global",
-   "published": "2026-11-13T00:11:44+00:00"
-  },
-  {
-   "key": "areaudiencesreadyforajohnnydeppcareercomeback",
-   "title": "Are Audiences Ready for a Johnny Depp Career Comeback?",
-   "summary": "After years away from studio features, the star returns to the box office fray with Paramount's 'Ebenezer.' Analysts are taking note of his lack of introspective press moments on the tour: \"It's a clever — if obvious — strategy.\"",
-   "link": "https://www.hollywoodreporter.com/movies/movie-news/johnny-depp-ebenezer-box-office-career-comeback-paramount-1236754032/",
-   "outlet": "Hollywood Reporter",
-   "feed_region": "americas",
-   "published": "2026-11-13T00:05:05+00:00"
-  },
-  {
-   "key": "nbcnewscancelsstaytunedstreamingshowamidstaffcuts",
-   "title": "NBC News Cancels ‘Stay Tuned’ Streaming Show Amid Staff Cuts",
-   "summary": "Gadi Schwartz will remain with the network as NBC News Now replaces its 8 p.m. show with reruns. The post NBC News Cancels ‘Stay Tuned’ Streaming Show Amid Staff Cuts appeared first on TV News Check .",
-   "link": "https://tvnewscheck.com/journalism/article/nbc-news-cancels-stay-tuned-streaming-show-amid-staff-cuts/",
-   "outlet": "TVNewsCheck",
-   "feed_region": "americas",
-   "published": "2026-11-13T00:05:00+00:00"
-  },
-  {
-   "key": "savannahguthrieextendscontractwithnbcnews",
-   "title": "Savannah Guthrie Extends Contract With NBC News",
-   "summary": "Savannah Guthrie’s tenure at “Today” still has a lot of tomorrow in it. Guthrie has extended her current deal with NBC News, according to a person familiar with the matter, a move that will keep her at the desk of the network’s flagship “Today” program at a time when the show has surged ahead of […]",
-   "link": "https://variety.com/2026/tv/news/savannah-guthrie-extends-contract-today-nbc-news-1236946710/",
-   "outlet": "Variety",
-   "feed_region": "americas",
-   "published": "2026-11-13T00:03:39+00:00"
-  },
-  {
-   "key": "researchviewersstillstrugglingtofindwhattowatch",
-   "title": "Research: Viewers still struggling to find what to watch",
-   "summary": "As industry consolidation continues to expand streaming catalogues, viewers have no shortage of things to watch. But is finding something they actually want to watch getting any easier? Hub Entertainment Research’s annual Conquering Content study explores the different ways viewers discover new shows and why they...",
-   "link": "https://www.advanced-television.com/2026/11/13/research-viewers-still-struggle-to-find-what-to-watch/",
-   "outlet": "Advanced Television",
-   "feed_region": "uk",
-   "published": "2026-11-13T00:01:12+00:00"
-  },
-  {
-   "key": "studyctvbidstreamsignalsdrive62ofbuyerstoshiftspen",
-   "title": "Study: CTV bidstream signals drive 62% of buyers to shift spen",
-   "summary": "Missing or inconsistent information in programmatic connected TV (CTV) advertising can materially change where buyers spend their budgets. A study from the Coalition for Innovative Media Measurement (CIMM) finds that 62 per cent of surveyed buyers reported shifting spend to alternative supply paths when their...",
-   "link": "https://www.advanced-television.com/2026/11/13/study-ctv-bidstream-signals-drive-62-of-buyers-to-shift-spen/",
-   "outlet": "Advanced Television",
-   "feed_region": "uk",
-   "published": "2026-11-13T00:00:30+00:00"
-  },
-  {
-   "key": "fetchxnettoutsbrowsertoolforadtrafficcalls",
-   "title": "FetchX.net Touts Browser Tool For Ad Traffic & Calls",
-   "summary": "FetchX.net says it has launched a browser-based service that lets broadcasters use numeric codes to send audiences to websites or phone numbers tied to advertisers, contests and station promotions. The … The post FetchX.net Touts Browser Tool For Ad Traffic & Calls appeared first on TV News Check .",
-   "link": "https://tvnewscheck.com/tech/article/fetchx-net-touts-browser-tool-for-ad-traffic-calls/",
-   "outlet": "TVNewsCheck",
-   "feed_region": "americas",
-   "published": "2026-11-13T00:00:13+00:00"
-  },
-  {
-   "key": "the10bestluggagebrandsforyournextadventure",
-   "title": "The 10 Best Luggage Brands For Your Next Adventure",
-   "summary": "Travel in style with today’s top suitcases, as carried by Elle Fanning, Julianne Moore and more jet-setting stars.",
-   "link": "https://www.hollywoodreporter.com/lifestyle/shopping/best-luggage-brands-1235235781/",
-   "outlet": "Hollywood Reporter",
-   "feed_region": "americas",
-   "published": "2026-11-12T23:51:31+00:00"
-  },
-  {
-   "key": "dojtakesaimat12binbinancelootasfbidisruptsnorthkoreanscam",
-   "title": "DOJ takes aim at $1.2B in Binance loot as FBI disrupts North Korean scam",
-   "summary": "‘FaceStealer’ scam tied to $400M+ theft, 900+ webcam recordings",
-   "link": "https://www.theregister.com/cyber-crime/2026/11/12/doj-takes-aim-at-12b-in-binance-loot-as-fbi-disrupts-north-korean-scam/5309523",
-   "outlet": "The Register",
-   "feed_region": "global",
-   "published": "2026-11-12T23:51:00+00:00"
-  },
-  {
-   "key": "michaeljohnrobertsanimatoranddirectoronbojackhorsemantriptankdiesat48",
-   "title": "Michael John Roberts, Animator and Director on ‘Bojack Horseman,’ ‘Triptank,’ Dies at 48",
-   "summary": "Michael John Roberts, an animator, producer and director who worked on shows including “Bojack Horseman,” died Wednesday in Los Angeles of glioblastoma. He was 46. His family’s statement said, “Michael saw the world a little differently. A gifted artist with an extraordinary talent, he could find something worth...",
-   "link": "https://variety.com/2026/tv/news/michael-john-roberts-dead-bojack-horseman-1236946676/",
-   "outlet": "Variety",
-   "feed_region": "americas",
-   "published": "2026-11-12T23:49:42+00:00"
-  },
-  {
-   "key": "whooplaunchedasocialnetworkwhereeveryuserhasaverifiedheartbeat",
-   "title": "Whoop launched a social network where every user has a ‘verified heartbeat’",
-   "summary": "Starting Thursday, Whoop members can share their data from its wearables on the app's new Whoop Humans social network. Users can make their metrics, activities, and achievements visible to other Whoop wearers, post Story-like \"Moments\" with photos and captions, and add comments and reactions on other members'...",
-   "link": "https://www.theverge.com/gadgets/1032630/whoop-humans-social-network",
-   "outlet": "The Verge",
-   "feed_region": "global",
-   "published": "2026-11-12T23:43:22+00:00"
-  },
-  {
-   "key": "secretlivesofmormonwivesbosstellsallaboutexpandingtooctaylorfrankiepau",
-   "title": "‘Secret Lives of Mormon Wives’ Boss Tells All About Expanding to OC, Taylor Frankie Paul and Whitney’s New Show",
-   "summary": "Jeff Jenkins tells TheWrap why he's hopeful Paul will return to the flagship series and what other spinoffs might work The post ‘Secret Lives of Mormon Wives’ Boss Tells All About Expanding to OC, Taylor Frankie Paul and Whitney’s New Show appeared first on TheWrap .",
-   "link": "https://www.thewrap.com/creative-content/tv-shows/secret-lives-of-mormon-wives-jeff-jenkins-interview-oc-taylor-frankie-paul/",
-   "outlet": "The Wrap",
-   "feed_region": "americas",
-   "published": "2026-11-12T23:42:02+00:00"
-  },
-  {
-   "key": "amandaseyfriedeagertocampaignforyoucanseeeverythingasawardseligibility",
-   "title": "Amanda Seyfried Eager to Campaign for ‘You Can See Everything’ as Awards Eligibility Comes Into Focus (Exclusive)",
-   "summary": "In her first one-on-one interview about the film, the actress, who could become the only person ever nominated at a major award show for a performance in a documentary, says she's excited to hit the trail: \"I’m very proud of the film, so I’m fully ready to engage in that.\"",
-   "link": "https://www.hollywoodreporter.com/movies/movie-news/amanda-seyfried-awards-eligibility-you-can-see-everything-1236753138/",
-   "outlet": "Hollywood Reporter",
-   "feed_region": "americas",
-   "published": "2026-11-12T23:37:04+00:00"
-  },
-  {
-   "key": "scandalhitnvidiaceojensenhuangquitsplungingaichipmakinggiantintoturmoi",
-   "title": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
-   "summary": "US lawmakers now want to question him over whether one of his alleged relationships was with a Chinese spy.",
-   "link": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
-   "outlet": "BBC Technology",
-   "feed_region": "uk",
-   "published": "2026-11-12T23:34:05+00:00"
-  },
-  {
-   "key": "metasmusecannowmakecallsonyourbehalfifyouhaveapaidsubscription",
-   "title": "Meta's Muse can now make calls on your behalf (if you have a paid subscription)",
-   "summary": "The AI agent can schedule appointments, make reservations and wait on hold for you.",
-   "link": "https://www.engadget.com/2315525/metas-muse-can-now-make-calls-on-your-behalf-if-you-have-a-paid-subscription/",
-   "outlet": "Engadget",
-   "feed_region": "global",
-   "published": "2026-11-12T23:32:00+00:00"
-  },
-  {
-   "key": "humblebundleredesignremovestwofactorverificationfromsettings",
-   "title": "Humble Bundle redesign removes two-factor verification from settings",
-   "summary": "The Humble Bundle storefront for buying games and other software recently got a new look, but on the settings page, it no longer offers a way to add or update two-factor verification methods, as reported by Kotaku. PC Gamer also points out that there are Humble Bundle support pages discussing two-factor...",
-   "link": "https://www.theverge.com/games/1032659/humble-bundle-redesign-two-factor-verification-security-settings",
-   "outlet": "The Verge",
-   "feed_region": "global",
-   "published": "2026-11-12T23:30:52+00:00"
-  },
-  {
-   "key": "chrishemsworthburgledarmedmensteal3carsfromaustraliahome",
-   "title": "Chris Hemsworth Burgled: Armed Men Steal 3 Cars From Australia Home",
-   "summary": "The vehicles were returned to the Marvel star after four masked men jumped his fence wielding knives The post Chris Hemsworth Burgled: Armed Men Steal 3 Cars From Australia Home appeared first on TheWrap .",
-   "link": "https://www.thewrap.com/creative-content/movies/chris-hemsworth-theft-cars-stolen-australia-home/",
-   "outlet": "The Wrap",
-   "feed_region": "americas",
-   "published": "2026-11-12T23:30:05+00:00"
-  },
-  {
-   "key": "microsoftoutlookisstilldown",
-   "title": "Microsoft Outlook is still down",
-   "summary": "Since just before 1PM ET on Thursday, reports have come in from around the world that people can't access their Outlook email, either through the web or apps. Microsoft quickly acknowledged the issue from its Microsoft 365 Status account, saying that \"We've determined a portion of infrastructure is experiencing...",
-   "link": "https://www.theverge.com/tech/1032226/microsoft-outlook-is-down",
-   "outlet": "The Verge",
-   "feed_region": "global",
-   "published": "2026-11-12T23:24:13+00:00"
-  },
-  {
-   "key": "alanjonesontrialanupdatefromtheajotteampodcast",
-   "title": "Alan Jones on Trial: An update from the AJOT team – podcast",
-   "summary": "A quick note from the Alan Jones on Trial team … we’re adjusting our episode schedule for a while. Rather than weekly recaps, we’ll be releasing special episodes around key milestones, closing arguments and judgments, keeping you up to date with the major moments from the court room. If you’re yet to do so, make...",
-   "link": "https://www.theguardian.com/australia-news/audio/2026/nov/13/alan-jones-on-trial-an-update-from-the-ajot-team-podcast-ntwnfb",
-   "outlet": "Guardian Media",
-   "feed_region": "uk",
-   "published": "2026-11-12T23:17:54+00:00"
-  },
-  {
-   "key": "godzillavskongactresskayleehottlesfinalscreenroletobefinishedbyhersist",
-   "title": "‘Godzilla vs. Kong’ Actress Kaylee Hottle’s Final Screen Role to Be Finished by Her Sister",
-   "summary": "The actress was killed in a car accident back in July The post ‘Godzilla vs. Kong’ Actress Kaylee Hottle’s Final Screen Role to Be Finished by Her Sister appeared first on TheWrap .",
-   "link": "https://www.thewrap.com/creative-content/movies/kaylee-hottles-sister-jasmine-to-finish-final-movie/",
-   "outlet": "The Wrap",
-   "feed_region": "americas",
-   "published": "2026-11-12T23:12:43+00:00"
-  },
-  {
-   "key": "streamlined11122026thefateoflanternsmighthanginthebalance",
-   "title": "Streamlined 11/12/2026: The Fate of “Lanterns” Might Hang in the Balance",
-   "summary": "But first: This week, AdExchanger Editor-in-Chief Allison Schiff was on the ground at LUMA’s digital media summit, where she sat in on a session about the challenges facing connected TV (CTV) advertisers and platforms. The post Streamlined 11/12/2026: The Fate of “Lanterns” Might Hang in the Balance appeared first...",
-   "link": "https://www.cynopsis.com/streamlined-11-12-2026-the-fate-of-lanterns-might-hang-in-the-balance/",
-   "outlet": "Cynopsis",
-   "feed_region": "americas",
-   "published": "2026-11-12T23:10:36+00:00"
-  },
-  {
-   "key": "microsoftstrugglingtofixmassivecloudoutagethatstakendownemailandintune",
-   "title": "Microsoft struggling to fix massive cloud outage that's taken down email and Intune",
-   "summary": "‘Actions taken thus far have not provided the anticipated relief’",
-   "link": "https://www.theregister.com/saas/2026/11/12/microsoft-struggling-to-fix-massive-cloud-outage-thats-taken-down-email-and-intune/5309531",
-   "outlet": "The Register",
-   "feed_region": "global",
-   "published": "2026-11-12T23:06:06+00:00"
-  },
-  {
-   "key": "xboxownersaregettingmorecustomizationsforbackgroundsandtheguidemenu",
-   "title": "Xbox owners are getting more customizations for backgrounds and the Guide menu",
-   "summary": "Microsoft is starting to test new customization options for Xbox consoles today. Xbox Insiders will be able to start testing new rotating backgrounds, new library options for digital games, and the ability to move the Xbox Guide menu to the right-hand side. \"Xbox Insiders can now save favorite dynamic backgrounds...",
-   "link": "https://www.theverge.com/news/1032396/xbox-dashboard-guide-menu-right-side-background-shuffle-feature",
-   "outlet": "The Verge",
-   "feed_region": "global",
-   "published": "2026-11-12T23:00:00+00:00"
-  },
-  {
-   "key": "howtowatchsoutherncharmseason12onlinethebravorealityseriesreturnstonig",
-   "title": "How to Watch ‘Southern Charm’ Season 12 Online: The Bravo Reality Series Returns Tonight",
-   "summary": "Bravo is heading back to Charleston. “Southern Charm” returns for its 12th season on Thursday, Nov. 12, bringing another round of romantic entanglements, fractured friendships and Southern social drama. The Season 12 premiere airs at 9 p.m. ET/PT on Bravo and this year, viewers have a new way to tune in: Philo,...",
-   "link": "https://variety.com/2026/shopping/news/how-to-watch-southern-charm-season-12-online-free-1236946634/",
-   "outlet": "Variety",
-   "feed_region": "americas",
-   "published": "2026-11-12T23:00:00+00:00"
-  },
-  {
-   "key": "inreversalamericancancersocietyurgesprostatecancertestsforallmen",
-   "title": "In reversal, American Cancer Society urges prostate cancer tests for all men",
-   "summary": "Men aged 50–69 and at average risk should get PSA screening every two years.",
-   "link": "https://arstechnica.com/health/2026/11/in-reversal-american-cancer-society-urges-prostate-cancer-tests-for-all-men/",
-   "outlet": "Ars Technica",
-   "feed_region": "global",
-   "published": "2026-11-12T22:59:51+00:00"
-  },
-  {
-   "key": "inreversalamericancancersocietyurgesroutineprostatecancerscreening",
-   "title": "In reversal, American Cancer Society urges routine prostate cancer screening",
-   "summary": "Men aged 50–69 and at average risk should get PSA screening every two years.",
-   "link": "https://arstechnica.com/health/2026/11/in-reversal-american-cancer-society-urges-prostate-cancer-tests-for-all-men/",
-   "outlet": "Ars Technica",
-   "feed_region": "global",
-   "published": "2026-11-12T22:59:51+00:00"
-  },
-  {
-   "key": "shopofhorrorshowtalentrepresentationfirmvervebecamehollywoodshomeforsu",
-   "title": "Shop of Horrors: How Talent Representation Firm Verve Became Hollywood’s Home for Successful Scares",
-   "summary": "When the box office grosses started rolling in this summer from Curry Barker’s “Obsession” and Kane Parsons’ “Backrooms,” social media wags predicted what Hollywood would do next: raid every Reddit thread and low-budget YouTube channel for the next big digital creator turned auteur. In rapid succession, the major...",
-   "link": "https://variety.com/2026/film/news/verve-hollywood-horror-1236946379/",
-   "outlet": "Variety",
-   "feed_region": "americas",
-   "published": "2026-11-12T22:58:47+00:00"
-  },
-  {
-   "key": "michaeljohnrobertsbojackhorsemanandfisforfamilyanimatordirectordiesat4",
-   "title": "Michael John Roberts, ‘BoJack Horseman’ and ‘F Is for Family’ Animator-Director, Dies at 48",
-   "summary": "The \"TripTank\" animator's death comes after a brief battle with glioblastoma The post Michael John Roberts, ‘BoJack Horseman’ and ‘F Is for Family’ Animator-Director, Dies at 48 appeared first on TheWrap .",
-   "link": "https://www.thewrap.com/media-platforms/tv/michael-john-roberts-dead-obit-bojack-horseman-animator/",
-   "outlet": "The Wrap",
-   "feed_region": "americas",
-   "published": "2026-11-12T22:50:23+00:00"
-  },
-  {
-   "key": "democratslaunchnvidiainvestigationwritescathingletteronhuangsschemewit",
-   "title": "Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump",
-   "summary": "This Congressional investigation into Nvidia's China sales and its dealings with Trump is the second one, so far, since news of the alleged spy affair broke.",
-   "link": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/",
-   "outlet": "TechCrunch",
-   "feed_region": "global",
-   "published": "2026-11-12T22:42:51+00:00"
-  },
-  {
-   "key": "ebenezerreviewsroundupjohnnydeppscomebackgetsachillyreception",
-   "title": "‘Ebenezer’ Reviews Roundup: Johnny Depp’s Comeback Gets a Chilly Reception",
-   "summary": "Critics are very split on Ti West's 'A Christmas Carol' adaptation, calling Depp everything from a \"soulless worst Scrooge ever\" to \"eminently redeemable.\"",
-   "link": "https://www.hollywoodreporter.com/movies/movie-news/ebenezer-reviews-johnny-depp-1236754299/",
-   "outlet": "Hollywood Reporter",
-   "feed_region": "americas",
-   "published": "2026-11-12T22:33:19+00:00"
-  },
-  {
-   "key": "raynicholsonwasscaredtotellhisdadjacknicholsonhewantedtopursueacting",
-   "title": "Ray Nicholson Was “Scared” to Tell His Dad Jack Nicholson He Wanted to Pursue Acting",
-   "summary": "\"My education really taught me that dad isn’t God. He’s not the only thing in this film industry. He’s a beautiful part of it, but a very small part,\" the actor said in a new Interview magazine conversation.",
-   "link": "https://www.hollywoodreporter.com/movies/movie-news/ray-nicholson-scared-tell-dad-jack-nicholson-acting-1236754341/",
-   "outlet": "Hollywood Reporter",
-   "feed_region": "americas",
-   "published": "2026-11-12T22:31:12+00:00"
-  },
-  {
-   "key": "microsoftgoesdownandthemediabusinesstakesoffearly",
-   "title": "Microsoft Goes Down, and the Media Business Takes Off Early",
-   "summary": "A global outage of Microsoft systems has the entertainment business (and frankly all of corporate America) reeling, and employees cutting out early.",
-   "link": "https://www.hollywoodreporter.com/business/business-news/microsoft-down-offices-take-off-early-1236754346/",
-   "outlet": "Hollywood Reporter",
-   "feed_region": "americas",
-   "published": "2026-11-12T22:31:04+00:00"
-  },
-  {
-   "key": "faaexpandsaiadvicetomanageairtrafficcongestionacrossentireusairspace",
-   "title": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
-   "summary": "Airlines praised the AI tool, but the air traffic controllers’ union wasn’t involved.",
-   "link": "https://arstechnica.com/ai/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/",
-   "outlet": "Ars Technica",
-   "feed_region": "global",
-   "published": "2026-11-12T22:28:47+00:00"
-  },
-  {
-   "key": "youcouldlearntopilotthisflyingcarinjust5minutes",
-   "title": "You Could Learn to Pilot This Flying Car in Just 5 Minutes",
-   "summary": "Is it a bird? Is it a plane? Is it a… flying Cybertruck? Nope, it’s a modular flying car that will take to the skies next year.",
-   "link": "https://www.cnet.com/roadshow/xpeng-aridge-land-aircraft-carrier-flying-car/",
-   "outlet": "CNET News",
-   "feed_region": "global",
-   "published": "2026-11-12T22:23:22+00:00"
-  },
-  {
-   "key": "musecannowplacecallstousbusinessesifyoupay",
-   "title": "Muse can now place calls to US businesses — if you pay",
-   "summary": "Muse's AI can now place outbound calls to U.S. businesses — but it's not free.",
-   "link": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/",
-   "outlet": "TechCrunch",
-   "feed_region": "global",
-   "published": "2026-11-12T22:22:28+00:00"
-  },
-  {
-   "key": "dowdips189nasdaqsinks100sp500falls27",
-   "title": "Dow Dips 189, Nasdaq Sinks 100, S&P 500 Falls 27",
-   "summary": "Wall Street shook Thursday with swings for Nvidia and oil prices but recovered most of its early losses. The post Dow Dips 189, Nasdaq Sinks 100, S&P 500 Falls 27 appeared first on TV News Check .",
-   "link": "https://tvnewscheck.com/business/article/dow-dips-189-nasdaq-sinks-100-sp-500-falls-27/",
-   "outlet": "TVNewsCheck",
-   "feed_region": "americas",
-   "published": "2026-11-12T22:18:51+00:00"
-  },
-  {
-   "key": "googlepromisesitsnewsmartspecswontgivecreepstheiridealview",
-   "title": "Google promises its new smart specs won't give creeps their ideal view",
-   "summary": "'Intelligent eyewear' has a built-in camera and mic, but there's a recording light to warn you and some stern legalese to discourage abuse",
-   "link": "https://www.theregister.com/personal-tech/2026/11/12/google-promises-its-new-smart-specs-wont-give-creeps-their-ideal-view/5309497",
-   "outlet": "The Register",
-   "feed_region": "global",
-   "published": "2026-11-12T22:17:08+00:00"
-  },
-  {
-   "key": "kayleehottlessisterwillstepintofinishgodzillavskongactressfinalmoviefo",
-   "title": "Kaylee Hottle’s Sister Will Step in to Finish ‘Godzilla vs. Kong’ Actress’ Final Movie Following Her Death",
-   "summary": "Kaylee died in July in a car crash in Maryland, her father, Joshua Hottle, confirmed at the time.",
-   "link": "https://www.hollywoodreporter.com/movies/movie-news/godzilla-star-kaylee-hottle-sister-finish-final-movie-death-1236754194/",
-   "outlet": "Hollywood Reporter",
-   "feed_region": "americas",
-   "published": "2026-11-12T21:58:17+00:00"
-  },
-  {
-   "key": "googlesnewgeminimodelisbetteratunderstandingcomplicatedquestions",
-   "title": "Google’s new Gemini model is better at understanding complicated questions",
-   "summary": "Google says its new Gemini 4 Hydrogen model can give more helpful answers to complex questions, including \"questions with multiple parts, hard-to-understand typos, or highly specific requests.\" The new model can break down your questions and address each part in its responses. It's available starting today in...",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen",
-   "outlet": "The Verge",
-   "feed_region": "global",
-   "published": "2026-11-12T21:55:32+00:00"
-  },
-  {
-   "key": "alanismorissetteslamsbenaffleckduringlaconcertforonceaskingwhyididntle",
-   "title": "Alanis Morissette Slams Ben Affleck During LA Concert for Once ‘Asking Why I Didn’t Lead With My Sexuality’",
-   "summary": "The \"Ironic\" singer then played a scene from their movie \"Dogma\" where Affleck's head explodes The post Alanis Morissette Slams Ben Affleck During LA Concert for Once ‘Asking Why I Didn’t Lead With My Sexuality’ appeared first on TheWrap .",
-   "link": "https://www.thewrap.com/culture-lifestyle/culture/alanis-morissette-slams-ben-affleck-sexuality-comments/",
-   "outlet": "The Wrap",
-   "feed_region": "americas",
-   "published": "2026-11-12T21:54:19+00:00"
-  },
-  {
-   "key": "indonesiasnewcopyrightbillwouldforcegoogleandmetatopaytoaggregatenews",
-   "title": "Indonesia’s new copyright bill would force Google and Meta to pay to aggregate news",
-   "summary": "On Wednesday, Meta, TikTok, and Google testified in the Indonesian parliament in opposition to a new copyright bill. The proposed law would require digital platforms to pay news publishers in Indonesia for aggregating and previewing their content, according to a new report from Reuters. The bill does not...",
-   "link": "https://www.niemanlab.org/2026/11/indonesias-new-copyright-bill-would-force-google-and-meta-to-pay-to-aggregate-news/",
-   "outlet": "Nieman Lab",
-   "feed_region": "americas",
-   "published": "2026-11-12T21:52:25+00:00"
-  },
-  {
-   "key": "putthatpananywheremielesnewinductioncooktopisonebigburner",
-   "title": "Put That Pan Anywhere: Miele’s New Induction Cooktop Is One Big Burner",
-   "summary": "The unique full-surface cooktop accommodates up to six pieces of cookware at once, anywhere you place them.",
-   "link": "https://www.cnet.com/home/kitchen-and-household/miele-new-full-surface-induction-cooktop-one-big-burner/",
-   "outlet": "CNET News",
-   "feed_region": "global",
-   "published": "2026-11-12T21:48:17+00:00"
-  },
-  {
-   "key": "itsamistakereactionsfromtechleadersonjensenhuangsresignation",
-   "title": "‘It’s a mistake’: reactions from tech leaders on Jensen Huang’s resignation",
-   "summary": "Nvidia announced this morning that Jensen Huang has resigned as CEO following reports of two affairs, including one with an alleged Chinese spy and one with a direct report. The situation surrounding Huang has unfolded quickly, with The New York Times only reporting on Friday that Huang and the suspected spy were...",
-   "link": "https://www.theverge.com/tech/1032434/nvidia-jensen-huang-resignation-reactions",
-   "outlet": "The Verge",
-   "feed_region": "global",
-   "published": "2026-11-12T21:45:00+00:00"
-  },
-  {
-   "key": "athirdofusaichattersarehotatbotshurlinginsultsatllms",
-   "title": "A third of US AI chatters are hot at bots, hurling insults at LLMs",
-   "summary": "Anthropic sets behavior standards to protect Claude from rough treatment",
-   "link": "https://www.theregister.com/ai-and-ml/2026/11/12/a-third-of-us-ai-chatters-are-hot-at-bots-hurling-insults-at-llms/5309506",
-   "outlet": "The Register",
-   "feed_region": "global",
-   "published": "2026-11-12T21:33:58+00:00"
-  },
-  {
-   "key": "globalcrownedmediamind2026",
-   "title": "Global crowned Media Mind 2026",
-   "summary": "Global beat Goodstuff in front of a full house at Odeon Luxe West End in Leicester Square.",
-   "link": "https://uk.themedialeader.com/global-crowned-media-mind-2026/",
-   "outlet": "The Media Leader",
-   "feed_region": "uk",
-   "published": "2026-11-12T21:31:54+00:00"
-  },
-  {
-   "key": "theouraring4isalmostasgoodasthenewermodelbut150cheaper",
-   "title": "The Oura Ring 4 is almost as good as the newer model, but $150 cheaper",
-   "summary": "The previous-generation Oura Ring 4 is on sale for as low as $249 at Amazon, Best Buy, and Target, $100 off the retail price, and the first big discount on the device since July. The price varies a bit by size and color, with most silver and black models in stock at the lowest price […]",
-   "link": "https://www.theverge.com/gadgets/1032311/oura-ring-4-smart-ring-deal-sale",
-   "outlet": "The Verge",
-   "feed_region": "global",
-   "published": "2026-11-12T21:28:53+00:00"
-  },
-  {
-   "key": "nebiusteststheneocloudplaybookwith40billioninplannedspending",
-   "title": "Nebius tests the neocloud playbook with $40 billion in planned spending",
-   "summary": "Nebius plans to fund its $40 billion AI infrastructure expansion through customer prepayments and loans, even as delays at a Microsoft data center raise questions about its financing model.",
-   "link": "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/",
-   "outlet": "TechCrunch",
-   "feed_region": "global",
-   "published": "2026-11-12T21:27:10+00:00"
-  },
-  {
-   "key": "joynlaunchesfreeanimelibrarywithplaionpictures",
-   "title": "Joyn launches free anime library with Plaion Pictures",
-   "summary": "ProSiebenSat.1’s streaming platform Joyn is expanding its free content offering with a new anime library in partnership with Plaion Pictures. The new aniverse TV media library will feature more than […]",
-   "link": "https://www.broadbandtvnews.com/2026/11/12/joyn-launches-free-anime-library-with-plaion-pictures/",
-   "outlet": "Broadband TV News",
-   "feed_region": "uk",
-   "published": "2026-11-12T21:24:30+00:00"
-  },
-  {
-   "key": "xploreunderestimatedhowmuchcapitalitneededforfibrebuildcourtdocs",
-   "title": "Xplore underestimated how much capital it needed for fibre build: court docs",
-   "summary": "This content is restricted to subscribers The post Xplore underestimated how much capital it needed for fibre build: court docs appeared first on Cartt.ca .",
-   "link": "https://cartt.ca/xplore-underestimated-how-much-capital-it-needed-for-fibre-build/",
-   "outlet": "Cartt.ca",
-   "feed_region": "americas",
-   "published": "2026-11-12T21:19:57+00:00"
-  },
-  {
-   "key": "herearethe25originalxboxgamesyoucannowplayonpc",
-   "title": "Here are the 25 original Xbox games you can now play on PC",
-   "summary": "For the 25th anniversary of Xbox, Microsoft is beginning to make good on its paid \"next-gen game preservation\" promise. Starting today, you can play 25 different original Xbox games on your Windows PC, as long as you have (or are willing to pay) for digital copies. In July, Microsoft originally launched the idea...",
-   "link": "https://www.theverge.com/games/1032321/microsoft-xbox-original-games-pc-backwards-compatibility",
-   "outlet": "The Verge",
-   "feed_region": "global",
-   "published": "2026-11-12T21:00:00+00:00"
-  },
-  {
-   "key": "openailaunchessecurityproductstellsorgstheyredoomediftheydontusethem",
-   "title": "OpenAI launches security products, tells orgs they’re doomed if they don’t use them",
-   "summary": "Meanwhile, a group of nonprofits sue AI giants and cite AI-driven cyberattacks",
-   "link": "https://www.theregister.com/security/2026/11/12/openai-launches-security-products-tells-orgs-theyre-doomed-if-they-dont-use-them/5309500",
-   "outlet": "The Register",
-   "feed_region": "global",
-   "published": "2026-11-12T20:48:45+00:00"
-  },
-  {
-   "key": "autenticacquiresgedeonmediagroupassetsandlaunchesgedeonstudios",
-   "title": "Autentic acquires Gedeon Media Group assets and launches Gedeon Studios",
-   "summary": "German production and distribution company Autentic has acquired the assets of French factual production company Gedeon Media Group (GMG), including Gedeon Programmes, Docland Yard and MC4, and established a new […]",
-   "link": "https://www.broadbandtvnews.com/2026/11/12/autentic-acquires-gedeon-media-group-assets-and-launches-gedeon-studios/",
-   "outlet": "Broadband TV News",
-   "feed_region": "uk",
-   "published": "2026-11-12T20:29:15+00:00"
-  },
-  {
-   "key": "jensenhuangwashavingathirdaffairreutersreports",
-   "title": "Jensen Huang was having a third affair, Reuters reports",
-   "summary": "Reuters is withholding the name of the new employee linked to Huang, but says she is an employee of Nvidia.",
-   "link": "https://techcrunch.com/2026/11/12/jensen-huang-was-having-a-third-affair-reuters-reports/",
-   "outlet": "TechCrunch",
-   "feed_region": "global",
-   "published": "2026-11-12T20:26:47+00:00"
-  },
-  {
-   "key": "whyuserfirstadexperiencesbuildthestrongestappbusinesses",
-   "title": "Why user-first ad experiences build the strongest app businesses",
-   "summary": "Today’s mobile users are searching, streaming, scrolling and shopping in bursts while commuting, waiting in line or multitasking. In each of those moments, attention is won second by second — and lost just as quickly. Partner insights from Google Publisher Connections.",
-   "link": "https://digiday.com/sponsored/why-user-first-ad-experiences-build-the-strongest-app-businesses/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
-   "outlet": "Digiday",
-   "feed_region": "americas",
-   "published": "2026-11-12T20:24:27+00:00"
-  },
-  {
-   "key": "jensenhuanghasresignedwhatsnextfornvidia",
-   "title": "Jensen Huang has resigned, what's next for Nvidia?",
-   "summary": "Jensen Huang has resigned from Nvidia as chief financial officer Colette Kress replaces him as an interim boss.",
-   "link": "https://www.bbc.co.uk/news/videos/c6wy9l859r94o?at_medium=RSS&at_campaign=rss",
-   "outlet": "BBC Business",
-   "feed_region": "uk",
-   "published": "2026-11-12T20:21:03+00:00"
-  },
-  {
-   "key": "davidwalliamsadaptationfingpulledbydohafilmfestivalfollowingsexualhara",
-   "title": "David Walliams Adaptation ‘Fing!’ Pulled by Doha Film Festival Following Sexual Harassment Allegations",
-   "summary": "The upcoming Doha Film Festival has removed fantasy feature “Fing!” from its program following sexual misconduct allegations against David Walliams, the British actor and writer who is the author of the book on which the film is based. Walliams, who rose to prominence for his comedy show “Little Britain” before...",
-   "link": "https://variety.com/2026/film/global/david-walliams-fling-doha-film-festival-sexual-allegations-1236946389/",
-   "outlet": "Variety",
-   "feed_region": "americas",
-   "published": "2026-11-12T20:20:17+00:00"
-  },
-  {
-   "key": "dramawriterstalkcastingtheperfectactorandthepressuresofshowrunningpeop",
-   "title": "Drama Writers Talk Casting the Perfect Actor and the Pressures of Showrunning: ‘People Are Looking at You to Steer the Story’",
-   "summary": "Whether it’s waiting on a renewal for another season or tackling how to extend a character’s storyline, TV drama creators are almost always dealing with perpetual stress. Katori Hall, the creator, executive producer and showrunner of “P-Valley,” decided to unwind between seasons this year by getting her pilot’s...",
-   "link": "https://variety.com/2026/tv/news/night-in-the-writers-room-drama-writers-1236946429/",
-   "outlet": "Variety",
-   "feed_region": "americas",
-   "published": "2026-11-12T20:19:50+00:00"
-  },
-  {
-   "key": "legomarketplacebricklinkinpiecesafterunusualactivitytakesitofflinefora",
-   "title": "Lego marketplace BrickLink in pieces after 'unusual activity' takes it offline for almost a week",
-   "summary": "Lego fans demand answers as outage approaches a week with no confirmed cause",
-   "link": "https://www.theregister.com/security/2026/11/12/lego-marketplace-bricklink-in-pieces-after-unusual-activity-takes-it-offline-for-almost-a-week/5309425",
-   "outlet": "The Register",
-   "feed_region": "global",
-   "published": "2026-11-12T20:08:08+00:00"
-  },
-  {
-   "key": "jensenhuangsselfsabotagesendsnvidiaintoamidlifecrisis",
-   "title": "Jensen Huang's self-sabotage sends Nvidia into a midlife crisis",
-   "summary": "The competition is circling like vultures",
-   "link": "https://www.theregister.com/ai-and-ml/2026/11/12/jensen-huangs-self-sabotage-sends-nvidia-into-a-midlife-crisis/5309480",
-   "outlet": "The Register",
-   "feed_region": "global",
-   "published": "2026-11-12T20:06:29+00:00"
-  },
-  {
-   "key": "meetthepeoplewhowantpeptidestobemadeinamerica",
-   "title": "Meet the people who want peptides to be made in America",
-   "summary": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. We'll be taking a break next week and will be back on November 25th. Opt in for Optimizer here. The SS Jeremiah O'Brien is a […]",
-   "link": "https://www.theverge.com/column/1032243/peptides-american-manufacturing-maha",
-   "outlet": "The Verge",
-   "feed_region": "global",
-   "published": "2026-11-12T20:00:00+00:00"
-  },
-  {
-   "key": "nbcnewswillcancelstreamingshowstaytunedtrimsomepositionsinstaffrealign",
-   "title": "NBC News Will Cancel Streaming Show ‘Stay Tuned,’ Trim Some Positions in Staff Realignment",
-   "summary": "NBC News will cease airing its one hour of primetime programming on the “NBC News Now” streaming service as part of a review of its resources, according to a person familiar with the matter — resulting in the end of “Stay Tuned,” a show that streamed from the west coast at 8 p.m., and the […]",
-   "link": "https://variety.com/2026/tv/news/nbc-news-cancel-streaming-stay-tuned-layoffs-1236946410/",
-   "outlet": "Variety",
-   "feed_region": "americas",
-   "published": "2026-11-12T20:00:00+00:00"
-  },
-  {
-   "key": "howsimplealienisturningtvtalentandcomfortfoodcontentintodigitalfirstfr",
-   "title": "How Simple Alien Is Turning TV Talent and Comfort Food Content Into Digital-First Franchises",
-   "summary": "Office With a View: Co-founders Nick Panagopulos and Marissa Ronca tell TheWrap how they are taking notes from their traditional entertainment backgrounds to retain viewers online The post How Simple Alien Is Turning TV Talent and Comfort Food Content Into Digital-First Franchises appeared first on TheWrap .",
-   "link": "https://www.thewrap.com/media-platforms/tv/how-simple-alien-is-turning-tv-talent-and-comfort-food-content-into-digital-first-franchises/",
-   "outlet": "The Wrap",
-   "feed_region": "americas",
-   "published": "2026-11-12T20:00:00+00:00"
-  },
-  {
-   "key": "aproudfamilywizmascreatorsonmakingdisneymagicwithstopmotionholidayrebo",
-   "title": "‘A Proud Family Wizmas’ Creators on Making Disney Magic With Stop-Motion Holiday Reboot | Exclusive",
-   "summary": "Bruce W. Smith and Ralph Farquhar reflect on realizing their dream of bringing a stop-motion holiday special to Black audiences The post ‘A Proud Family Wizmas’ Creators on Making Disney Magic With Stop-Motion Holiday Reboot | Exclusive appeared first on TheWrap .",
-   "link": "https://www.thewrap.com/creative-content/tv-shows/a-proud-family-wizmas-disney-creator-interview-video/",
-   "outlet": "The Wrap",
-   "feed_region": "americas",
-   "published": "2026-11-12T20:00:00+00:00"
-  },
-  {
-   "key": "arslivecanthecloudsurvivedronestrikesondatacenters",
-   "title": "Ars Live: Can the cloud survive drone strikes on data centers?",
-   "summary": "A livestream Ars discussion is happening on November 17 at 1 pm Eastern Time.",
-   "link": "https://arstechnica.com/gadgets/2026/11/ars-live-can-the-cloud-survive-drone-strikes-on-data-centers/",
-   "outlet": "Ars Technica",
-   "feed_region": "global",
-   "published": "2026-11-12T19:59:59+00:00"
-  },
-  {
-   "key": "arslivewhatdroneattacksondatacentersmeanformodernlifeinthecloud",
-   "title": "Ars Live: What drone attacks on data centers mean for modern life in the cloud",
-   "summary": "A livestream Ars discussion is happening on November 17 at 1 pm Eastern Time.",
-   "link": "https://arstechnica.com/gadgets/2026/11/ars-live-can-the-cloud-survive-drone-strikes-on-data-centers/",
-   "outlet": "Ars Technica",
-   "feed_region": "global",
-   "published": "2026-11-12T19:59:59+00:00"
   }
  ]
 }
