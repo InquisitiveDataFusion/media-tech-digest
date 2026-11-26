@@ -1,0 +1,516 @@
+{
+  "schema": 1,
+  "iso": "2026-11-26",
+  "headline": "Broadcasting giants face major regulatory shifts in the UK and North America",
+  "date_line": "Thursday 26 November 2026 · covering Mon 23 Nov to Wed 25 Nov",
+  "footer_note": "Built from 32 cited articles across 15 outlets. Written by gemini-3-flash-preview, gemini-3.1-flash-lite.",
+  "model": "gemini-3-flash-preview, gemini-3.1-flash-lite",
+  "backfilled": false,
+  "generated_at": "2026-11-26T09:31:49+00:00",
+  "digest": {
+    "headline": "Broadcasting giants face major regulatory shifts in the UK and North America",
+    "lead": "The BBC is considering advertising on iPlayer as licence fee changes are proposed in the United Kingdom. Meanwhile, a federal judge has blocked an FCC review of ABC broadcast licences in North America while SpaceX secures approval for a satellite based AI network.",
+    "glance": [
+      {
+        "text": "The BBC is planning a major technology update to allow advertising and rival content on its iPlayer streaming platform.",
+        "section": "tech",
+        "refs": [
+          1,
+          2
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "Extending the UK television licence fee to cover on-demand streaming could raise 1.6 billion pounds for the BBC by 2032.",
+        "section": "regulation",
+        "refs": [
+          3,
+          4,
+          5
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "Netflix will host a dedicated CBeebies hub and fund a small number of new commissions in a trial with the BBC.",
+        "section": "deals",
+        "refs": [
+          6,
+          7,
+          8
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "PBS America has launched a hybrid FAST service on Freeview channel 84 featuring targeted advertising technology.",
+        "section": "tech",
+        "refs": [
+          9,
+          10
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "Gordon Ramsay will host a new series of Top Gear for the BBC following the show's production hiatus.",
+        "section": "audience",
+        "refs": [
+          11
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "Ofcom research shows eight in ten UK children are now using artificial intelligence chatbots.",
+        "section": "audience",
+        "refs": [
+          12
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "Bauer Academy has launched a new talent development programme called The Pod to support Scottish podcasting creatives.",
+        "section": "radio",
+        "refs": [
+          13,
+          14
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "A judge blocked the FCC from reviewing ABC licenses, ruling the network faced retaliation for protected speech.",
+        "section": "regulation",
+        "refs": [
+          15,
+          16,
+          17
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "SpaceX received FCC authorisation to deploy up to one million AI chip-equipped satellites for its Starmind initiative.",
+        "section": "tech",
+        "refs": [
+          18,
+          19
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "Fubo subscribers will now receive Disney+, Hulu, ESPN Unlimited and Fox One at no additional cost.",
+        "section": "deals",
+        "refs": [
+          20
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "Quebecor is challenging a potential Bell-Telus tie-up while pursuing its own 31 billion dollar bid for Telus.",
+        "section": "deals",
+        "refs": [
+          21
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "Nielsen is moving to one-minute listening increments, changing how radio audience reach is measured.",
+        "section": "radio",
+        "refs": [
+          22
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "Amazon acquired software firm Decart for 7.5 billion dollars to improve the efficiency of its Trainium chips.",
+        "section": "tech",
+        "refs": [
+          23
+        ],
+        "region": "americas"
+      },
+      {
+        "text": "The FCC will vote in December on proposals to lift local radio ownership caps.",
+        "section": "regulation",
+        "refs": [
+          24,
+          25
+        ],
+        "region": "americas"
+      }
+    ],
+    "sections": [
+      {
+        "id": "regulation",
+        "paragraphs": [
+          "The UK government is considering a proposal to apply the television licence fee to streaming services. This move aims to secure the long term financial position of the BBC against global rivals.",
+          "Analysis from Ampere suggests this change could generate 1.6 billion pounds in extra annual revenue by 2032. The findings come ahead of a government White Paper on the future of the licence fee."
+        ],
+        "region": "uk"
+      },
+      {
+        "id": "tech",
+        "paragraphs": [
+          "The BBC is advancing plans to open iPlayer to advertising and content from rival broadcasters like Channel 4. This would require significant investment in the platform's technology infrastructure.",
+          "PBS America has introduced a new FAST service on Freeview using technology from Global Distribution Services and Synapse TV. The system allows the broadcaster to deliver targeted advertising through traditional terrestrial sets."
+        ],
+        "region": "uk"
+      },
+      {
+        "id": "deals",
+        "paragraphs": [
+          "The BBC and Netflix have agreed a limited trial to host CBeebies content on the global streaming platform. Netflix will also provide funding for a small number of new CBeebies commissions as part of the deal.",
+          "The Children’s Media Foundation has welcomed the partnership as a way to extend the reach of British children's programming. The trial is scheduled to begin in early December with 24 selected titles."
+        ],
+        "region": "uk"
+      },
+      {
+        "id": "audience",
+        "paragraphs": [
+          "New research from Digital i indicates that Disney plus is struggling to match the engagement levels of Netflix and Prime Video for British content. This gap highlights the potential importance of a recent content deal with Channel 4.",
+          "Ofcom reports that young people are leading the adoption of AI chatbots in the UK. Children and adults are increasingly using these tools for companionship and creative tasks."
+        ],
+        "region": "uk"
+      },
+      {
+        "id": "regulation",
+        "paragraphs": [
+          "A federal judge has sided with ABC in a First Amendment lawsuit against the FCC. The court blocked an order for early license renewals, finding the network was targeted for its news coverage and programming. The judge described the case as a campaign of retaliation against protected speech.",
+          "The FCC is preparing for a December vote to update local media ownership rules. The proposed order would implement case-by-case reviews and could lift hard caps on local radio ownership. This change would allow deals above current limits and let owners determine their own mix of AM and FM stations.",
+          "In Canada, the CRTC denied a request from Quebecor Media to reduce local programming hours at its TVA station in Quebec City. The regulator also rejected a similar bid to cut hours for CFCM-DT. These decisions maintain existing local content requirements for the broadcasters."
+        ],
+        "region": "americas"
+      },
+      {
+        "id": "tech",
+        "paragraphs": [
+          "SpaceX has won FCC approval to launch up to one million satellites equipped with AI chips. This Starmind project aims to create data centres in space. The regulator dismissed concerns about scientific research, stating such issues fell outside its authority.",
+          "Amazon and Meta are reportedly negotiating to end a blockade on the AI agent Muse. Amazon is also acquiring Decart for 7.5 billion dollars to narrow the silicon gap with Nvidia. The deal focuses on using software to enhance the performance of Amazon's proprietary AI chips.",
+          "TikTok has introduced new tools for AI detection and likeness protection. These updates aim to increase transparency for creators and brands. The platform also added new parental oversight features for teenage users."
+        ],
+        "region": "americas"
+      },
+      {
+        "id": "audience",
+        "paragraphs": [
+          "CBS reported strong ratings with Sheriff Country and Cupertino reaching series highs in multiplatform viewing. The network averaged 7.66 million viewers during the fifth week of the broadcast season. NWSL playoff ratings also rose on both CBS and ABC.",
+          "Cable news ratings showed Fox News and CNN tied in primetime during the weekend of 21 November. NBC Nightly News was the only evening newscast to see gains during its most recent tracking week. Fox News continued to lead evening viewership on Wednesday 18 November.",
+          "Disney is expanding its streaming strategy with more content and potential free tiers. The company has partnered with Imax and the NFL to screen the Super Bowl on giant screens. Peacock has also renewed its digital shopping series for a second holiday season."
+        ],
+        "region": "americas"
+      },
+      {
+        "id": "people",
+        "paragraphs": [
+          "Dozens of CBS News employees have accepted buyouts following the Skydance merger. Senior figures in the Washington bureau are among those leaving the network. Some staff members have described the departures as an extinction level event for the news unit.",
+          "BBC journalists have voted to take strike action over proposed job cuts. The union is protesting plans to save 51 million pounds within the news division. The corporation has also embedded consultants from AlixPartners to find further cost-saving measures."
+        ],
+        "region": "americas"
+      }
+    ],
+    "people_moves": [
+      {
+        "text": "Gordon Ramsay, Host, Top Gear",
+        "refs": [
+          11
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "Sumi Connock, Speaker, Content Europe 2027 (BBC Studios)",
+        "refs": [
+          26
+        ],
+        "region": "uk"
+      },
+      {
+        "text": "Courtney Fitzpatrick, head of content partnerships and sales in Canada, BBC Studios",
+        "refs": [
+          27
+        ],
+        "region": "americas"
+      }
+    ],
+    "coming_up": [
+      {
+        "date": "27 Nov 2026",
+        "text": "Tyson Fury documentary launches on Netflix",
+        "refs": [
+          28
+        ],
+        "region": "uk"
+      },
+      {
+        "date": "02 Dec 2026",
+        "text": "CBeebies branded hub launches on Netflix UK",
+        "refs": [
+          8
+        ],
+        "region": "uk"
+      },
+      {
+        "date": "01 Jan 2027",
+        "text": "Disney plus begins streaming Bundesliga highlights in DACH region",
+        "refs": [
+          29
+        ],
+        "region": "uk"
+      },
+      {
+        "date": "01 May 2027",
+        "text": "BBC Radio 1 Big Weekend begins in Brighton",
+        "refs": [
+          30
+        ],
+        "region": "uk"
+      },
+      {
+        "date": "27 Nov",
+        "text": "Season two of Shop What Happens premieres on Peacock",
+        "refs": [
+          31
+        ],
+        "region": "americas"
+      },
+      {
+        "date": "02 Dec",
+        "text": "CBeebies-branded hub launches on Netflix",
+        "refs": [
+          32
+        ],
+        "region": "americas"
+      },
+      {
+        "date": "15 Dec",
+        "text": "FCC scheduled to vote on local media ownership rules",
+        "refs": [
+          24,
+          25
+        ],
+        "region": "americas"
+      }
+    ]
+  },
+  "articles": [
+    {
+      "ref": 1,
+      "title": "BBC has ad plans for iPlayer",
+      "link": "https://www.advanced-television.com/2026/11/25/bbc-has-ad-plans-for-iplayer/",
+      "outlet": "Advanced Television",
+      "region": "uk"
+    },
+    {
+      "ref": 2,
+      "title": "BBC ‘planning to open iPlayer to ads and other content’",
+      "link": "https://www.tvbeurope.com/media-delivery/bbc-planning-to-open-iplayer-to-ads-and-other-content",
+      "outlet": "TVBEurope",
+      "region": "uk"
+    },
+    {
+      "ref": 3,
+      "title": "Analysis: Extending TV licence fee to streaming could raise £1.6bn for BBC",
+      "link": "https://www.advanced-television.com/2026/11/23/analysis-extending-tv-licence-fee-to-streaming-could-raise-1-6bn-for-bbc/",
+      "outlet": "Advanced Television",
+      "region": "uk"
+    },
+    {
+      "ref": 4,
+      "title": "Ampere: Extending UK TV licence fee to streaming could raise $2.1bn for the BBC",
+      "link": "https://www.c21media.net/news/ampere-extending-uk-tv-licence-fee-to-streaming-could-raise-1-6bn-more-for-the-bbc/",
+      "outlet": "C21Media",
+      "region": "uk"
+    },
+    {
+      "ref": 5,
+      "title": "Extending TV licence to streaming could raise £1.6bn for BBC",
+      "link": "https://www.broadbandtvnews.com/2026/11/23/extending-tv-licence-to-streaming-could-raise-1-6bn-for-bbc/",
+      "outlet": "Broadband TV News",
+      "region": "uk"
+    },
+    {
+      "ref": 6,
+      "title": "Netflix to fund ‘small number’ of CBeebies commissions via distribution deal with BBC",
+      "link": "https://www.c21media.net/news/netflix-to-fund-small-number-of-cbeebies-commissions-via-distribution-deal-with-bbc/",
+      "outlet": "C21Media",
+      "region": "uk"
+    },
+    {
+      "ref": 7,
+      "title": "BBC and Netflix agree CBeebies content partnership",
+      "link": "https://www.broadbandtvnews.com/2026/11/24/bbc-and-netflix-agree-cbeebies-content-partnership/",
+      "outlet": "Broadband TV News",
+      "region": "uk"
+    },
+    {
+      "ref": 8,
+      "title": "BBC to trial CBeebies hub on Netflix",
+      "link": "https://www.advanced-television.com/2026/11/24/bbc-to-trial-cbeebies-hub-on-netflix/",
+      "outlet": "Advanced Television",
+      "region": "uk"
+    },
+    {
+      "ref": 9,
+      "title": "PBS America launches hybrid FAST service on Freeview",
+      "link": "https://www.broadbandtvnews.com/2026/11/25/pbs-america-launches-hybrid-fast-service-on-freeview/",
+      "outlet": "Broadband TV News",
+      "region": "uk"
+    },
+    {
+      "ref": 10,
+      "title": "PBS America launches FAST Service on Freeview UK",
+      "link": "https://www.advanced-television.com/2026/11/25/pbs-america-launches-fast-service-on-freeview-uk/",
+      "outlet": "Advanced Television",
+      "region": "uk"
+    },
+    {
+      "ref": 11,
+      "title": "Top Gear returning to BBC with Gordon Ramsay hosting",
+      "link": "https://www.advanced-television.com/2026/11/25/gordon-ramsay-named-new-top-gear-host/",
+      "outlet": "Advanced Television",
+      "region": "uk"
+    },
+    {
+      "ref": 12,
+      "title": "Ofcom: 8 in 10 UK children using AI chatbots",
+      "link": "https://www.advanced-television.com/2026/11/24/ofcom-8-in-10-uk-children-using-ai-chatbots/",
+      "outlet": "Advanced Television",
+      "region": "uk"
+    },
+    {
+      "ref": 13,
+      "title": "Bauer Academy rolls out audio talent development initiative The Pod",
+      "link": "https://www.c21media.net/news/bauer-academy-rolls-out-audio-talent-development-initiative-the-pod/",
+      "outlet": "C21Media",
+      "region": "uk"
+    },
+    {
+      "ref": 14,
+      "title": "Bauer Academy launches Scottish podcast training programme The Pod",
+      "link": "https://radiotoday.co.uk/2026/11/bauer-academy-launches-scottish-podcast-training-programme-the-pod/",
+      "outlet": "RadioToday",
+      "region": "uk"
+    },
+    {
+      "ref": 15,
+      "title": "Judge Halts ABC Early License Renewal Order, Spikes FCC Dismissal of Disney’s Free Speech Suit",
+      "link": "https://www.thewrap.com/media-platforms/tv/judge-halts-abc-early-license-renewal-order-spikes-fcc-dismissal-of-disneys-free-speech-suit/",
+      "outlet": "The Wrap",
+      "region": "americas"
+    },
+    {
+      "ref": 16,
+      "title": "Judge Blocks FCC’s Move Against ABC’s Station Licenses: ‘This Is Not a Close Case’",
+      "link": "https://variety.com/2026/tv/news/fcc-abc-license-renewals-injunction-1236958634/",
+      "outlet": "Variety",
+      "region": "americas"
+    },
+    {
+      "ref": 17,
+      "title": "Judge Blocks FCC From Further Reviewing ABC Licenses",
+      "link": "https://tvnewscheck.com/regulation/article/judge-blocks-fcc-from-further-reviewing-abc-licenses/",
+      "outlet": "TVNewsCheck",
+      "region": "americas"
+    },
+    {
+      "ref": 18,
+      "title": "FCC signs off on SpaceX’s plan to put up to 1 million data center satellites into space",
+      "link": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers",
+      "outlet": "The Verge",
+      "region": "americas"
+    },
+    {
+      "ref": 19,
+      "title": "FCC approves SpaceX plan to put AI data centers in space",
+      "link": "https://techcrunch.com/2026/11/25/fcc-approves-spacex-plan-to-put-ai-data-centers-in-space/",
+      "outlet": "TechCrunch",
+      "region": "americas"
+    },
+    {
+      "ref": 20,
+      "title": "Fubo Plans Now Include Free Disney+, Hulu, ESPN Unlimited and Fox One",
+      "link": "https://www.hollywoodreporter.com/lifestyle/shopping/fubo-free-access-to-disney-plus-hulu-espn-unlimited-fox-one-1236762695/",
+      "outlet": "Hollywood Reporter",
+      "region": "americas"
+    },
+    {
+      "ref": 21,
+      "title": "Quebecor challenges potential Bell-Telus tie-up",
+      "link": "https://mediaincanada.com/2026/11/23/quebecor-challenges-potential-bell-telus-tie-up/",
+      "outlet": "Media in Canada",
+      "region": "americas"
+    },
+    {
+      "ref": 22,
+      "title": "Nielsen moves to one-minute listening, altering evaluation of audience reach",
+      "link": "https://rainnews.com/nielsen-moves-to-one-minute-listening-altering-evaluation-of-audience-reach/",
+      "outlet": "RAIN News",
+      "region": "americas"
+    },
+    {
+      "ref": 23,
+      "title": "Amazon’s Decart acquisition is a bet on using software to narrow the silicon gap with Nvidia",
+      "link": "https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race/",
+      "outlet": "TechCrunch",
+      "region": "americas"
+    },
+    {
+      "ref": 24,
+      "title": "FCC Sets December Vote To Update Ownership Rules For Local TV, Radio Broadcasters",
+      "link": "https://tvnewscheck.com/regulation/article/fcc-sets-december-vote-to-update-ownership-rules-for-local-tv-radio-broadcasters/",
+      "outlet": "TVNewsCheck",
+      "region": "americas"
+    },
+    {
+      "ref": 25,
+      "title": "FCC to Vote on Lifting Radio’s Hard Local Ownership Caps",
+      "link": "https://radioink.com/2026/11/23/fcc-to-vote-on-lifting-radios-hard-local-ownership-caps/",
+      "outlet": "Radio Ink",
+      "region": "americas"
+    },
+    {
+      "ref": 26,
+      "title": "BBC Studios, Play Media and NRK executives join Content Europe line-up to explore format trends, content strategies and international partnership opportunities",
+      "link": "https://www.c21media.net/department/marketing/bbc-studios-play-media-and-nrk-executives-join-content-europe-line-up-to-explore-format-trends-content-strategies-and-international-partnership-opportunities/",
+      "outlet": "C21Media",
+      "region": "uk"
+    },
+    {
+      "ref": 27,
+      "title": "BBC Studios open to many types of partnerships in Canada",
+      "link": "https://playbackonline.ca/2026/11/25/bbc-studios-open-to-many-types-of-partnerships-in-canada/",
+      "outlet": "Playback",
+      "region": "americas"
+    },
+    {
+      "ref": 28,
+      "title": "Tyson Fury talks schizophrenia diagnosis in new Netflix feature documentary",
+      "link": "https://www.c21media.net/news/tyson-fury-talks-schizophrenia-diagnosis-in-new-netflix-feature-documentary/",
+      "outlet": "C21Media",
+      "region": "uk"
+    },
+    {
+      "ref": 29,
+      "title": "Disney+ scores Bundesliga highlights in DACH",
+      "link": "https://www.advanced-television.com/2026/11/24/germany-disney-bundesliga-highlights/",
+      "outlet": "Advanced Television",
+      "region": "uk"
+    },
+    {
+      "ref": 30,
+      "title": "Radio 1 takes Big Weekend to Brighton in May 2027",
+      "link": "https://radiotoday.co.uk/2026/11/radio-1-takes-big-weekend-to-brighton-in-may-2027/",
+      "outlet": "RadioToday",
+      "region": "uk"
+    },
+    {
+      "ref": 31,
+      "title": "Peacock Renews ‘Shop What Happens’ For Holiday Season Two",
+      "link": "https://tvnewscheck.com/business/article/peacock-renews-shop-what-happens-for-holiday-season-two/",
+      "outlet": "TVNewsCheck",
+      "region": "americas"
+    },
+    {
+      "ref": 32,
+      "title": "Netflix Partnering With BBC to to Bring Preschool Shows to Streamer, Fund New Commissions",
+      "link": "https://variety.com/2026/tv/global/netflix-bbc-deal-preschool-shows-new-commissions-1236956807/",
+      "outlet": "Variety",
+      "region": "americas"
+    }
+  ]
+}
